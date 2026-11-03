@@ -10,7 +10,9 @@ FPS=24; DURATION=55.4056875; END=math.ceil(DURATION*FPS)
 ap=argparse.ArgumentParser(); ap.add_argument('--preview',action='store_true'); ap.add_argument('--render',action='store_true')
 args=ap.parse_args(sys.argv[sys.argv.index('--')+1:] if '--' in sys.argv else [])
 random.seed(208)
-bpy.ops.wm.open_mainfile(filepath=str(ASSETS/'dery_base_limpa.blend'))
+bpy.ops.wm.read_factory_settings(use_empty=True)
+bpy.ops.import_scene.gltf(filepath=str(ASSETS/'Dery.glb'))
+for action in bpy.data.actions: action.use_fake_user=True
 s=bpy.context.scene
 for o in list(s.objects):
     if o.name not in ['Dery_Rig','Dery_Body','Dery_Head']: bpy.data.objects.remove(o,do_unlink=True)
@@ -24,6 +26,7 @@ s.render.fps=FPS; s.frame_start,s.frame_end=1,END
 s.render.image_settings.file_format='PNG'; s.render.image_settings.color_mode='RGB'
 s.render.film_transparent=False; s.render.use_sequencer=False
 s.view_settings.view_transform='Standard'; s.view_settings.look='Medium High Contrast'
+if s.world is None: s.world=bpy.data.worlds.new('World')
 s.world.use_nodes=True; s.world.node_tree.nodes['Background'].inputs['Color'].default_value=(0,0,0,1)
 lights=[]; anim=[]
 smooth=C.smooth; lerp=C.vlerp
@@ -67,13 +70,12 @@ def uv_faces(o,tile=None):
 
 
 def box(name,loc,size,mat,parent=None,bevel=0):
-    bpy.ops.mesh.primitive_cube_add(size=1)
-    o=bpy.context.object; o.name=name; o.parent=parent; o.location=loc; o.scale=size
-    bpy.context.view_layer.objects.active=o; bpy.ops.object.transform_apply(location=False,rotation=False,scale=True)
-    o.data.materials.append(mat); uv_faces(o)
+    x,y,z=[v/2 for v in size]
+    v=[(-x,-y,-z),(x,-y,-z),(x,y,-z),(-x,y,-z),(-x,-y,z),(x,-y,z),(x,y,z),(-x,y,z)]
+    faces=[(0,3,2,1),(4,5,6,7),(0,1,5,4),(1,2,6,5),(2,3,7,6),(3,0,4,7)]
+    o=mesh(name,v,faces,mat,parent); o.location=loc; uv_faces(o)
     if bevel:
         b=o.modifiers.new('one-cut game bevel','BEVEL'); b.width=bevel; b.segments=1
-        bpy.ops.object.modifier_apply(modifier=b.name)
     return o
 
 
@@ -86,8 +88,10 @@ def quad(name,verts,mat,parent=None):
 
 
 def cylinder(name,loc,radius,depth,mat,parent=None,vertices=10,rot=(0,0,0)):
-    bpy.ops.mesh.primitive_cylinder_add(vertices=vertices,radius=radius,depth=depth)
-    o=bpy.context.object; o.name=name; o.parent=parent; o.location=loc; o.rotation_euler=rot; o.data.materials.append(mat); return o
+    n=vertices
+    v=[(radius*math.cos(i*math.tau/n),radius*math.sin(i*math.tau/n),z)for z in [-depth/2,depth/2]for i in range(n)]
+    faces=[(i,(i+1)%n,(i+1)%n+n,i+n)for i in range(n)]+[tuple(range(n-1,-1,-1)),tuple(range(n,n*2))]
+    o=mesh(name,v,faces,mat,parent); o.location=loc; o.rotation_euler=rot; return o
 
 
 def beam(name,a,b,width,mat,parent=None,depth=None):
@@ -175,6 +179,7 @@ for ix in range(-7,8):
         box('curb',(x,side*1.85,.055),(2,.11,.12),cream,street)
     if ix%2==0:
         box('road center dash',(x,0,.004),(.95,.065,.01),yellow,street)
+awnings=[]
 for i,x in enumerate([-11.5,-8.0,-4.7,-1.2,2.3,5.8,9.2,12.4]):
     w=random.uniform(2.8,3.25); h=random.choice([2.7,3.2,4.3])
     building('town house %02d'%i,(x,4.15),w,2.7,h,turq if i%2 else coral,street)
@@ -182,6 +187,7 @@ for i,x in enumerate([-11.5,-8.0,-4.7,-1.2,2.3,5.8,9.2,12.4]):
         quad('shopfront',[(x-.9,2.77,.14),(x+.9,2.77,.14),(x+.9,2.77,1.9),(x-.9,2.77,1.9)],shutter if i%2 else shop,street)
         awn=box('shop fabric awning',(x,2.40,2.03),(2.3,.85,.09),green2 if i%2 else roofmat,street)
         awn.rotation_euler.x=-.10
+        awnings.append(awn)
 for x in [-10,-6,7,11]:
     building('near side building',(x,-11.5),2.9,2.1,3.1,coral if x>0 else turq,street)
 palms=[palm((x,2.1,.10),street,size=.85)for x in [-9,-3.2,4.7,11.3]]
@@ -196,13 +202,15 @@ for x in [-7,0]:
         pts=[(x+k*.7,y,3.5-.16*math.sin(math.pi*k/10))for k in range(11)]
         for a,b in zip(pts,pts[1:]): beam('overhead power cable',a,b,.012,dark,street)
 for x in [-4.1,3.8]:
-    box('street bench seat',(x,-2.5,.48),(1.3,.4,.08),wood,street)
-    box('street bench back',(x,-2.69,.79),(1.3,.07,.52),wood,street)
-    for dx in [-.48,.48]: box('bench leg',(x+dx,-2.5,.24),(.065,.28,.48),steel,street)
+    box('street bench seat',(x,2.35,.48),(1.3,.4,.08),wood,street)
+    box('street bench back',(x,2.60,.79),(1.3,.07,.52),wood,street)
+    for dx in [-.48,.48]: box('bench leg',(x+dx,2.35,.24),(.065,.28,.48),steel,street)
 trash=[]
 for x,y in [(-5,-2.1),(5.8,2.25),(-.8,2.25)]:
-    o=cylinder('street refuse bin',(x,y,.36),.22,.72,green,street,10); trash.append(o)
-    torus('refuse bin rim',(x,y,.72),.22,.025,steel,street,segments=12)
+    root=empty('wind | rolling refuse bin',(x,y,0),street)
+    cylinder('street refuse bin',(0,0,.36),.22,.72,green,root,10)
+    torus('refuse bin rim',(0,0,.72),.22,.025,steel,root,segments=12)
+    trash.append((root,x,y))
 
 
 def make_car(loc,parent=None,name='car'):
@@ -253,6 +261,7 @@ for x in [-3.2,3.2]:
 
 # A breakable lamppost, then an identical carried prop parented to the actor.
 postbase=empty('POST | fixed foundation',(2,-1.5,0),street)
+hero_shadow=blob(street,(0,0,.008),(.34,.24))
 def pole(root):
     cylinder('steel pole shaft',(0,0,1.65),.052,3.3,steel,root,10)
     beam('curved lamp top',(0,0,3.24),(.46,0,3.40),.052,steel,root)
@@ -261,6 +270,7 @@ def pole(root):
     box('pole base plate',(0,0,.04),(.23,.23,.08),steel,root)
 pole(postbase)
 carriedpost=empty('POST | held by Dery',(.05,-.28,0),hero); pole(carriedpost)
+fallenpost=empty('POST | landed on street',(5.8,-1.2,.06),street); pole(fallenpost); fallenpost.rotation_euler.y=math.pi/2
 for x in [1.83,2.12]: box('cracked foundation',(x,-1.5,.035),(.21,.28,.07),paving,street)
 
 # Wind debris are actual moving meshes, not an overlay on the whole frame.
@@ -280,21 +290,26 @@ coastpalms=[palm((x,-2.5,0),coast,.9)for x in [-7,0,7]]
 wave=empty('WAVE | moving curling water',(0,5,0),coast)
 wv,wf=[],[]; nx,nz=38,17
 for j in range(nz):
-    a=(j/(nz-1))*math.pi*.78
+    u=j/(nz-1)
+    profile=[(1.8,.05),(1.2,.6),(.5,1.5),(-.4,2.6),(-1.2,3.4),(-2.0,3.6),(-2.5,3.2),(-2.65,2.7)]
+    k=min(len(profile)-2,int(u*(len(profile)-1))); blend=u*(len(profile)-1)-k
+    py,pz=lerp((profile[k][0],profile[k][1],0),(profile[k+1][0],profile[k+1][1],0),blend)[:2]
     for i in range(nx):
         x=-13+26*i/(nx-1)
-        y=-1.8*math.sin(a)
-        z=.10+3.7*math.sin(a*.72)+.14*math.sin(x*1.6+a*2)
+        y=py+.08*math.sin(x)
+        z=pz+.10*math.sin(x*1.6+u*4)
         wv.append((x,y,z))
 for j in range(nz-1):
     for i in range(nx-1):
         a=j*nx+i; wf.extend([(a,a+1,a+nx+1),(a,a+nx+1,a+nx)])
 mesh('wave | triangulated curling face',wv,wf,watermat,wave)
-foam_points=[]
-for i in range(35):
-    x=-13+i*26/34
-    o=sphere('crest foam',(x,-1.2,3.05+random.uniform(-.1,.2)),(.35,.22,.17),foam,wave,8,4)
-    foam_points.append(o)
+fv,ff=[],[]
+for i in range(55):
+    x=-13+i*26/54
+    fv.extend([(x,-2.05,3.65+random.uniform(-.08,.08)),(x,-2.20,3.43+random.uniform(-.10,.10))])
+for i in range(54):
+    a=i*2; ff.extend([(a,a+2,a+3),(a,a+3,a+1)])
+mesh('wave | ragged white foam ribbon',fv,ff,foam,wave)
 wash=box('advancing shallow surge',(0,6,.06),(26,8,.10),watermat,coast)
 for j in range(12):
     y=2+j*2.4
@@ -390,7 +405,7 @@ for side,suffix in [(1,'L'),(-1,'R')]:
     pole_target=empty('IK | elbow '+suffix,(side*.65,-.10,1.02),hero)
     ik=rig.pose.bones['forearm_'+suffix].constraints.new('IK'); ik.name='Grip steering / lamppost'
     ik.target=target; ik.pole_target=pole_target; ik.chain_count=2; ik.influence=0
-    ik.pole_angle=side*math.pi/2
+    ik.pole_angle=-math.pi/2
     targets[suffix]=target; iks[suffix]=ik
 
 camdata=bpy.data.cameras.new('cinema portrait camera'); cam=bpy.data.objects.new('CAMERA | edited shots',camdata); s.collection.objects.link(cam); s.camera=cam
@@ -416,6 +431,39 @@ s.use_nodes=True; nodes=s.node_tree.nodes; nodes.clear()
 rl=nodes.new('CompositorNodeRLayers'); fade=nodes.new('CompositorNodeMixRGB'); fade.blend_type='MULTIPLY'; fade.inputs[0].default_value=1
 comp=nodes.new('CompositorNodeComposite'); s.node_tree.links.new(rl.outputs['Image'],fade.inputs[1]); s.node_tree.links.new(fade.outputs[0],comp.inputs[0])
 
+# Bulk curve creation avoids hundreds of thousands of dependency-graph updates.
+records={}
+def record(obj,prop,frame):
+    owner=obj.id_data
+    path=obj.path_from_id(prop)
+    value=getattr(obj,prop)
+    try: values=tuple(float(x) for x in value)
+    except TypeError: values=(float(value),)
+    entry=records.setdefault((owner,path),[])
+    if entry and entry[-1][0]==frame: entry[-1]=(frame,values)
+    else: entry.append((frame,values))
+C.RECORD=record
+
+def commit_curves():
+    actions={}
+    total=0
+    for (owner,path),entries in records.items():
+        if owner not in actions:
+            action=bpy.data.actions.new('002 | '+owner.name)
+            owner.animation_data_create().action=action; actions[owner]=action
+        for i in range(len(entries[0][1])):
+            selected=[]; prev=None
+            for frame,values in entries:
+                value=values[i]
+                if prev is None or abs(value-prev)>1e-7:
+                    selected.extend([frame,value]); prev=value
+            fc=actions[owner].fcurves.new(path,index=i)
+            fc.keyframe_points.add(len(selected)//2)
+            fc.keyframe_points.foreach_set('co',selected)
+            for point in fc.keyframe_points: point.interpolation='CONSTANT'
+            fc.update(); total+=len(selected)//2
+    print('BULK_KEYS',total,'actions',len(actions),flush=True)
+
 def camera_at(pos,target,lens):
     cam.location=pos; cam.rotation_euler=(Vector(target)-cam.location).to_track_quat('-Z','Y').to_euler(); camdata.lens=lens
 
@@ -431,6 +479,7 @@ for f in range(1,END+1):
     for side,suffix in [(1,'L'),(-1,'R')]: targets[suffix].location=(side*.14,-.34,1.38)
     postbase.scale=(1,1,1) if t<32.18 else (0,0,0)
     carriedpost.scale=(0,0,0)
+    fallenpost.scale=(1,1,1) if 37.78<=t<40.84 or 45.34<=t<48.62 else (0,0,0)
     roadcar.location=(-5+min(t,5)*.9,.5,.02)
     roadcar.rotation_euler=(0,0,math.pi/2)
     for w in roadwheels: w.rotation_euler=(t*3,math.pi/2,0)
@@ -438,13 +487,13 @@ for f in range(1,END+1):
     if 45.34<=t<48.62: day=1-.94*smooth((t-45.34-.45)/1.9)
     if t>=51.6: day=.53
     for value in lights:
-        value.default_value=day; value.keyframe_insert(data_path='default_value',frame=f)
+        value.default_value=day; record(value,'default_value',f)
     for mat in [C.bm,C.hm]:
         em=next(n for n in mat.node_tree.nodes if n.type=='EMISSION')
         em.inputs['Strength'].default_value=.4+.6*day
-        em.inputs['Strength'].keyframe_insert(data_path='default_value',frame=f)
+        record(em.inputs['Strength'],'default_value',f)
     skyem.inputs['Strength'].default_value=.035+.88*day
-    skyem.inputs['Strength'].keyframe_insert(data_path='default_value',frame=f)
+    record(skyem.inputs['Strength'],'default_value',f)
     sun_street.scale=(day,day,day)
     moon.scale=(1-day,)*3
     streetstars.scale=(1,1,1) if day<.25 else (0,0,0)
@@ -460,7 +509,7 @@ for f in range(1,END+1):
     sun_dir=-Vector(orbit_earth.location).normalized() if 40.84<=t<45.34 else Vector((-.6,-.7,.4)).normalized()
     for node in sun_nodes:
         for k,val in enumerate(sun_dir):
-            node.inputs[k].default_value=val; node.inputs[k].keyframe_insert(data_path='default_value',frame=f)
+            node.inputs[k].default_value=val; record(node.inputs[k],'default_value',f)
     # Coast: mesh crest and shallow water advance toward the buildings.
     wu=smooth((t-24.3)/5.5)
     wave.location=(0,8-12*wu,0); wave.scale=(1,1,.65+.6*wu)
@@ -476,6 +525,13 @@ for f in range(1,END+1):
         key(o,f)
     for i,p in enumerate(palms):
         p.rotation_euler=(.06*wind*math.sin(t*3+i),.33*wind,0); key(p,f)
+    for i,o in enumerate(awnings):
+        o.rotation_euler.x=-.10+(.4*math.sin(t*5+i)*wind if t<24.3 else .55*(i%2))
+        key(o,f)
+    for i,(o,x,y) in enumerate(trash):
+        u=smooth((t-21.1-i*.12)/2.4)
+        o.location=(x+u*2.5,y,.22*u); o.rotation_euler=(0,u*math.pi/2,0)
+        key(o,f)
     # Every branch is a real scene cut, not an image transition.
     if t<1.45:
         hero.location=(0,0,-30)
@@ -487,9 +543,13 @@ for f in range(1,END+1):
         street_camera((hero.location.x+1.3,-4.0,1.6),(hero.location.x,-1.3,1.0),34); exp='susto'
     elif t<5.10:
         u=smooth((t-3.44)/1.66)
-        hero.location=(100-.32,-.07,-.38)
         C.pose('carry',t)
         roadcar.location=(-5+u*4,.5,.02)
+        hero.location=roadcar.location+Quaternion((0,0,1),math.pi/2)@Vector((-.32,-.07,-.38))
+        hero.rotation_euler=(0,0,math.pi/2)
+        for suffix in ['L','R']:
+            C.delta('thigh_'+suffix,(1,0,0),-1.35); C.delta('shin_'+suffix,(1,0,0),1.55)
+            iks[suffix].influence=1
         for w in roadwheels: w.rotation_euler=(u*16,math.pi/2,0)
         street_camera((1.7,-5.6,2.1),(-2,.4,.85),32)
     elif t<6.84 or 48.62<=t<51.6:
@@ -498,9 +558,9 @@ for f in range(1,END+1):
         hero.location=(100-.32,-.07,-.38)
         C.delta('thigh_L',(1,0,0),-1.35); C.delta('thigh_R',(1,0,0),-1.35)
         C.delta('shin_L',(1,0,0),1.55); C.delta('shin_R',(1,0,0),1.55)
-        C.delta('chest',(1,0,0),.15+.27*math.sin(min(v,1)*math.pi))
+        C.delta('chest',(1,0,0),.08+.15*math.sin(min(v,1)*math.pi))
         for ik in iks.values(): ik.influence=1
-        camera_at((100+.56,-1.02,1.40),(100-.27,-.05,1.18),30)
+        camera_at((100+.45,-.16,1.30),(100-.30,-.05,1.20),22)
         exp='susto'
     elif t<8.95:
         hero.location=(0,0,-30)
@@ -540,22 +600,23 @@ for f in range(1,END+1):
         C.pose('idle',t); hero.location=(1.95,-1.22,0)
         for suffix,ik in iks.items():
             ik.influence=smooth((t-29.8)/.55)
-            targets[suffix].location=(.05,-.24,1.17 if suffix=='L' else 1.29)
-        street_camera((3.0,-3.6,1.8),(1.98,-1.25,1.33),37)
+            targets[suffix].location=(.17,-.22,1.18) if suffix=='L' else (-.075,-.22,1.32)
+        C.delta('head',(0,0,1),.45)
+        street_camera((4.15,-3.0,1.75),(1.95,-1.22,1.30),37)
         exp='' if t>30.65 else 'susto'
     elif t<34.64:
         u=smooth((t-32.35)/2.1)
         C.pose('startled',t-32.18); hero.location=lerp((1.95,-1.22,0),(4.4,-1.22,.45),u); hero.rotation_euler=(0,.72*u,0)
         carriedpost.scale=(1,1,1)
         for suffix,ik in iks.items():
-            ik.influence=1; targets[suffix].location=(.05,-.24,1.17 if suffix=='L' else 1.29)
+            ik.influence=1; targets[suffix].location=(.17,-.22,1.18) if suffix=='L' else (-.075,-.22,1.32)
         street_camera((6.8,-6.5,2.8),(3.1,-1.2,1.6),29); exp='panico'
     elif t<37.78:
         u=smooth((t-34.64)/3.14)
         C.pose('startled',t-34.64); hero.location=lerp((4.4,-1.22,.45),(5.2,-1.22,.03),u); hero.rotation_euler=(0,.72+.84*u,0)
         carriedpost.scale=(1,1,1)
         for suffix,ik in iks.items():
-            ik.influence=1; targets[suffix].location=(.05,-.24,1.17 if suffix=='L' else 1.29)
+            ik.influence=1; targets[suffix].location=(.17,-.22,1.18) if suffix=='L' else (-.075,-.22,1.32)
         street_camera((8,-6,2.3),(6.1,-1.2,.60),31); exp='susto'
     elif t<40.84:
         C.pose('idle_tired',t); hero.location=(5.2,-1.22,.035); hero.rotation_euler=(0,math.pi/2,0)
@@ -571,18 +632,34 @@ for f in range(1,END+1):
         C.pose('idle_tired',t); hero.location=(1.95,-1.22,0); hero.rotation_euler=(0,0,.10)
         carriedpost.scale=(1,1,1)
         for suffix,ik in iks.items():
-            ik.influence=1; targets[suffix].location=(.05,-.24,1.17 if suffix=='L' else 1.29)
-        C.delta('head',(0,0,1),.22)
+            ik.influence=1; targets[suffix].location=(.17,-.22,1.18) if suffix=='L' else (-.075,-.22,1.32)
+        C.delta('head',(0,0,1),.45)
         u=(t-51.6)/(DURATION-51.6)
-        street_camera(lerp((3.4,-3.2,1.9),(2.9,-2.8,1.72),u),(1.95,-1.22,1.38),38); exp='derrota'
+        street_camera(lerp((3.55,-2.4,1.8),(3.2,-2.15,1.65),u),(1.95,-1.22,1.38),38); exp='derrota'
+    hero_shadow.location=(hero.location.x,hero.location.y,0)
+    hero_shadow.scale=(1,1,1) if hero.location.x<25 and hero.location.z>-.1 else (0,0,0)
+    grip_post=(29.8<=t<37.78) or t>=51.6
+    grip_wheel=(3.44<=t<6.84) or (48.62<=t<51.6)
+    if grip_post or grip_wheel:
+        bpy.context.view_layer.update()
+        for suffix in ['L','R']:
+            hand=rig.pose.bones['hand_'+suffix]
+            wrist=hand.head.copy()
+            center=Vector((.05,-.28,wrist.z)) if grip_post else Vector((wrist.x,-.43,wrist.z))
+            direction=(center-wrist).normalized()
+            rotation=direction.to_track_quat('Y','Z')
+            hand.matrix=Matrix.Translation(wrist)@rotation.to_matrix().to_4x4()
+            hand.scale=(1,.82,1)
     C.expression(exp,f,exw)
     C.key(f)
-    for o in [hero,cam,roadcar,carriedpost,postbase,wave,wash,earth_main,marker,orbit_earth,sun_street,moon,streetstars]: key(o,f)
-    for suffix,target in targets.items(): key(target,f); iks[suffix].keyframe_insert(data_path='influence',frame=f)
+    for o in [hero,cam,roadcar,carriedpost,fallenpost,postbase,wave,wash,earth_main,marker,orbit_earth,sun_street,moon,streetstars,hero_shadow]: key(o,f)
+    for suffix,target in targets.items(): key(target,f); record(iks[suffix],'influence',f)
     for w in roadwheels: key(w,f)
-    camdata.keyframe_insert(data_path='lens',frame=f)
+    record(camdata,'lens',f)
     gain=1-smooth((t-54.65)/.65)
-    fade.inputs[2].default_value=(gain,gain,gain,1); fade.inputs[2].keyframe_insert(data_path='default_value',frame=f)
+    fade.inputs[2].default_value=(gain,gain,gain,1); record(fade.inputs[2],'default_value',f)
+
+commit_curves()
 
 # No interpolation over camera cuts. Smooth source motion is already sampled at 24 fps.
 for db in list(bpy.data.objects)+list(bpy.data.materials)+[camdata,s.node_tree]:
@@ -591,6 +668,8 @@ for db in list(bpy.data.objects)+list(bpy.data.materials)+[camdata,s.node_tree]:
         for fc in target.animation_data.action.fcurves:
             for k in fc.keyframe_points: k.interpolation='CONSTANT'
 editor=s.sequence_editor_create(); editor.sequences.new_sound('VOZ | original',str(ASSETS/'voz_original.mp3'),1,1)
+if (ASSETS/'efeitos_originais.wav').exists():
+    editor.sequences.new_sound('FX | original quiet foley',str(ASSETS/'efeitos_originais.wav'),2,1)
 s.frame_set(1)
 bpy.ops.file.pack_all()
 bpy.ops.wm.save_as_mainfile(filepath=str(OUT/'Dery_Terra_Parou.blend'))

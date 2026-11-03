@@ -7,6 +7,7 @@ expressions={}
 rest={}
 clips={}
 moving_bones=[]
+RECORD=None
 def empty(name,loc=(0,0,0),parent=None):
     o=bpy.data.objects.new(name,None)
     s.collection.objects.link(o)
@@ -111,7 +112,8 @@ def delta(name,axis,angle):
 
 def transform_key(o,f):
     for path in ['location','rotation_euler','scale']:
-        o.keyframe_insert(data_path=path,frame=f)
+        if RECORD: RECORD(o,path,f)
+        else: o.keyframe_insert(data_path=path,frame=f)
 
 def setup(assets):
     global s,rig,body,head,hero,ASSETS,expressions,rest,bm,hm
@@ -270,9 +272,11 @@ def key(f):
     for n in moving_bones:
         b=rig.pose.bones[n]
         for path in ['location','rotation_quaternion','scale']:
-            b.keyframe_insert(data_path=path,frame=f,group=n)
+            if RECORD: RECORD(b,path,f)
+            else: b.keyframe_insert(data_path=path,frame=f,group=n)
 
 def expression(name,f,weight=1):
     for label,node in expressions.items():
         node.default_value=weight if label==name else 0
-        node.keyframe_insert(data_path='default_value',frame=f)
+        if RECORD: RECORD(node,'default_value',f)
+        else: node.keyframe_insert(data_path='default_value',frame=f)

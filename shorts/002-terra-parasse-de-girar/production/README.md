@@ -26,10 +26,26 @@ Os cenários usam geometria 3D e atlas de texturas gerados para a estética PS1.
 - Blender 4.3, CPU; sem addons necessários para montar a cena.
 - `build_scene.py`: cenários, movimentos, câmeras, iluminação e gravação do projeto.
 - `character.py`: rig, materiais, expressões e uso das ações do modelo.
-- `assets/dery_base_limpa.blend`: modelo importado, sem a animação de outro short.
+- `assets/Dery.glb`: modelo original com as 23 ações; é a entrada usada pelo gerador.
+- `assets/dery_base_limpa.blend`: referência neutra preservada do modelo.
 - `assets/voz_original.mp3`: gravação original, sem alteração de velocidade.
 - `assets/cidade_atlas.png`, `detalhes_atlas.png` e `ceu_dia.png`: texturas dos ambientes.
 - `align_audio.py`: etapa opcional de reconhecimento local com sherpa-onnx; os tempos já preparados ficam em `timing.json`.
+- `make_effects.py`: efeitos sonoros originais e discretos, com redução durante a fala; não altera o ganho da voz.
+- `validate_grip.py`: checagem de distância entre os punhos e os alvos nas cenas do poste.
+- `assemble.sh`: exportação vertical, voz original e efeitos.
+
+O projeto contém as ações originais para edição. O gerador usa criação de curvas em lote e um cache local recriável de poses para evitar milhares de atualizações desnecessárias do Blender.
+
+## Pegada do poste
+
+Os dois braços usam alvos de punho e de cotovelo, com orientação explícita das mãos para as laterais do poste. Isso corrige o cotovelo esquerdo virado para dentro e o posicionamento anterior dos punhos no centro do objeto. O poste carregado e os alvos acompanham o mesmo movimento do personagem.
+
+A verificação em oito momentos das cenas, com duas mãos por momento, passou com erro máximo de aproximadamente 0,62 mm entre punho e alvo. Essa é uma checagem do rig; os quadros também foram conferidos para composição e leitura do rosto. A malha original não tem articulação individual de dedos, então a pegada é estilizada com a mão existente.
+
+## Formato e som
+
+Render de origem 432 × 768 a 24 quadros por segundo, com saída prevista 1080 × 1920. A voz mantém velocidade e volume. Os efeitos são gerados localmente e mixados em nível baixo, sem música e sem legendas incorporadas.
 
 ## Reproduzir a construção e os testes de quadro
 
@@ -42,12 +58,14 @@ Para renderizar a sequência depois de validar os quadros:
 
 ```bash
 blender -b -t 4 --python build_scene.py -- --render
+python make_effects.py
+bash assemble.sh
 ```
 
 O gerador substitui seu próprio projeto de saída. Salve edições manuais com outro nome antes de executá-lo. Os quadros intermediários e caches ficam fora do Git.
 
 ## Convenções
 
-É uma ilustração de uma parada repentina da parte sólida da Terra. A órbita continua, a gravidade permanece e a velocidade citada se refere à região do Equador. Deslocamentos, ondas e danos são encenados para explicar a ideia; não são uma previsão geofísica quantitativa. A sobrevivência do personagem e suas reações são recursos cômicos não gráficos.
+É uma ilustração de uma parada repentina da parte sólida da Terra. A órbita continua, a gravidade permanece e a velocidade citada se refere à região do Equador. Deslocamentos, ondas e danos são encenados para explicar a ideia; não são uma previsão geofísica quantitativa. O Sol, a Terra e a órbita são desenhos tridimensionais fora de escala. A sobrevivência do personagem e suas reações são recursos cômicos não gráficos.
 
 Não incorporar legendas, conforme preferência do usuário. A montagem final deve conservar a gravação e usar a duração real do áudio.

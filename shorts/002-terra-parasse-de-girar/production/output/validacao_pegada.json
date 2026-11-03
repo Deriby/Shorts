@@ -1,0 +1,85 @@
+{
+  "method": "wrist-to-target distance across edited post shots",
+  "samples": [
+    {
+      "time": 30.4,
+      "hand": "L",
+      "wrist_target_error_m": 0.0002676475808364839
+    },
+    {
+      "time": 30.4,
+      "hand": "R",
+      "wrist_target_error_m": 6.620098753605899e-05
+    },
+    {
+      "time": 31.5,
+      "hand": "L",
+      "wrist_target_error_m": 0.0005021922483981605
+    },
+    {
+      "time": 31.5,
+      "hand": "R",
+      "wrist_target_error_m": 0.00016256065149940335
+    },
+    {
+      "time": 32.6,
+      "hand": "L",
+      "wrist_target_error_m": 0.0005354584714781898
+    },
+    {
+      "time": 32.6,
+      "hand": "R",
+      "wrist_target_error_m": 0.000274406967435474
+    },
+    {
+      "time": 33.7,
+      "hand": "L",
+      "wrist_target_error_m": 0.0001274762630137932
+    },
+    {
+      "time": 33.7,
+      "hand": "R",
+      "wrist_target_error_m": 5.016275344881004e-05
+    },
+    {
+      "time": 35.5,
+      "hand": "L",
+      "wrist_target_error_m": 0.0002924340488778103
+    },
+    {
+      "time": 35.5,
+      "hand": "R",
+      "wrist_target_error_m": 9.3670363362878e-05
+    },
+    {
+      "time": 36.8,
+      "hand": "L",
+      "wrist_target_error_m": 8.781617267519641e-05
+    },
+    {
+      "time": 36.8,
+      "hand": "R",
+      "wrist_target_error_m": 4.976456008409537e-05
+    },
+    {
+      "time": 52.5,
+      "hand": "L",
+      "wrist_target_error_m": 3.0322541300627902e-05
+    },
+    {
+      "time": 52.5,
+      "hand": "R",
+      "wrist_target_error_m": 3.0031515021728343e-05
+    },
+    {
+      "time": 54.0,
+      "hand": "L",
+      "wrist_target_error_m": 0.0006214493572673699
+    },
+    {
+      "time": 54.0,
+      "hand": "R",
+      "wrist_target_error_m": 0.00019779569441792208
+    }
+  ]
+}
