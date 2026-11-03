@@ -21,7 +21,7 @@ O monitor usa um trecho **ilustrativo de nossa produção anterior**, sem áudio
 - [Construção da cena](production/build_scene.py)
 - [Render e montagem](production/render_preview.py)
 
-O modelo e a rig são os enviados pelo usuário. As expressões PNG vêm dos testes anteriores do Dery. O cenário contém mesa, monitor CRT, computador, teclado, cadeira, cama, prateleira e arte em pixels. Bordas com poucos pixels, texturas sem interpolação e cores quantizadas dão o tratamento retrô. A cena é renderizada em 360 × 640 e ampliada com vizinho mais próximo para 1080 × 1920, a 24 fps. Não há legendas.
+O modelo e a rig são os enviados pelo usuário. As expressões PNG vêm dos testes anteriores do Dery. O cenário contém mesa, monitor CRT, computador, teclado, cadeira, cama, prateleira e arte em pixels. A cena é renderizada em 360 × 640. Na montagem, os quadros são convertidos para uma grade de 216 × 384 pixels, recebem dithering ordenado com cinco bits por canal de cor e são ampliados exatamente cinco vezes, com vizinho mais próximo, para 1080 × 1920 a 24 fps. Não há legendas.
 
 ## Correções da prévia
 
@@ -29,6 +29,7 @@ O modelo e a rig são os enviados pelo usuário. As expressões PNG vêm dos tes
 - Removido o arredondamento independente dos vértices da cabeça e do corpo. Esse efeito separava a junção das duas malhas e abria uma marca perto do queixo. O atlas original do rosto permanece intacto.
 - Expressões PNG restritas aos olhos; abertura simples da boca acompanha a energia do áudio sem sobrepor outra textura à barba.
 - Materiais agora respondem à iluminação: luz fria do monitor, luz suave no rosto, luzes ciano e violeta, sombras e brilho discreto nos LEDs.
+- Acabamento PS1 revisto após o retorno sobre a imagem embaçada: removidos os filtros fortes de suavização; a imagem agora usa pixels definidos, contraste discreto nas bordas e dithering ordenado. Os quadros já renderizados foram reaproveitados.
 
 A revisão mantém os mesmos cinco segundos e a mesma voz. O roteiro do primeiro episódio será tratado depois destas correções.
 
