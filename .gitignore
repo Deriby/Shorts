@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*.log
+*.blend[0-9]*
+
+# Quadros intermediários; os vídeos e o projeto final são versionados.
+**/renders/
+**/output/preview_*.png
+
+# Pacotes de download duplicam arquivos já presentes no repositório.
+**/output/*.zip
+
+# Estudos anteriores preservados localmente, fora da produção atual.
+shorts/*/estudos_iniciais/
+
+# Referências de inspeção e importação podem ser recriadas.
+**/assets/dery_importado.blend
+**/assets/dery_corpo_referencia.png
+
+# Compatibilidade local com links de arquivos já enviados no chat.
+/episode_01_black_hole
+/black_hole_pilot
+/dery_character/

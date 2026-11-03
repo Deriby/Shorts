@@ -1,0 +1,15 @@
+EXPRESSOES DERY
+
+dery_rosto_frente.png: referencia neutra renderizada do modelo enviado.
+expressao_susto.png: olhos e sobrancelhas de surpresa.
+expressao_panico.png: olhos arregalados e boca aberta.
+expressao_derrota.png: palpebras baixas e expressao cansada.
+
+Os PNGs foram preparados como vistas frontais para projecao na malha real.
+Eles nao substituem diretamente o atlas UV inteiro de corpo e cabeca.
+No projeto Blender, o material DERY | UV expression PNGs combina o atlas
+original com estes PNGs usando o UV FaceProjection e a mascara ExpressionMask.
+As trocas estao animadas nos nos EXPRESSION | susto, panico e derrota.
+
+A mascara preserva bone, cabelo, orelhas e roupa da textura original.
+A identidade foi derivada da vista frontal do modelo do proprio usuario.

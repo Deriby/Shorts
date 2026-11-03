@@ -1,0 +1,64 @@
+{
+  "duration_audio_seconds": 68.377625,
+  "source_fps": 15,
+  "source_frames": 1026,
+  "timing_method": "Approved text and measured audio pauses; scene boundaries are editorial estimates, not a word-level ASR transcript.",
+  "shots": [
+    {
+      "start": 0,
+      "name": "01 | queda / gancho"
+    },
+    {
+      "start": 4.23,
+      "name": "02 | supermassivo"
+    },
+    {
+      "start": 7.43,
+      "name": "03 | limite invisivel"
+    },
+    {
+      "start": 12.68,
+      "name": "04 | sem impacto"
+    },
+    {
+      "start": 18.35,
+      "name": "05 | tentativa de fuga"
+    },
+    {
+      "start": 23.43,
+      "name": "06 | pes primeiro"
+    },
+    {
+      "start": 28.2,
+      "name": "07 | comparacao de forcas"
+    },
+    {
+      "start": 34.9,
+      "name": "08 | alongamento"
+    },
+    {
+      "start": 40.6,
+      "name": "09 | espaguetificacao"
+    },
+    {
+      "start": 45.08,
+      "name": "10 | miojo / reacao"
+    },
+    {
+      "start": 48.75,
+      "name": "11 | olhar para o centro"
+    },
+    {
+      "start": 53.4,
+      "name": "12 | desconhecido"
+    },
+    {
+      "start": 58.6,
+      "name": "13 | portal / ironia"
+    },
+    {
+      "start": 65.1,
+      "name": "14 | fim"
+    }
+  ]
+}
