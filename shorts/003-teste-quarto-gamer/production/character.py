@@ -145,7 +145,9 @@ def setup(assets):
             v=head.data.vertices[head.data.loops[li].vertex_index]
             x,y,z=v.co
             projection.data[li].uv=((x+.23)/.46,(z-1.37)/.46)
-            w=smooth((.110-abs(x))/.028)*smooth((z-1.474)/.025)*smooth((1.647-z)/.025)*smooth((.018-y)/.045)
+            # Restrict projected reaction PNGs to the eyes. The jaw, beard and
+            # chin always use the supplied atlas, avoiding projection seams.
+            w=smooth((.110-abs(x))/.028)*smooth((z-1.548)/.018)*smooth((1.647-z)/.025)*smooth((.018-y)/.045)
             mask.data[li].color=(w,w,w,1)
 
 

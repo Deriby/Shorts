@@ -21,7 +21,16 @@ O monitor usa um trecho **ilustrativo de nossa produção anterior**, sem áudio
 - [Construção da cena](production/build_scene.py)
 - [Render e montagem](production/render_preview.py)
 
-O modelo e a rig são os enviados pelo usuário. As expressões PNG vêm dos testes anteriores do Dery. O cenário contém mesa, monitor CRT, computador, teclado, cadeira, cama, prateleira e arte em pixels. Bordas com poucos pixels, texturas sem interpolação, cores quantizadas e uma grade de vértices dão o tratamento retrô. A cena é renderizada em 360 × 640 e ampliada com vizinho mais próximo para 1080 × 1920, a 24 fps. Não há legendas.
+O modelo e a rig são os enviados pelo usuário. As expressões PNG vêm dos testes anteriores do Dery. O cenário contém mesa, monitor CRT, computador, teclado, cadeira, cama, prateleira e arte em pixels. Bordas com poucos pixels, texturas sem interpolação e cores quantizadas dão o tratamento retrô. A cena é renderizada em 360 × 640 e ampliada com vizinho mais próximo para 1080 × 1920, a 24 fps. Não há legendas.
+
+## Correções da prévia
+
+- Pose sentada refeita: altura do assento, inclinação das pernas e pés no chão; base da cadeira com cinco apoios.
+- Removido o arredondamento independente dos vértices da cabeça e do corpo. Esse efeito separava a junção das duas malhas e abria uma marca perto do queixo. O atlas original do rosto permanece intacto.
+- Expressões PNG restritas aos olhos; abertura simples da boca acompanha a energia do áudio sem sobrepor outra textura à barba.
+- Materiais agora respondem à iluminação: luz fria do monitor, luz suave no rosto, luzes ciano e violeta, sombras e brilho discreto nos LEDs.
+
+A revisão mantém os mesmos cinco segundos e a mesma voz. O roteiro do primeiro episódio será tratado depois destas correções.
 
 ## Voz
 

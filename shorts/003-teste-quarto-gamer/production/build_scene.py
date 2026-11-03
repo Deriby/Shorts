@@ -27,9 +27,14 @@ H.ASSETS = ASSETS
 s = bpy.context.scene
 s.render.engine = 'CYCLES'
 s.cycles.device = 'CPU'
-s.cycles.samples = 1
+s.cycles.samples = 8
 s.cycles.use_denoising = False
-s.cycles.max_bounces = 1
+s.cycles.max_bounces = 2
+s.cycles.diffuse_bounces = 1
+s.cycles.glossy_bounces = 1
+s.cycles.use_adaptive_sampling = True
+s.cycles.adaptive_threshold = .12
+s.cycles.adaptive_min_samples = 2
 s.render.resolution_x, s.render.resolution_y = 360, 640
 s.render.resolution_percentage = 100
 s.render.fps = 24
@@ -41,7 +46,9 @@ s.render.threads_mode = 'FIXED'
 s.render.threads = 4
 s.render.use_file_extension = True
 s.render.filepath = str(ROOT / 'renders' / 'frame_')
-s.world.color = (.025, .025, .035)
+s.world.use_nodes=True
+s.world.node_tree.nodes['Background'].inputs['Color'].default_value=(.10,.14,.24,1)
+s.world.node_tree.nodes['Background'].inputs['Strength'].default_value=.11
 s.view_settings.view_transform = 'Standard'
 s.view_settings.look = 'None'
 s.view_settings.exposure = 0
@@ -58,8 +65,8 @@ sidewall = mat('paint | dusty purple', (.115, .067, .15))
 black = mat('plastic | charcoal', (.024, .029, .043))
 grey = mat('plastic | warm grey', (.28, .27, .32))
 wood = mat('desk | walnut', (.25, .13, .075))
-cyan = mat('LED | cyan', (.025, .62, .79), lit=False)
-purple = mat('LED | violet', (.38, .09, .68), lit=False)
+cyan = mat('LED | cyan', (.025, .62, .79), lit=False, emission=3.0)
+purple = mat('LED | violet', (.38, .09, .68), lit=False, emission=3.0)
 white = mat('warm white', (.78, .79, .74))
 red = mat('chair | crimson', (.35, .055, .12))
 gold = mat('small warm accents', (.73, .38, .075))
@@ -70,11 +77,12 @@ H.box('floor slab', (0, -.15, -.055), (4.3, 4.5, .10), black)
 for row in range(14):
     color = (.19 + .013*(row%3), .11 + .007*(row%4), .074)
     board = mat('floor plank %02d' % row, color)
-    H.box('wide floorboard', (0, -2.18 + row*.32, .002), (4.26, .305, .025), board)
+    H.box('wide floorboard', (0, -2.18 + row*.32, -.0125), (4.26, .305, .025), board)
 H.box('rear wall', (0, 1.98, 1.46), (4.3, .12, 2.95), wall)
 H.box('left wall', (-2.15, -.2, 1.46), (.12, 4.4, 2.95), sidewall)
 H.box('right wall', (2.15, -.2, 1.46), (.12, 4.4, 2.95), wall)
 H.box('front wall behind the desk', (0,-2.40,1.46),(4.3,.12,2.95),sidewall)
+H.box('ceiling', (0,-.2,2.98),(4.3,4.5,.08),wall)
 H.box('rear skirting', (0, 1.89, .11), (4.2, .04, .17), black)
 H.box('left skirting', (-2.07, -.2, .11), (.04, 4.3, .17), black)
 H.box('cyan wall strip', (-2.075, -.2, 2.5), (.025, 4.3, .027), cyan)
@@ -169,60 +177,93 @@ H.box('power LED', (.40,-.775,.916), (.022,.013,.012), cyan)
 for i in range(3):
     H.box('monitor buttons', (.17+i*.06,-.777,.916), (.036,.02,.016), black)
 
-# Chair is static. The rig is seated before adding any small performance gestures.
-H.cylinder('chair pedestal', (0,.23,.27), .055,.40,grey,vertices=8)
-H.box('chair seat', (0,.23,.56), (.55,.54,.13), black, bevel=.07)
-H.box('seat cushion', (0,.19,.633), (.43,.43,.06), red, bevel=.04)
-H.box('chair back', (0,.56,1.00), (.55,.13,.77), black, bevel=.07)
-H.box('chair back center', (0,.48,1.04), (.36,.03,.61), red, bevel=.04)
+# Cushion surface at .583 m, hips above it and soles on the floor.
+H.cylinder('chair pedestal', (0,.10,.24), .055,.35,grey,vertices=8)
+H.box('chair seat', (0,.10,.48), (.55,.54,.13), black, bevel=.06)
+H.box('seat cushion', (0,.06,.553), (.43,.43,.06), red, bevel=.035)
+H.box('chair back', (0,.43,1.04), (.55,.13,.94), black, bevel=.06)
+H.box('chair back center', (0,.35,1.07), (.36,.03,.77), red, bevel=.035)
 for side in [-1,1]:
-    H.beam('chair base', (0,.23,.09), (side*.38,.23,.09), .06, black)
-    H.beam('chair arm support', (side*.31,.23,.56), (side*.31,.23,.79), .045, black)
-    H.box('chair armrest', (side*.31,.16,.80), (.08,.38,.06), black, bevel=.02)
+    H.beam('chair arm support', (side*.31,.10,.48), (side*.31,.10,.69), .045, black)
+    H.box('chair armrest', (side*.31,.03,.72), (.08,.38,.06), black, bevel=.02)
+for i in range(5):
+    angle=i*math.tau/5
+    end=(.34*math.cos(angle),.10+.34*math.sin(angle),.075)
+    H.beam('chair five-star base',(0,.10,.105),end,.045,black)
+    H.cylinder('caster wheel',(end[0],end[1],.045),.045,.055,black,vertices=8,rot=(math.pi/2,0,angle))
 
-# A tiny, object-space vertex grid deliberately creates PS1 edge instability.
-# This modifier runs after the existing Armature, so it follows the supplied rig.
-for obj in [C.body,C.head]:
-    group = bpy.data.node_groups.new('PS1 | 4 mm vertex quantization', 'GeometryNodeTree')
-    group.interface.new_socket(name='Geometry',in_out='INPUT',socket_type='NodeSocketGeometry')
-    group.interface.new_socket(name='Geometry',in_out='OUTPUT',socket_type='NodeSocketGeometry')
-    inp = group.nodes.new('NodeGroupInput')
-    output = group.nodes.new('NodeGroupOutput')
-    position = group.nodes.new('GeometryNodeInputPosition')
-    snap = group.nodes.new('ShaderNodeVectorMath'); snap.operation='SNAP'
-    grid=.002 if obj==C.head else .004
-    snap.inputs[1].default_value=(grid,grid,grid)
-    setpos = group.nodes.new('GeometryNodeSetPosition')
-    group.links.new(inp.outputs['Geometry'],setpos.inputs['Geometry'])
-    group.links.new(position.outputs['Position'],snap.inputs[0])
-    group.links.new(snap.outputs['Vector'],setpos.inputs['Position'])
-    group.links.new(setpos.outputs['Geometry'],output.inputs['Geometry'])
-    mod = obj.modifiers.new('PS1 edge wobble','NODES'); mod.node_group=group
+# The head and torso share a jaw/neck boundary. Independent vertex rounding
+# separates those matching vertices and makes a visible crack. Keep both meshes
+# intact; the PS1 treatment comes from pixel resolution, filtering and palette.
+for obj in [C.head,C.body]:
     for poly in obj.data.polygons: poly.use_smooth=True
 
-# Mouth opens on the recorded syllable energy; eye expressions stay independent.
-me=C.head.data
-me.color_attributes.new(name='MouthMask', type='FLOAT_COLOR', domain='CORNER')
-mask=me.color_attributes['MouthMask']
-for poly in me.polygons:
-    for li in poly.loop_indices:
-        x,y,z=me.vertices[me.loops[li].vertex_index].co
-        w=C.smooth((.056-abs(x))/.013)*C.smooth((z-1.478)/.008)*C.smooth((1.526-z)/.009)*C.smooth((.008-y)/.04)
-        mask.data[li].color=(w,w,w,1)
+# A UV-space mouth aperture follows the syllables without moving chin vertices
+# or reprojecting another image over the beard.
 nt=C.hm.node_tree
 emission=next(n for n in nt.nodes if n.type=='EMISSION')
 shaded=emission.inputs['Color'].links[0].from_node
 source=shaded.inputs[1].links[0].from_socket
 uv=nt.nodes.new('ShaderNodeUVMap'); uv.uv_map='FaceProjection'
-mouthtex=nt.nodes.new('ShaderNodeTexImage'); mouthtex.image=bpy.data.images.load(str(ASSETS/'expressao_susto.png'),check_existing=True); mouthtex.interpolation='Closest'
-nt.links.new(uv.outputs[0],mouthtex.inputs['Vector'])
-masknode=nt.nodes.new('ShaderNodeVertexColor'); masknode.layer_name='MouthMask'
+sep=nt.nodes.new('ShaderNodeSeparateXYZ'); nt.links.new(uv.outputs[0],sep.inputs[0])
 amount=nt.nodes.new('ShaderNodeValue'); amount.name='VOICE | mouth envelope'
-multiply=nt.nodes.new('ShaderNodeMath'); multiply.operation='MULTIPLY'
-nt.links.new(masknode.outputs['Color'],multiply.inputs[0]); nt.links.new(amount.outputs[0],multiply.inputs[1])
+def mathnode(operation,a,b=None,c=None):
+    n=nt.nodes.new('ShaderNodeMath'); n.operation=operation
+    for i,v in enumerate([a,b,c]):
+        if v is None: continue
+        if isinstance(v,(int,float)): n.inputs[i].default_value=v
+        else: nt.links.new(v,n.inputs[i])
+    return n.outputs[0]
+x=mathnode('MULTIPLY_ADD',sep.outputs['X'],.46,-.23)
+z=mathnode('MULTIPLY_ADD',sep.outputs['Y'],.46,1.37-1.504)
+width=mathnode('DIVIDE',x,.026)
+height=mathnode('MULTIPLY_ADD',amount.outputs[0],.010,.002)
+y=mathnode('DIVIDE',z,height)
+distance=mathnode('ADD',mathnode('MULTIPLY',width,width),mathnode('MULTIPLY',y,y))
+aperture=mathnode('MULTIPLY',mathnode('SUBTRACT',1,distance),5)
+clamp=nt.nodes.new('ShaderNodeClamp'); nt.links.new(aperture,clamp.inputs[0])
+gate=mathnode('GREATER_THAN',amount.outputs[0],.13)
+alpha=mathnode('MULTIPLY',clamp.outputs[0],gate)
 mix=nt.nodes.new('ShaderNodeMixRGB')
-nt.links.new(multiply.outputs[0],mix.inputs[0]); nt.links.new(source,mix.inputs[1]); nt.links.new(mouthtex.outputs['Color'],mix.inputs[2])
+nt.links.new(alpha,mix.inputs[0]); nt.links.new(source,mix.inputs[1]); mix.inputs[2].default_value=(.016,.004,.006,1)
 nt.links.new(mix.outputs[0],shaded.inputs[1])
+
+# Replace the old self-lit avatar shader with real light response, keeping every
+# source texture and expression connection before the fake lighting multiplier.
+for material in [C.bm,C.hm]:
+    nodes=material.node_tree.nodes; links=material.node_tree.links
+    em=next(n for n in nodes if n.type=='EMISSION')
+    fake=em.inputs['Color'].links[0].from_node
+    albedo=fake.inputs[1].links[0].from_socket
+    shader=nodes.new('ShaderNodeBsdfPrincipled')
+    shader.inputs['Roughness'].default_value=.88
+    shader.inputs['Specular IOR Level'].default_value=.15
+    links.new(albedo,shader.inputs['Base Color'])
+    output=next(n for n in nodes if n.type=='OUTPUT_MATERIAL')
+    links.new(shader.outputs[0],output.inputs['Surface'])
+for poly in C.head.data.polygons: poly.use_smooth=True
+
+def area(name,loc,target,power,color,size):
+    data=bpy.data.lights.new(name,'AREA'); data.energy=power; data.color=color; data.shape='DISK'; data.size=size
+    o=bpy.data.objects.new(name,data); s.collection.objects.link(o); o.location=loc
+    o.rotation_euler=(Vector(target)-o.location).to_track_quat('-Z','Y').to_euler()
+    return o
+area('monitor spill | cool cyan',(0,-.69,1.35),(0,.11,1.25),8,(.30,.73,1.0),.70)
+area('face key | soft warm light',(.65,-1.25,2.15),(0,.10,1.35),45,(1.0,.78,.60),1.3)
+area('cyan side light',(-1.85,-.35,1.85),(0,.12,1.15),40,(.06,.62,1.0),1.6)
+area('violet rim light',(1.80,.85,2.05),(0,.10,1.3),65,(.57,.12,1.0),1.2)
+area('ceiling soft fill',(0,.10,2.78),(0,0,.6),20,(.38,.44,.75),2.1)
+area('back wall violet wash',(.80,1.65,2.4),(.10,1.90,1.5),35,(.48,.07,1.0),1.6)
+for material in bpy.data.materials:
+    # The area lights provide the spill. Tiny LED keycaps and letters remain
+    # visible without becoming dozens of noisy mesh light sources.
+    material.cycles.emission_sampling='NONE'
+s.use_nodes=True
+comp=s.node_tree; comp.nodes.clear()
+render=comp.nodes.new('CompositorNodeRLayers')
+glare=comp.nodes.new('CompositorNodeGlare'); glare.glare_type='FOG_GLOW'; glare.quality='MEDIUM'; glare.threshold=1.1; glare.size=6; glare.mix=-.88
+output=comp.nodes.new('CompositorNodeComposite')
+comp.links.new(render.outputs['Image'],glare.inputs['Image']); comp.links.new(glare.outputs['Image'],output.inputs['Image'])
 
 with wave.open(str(ASSETS/'voz_teste.wav')) as audio:
     samples=array.array('h', audio.readframes(audio.getnframes()))
@@ -248,11 +289,11 @@ for f in range(1,121):
     C.pose('talk',pt,.64)
     for bone in ['waist','spine','chest','upper_chest','neck_upper']:
         C.delta(bone,(1,0,0),0)
-    hero.location=(0,.23,-.34)
+    hero.location=(0,.10,-.17)
     hero.rotation_euler=(0,0,0)
     for suffix in ['L','R']:
-        C.delta('thigh_'+suffix,(1,0,0),-1.43)
-        C.delta('shin_'+suffix,(1,0,0),1.50)
+        C.delta('thigh_'+suffix,(1,0,0),-1.16)
+        C.delta('shin_'+suffix,(1,0,0),1.23)
         C.delta('foot_'+suffix,(1,0,0),-.08)
     # Rest elbows near the chair; only the right arm makes a short palm-up shrug.
     C.delta('arm_L',(0,1,0),1.20)
@@ -260,7 +301,9 @@ for f in range(1,121):
     C.delta('forearm_L',(1,0,0),-.88)
     C.delta('forearm_R',(1,0,0),-.83)
     gesture=math.sin(max(0,min(1,(pt-1.9)/1.1))*math.pi)*.28
-    C.delta('forearm_R',(0,0,1),-gesture)
+    # Compose the shrug with elbow flexion rather than erasing that flexion.
+    forearm=C.rig.pose.bones['forearm_R']
+    forearm.rotation_quaternion=forearm.rotation_quaternion @ (C.rest['forearm_R'].inverted() @ Quaternion((0,0,1),-gesture) @ C.rest['forearm_R'])
     # Turns from monitor toward the lens on the second sentence.
     turn=C.smooth((pt-1.55)/.40)
     C.delta('head',(0,0,1),turn*.28)
@@ -271,16 +314,16 @@ for f in range(1,121):
     H.record(amount.outputs[0],'default_value',f)
     if f<=22:
         u=(f-1)/21
-        loc=Vector((1.55,1.48,1.82)).lerp(Vector((1.39,1.35,1.74)),u)
-        target=Vector((-.04,-.45,1.04)); lens=24
+        loc=Vector((1.65,1.42,1.94)).lerp(Vector((1.49,1.29,1.86)),u)
+        target=Vector((-.04,-.40,1.07)); lens=23
     elif f<=43:
         u=(f-23)/20
         loc=Vector((.87,-.05,1.44)).lerp(Vector((.76,-.13,1.42)),u)
         target=Vector((0,-.77,1.24)); lens=25
     else:
         u=(f-44)/76
-        loc=Vector((.25,-.64,1.31)).lerp(Vector((.22,-.59,1.30)),min(1,u*.65))
-        target=Vector((0,.23,1.15)); lens=31+u*4
+        loc=Vector((.25,-.64,1.48)).lerp(Vector((.22,-.59,1.47)),min(1,u*.65))
+        target=Vector((0,.10,1.32)); lens=28+u*4
         # Tiny camera hitch punctuates the frozen NPC at the end.
         if 91<=f<=94: loc.x+=.012 if f%2 else -.012
     camera.location=loc
@@ -298,8 +341,9 @@ bpy.ops.wm.save_as_mainfile(filepath=str(OUT/'Dery_Quarto_Gamer_Teste.blend'))
 bpy.ops.file.make_paths_relative()
 bpy.ops.wm.save_as_mainfile(filepath=str(OUT/'Dery_Quarto_Gamer_Teste.blend'))
 print('PREVIEW_SCENE_READY',flush=True)
-for frame in [12,32,70,108]:
-    s.frame_set(frame)
-    s.render.filepath=str(OUT/('preview_%04d.png'%frame))
-    bpy.ops.render.render(write_still=True)
+if '--skip-stills' not in sys.argv:
+    for frame in [12,32,70,108]:
+        s.frame_set(frame)
+        s.render.filepath=str(OUT/('preview_%04d.png'%frame))
+        bpy.ops.render.render(write_still=True)
 print('PREVIEW_STILLS_READY',flush=True)
