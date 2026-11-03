@@ -23,5 +23,5 @@ ffmpeg -hide_banner -loglevel warning -y \
  -i output/Dery_Terra_Parou_sem_audio.mp4 -i assets/voz_original.mp3 -i assets/efeitos_originais.wav \
  -filter_complex '[1:a][2:a]amix=inputs=2:normalize=0:duration=longest,apad[mix]' \
  -map 0:v:0 -map '[mix]' -c:v copy -c:a aac -b:a 256k -ar 48000 \
- -shortest -movflags +faststart -metadata title='E se a Terra parasse de girar AGORA?' \
+ -t 55.416666667 -movflags +faststart -metadata title='E se a Terra parasse de girar AGORA?' \
  output/Dery_Terra_Parou.mp4

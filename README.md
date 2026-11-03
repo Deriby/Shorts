@@ -7,7 +7,7 @@ Produção de shorts em 3D com estética PS1 / low poly, personagem Dery e narra
 | Nº | Título | Arquivos |
 | --- | --- | --- |
 | 001 | **E se você caísse em um BURACO NEGRO?** | [Roteiro, animação e vídeos](shorts/001-buraco-negro/) |
-| 002 | **E se a Terra parasse de girar AGORA?** | [Roteiro e planejamento da animação](shorts/002-terra-parasse-de-girar/) |
+| 002 | **E se a Terra parasse de girar AGORA?** | [Roteiro, animação e vídeos](shorts/002-terra-parasse-de-girar/) |
 
 ## Organização
 

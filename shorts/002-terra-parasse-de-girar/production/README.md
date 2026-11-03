@@ -2,6 +2,18 @@
 
 Produção do short 002 com a gravação `testevideo2.mp3`, recebida do usuário, e o modelo Dery original. Duração do áudio decodificado: aproximadamente 55,406 segundos.
 
+Montagem final: 55,417 segundos, 1330 quadros, 1080 × 1920 a 24 fps. Arquivo completo decodificado sem erros; a comparação entre o áudio exportado e a soma da gravação com os efeitos confirmou alinhamento sem deslocamento e ganho preservado, dentro das diferenças de compressão AAC.
+
+## Entregas
+
+- `output/Dery_Terra_Parou.mp4`: voz e efeitos discretos, sem legendas.
+- `output/Dery_Terra_Parou_sem_audio.mp4`: imagem sem áudio para edição.
+- `output/Dery_Terra_Parou.blend`: projeto editável com texturas e dois sons empacotados.
+- `output/validacao_video.json`: resultado da checagem de formato, decodificação e áudio.
+- `output/validacao_pegada.json`: checagem dos punhos durante as cenas do poste.
+
+Os ZIPs de download e os quadros intermediários são gerados localmente e ficam fora do Git para evitar duplicar os arquivos versionados.
+
 ## Direção desta versão
 
 A pedido do usuário, esta produção tem ambientes e situações diferentes, em vez de concentrar a montagem no personagem num fundo único:
@@ -45,7 +57,7 @@ A verificação em oito momentos das cenas, com duas mãos por momento, passou c
 
 ## Formato e som
 
-Render de origem 432 × 768 a 24 quadros por segundo, com saída prevista 1080 × 1920. A voz mantém velocidade e volume. Os efeitos são gerados localmente e mixados em nível baixo, sem música e sem legendas incorporadas.
+Render de origem 432 × 768 a 24 quadros por segundo, com saída 1080 × 1920. A voz mantém velocidade e ganho. Os efeitos são gerados localmente e mixados em nível baixo, sem música e sem legendas incorporadas. A duração de exportação é explícita para não perder os últimos samples na fronteira de um pacote AAC.
 
 ## Reproduzir a construção e os testes de quadro
 
@@ -57,9 +69,10 @@ blender -b -t 4 --python build_scene.py -- --preview
 Para renderizar a sequência depois de validar os quadros:
 
 ```bash
-blender -b -t 4 --python build_scene.py -- --render
 python make_effects.py
+blender -b -t 4 --python build_scene.py -- --render
 bash assemble.sh
+python verify_video.py
 ```
 
 O gerador substitui seu próprio projeto de saída. Salve edições manuais com outro nome antes de executá-lo. Os quadros intermediários e caches ficam fora do Git.

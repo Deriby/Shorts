@@ -1,0 +1,42 @@
+{
+  "movie": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "r_frame_rate": "24/1",
+        "nb_frames": "1330"
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio",
+        "sample_rate": "48000",
+        "channels": 1,
+        "r_frame_rate": "0/0",
+        "nb_frames": "2599"
+      }
+    ],
+    "format": {
+      "duration": "55.416667"
+    }
+  },
+  "full_decode": "passed",
+  "source_voice_seconds": 55.40570833333334,
+  "mix_correlation_zero_offset": 0.999990298428481,
+  "mix_rms_ratio": 0.9995200265592782,
+  "voice_speed_changed": false,
+  "voice_gain": 1.0,
+  "captions_added": false,
+  "edited_shots": 21,
+  "setups": [
+    "town street",
+    "car exterior and interior",
+    "coast",
+    "Earth globe",
+    "Sun-Earth orbit"
+  ]
+}
