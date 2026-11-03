@@ -21,3 +21,8 @@ shorts/*/estudos_iniciais/
 /episode_01_black_hole
 /black_hole_pilot
 /dery_character/
+
+# Diagnóstico local de fala e caches de poses, recriáveis.
+**/assets/voz_16k.wav
+**/assets/poses_cache.json.gz
+**/audio_reconhecido.json

@@ -1,0 +1,28 @@
+{
+  "duration_audio_seconds": 55.4056875,
+  "source_fps": 24,
+  "method": "Reconhecimento local sherpa-onnx Whisper tiny, pausas medidas e texto aprovado; cortes editoriais, sem timestamps de cada palavra.",
+  "shots": [
+    {"start":0,"name":"01 - Terra para de girar","set":"globo"},
+    {"start":1.45,"name":"02 - Voce continua","set":"rua"},
+    {"start":3.44,"name":"03 - Carro freando","set":"carro_exterior"},
+    {"start":5.10,"name":"04 - Dentro do carro","set":"carro_interior"},
+    {"start":6.84,"name":"05 - Planeta inteiro","set":"globo"},
+    {"start":8.95,"name":"06 - Equador","set":"globo"},
+    {"start":13.20,"name":"07 - Velocidade da superficie","set":"globo"},
+    {"start":16.30,"name":"08 - Rua e inercia","set":"rua"},
+    {"start":18.40,"name":"09 - Dery sendo levado","set":"rua"},
+    {"start":20.80,"name":"10 - Vento forte","set":"rua"},
+    {"start":22.50,"name":"11 - Proteger o rosto","set":"rua"},
+    {"start":24.30,"name":"12 - Litoral","set":"costa"},
+    {"start":26.50,"name":"13 - Onda avanca","set":"costa"},
+    {"start":29.80,"name":"14 - Agarrar o poste","set":"rua"},
+    {"start":32.18,"name":"15 - Poste cede","set":"rua"},
+    {"start":34.64,"name":"16 - Queda com gravidade","set":"rua"},
+    {"start":37.78,"name":"17 - De volta ao chao","set":"rua"},
+    {"start":40.84,"name":"18 - Orbita sem rotacao","set":"orbita"},
+    {"start":45.34,"name":"19 - Meses de dia e noite","set":"rua"},
+    {"start":48.62,"name":"20 - A freada","set":"carro_interior"},
+    {"start":51.60,"name":"21 - Planeta que sobrou","set":"rua"}
+  ]
+}
