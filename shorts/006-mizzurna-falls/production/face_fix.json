@@ -1,0 +1,11 @@
+{
+  "coincident_face_groups": 370,
+  "old_max_split_m": 0.0019215058395220608,
+  "old_split_groups_over_0_5mm": 131,
+  "active_shape_keys": [],
+  "rig_parent": "DERY | world motion",
+  "avatar_vertices": 23551,
+  "new_max_split_m": 0.0,
+  "new_split_groups_over_0_5mm": 0,
+  "fix": "Position-derived POINT weights, normal-independent displacement, protected central face; original UV and PNG expressions retained."
+}

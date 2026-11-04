@@ -1,6 +1,6 @@
 # Esse jogo destruiu seu criador — roteiro de animação v2
 
-Planejamento para **9:16**, baseado no texto digitado pelo usuário no chat e reproduzido nos trechos abaixo. Dery no quarto gamer PS1, cortes do trailer e uma gag curta de queda no limbo. **Esta entrega é somente o roteiro de animação.** Não há gravação de voz recebida para este short nem sincronismo definido. As falas do usuário não são reescritas.
+Planejamento para **9:16**, baseado no texto digitado pelo usuário no chat e reproduzido nos trechos abaixo. Dery no quarto gamer PS1, cortes do trailer e uma gag curta de queda no limbo. O plano foi entregue primeiro como roteiro; depois o usuário enviou o MP3 e autorizou a produção. A execução sincronizada está em [production/timeline.json](production/timeline.json), com os dados da voz em [production/audio.json](production/audio.json).
 
 ## Estrutura
 
@@ -41,7 +41,7 @@ O roteiro organiza a ação por trechos da frase, sem duração ou timecodes de 
 
 ## Correção do rosto solicitada
 
-Os riscos/rachaduras pretos reapareceram na animação. **Corrigir antes de renderizar o próximo short.** Nesta etapa a falha foi registrada, não corrigida.
+Os riscos/rachaduras pretos foram corrigidos antes da renderização completa. O deslocamento PS1 orientado por normais abria fissuras entre vértices coincidentes; a correção compartilhada usa pesos derivados da posição e protege o centro da face. Os testes passaram de até 1,92 mm de separação para zero. Evidências em [production/face_fix.json](production/face_fix.json) e [production/scene_validation.json](production/scene_validation.json).
 
 Inspecionar em close a região dos olhos, boca e queixo durante as trocas de PNG e os movimentos da cabeça. Conferir UVs, bordas do atlas e amostragem, assim como a deformação de precisão PS1: vértices duplicados em costuras podem se separar se receberem deslocamentos diferentes. A origem exata ainda precisa de diagnóstico.
 
@@ -49,4 +49,4 @@ O resultado deve manter as expressões desenhadas em cortes secos, o encaixe de 
 
 ## Economia de produção
 
-Reutilizar personagem, rig, quarto, iluminação e biblioteca de 31 expressões. Renderizar somente as tomadas do quarto e a gag da plataforma; montar os cortes diretos do trailer separadamente. O crachá é um acessório plano com texto, sem cenário de escritório novo. A cidade vem do vídeo enviado. A próxima etapa depende da voz e inclui o diagnóstico do rosto antes da animação completa.
+Personagem, rig, quarto, iluminação e biblioteca de 31 expressões foram reutilizados. Somente as tomadas do quarto e a gag da plataforma passam pelo Blender; os cortes diretos do trailer são montados separadamente. O crachá é um acessório plano com texto, sem cenário de escritório novo. O fechamento usa um detalhe do crachá no movimento e retorna à reação do Dery. A gravação original determina as falas; não foram geradas vozes adicionais.

@@ -1,0 +1,17 @@
+{
+  "video": "Esse_jogo_destruiu_seu_criador_9x16.mp4",
+  "duration": 50.583333,
+  "frames": 1214,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 24,
+  "codec": "H.264 + AAC",
+  "size_bytes": 26801819,
+  "full_decode": "passed",
+  "original_mp3_sha256": "16d124ec822e4cbc5b8f148a67c750c2650d225ee4cdb1ad12f86e9f2bf831f0",
+  "unmodified_voice_outside_sfx_windows": true,
+  "monitor_frames": 1214,
+  "scene_checks": "passed"
+}

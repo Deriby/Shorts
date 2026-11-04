@@ -1,0 +1,193 @@
+{
+  "fps": 24,
+  "frames": 1214,
+  "duration": 50.583333333333336,
+  "voice_duration": 49.81385487528345,
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 50,
+      "kind": "game",
+      "mood": "city",
+      "source_start": 36.5,
+      "focus_x": 640
+    },
+    {
+      "id": 1,
+      "start": 51,
+      "end": 102,
+      "kind": "game",
+      "mood": "city",
+      "source_start": 31.5,
+      "focus_x": 640
+    },
+    {
+      "id": 2,
+      "start": 103,
+      "end": 171,
+      "kind": "actor",
+      "mood": "serious",
+      "source_start": 31.5,
+      "focus_x": 640
+    },
+    {
+      "id": 3,
+      "start": 172,
+      "end": 260,
+      "kind": "monitor",
+      "mood": "title",
+      "source_start": 11.0,
+      "focus_x": 640
+    },
+    {
+      "id": 4,
+      "start": 261,
+      "end": 349,
+      "kind": "monitor",
+      "mood": "investigate",
+      "source_start": 21.7,
+      "focus_x": 640
+    },
+    {
+      "id": 5,
+      "start": 350,
+      "end": 429,
+      "kind": "actor",
+      "mood": "bichim",
+      "source_start": 24.0,
+      "focus_x": 640
+    },
+    {
+      "id": 6,
+      "start": 430,
+      "end": 464,
+      "kind": "actor",
+      "mood": "scale",
+      "source_start": 36.2,
+      "focus_x": 640
+    },
+    {
+      "id": 7,
+      "start": 465,
+      "end": 554,
+      "kind": "game",
+      "mood": "city",
+      "source_start": 36.2,
+      "focus_x": 650
+    },
+    {
+      "id": 8,
+      "start": 555,
+      "end": 586,
+      "kind": "actor",
+      "mood": "drive",
+      "source_start": 36.0,
+      "focus_x": 640
+    },
+    {
+      "id": 9,
+      "start": 587,
+      "end": 664,
+      "kind": "game",
+      "mood": "residents",
+      "source_start": 31.6,
+      "focus_x": 640
+    },
+    {
+      "id": 10,
+      "start": 665,
+      "end": 700,
+      "kind": "actor",
+      "mood": "explain",
+      "source_start": 24.1,
+      "focus_x": 640
+    },
+    {
+      "id": 11,
+      "start": 701,
+      "end": 757,
+      "kind": "actor",
+      "mood": "recoil",
+      "source_start": 39.0,
+      "focus_x": 640
+    },
+    {
+      "id": 12,
+      "start": 758,
+      "end": 792,
+      "kind": "actor",
+      "mood": "slow",
+      "source_start": 24.0,
+      "focus_x": 640
+    },
+    {
+      "id": 13,
+      "start": 793,
+      "end": 842,
+      "kind": "actor",
+      "mood": "waiting",
+      "source_start": 40.0,
+      "focus_x": 640
+    },
+    {
+      "id": 14,
+      "start": 843,
+      "end": 895,
+      "kind": "limbo",
+      "mood": "shock",
+      "source_start": 45.0,
+      "focus_x": 640
+    },
+    {
+      "id": 15,
+      "start": 896,
+      "end": 938,
+      "kind": "actor",
+      "mood": "serious",
+      "source_start": 24.0,
+      "focus_x": 640
+    },
+    {
+      "id": 16,
+      "start": 939,
+      "end": 1003,
+      "kind": "actor",
+      "mood": "director",
+      "source_start": 36.0,
+      "focus_x": 640
+    },
+    {
+      "id": 17,
+      "start": 1004,
+      "end": 1062,
+      "kind": "monitor",
+      "mood": "director",
+      "source_start": 38.0,
+      "focus_x": 640
+    },
+    {
+      "id": 18,
+      "start": 1063,
+      "end": 1122,
+      "kind": "actor",
+      "mood": "setup",
+      "source_start": 36.0,
+      "focus_x": 640
+    },
+    {
+      "id": 19,
+      "start": 1123,
+      "end": 1214,
+      "kind": "actor",
+      "mood": "clt",
+      "source_start": 36.0,
+      "focus_x": 640
+    }
+  ],
+  "fall_start": 36.15,
+  "badge_push": [
+    48.0,
+    49.1
+  ]
+}

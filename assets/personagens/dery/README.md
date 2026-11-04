@@ -11,3 +11,4 @@ Cada short mantém suas animações, expressões e arquivos de trabalho na próp
 
 - [Biblioteca compartilhada de 12 rostos PS1 e controlador Blender](expressions_ps1/): PNGs pré-desenhados, com troca instantânea de expressão, para reutilizar entre episódios.
 - [Biblioteca ampliada de 31 rostos PS1](expressions_ps1/v2/), com o encaixe de olhos/boca e a correção de olheiras revisados.
+- [Precisão PS1 sem fissuras no rosto](ps1_precision.py): usar `add_safe_precision` nos próximos renders. O deslocamento é independente das normais, preserva vértices coincidentes e protege o centro do rosto. Mantém os UVs e os 31 desenhos existentes. A validação do episódio 006 encontrou separação zero nas poses verificadas.

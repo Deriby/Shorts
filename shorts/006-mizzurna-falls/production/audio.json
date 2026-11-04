@@ -1,0 +1,14 @@
+{
+  "original": "assets/voz/voz_original.mp3",
+  "original_filename": "VOZ - O jogo que DESTRUIU seu Criador.mp3",
+  "sha256": "16d124ec822e4cbc5b8f148a67c750c2650d225ee4cdb1ad12f86e9f2bf831f0",
+  "voice_duration_seconds": 49.81385487528345,
+  "duration_seconds": 50.583333333333336,
+  "fps": 24,
+  "frames": 1214,
+  "speed_changed": false,
+  "pitch_changed": false,
+  "trimmed": false,
+  "method": "Original MP3 preserved byte-for-byte; decoded PCM without timing changes. Small original synthesized SFX added only in the separate mix.",
+  "alignment": "Local Whisper tiny segment estimates, cross-checked with measured pauses; phonetic ASR errors are not inserted into narration."
+}

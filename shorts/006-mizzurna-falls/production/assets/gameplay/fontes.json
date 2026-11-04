@@ -138,5 +138,19 @@
   ],
   "limite_mapeamento": "Faixas estimadas por amostragem visual, não pontos de corte finais. O sincronismo será definido com a voz.",
   "texto_sobre_criador": "Referência recebida: a narração afirma que o fracasso levou à saída da indústria e ao trabalho como guia turístico. A versão PT-BR conta a mudança de carreira sem apresentar como provada a relação causal. País, diagnóstico e números de vendas não são acrescentados.",
-  "contexto_jogo": "Cidade 3D, carros, rotina dos NPCs e problemas técnicos constam da referência recebida. A data 1998 e a investigação de desaparecimento são contexto geral do jogo acrescentado à adaptação; não foram checados externamente nesta sessão. O prazo de sete dias foi retirado para manter foco e duração."
+  "contexto_jogo": "Cidade 3D, carros, rotina dos NPCs e problemas técnicos constam da referência recebida. A data 1998 e a investigação de desaparecimento são contexto geral do jogo acrescentado à adaptação; não foram checados externamente nesta sessão. O prazo de sete dias foi retirado para manter foco e duração.",
+  "trechos_confirmados_na_montagem": {
+    "titulo": {
+      "fonte_inicio": 11.0,
+      "montagem_inicio": 7.121,
+      "montagem_fim": 10.841,
+      "observacao": "Cartela MIZZURNA FALLS conferida visualmente no trailer."
+    },
+    "investigacao": {
+      "fonte_inicio": 21.7,
+      "montagem_inicio": 10.841,
+      "montagem_fim": 14.527,
+      "observacao": "Policiais à mesa; substitui o início mais cedo que ainda mostrava a cama."
+    }
+  }
 }

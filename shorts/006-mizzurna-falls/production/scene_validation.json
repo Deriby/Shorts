@@ -1,0 +1,37 @@
+{
+  "face_checks": [
+    {
+      "frame": 123,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "frame": 371,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "frame": 1167,
+      "max_facial_split_m": 0.0
+    }
+  ],
+  "pelvis_movement_m": 0.0,
+  "badge_contacts": [
+    {
+      "frame": 1160,
+      "hand_surface_to_badge_contact_m": 0.005318575073033571,
+      "single_proxy_point_distance_m": 0.005971575155854225
+    },
+    {
+      "frame": 1170,
+      "hand_surface_to_badge_contact_m": 0.005114947445690632,
+      "single_proxy_point_distance_m": 0.00609376048669219
+    },
+    {
+      "frame": 1178,
+      "hand_surface_to_badge_contact_m": 0.004975613672286272,
+      "single_proxy_point_distance_m": 0.005378924775868654
+    }
+  ],
+  "monitor_auto_refresh": true,
+  "monitor_frames": 1214,
+  "expressions": "Drawn PNGs, constant keys; no active facial morphs."
+}
