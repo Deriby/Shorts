@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "columns": 4,
+  "rows": 3,
+  "tile_size": 128,
+  "interpolation": "Closest",
+  "animation": "CONSTANT",
+  "expressions": [
+    {
+      "id": 0,
+      "name": "neutro",
+      "file": "neutro.png"
+    },
+    {
+      "id": 1,
+      "name": "falando",
+      "file": "falando.png"
+    },
+    {
+      "id": 2,
+      "name": "sorriso",
+      "file": "sorriso.png"
+    },
+    {
+      "id": 3,
+      "name": "risada",
+      "file": "risada.png"
+    },
+    {
+      "id": 4,
+      "name": "deboche",
+      "file": "deboche.png"
+    },
+    {
+      "id": 5,
+      "name": "susto",
+      "file": "susto.png"
+    },
+    {
+      "id": 6,
+      "name": "sem_reacao",
+      "file": "sem_reacao.png"
+    },
+    {
+      "id": 7,
+      "name": "bravo",
+      "file": "bravo.png"
+    },
+    {
+      "id": 8,
+      "name": "triste",
+      "file": "triste.png"
+    },
+    {
+      "id": 9,
+      "name": "sem_graca",
+      "file": "sem_graca.png"
+    },
+    {
+      "id": 10,
+      "name": "piscando",
+      "file": "piscando.png"
+    },
+    {
+      "id": 11,
+      "name": "deboche_falando",
+      "file": "deboche_falando.png"
+    }
+  ]
+}

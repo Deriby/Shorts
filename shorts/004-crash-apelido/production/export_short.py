@@ -7,7 +7,7 @@ ROOT=Path(__file__).resolve().parent
 def main():
     parser=argparse.ArgumentParser()
     parser.add_argument('--encode-only',action='store_true')
-    parser.add_argument('--revision',choices=['r1','r2','r3'],default='r1')
+    parser.add_argument('--revision',choices=['r1','r2','r3','r4'],default='r1')
     parser.add_argument('--preset',default='medium')
     args=parser.parse_args()
     rev=args.revision!='r1';suffix='_'+args.revision.upper()if rev else ''

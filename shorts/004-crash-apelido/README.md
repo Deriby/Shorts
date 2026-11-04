@@ -4,9 +4,11 @@ Episódio de **28 segundos** do Massacote Games, com Dery no quarto gamer PS1, v
 
 ## Assistir e editar
 
-- [Short vertical — 1080 × 1920, 9:16](production/output/Dery_Crash_Short_9x16_R3.mp4).
-- [Master horizontal — 1920 × 1080, 16:9](production/output/Dery_Crash_Master_16x9_R3.mp4).
-- [Projeto Blender com rig, animação e câmeras](production/output/Dery_Crash_Master_R3.blend).
+- [Short vertical — 1080 × 1920, 9:16](production/output/Dery_Crash_Short_9x16_R4.mp4).
+- [Master horizontal — 1920 × 1080, 16:9](production/output/Dery_Crash_Master_16x9_R4.mp4).
+- [Projeto Blender com rig, animação e câmeras](production/output/Dery_Crash_Master_R4.blend).
+- [Doze rostos PS1 aplicados no Dery](production/output/Dery_Expressoes_PS1_Aplicadas.png).
+- [Biblioteca reutilizável dos rostos](../../assets/personagens/dery/expressions_ps1/).
 - [Imagem aprovada do enquadramento](production/output/Dery_Crash_Previa_16x9.png).
 - [Roteiro e cortes](roteiro.md).
 
@@ -16,7 +18,7 @@ As duas exportações usam os mesmos quadros e a mesma narração. A edição ve
 
 Os dois WAVs originais foram preservados em [assets/voz](production/assets/voz/), com os hashes e a ordem documentados em [audio.json](production/audio.json). Somam **27,448 segundos**; a entrega mantém a velocidade e o tom originais e termina com uma pausa curta para a reação. O áudio final inclui efeitos digitais discretos, gerados localmente.
 
-A revisão tem treze tomadas, entre closes, plano do quarto e detalhes do monitor. O Dery olha para a câmera e para o jogo, gesticula, move cabeça e tronco e movimenta a boca conforme a energia da voz. A abertura de boca é estilizada, sem sincronização fonética detalhada. A gameplay permanece em reprodução contínua durante todo o episódio. A revisão R3 amplia a atuação facial com sorriso, olhos semicerrados, bochechas elevadas, sobrancelha levantada e surpresa. Os braços alternam gestos de conversa na altura do peito, com rotação dos punhos e ênfases com as duas mãos.
+A revisão tem treze tomadas, entre closes, plano do quarto e detalhes do monitor. O Dery olha para a câmera e para o jogo, gesticula, move cabeça e tronco e troca a textura do rosto em corte seco. A fala alterna rostos com boca aberta e fechada em passos de três quadros, conforme a energia da voz, sem sincronização fonética detalhada. A gameplay permanece em reprodução contínua durante todo o episódio. Os braços alternam gestos de conversa na altura do peito, com rotação dos punhos e ênfases com as duas mãos.
 
 ## Visual e fontes
 
@@ -59,3 +61,16 @@ python shorts/004-crash-apelido/production/export_short.py --revision r3 --prese
 ```
 
 Para reconstruir a partir do projeto R2, `revise_r3.py` reaproveita os 150 quadros aprovados das tomadas focadas no monitor, caso os renders R2 estejam disponíveis localmente. A lista está em [reuse_r3.json](production/reuse_r3.json). Com esse cache, a exportação renderiza os outros 522 quadros e gera as duas proporções; sem o cache, renderiza os 672 quadros. Os renders intermediários não são versionados.
+
+## Revisão R4 — troca de texturas PS1
+
+O rosto agora usa imagens pré-desenhadas que trocam instantaneamente. Todas as deformações faciais anteriores ficam desativadas. A biblioteca compartilhada tem doze PNGs de 128 × 128, incluindo fala, sorriso, risada, deboche, susto e piscada. Um atlas com amostragem `Closest` e a propriedade `PS1_face_id` tornam o sistema reutilizável em outros episódios. As chaves usam interpolação `CONSTANT`.
+
+Os gestos, as câmeras, os treze cortes, o cenário, a voz e a gameplay da revisão R3 foram mantidos. [face_cues_r4.json](production/face_cues_r4.json) registra os quadros em que o rosto muda.
+
+```bash
+blender -b -t 4 --python shorts/004-crash-apelido/production/revise_r4.py
+python shorts/004-crash-apelido/production/export_short.py --revision r4 --preset veryfast
+```
+
+Os PNGs e o atlas já estão prontos na pasta compartilhada; os comandos não fazem novas gerações de imagem. Todos os 672 quadros são renderizados para aplicar o mesmo material facial também nas tomadas em que o Dery aparece na borda do enquadramento.

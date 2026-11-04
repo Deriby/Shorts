@@ -8,3 +8,5 @@ Modelo e texturas originais enviados pelo usuário para uso nos shorts.
 - `Dery_texture_pbr_20250901.png`: textura adicional fornecida no pacote.
 
 Cada short mantém suas animações, expressões e arquivos de trabalho na própria pasta. O GLB original permanece preservado aqui para reutilização.
+
+- [Biblioteca compartilhada de 12 rostos PS1 e controlador Blender](expressions_ps1/): PNGs pré-desenhados, com troca instantânea de expressão, para reutilizar entre episódios.
