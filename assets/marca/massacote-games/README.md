@@ -7,4 +7,4 @@
 
 A logo principal usa apenas a letra M, com formas angulares simples, amarelo, dourado e contorno escuro. A imagem original da geração foi preservada para reutilizar no perfil e nos vídeos.
 
-A capa do YouTube mantém o M e o nome dentro da área central de 1546 × 423 pixels. Os elementos das bordas são decorativos. PNG com menos de 6 MB, sem linhas de guia.
+A capa do YouTube reúne o M, o nome e o convite INSCREVA-SE na faixa central de 1546 × 423 pixels. Crash e Spyro flanqueiam a marca; console e controle de PS1, caixa de interrogação e máquina de escrever com erva verde completam as referências retrô. PNG de 2560 × 1440 com menos de 6 MB, sem linhas de guia.
