@@ -4,6 +4,8 @@ Episódio de **28 segundos** do Massacote Games, com Dery no quarto gamer PS1, v
 
 ## Assistir e editar
 
+- [Estudo atual do encaixe do rosto — imagem](production/output/Dery_Teste_Encaixe_Olhos.png).
+- [Comparação do primeiro encaixe com o teste atualizado](production/output/Dery_Encaixe_Rosto_Comparacao.png).
 - [Short vertical — 1080 × 1920, 9:16](production/output/Dery_Crash_Short_9x16_R4.mp4).
 - [Master horizontal — 1920 × 1080, 16:9](production/output/Dery_Crash_Master_16x9_R4.mp4).
 - [Projeto Blender com rig, animação e câmeras](production/output/Dery_Crash_Master_R4.blend).
@@ -74,3 +76,9 @@ python shorts/004-crash-apelido/production/export_short.py --revision r4 --prese
 ```
 
 Os PNGs e o atlas já estão prontos na pasta compartilhada; os comandos não fazem novas gerações de imagem. Todos os 672 quadros são renderizados para aplicar o mesmo material facial também nas tomadas em que o Dery aparece na borda do enquadramento.
+
+## Estudo de encaixe — somente imagens
+
+Estudo após o retorno sobre a aplicação dos desenhos no modelo. Os PNGs aprovados ficam preservados. O estudo mantém o nariz original, encaixa olhos e boca separadamente, suaviza as descontinuidades da iluminação facial e corrige a sombra abaixo dos olhos no material. O espaçamento dos olhos usa o meio-termo entre os dois testes de distância: deslocamento de 7,5 mm por lado no espaço original da malha, com transição suave antes das sobrancelhas.
+
+O projeto [Dery_Face_Fit_Study.blend](production/output/Dery_Face_Fit_Study.blend) contém o teste estático com o controlador de rostos. O estudo é gerado por `blender -b -t 4 --python shorts/004-crash-apelido/production/test_face_fit.py`. As exportações R4 acima ainda mostram o encaixe anterior; não foi renderizada outra animação nesta etapa.
