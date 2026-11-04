@@ -15,6 +15,8 @@ O monitor usa um trecho **ilustrativo de nossa produção anterior**, sem áudio
 
 ## Arquivos
 
+- [Imagem do estudo de contorno PS1](production/output/Dery_PS1_Bordas.png)
+- [Script do estudo de uma imagem](production/render_ps1_still.py)
 - [Assistir à prévia com voz](production/output/Dery_Quarto_Gamer_5s.mp4)
 - [Projeto editável no Blender](production/output/Dery_Quarto_Gamer_Teste.blend)
 - [Voz provisória, com cinco segundos](production/assets/voz_teste.wav)
@@ -32,6 +34,16 @@ O modelo e a rig são os enviados pelo usuário. As expressões PNG vêm dos tes
 - Acabamento PS1 revisto após o retorno sobre a imagem embaçada: removidos os filtros fortes de suavização; a imagem agora usa pixels definidos, contraste discreto nas bordas e dithering ordenado. Os quadros já renderizados foram reaproveitados.
 
 A revisão mantém os mesmos cinco segundos e a mesma voz. O roteiro do primeiro episódio será tratado depois destas correções.
+
+## Estudo de contorno — somente uma imagem
+
+O estudo estático usa o quadro 108 do projeto Blender. A precisão dos vértices é reduzida no espaço da câmera junto à silhueta do Dery. A junção do pescoço é soldada antes desse efeito e as normais de iluminação são preservadas. As texturas usam amostragem de texels sem interpolação, e o quadro recebe dithering e ampliação inteira de pixels, sem suavização de imagem.
+
+A imagem mostra um instante da posição dos vértices. A oscilação do contorno ao longo do tempo ainda precisa ser avaliada em movimento. Para reproduzir somente essa imagem:
+
+```bash
+blender -b -t 4 --python shorts/003-teste-quarto-gamer/production/render_ps1_still.py
+```
 
 ## Voz
 
