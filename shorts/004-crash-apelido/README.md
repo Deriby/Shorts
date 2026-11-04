@@ -4,6 +4,8 @@ Episódio de **28 segundos** do Massacote Games, com Dery no quarto gamer PS1, v
 
 ## Assistir e editar
 
+- [Teste de direção de 5 segundos — 9:16](production/output/Dery_Teste_Direcao_5s_9x16.mp4).
+- [O mesmo teste em 16:9](production/output/Dery_Teste_Direcao_5s_16x9.mp4).
 - [Estudo atual do encaixe do rosto — imagem](production/output/Dery_Teste_Encaixe_Olhos.png).
 - [Comparação do primeiro encaixe com o teste atualizado](production/output/Dery_Encaixe_Rosto_Comparacao.png).
 - [Short vertical — 1080 × 1920, 9:16](production/output/Dery_Crash_Short_9x16_R5.mp4).
@@ -99,3 +101,26 @@ python shorts/004-crash-apelido/production/export_short.py --revision r5 --prese
 ```
 
 O projeto R5 inclui a biblioteca instalada e usa os desenhos já versionados, sem novas gerações de imagem. `render_face_gallery.py` gera a conferência dos rostos aplicada na malha. A edição final mantém 28 segundos e 24 fps, em 16:9 e 9:16, sem legendas embutidas.
+
+## Teste de direção — 5 segundos
+
+Teste curto sobre a frase já gravada “Respeita o Crash. Essa bundinha tem história”, reaproveitando cenário, modelo, gameplay e biblioteca de rostos. A montagem abre no monitor, mostra Dery virando para falar com a câmera, aproxima durante a piada e termina com uma encarada séria, um som digital discreto e uma piscada. Os braços relaxam ao final para deixar a atenção no rosto.
+
+| Tempo | Ação |
+| --- | --- |
+| 0,00–0,83 s | Aproximação do monitor, com som do jogo baixo. |
+| 0,83–2,04 s | Plano médio, virada para a câmera: “Respeita o Crash”. |
+| 2,04–3,83 s | Close com deboche: “Essa bundinha tem história”. |
+| 3,83–5,00 s | Close mais próximo, reação séria, pausa, som curto e piscada. |
+
+O WAV do teste usa o trecho original de 24,30 a 27,30 segundos, começando em 0,80 s, com velocidade e tom preservados. A gameplay enviada toca no monitor; seu áudio aparece apenas na abertura. O som digital foi gerado localmente. A edição mantém os pixels e as bordas PS1, e não tem legendas embutidas.
+
+- [Projeto Blender do teste](production/output/Dery_Teste_Direcao_5s.blend).
+- [Tempos, enquadramentos e trocas de rosto](production/direction_test_timeline.json).
+
+```bash
+blender -b -t 4 --python-exit-code 1 --python shorts/004-crash-apelido/production/build_direction_test.py
+python shorts/004-crash-apelido/production/export_direction_test.py
+```
+
+O teste renderiza somente 120 quadros. Os comandos reaproveitam os ativos locais e não geram novos desenhos nem uma nova voz.

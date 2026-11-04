@@ -1,0 +1,112 @@
+{
+  "fps": 24,
+  "frames": 120,
+  "duration": 5,
+  "voice_source": "assets/voz/narracao_completa.wav",
+  "voice_start": 24.3,
+  "voice_end": 27.3,
+  "voice_offset": 0.8,
+  "game_audio_start": 6,
+  "game_audio_duration": 0.8,
+  "beep_time": 4.15,
+  "shots": [
+    {
+      "start": 1,
+      "end": 20,
+      "kind": "monitor",
+      "x_start": 656,
+      "x_end": 656
+    },
+    {
+      "start": 21,
+      "end": 49,
+      "kind": "medium",
+      "x_start": 688,
+      "x_end": 742
+    },
+    {
+      "start": 50,
+      "end": 92,
+      "kind": "close",
+      "x_start": 673,
+      "x_end": 652
+    },
+    {
+      "start": 93,
+      "end": 120,
+      "kind": "deadpan",
+      "x_start": 646,
+      "x_end": 643
+    }
+  ],
+  "faces": [
+    {
+      "frame": 1,
+      "id": 20
+    },
+    {
+      "frame": 21,
+      "id": 23
+    },
+    {
+      "frame": 22,
+      "id": 24
+    },
+    {
+      "frame": 34,
+      "id": 23
+    },
+    {
+      "frame": 37,
+      "id": 24
+    },
+    {
+      "frame": 40,
+      "id": 23
+    },
+    {
+      "frame": 52,
+      "id": 11
+    },
+    {
+      "frame": 55,
+      "id": 4
+    },
+    {
+      "frame": 58,
+      "id": 11
+    },
+    {
+      "frame": 64,
+      "id": 4
+    },
+    {
+      "frame": 67,
+      "id": 11
+    },
+    {
+      "frame": 79,
+      "id": 4
+    },
+    {
+      "frame": 82,
+      "id": 11
+    },
+    {
+      "frame": 85,
+      "id": 4
+    },
+    {
+      "frame": 93,
+      "id": 6
+    },
+    {
+      "frame": 106,
+      "id": 10
+    },
+    {
+      "frame": 109,
+      "id": 6
+    }
+  ]
+}
