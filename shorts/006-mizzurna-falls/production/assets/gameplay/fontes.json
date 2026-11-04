@@ -11,8 +11,26 @@
   "observacao": "Trailer cinematográfico; não é o short com a narração sobre o criador.",
   "referencia_narrativa": {
     "url": "https://www.youtube.com/shorts/CQaP35kEDbo?feature=share",
-    "acesso": "Bloqueado pelo proxy do ambiente (403 no túnel HTTPS). Vídeo e transcrição não foram consultados.",
-    "pendencia": "Transcrição ou resumo do trecho sobre o criador para adaptar a história e conferir o título."
+    "arquivo": "../referencia/how_one_game_destroyed_its_own_creator_enviado.mp4",
+    "arquivo_original": "how-one-game-destroyed-its-own-creator-1280-ytshorts.savetube.me.mp4",
+    "sha256": "1d328ecf7473a1f3d64aca18ac78aef88a23d001892b2b0af2c7943e0e5d3225",
+    "duracao_segundos": 40.93678,
+    "resolucao": [
+      720,
+      1280
+    ],
+    "fps": "30/1",
+    "acesso": "Anexo MP4 recebido e analisado visualmente; áudio transcrito localmente com Sherpa ONNX / Whisper tiny em inglês. O nome do jogo foi normalizado para Mizzurna Falls.",
+    "estado": "Referência narrativa disponível; pendência anterior resolvida.",
+    "uso": "Estrutura e fatos narrados como base para adaptação autoral em português. O anexo tem legendas inglesas; preferir o trailer sem essas legendas nas imagens finais.",
+    "arco": [
+      "Ambição de mundo aberto no PS1",
+      "Cidade 3D, carros e rotina dos personagens",
+      "Lentidão, carregamentos demorados e quedas através do chão",
+      "Vendas fracas, segundo a narração",
+      "Diretor deixa a indústria e passa a trabalhar como guia turístico, segundo a narração"
+    ],
+    "limites": "O vídeo narra uma relação causal entre fracasso comercial e saída do criador, mas não apresenta documentação dessa causa. A adaptação usa sequência temporal (depois), sem afirmar doença, colapso pessoal, números de vendas ou trabalho inteiramente solo."
   },
   "pesquisa_externa": {
     "url": "https://en.wikipedia.org/wiki/Mizzurna_Falls",
@@ -119,6 +137,6 @@
     }
   ],
   "limite_mapeamento": "Faixas estimadas por amostragem visual, não pontos de corte finais. O sincronismo será definido com a voz.",
-  "texto_sobre_criador": "Nenhuma afirmação biográfica ou causal confirmada pelo trailer. Gancho e desfecho reservados até receber a referência.",
-  "contexto_jogo": "Data de lançamento, prazo de sete dias e rotinas dos NPCs usados como contexto preliminar; revalidar com fonte textual antes de gravar a versão definitiva."
+  "texto_sobre_criador": "Referência recebida: a narração afirma que o fracasso levou à saída da indústria e ao trabalho como guia turístico. A versão PT-BR conta a mudança de carreira sem apresentar como provada a relação causal. País, diagnóstico e números de vendas não são acrescentados.",
+  "contexto_jogo": "Cidade 3D, carros, rotina dos NPCs e problemas técnicos constam da referência recebida. A data 1998 e a investigação de desaparecimento são contexto geral do jogo acrescentado à adaptação; não foram checados externamente nesta sessão. O prazo de sete dias foi retirado para manter foco e duração."
 }

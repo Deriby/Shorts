@@ -1,21 +1,23 @@
-# Esse jogo destruiu seu criador — planejamento de animação
+# Esse jogo destruiu seu criador — roteiro de animação v1
 
-Planejamento preliminar para **9:16**, com Dery no quarto gamer PS1 e cortes do trailer enviado. A história sobre o criador ainda depende da referência narrativa; as cenas 1 e 8 são reservas. Somente roteiro nesta etapa.
+Planejamento completo para **9:16**, com Dery no quarto gamer PS1, cortes do trailer e uma gag curta em palco amarelo. Baseado na narração inglesa do short que o usuário enviou depois do trailer. Somente roteiro nesta etapa; a animação será sincronizada à voz real.
 
 ## Estrutura
 
 | Cena / tempo de montagem estimado | Fala ou função | Imagem, atuação e expressão | Material disponível |
 | --- | --- | --- | --- |
-| 1 · 0–5 s | Gancho factual sobre o criador, pendente da referência. | Close do Dery olhando para a câmera; antecipar com olhar e uma pequena inclinação do tronco. A expressão final será definida pelo fato real. Evitar encenar sofrimento ou retratar o criador antes de conhecer a história. | Quarto reutilizado. O monitor reproduz a paisagem nevada, aproximadamente 4–12 s do trailer. |
-| 2 · 5–10 s | “Esse é Mizzurna Falls. Um mundo aberto no PlayStation UM. Em 1998!” | Começar no título do jogo dentro do monitor. Cortar para o Dery na surpresa de “UM”; um gesto aberto à altura do peito acompanha a data. Rostos 26 impressionado → 12 explicando. | Paisagem e título, aproximadamente 4–12 s. |
-| 3 · 10–18 s | “Você tem sete dias pra investigar o desaparecimento de uma garota numa cidade pequena.” | Corte para a sequência de conversa com policiais e depois para o exterior da cidade. No quarto, o Dery marca o prazo com um gesto curto. O trailer ilustra a investigação; não tratar qualquer personagem feminina mostrada como a garota desaparecida sem identificar. | Policiais à mesa, aproximadamente 19–24 s; exterior da igreja, 36–40 s. |
-| 4 · 18–27 s | “Só que os moradores seguem a própria rotina. Eles mudam de lugar, e os acontecimentos não esperam você chegar.” | Alternar comércio → conversa externa → igreja. Depois, breve plano do Dery acompanhando o monitor e retornando o olhar à câmera. Gestos à altura do peito, sem agitar os dois braços continuamente. Rostos 20 pensativo → 12 explicando. | Comércio, aproximadamente 24–27 s; interações externas, 31–36 s; interiores, 40–45 s. O trailer mostra ambientes e interações, não uma comparação de horários do mesmo NPC. |
-| 5 · 27–31 s | “Perdeu a hora? Pode perder uma pista também.” | Voltar ao quarto. O Dery olha para um relógio simples ao lado do monitor, estende a mão como se fosse interromper e percebe que chegou tarde. Rosto 5 susto → 6 sem reação. O relógio é uma ilustração da explicação, não uma reprodução de interface do jogo. | Cenário reutilizado; acrescentar somente um objeto pequeno, se necessário na produção. |
-| 6 · 31–36 s | “Até o NPC tem agenda. Eu esqueço até consulta.” | Close. Ele aponta para o monitor em “NPC”, aponta para si em “eu” e baixa a mão. Troca seca 13 orgulhoso → 18 constrangido → 6 sem reação. Segurar a encarada por 0,2–0,3 s. A piada vem da comparação com a rotina, sem gag aleatória. | Dery e quarto. O trailer continua em movimento no PC. |
-| 7 · 36–44 s | “Tudo isso num console da época do primeiro Crash. A ideia era fazer uma cidade que continuasse vivendo enquanto você investigava.” | Plano médio com uma pequena abertura de braços para a escala da ideia. Cortes de cidade, igreja e cachoeira. Manter variedade por enquadramento e demonstração, não por novos cenários 3D. Rostos 26 impressionado → 12 explicando. | Exterior, aproximadamente 36–40 s; igreja, 40–45 s; cachoeira, 45–50 s. |
-| 8 · 44–58 s | História real sobre o criador e piada final, pendentes. | Reservar uma tomada do Dery e uma imagem documental pertinente, quando a fonte chegar. Não usar o personagem preso ou o incêndio do trailer como se fossem provas sobre a vida do autor. A reação do Dery deve acompanhar a informação confirmada. | As tomadas do jogo podem continuar no monitor; imagem biográfica e fecho ainda não selecionados. |
+| 1 · 0–6,5 s | “Esse jogo quis colocar uma cidade viva dentro do PS1. E o criador acabou largando os games.” | Abrir já na cidade nevada preenchendo o quadro. Corte para Dery em plano médio na segunda frase: ele olha do monitor para a câmera, abre uma mão e perde um pouco o sorriso. Rostos 26 impressionado → 23 sério. | Trailer, aproximadamente 4–12 s, e quarto reutilizado. |
+| 2 · 6,5–9,5 s | “É Mizzurna Falls, de 1998.” | Detalhe frontal do monitor com a cartela completa do jogo. Não começar pelo HUMAN PRESENTS. Dar tempo de reconhecer o nome. | Trailer, aproximadamente 4–12 s; escolher a parte em que o título já aparece. |
+| 3 · 9,5–12,5 s | “Você investigava o desaparecimento de uma garota.” | Corte para a conversa com policiais. Reenquadrar no grupo à mesa. A imagem situa uma investigação, sem identificar arbitrariamente uma mulher do trailer como a desaparecida. | Trailer, aproximadamente 19–24 s. |
+| 4 · 12,5–24 s | “Mas olha a ambição: antes de GTA 3, já dava pra explorar uma cidade em 3D, dirigir carros e conversar com moradores que seguiam a própria rotina.” | Dery faz um gesto de escala com os braços e aponta para a tela. Alternar exterior da cidade → plano médio do Dery fazendo um breve gesto de volante em “dirigir” → comércio e conversa com moradores. Rostos 12 explicando / 20 pensativo. Cada gesto tem começo, pose e acomodação. | Trailer: exterior 36–40 s; comércio 24–27 s; conversas externas 31–36 s e interiores 40–45 s. O trailer não mostra um teste de rotinas ou uma tomada útil de direção; o Dery ilustra essa fala. |
+| 5 · 24–28,5 s | “Até o NPC tinha agenda. Eu esqueço até consulta.” | Close. Aponta para o monitor em “NPC”, aponta para si em “eu”, percebe a própria confissão e baixa a mão. Troca seca 13 orgulhoso → 18 constrangido → 6 sem reação. Segurar a encarada por 0,2 s. | Quarto; o trailer continua em movimento no PC. |
+| 6 · 28,5–31 s | “Só que o PS1 pediu arrego.” | Plano médio por outro ângulo. Dery se inclina para conferir a tela, depois olha para a câmera de sobrancelha levantada. Pequeno gesto com a palma virada para cima. Rosto 4 deboche / 11 deboche falando. | Quarto reutilizado. |
+| 7 · 31–37 s | “Tinha lentidão, carregamento demorado… e personagem caindo através do chão.” | Na lentidão, Dery fica imóvel por seis quadros enquanto o jogo segue na tela. No carregamento, olha para o pulso e começa a impacientar-se. Ao chegar à queda, cortar para uma gag de corpo inteiro em um palco amarelo simples: o chão fica sólido, e o Dery começa a atravessá-lo por translação do personagem. A rig permanece íntegra. Rostos 25 nervoso → 5 susto. | Animação ilustrativa do Dery. O short de referência menciona e mostra os problemas, mas tem legendas inglesas; não usá-lo cru no vídeo final. |
+| 8 · 37–40 s | “Mundo aberto. Inclusive por baixo.” | Completar a queda controlada no palco amarelo. Em “por baixo”, a cabeça do Dery já está abaixo do chão. Corte seco de volta para ele sentado no quarto, encarando a câmera com rosto 6 sem reação. Pausa de aproximadamente 0,2 s. A gag ilustra o bug descrito e fica visualmente distinta da gameplay. | Palco mínimo com plano amarelo e personagem reutilizado; close do quarto. |
+| 9 · 40–47 s | “O jogo não vendeu bem. Depois, seu diretor deixou a indústria e virou guia turístico.” | Plano médio do Dery. O gesto baixa nas vendas e se abre para o monitor ao falar da mudança de carreira. Expressão informativa 23 sério / 24 sério falando. Não mostrar um gráfico com vendas inventadas nem dramatizar a saúde do diretor. | Quarto e trailer ao fundo. A mudança de carreira vem da narração da referência recebida, sem imagem documental adicional. |
+| 10 · 47–51 s | “O cara foi de mundo aberto… pra ar livre.” | Dery aponta para a paisagem no monitor como quem apresenta um passeio. Vira para a câmera, faz um sorriso breve e termina na encarada seca. Troca seca 13 orgulhoso → 6 sem reação; segurar por cerca de 0,3 s. | Quarto, com a paisagem nevada ou a cachoeira no PC: trailer 4–12 s ou 45–50 s. A atuação é do Dery, não uma recriação do diretor real. |
 
-Tempos de montagem são estimativas e serão refeitos a partir da voz. As faixas de fonte foram mapeadas por amostragem; conferir os pontos de corte precisos na montagem. Se for usada a outro de 4 segundos, incluí-la no limite de duração após fechar as falas; esta etapa não determina sua inclusão.
+Tempos de montagem são estimativas e serão refeitos a partir da voz, preservando as pausas das piadas. As faixas de fonte foram mapeadas por amostragem; conferir os pontos de corte precisos na montagem. A outro de 4 segundos é um recurso separado: sua inclusão não foi determinada neste roteiro.
 
 ## Enquadramento e montagem
 
@@ -25,6 +27,16 @@ Tempos de montagem são estimativas e serão refeitos a partir da voz. As faixas
 - Abrir os cortes já na ação. Não usar a cartela HUMAN PRESENTS como introdução longa.
 - Deixar espaço para as legendas que o usuário colocará na edição. Sem legendas de narração embutidas, sem geração de voz nesta etapa.
 - Gameplay em movimento e monitor com exposição legível; preservar os acertos do episódio 005.
+- O novo anexo serve de referência narrativa e tem legendas inglesas embutidas. Não inseri-lo inteiro no monitor. O trecho de GTA usado nele como comparação não é gameplay de Mizzurna Falls.
+- Não reduzir a velocidade do trailer nem acrescentar falhas sobre ele para apresentá-las como desempenho real. As ilustrações dos problemas são feitas com o próprio Dery, em planos distintos.
+
+## Som e ritmo
+
+- Narração em primeiro plano; som do trailer baixo durante a explicação.
+- Na piada da agenda, a pausa e o rosto completam o humor; evitar um efeito em cada corte.
+- Para o carregamento, duas batidas de dedo na mesa podem marcar a impaciência. Na queda, um deslize descendente curto acompanha a gag e termina antes da volta ao quarto.
+- Deixar a mudança de carreira legível antes de fazer a piada final. Um efeito turístico ou uma fala extra não são necessários.
+- Sem glitch como transição. O retrô vem da geometria, da textura, das expressões PNG e da precisão das bordas.
 
 ## Correção do rosto solicitada
 
@@ -36,4 +48,4 @@ O resultado deve manter as expressões desenhadas em cortes secos, o encaixe de 
 
 ## Economia de produção
 
-Reutilizar personagem, rig, quarto, iluminação e biblioteca de 31 expressões. Renderizar somente as tomadas em que o quarto ou o Dery aparecem; montar os cortes diretos do trailer separadamente. Não reconstruir a cidade de Mizzurna Falls em 3D para ilustrar o jogo. Não iniciar produção antes de fechar os dois blocos sobre o criador e receber a voz.
+Reutilizar personagem, rig, quarto, iluminação e biblioteca de 31 expressões. Renderizar somente as tomadas do quarto e a gag no palco amarelo; montar os cortes diretos do trailer separadamente. A cidade vem do vídeo já enviado. Os blocos sobre o criador estão completos com o recebimento da referência. A próxima etapa depende da voz e inclui o diagnóstico do rosto antes da animação completa.
