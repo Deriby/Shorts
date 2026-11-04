@@ -1,25 +1,35 @@
-# Encerramento dos shorts — confirmação de menu PS1
+# Encerramento dos shorts — 3D sobre amarelo
 
-Assinatura curta e reutilizável: M amarelo em destaque, nome do canal abaixo e uma opção discreta de inscreva-se. Um cursor confirma a seleção com um bip retrô. A ação termina em aproximadamente 2 segundos.
+Visual atual pedido pelo usuário: fundo amarelo, M e letras em 3D grafite, formas angulares, extrusão visível e sombras marcadas. Inscreva-se permanece secundário. Formato 9:16.
 
-## Primeiro frame
+## Frame de referência
 
-[Baixar PNG 1080 × 1920](primeiro_frame_1080x1920.png). Formato 9:16, fundo opaco, composição central para os shorts. A imagem já contém a marca e os textos prontos; não é preciso pedir ao Flow para escrevê-los.
+[Baixar composição 3D — PNG 1080 × 1920](frame_amarelo_3d_1080x1920.png).
 
-## Uso no Google Flow
+Esta imagem mostra a pose central, com a marca montada. Para uma entrada a partir do vazio, use-a como referência visual, não como primeiro quadro. O início e o final da vinheta devem mostrar somente o fundo amarelo. Se o modo escolhido aceitar quadro final, use o fundo vazio para reforçar a saída.
 
-Carregue o PNG como imagem inicial no modo de imagem para vídeo e use a proporção 9:16. Cole o prompt abaixo. Se a duração disponível for maior, apare o resultado após a confirmação, deixando cerca de 2 segundos úteis. Gere uma opção primeiro para avaliar a estabilidade da marca.
+[Versão anterior com fundo escuro](primeiro_frame_1080x1920.png), preservada no histórico de alternativas.
 
-## Prompt
+## Ideia da animação
 
-Use the supplied image as the exact first frame of a vertical 9:16 outro for MASSACOTE GAMES. Create the feeling of selecting an option in a late-1990s PS1 game menu. Keep the camera completely locked. Preserve the yellow M, both text lines, their spelling, shape, size and position throughout. All artwork is already complete in the input image.
+A composição entra derrapando e para no centro. Um cursor chega rápido demais, bate na marca e empurra o M e todos os textos para fora do quadro. A saída é uma ação física cômica. O visual retrô vem da geometria, texturas e movimento. O usuário rejeitou glitch, dissolução em faixas e desaparecimento digital.
 
-During the first 0.5 seconds, only the small yellow triangular cursor beside "inscreva-se" blinks once. At around 0.6 seconds it nudges a few pixels toward the text and returns, like confirming a menu selection. At that instant, play one short original retro digital confirmation beep and gently pulse the existing amber light behind the M. The pulse settles by 1.5 seconds. Hold the finished screen still from 1.5 seconds onward, so the clip can be trimmed to roughly 2 seconds.
+## Prompt para Google Flow
 
-Maintain crisp angular edges, subtle dithering and the existing charcoal-and-yellow palette. Use the existing artwork without adding objects or text. No camera movement, logo deformation, text animation, scene change, blur, speech, music or long sound effects. The only visible animation is the cursor and the brief background light pulse.
+Create a 4-second vertical 9:16 animated outro for MASSACOTE GAMES. Use the supplied artwork as the reference for the exact angular M silhouette, the uppercase lettering "MASSACOTE GAMES", and the smaller lowercase "inscreva-se". The background stays vivid yellow throughout. All branding and the triangular menu cursor are thick, rigid, extruded graphite 3D objects with angular bevels and defined shadows, matching the reference.
 
-## Montagem
+Style: a playful late-1990s low-poly console game. Crisp angular geometry, low-resolution textures, flat shading and snappy animation. Fixed camera.
 
-- Entrar depois da última piada ou frase, com corte direto.
-- Usar cerca de 2 segundos; o bip marca a confirmação sem competir com a fala.
-- O vídeo ainda será gerado pelo usuário no Flow. Esta etapa entrega somente a imagem inicial e o prompt.
+0.0–0.8s: Begin with the empty yellow background. The complete logo composition slides into frame from the left, brakes with a small overshoot and settles at the center, matching the supplied reference. The cursor is still offscreen.
+
+0.8–1.8s: Hold the M and both text lines clearly readable, preserving their geometry and spelling.
+
+1.8–3.2s: The chunky graphite triangular cursor races in from the left, trying to select "inscreva-se". It overshoots and bumps into the composition with a funny dry "bonk". The impact pushes the M AND ALL LETTERING completely off the right edge. The cursor also exits to the right. All objects cast shadows that move consistently with them.
+
+3.2–4.0s: Hold only the empty yellow background. No logo, lettering, cursor or shadows remain visible.
+
+The joke is the cursor physically pushing the branding away. No glitch, digital breakup, dissolving, flickering, blur or camera movement. Sound: a short slide, one comic impact, then silence. No voice or music.
+
+## Entrega
+
+O vídeo será gerado pelo usuário no Flow. Esta etapa entrega a imagem estática e o prompt. A duração disponível depende do modo escolhido; se houver material adicional, apare após a saída e a breve pausa no fundo vazio.
