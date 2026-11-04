@@ -1,5 +1,6 @@
-# Massacote Games — logo
+# Massacote Games — identidade visual
 
-[Logo em PNG com fundo transparente](logo.png).
+- [Logo principal: M amarelo em PNG transparente](logo.png).
+- [Primeira proposta completa com mascote CRT](logo_completa_crt.png).
 
-Identidade com monitor CRT como mascote, expressão cômica, formas low poly e detalhes pixelados. Paleta de roxo escuro, ciano, magenta e lettering claro. Arquivo original da geração preservado, para reutilizar no perfil e nos vídeos.
+A logo principal usa apenas a letra M, com formas angulares simples, amarelo, dourado e contorno escuro. A imagem original da geração foi preservada para reutilizar no perfil e nos vídeos.
