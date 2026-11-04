@@ -1,0 +1,86 @@
+{
+  "source": "Video enviado pelo usuario",
+  "uploaded_name": "san-andreas-postal-2-mod-download-720-ytshorts.savetube.me.mp4",
+  "file": "san_andreas_postal2_enviado.mp4",
+  "sha256": "70cbcffe6844239587156fcc3a449910295ddf9869756702d3e7fd41d2747d3d",
+  "size_bytes": 14665917,
+  "duration_seconds": 75.534512,
+  "width": 1280,
+  "height": 720,
+  "fps": 60,
+  "video_codec": "av1",
+  "audio_codec": "aac",
+  "analysis_basis": "Inspecao visual do arquivo enviado; sem validacao externa do autor, da versao atual ou de links de download.",
+  "observations": [
+    {
+      "range": [
+        5,
+        10.5
+      ],
+      "content": "Primeira pessoa, item de spray e instrucoes de missao."
+    },
+    {
+      "range": [
+        11,
+        16
+      ],
+      "content": "Contador de pichacoes TAGS SPRAYED; interface combinada."
+    },
+    {
+      "range": [
+        18,
+        22
+      ],
+      "content": "Acao em terceira pessoa em ambiente interior."
+    },
+    {
+      "range": [
+        23,
+        29
+      ],
+      "content": "Direcao de carro em terceira pessoa nas ruas."
+    },
+    {
+      "range": [
+        30,
+        35.5
+      ],
+      "content": "Moto ao lado do trem, Big Smoke e legenda com o objetivo da missao."
+    },
+    {
+      "range": [
+        36.5,
+        42
+      ],
+      "content": "Pa em primeira pessoa, ao lado de viatura LSPD."
+    },
+    {
+      "range": [
+        50,
+        55
+      ],
+      "content": "Trecho no trem com caixas, tempo e indicador de arremesso."
+    },
+    {
+      "range": [
+        56,
+        61.5
+      ],
+      "content": "Bicicleta no canal."
+    },
+    {
+      "range": [
+        62.5,
+        66.5
+      ],
+      "content": "Cartela San Andreas Demo v0.2."
+    }
+  ],
+  "unconfirmed": [
+    "Autoria e nome comercial completo do mod",
+    "Engine usada ou direcao tecnica da conversao",
+    "Quantidade de mapa e missoes jogaveis",
+    "Disponibilidade atual, plataformas e instrucoes de instalacao"
+  ],
+  "scope": "Nesta etapa: somente roteiros. A versao final sera 9:16; tempos fechados apos a gravacao."
+}

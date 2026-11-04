@@ -10,6 +10,7 @@ Produção de shorts em 3D com estética PS1 / low poly, personagem Dery e narra
 | 002 | **E se a Terra parasse de girar AGORA?** | [Roteiro, animação e vídeos](shorts/002-terra-parasse-de-girar/) |
 | 003 | **Teste de formato — Massacote Games (5 segundos)** | [Prévia com voz e quarto gamer PS1](shorts/003-teste-quarto-gamer/) |
 | 004 | **O apelido mais quinta série do Crash** | [Short 9:16, master 16:9 e projeto Blender](shorts/004-crash-apelido/) |
+| 005 | **Misturaram GTA com POSTAL 2** | [Roteiros de narração e animação — somente 9:16](shorts/005-gta-postal2/) |
 
 ## Organização
 
