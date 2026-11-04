@@ -1,0 +1,65 @@
+[
+  {
+    "start": 1,
+    "end": 86,
+    "kind": "close",
+    "x_start": 662,
+    "x_end": 661
+  },
+  {
+    "start": 87,
+    "end": 144,
+    "kind": "reaction",
+    "x_start": 661,
+    "x_end": 671
+  },
+  {
+    "start": 145,
+    "end": 211,
+    "kind": "wide",
+    "x_start": 838,
+    "x_end": 799
+  },
+  {
+    "start": 212,
+    "end": 278,
+    "kind": "monitor",
+    "x_start": 656,
+    "x_end": 656
+  },
+  {
+    "start": 279,
+    "end": 401,
+    "kind": "monitor2",
+    "x_start": 656,
+    "x_end": 656
+  },
+  {
+    "start": 402,
+    "end": 445,
+    "kind": "reaction",
+    "x_start": 666,
+    "x_end": 664
+  },
+  {
+    "start": 446,
+    "end": 500,
+    "kind": "wide",
+    "x_start": 835,
+    "x_end": 839
+  },
+  {
+    "start": 501,
+    "end": 613,
+    "kind": "medium",
+    "x_start": 733,
+    "x_end": 733
+  },
+  {
+    "start": 614,
+    "end": 672,
+    "kind": "punch",
+    "x_start": 660,
+    "x_end": 670
+  }
+]

@@ -61,8 +61,9 @@ def prepare(scene):
     camera.data.dof.use_dof=False
     bpy.context.view_layer.update()
 
-runpy.run_path(str(BASE/'render_ps1_still.py'),init_globals={'STILL_CONFIG':{
-    'project_root':ROOT,'base_blend':BASE/'output/Dery_Quarto_Gamer_Teste.blend',
-    'resolution':(640,360),'vertex_grid':(320,180),'output_resolution':(1920,1080),
-    'output':ROOT/'output/Dery_Crash_Previa_16x9.png','samples':48,'prepare_scene':prepare,
-}})
+if __name__=='__main__':
+    runpy.run_path(str(BASE/'render_ps1_still.py'),init_globals={'STILL_CONFIG':{
+        'project_root':ROOT,'base_blend':BASE/'output/Dery_Quarto_Gamer_Teste.blend',
+        'resolution':(640,360),'vertex_grid':(320,180),'output_resolution':(1920,1080),
+        'output':ROOT/'output/Dery_Crash_Previa_16x9.png','samples':48,'prepare_scene':prepare,
+    }})

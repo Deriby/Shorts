@@ -9,7 +9,7 @@ Produção de shorts em 3D com estética PS1 / low poly, personagem Dery e narra
 | 001 | **E se você caísse em um BURACO NEGRO?** | [Roteiro, animação e vídeos](shorts/001-buraco-negro/) |
 | 002 | **E se a Terra parasse de girar AGORA?** | [Roteiro, animação e vídeos](shorts/002-terra-parasse-de-girar/) |
 | 003 | **Teste de formato — Massacote Games (5 segundos)** | [Prévia com voz e quarto gamer PS1](shorts/003-teste-quarto-gamer/) |
-| 004 | **O apelido mais quinta série do Crash** | [Roteiro, voz e prévia em 16:9](shorts/004-crash-apelido/) |
+| 004 | **O apelido mais quinta série do Crash** | [Short 9:16, master 16:9 e projeto Blender](shorts/004-crash-apelido/) |
 
 ## Organização
 
