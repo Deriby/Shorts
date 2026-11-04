@@ -1,0 +1,215 @@
+{
+  "fps": 24,
+  "frames": 1012,
+  "duration": 42.166666666666664,
+  "voice_duration": 41.2502947845805,
+  "part2": 14.20639455782313,
+  "part3": 29.901746031746033,
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 29,
+      "kind": "monitor",
+      "mood": "explain",
+      "source_start": 36.5,
+      "focus_x": 780,
+      "still": false
+    },
+    {
+      "id": 1,
+      "start": 30,
+      "end": 71,
+      "kind": "game",
+      "mood": "explain",
+      "source_start": 37.7,
+      "focus_x": 780,
+      "still": false
+    },
+    {
+      "id": 2,
+      "start": 72,
+      "end": 120,
+      "kind": "actor",
+      "mood": "irony",
+      "source_start": 38.2,
+      "focus_x": 780,
+      "still": false
+    },
+    {
+      "id": 3,
+      "start": 121,
+      "end": 192,
+      "kind": "actor",
+      "mood": "explain",
+      "source_start": 5.3,
+      "focus_x": 640,
+      "still": false
+    },
+    {
+      "id": 4,
+      "start": 193,
+      "end": 250,
+      "kind": "monitor",
+      "mood": "explain",
+      "source_start": 7.5,
+      "focus_x": 640,
+      "still": false
+    },
+    {
+      "id": 5,
+      "start": 251,
+      "end": 341,
+      "kind": "game",
+      "mood": "explain",
+      "source_start": 5.0,
+      "focus_x": 640,
+      "still": false
+    },
+    {
+      "id": 6,
+      "start": 342,
+      "end": 375,
+      "kind": "game",
+      "mood": "explain",
+      "source_start": 36.8,
+      "focus_x": 780,
+      "still": false
+    },
+    {
+      "id": 7,
+      "start": 376,
+      "end": 393,
+      "kind": "game",
+      "mood": "explain",
+      "source_start": 24,
+      "focus_x": 640,
+      "still": false
+    },
+    {
+      "id": 8,
+      "start": 394,
+      "end": 413,
+      "kind": "game",
+      "mood": "explain",
+      "source_start": 57,
+      "focus_x": 640,
+      "still": false
+    },
+    {
+      "id": 9,
+      "start": 414,
+      "end": 441,
+      "kind": "game",
+      "mood": "explain",
+      "source_start": 14.0,
+      "focus_x": 640,
+      "still": false
+    },
+    {
+      "id": 10,
+      "start": 442,
+      "end": 522,
+      "kind": "game",
+      "mood": "explain",
+      "source_start": 24.0,
+      "focus_x": 640,
+      "still": false
+    },
+    {
+      "id": 11,
+      "start": 523,
+      "end": 549,
+      "kind": "game",
+      "mood": "recoil",
+      "source_start": 38.2,
+      "focus_x": 800,
+      "still": false
+    },
+    {
+      "id": 12,
+      "start": 550,
+      "end": 561,
+      "kind": "actor",
+      "mood": "recoil",
+      "source_start": 39.0,
+      "focus_x": 800,
+      "still": false
+    },
+    {
+      "id": 13,
+      "start": 562,
+      "end": 634,
+      "kind": "game",
+      "mood": "shock",
+      "source_start": 30.3,
+      "focus_x": 650,
+      "still": false
+    },
+    {
+      "id": 14,
+      "start": 635,
+      "end": 718,
+      "kind": "actor",
+      "mood": "trauma",
+      "source_start": 32.0,
+      "focus_x": 650,
+      "still": false
+    },
+    {
+      "id": 15,
+      "start": 719,
+      "end": 768,
+      "kind": "actor",
+      "mood": "serious",
+      "source_start": 64.2,
+      "focus_x": 640,
+      "still": true
+    },
+    {
+      "id": 16,
+      "start": 769,
+      "end": 842,
+      "kind": "monitor",
+      "mood": "serious",
+      "source_start": 64.2,
+      "focus_x": 640,
+      "still": true
+    },
+    {
+      "id": 17,
+      "start": 843,
+      "end": 930,
+      "kind": "actor",
+      "mood": "awkward",
+      "source_start": 1.5,
+      "focus_x": 640,
+      "still": true
+    },
+    {
+      "id": 18,
+      "start": 931,
+      "end": 990,
+      "kind": "actor",
+      "mood": "smug",
+      "source_start": 1.5,
+      "focus_x": 640,
+      "still": true
+    },
+    {
+      "id": 19,
+      "start": 991,
+      "end": 1012,
+      "kind": "actor",
+      "mood": "ending",
+      "source_start": 1.5,
+      "focus_x": 640,
+      "still": true
+    }
+  ],
+  "beeps": [
+    29.721746031746033,
+    41.370294784580494,
+    41.5902947845805
+  ]
+}

@@ -1,5 +1,7 @@
 # Misturaram GTA com POSTAL 2 — roteiro de animação v1
 
+**Adaptação à gravação:** a produção segue os WAVs na ordem 2 → 1 → 3. O fechamento gravado usa “pior/melhor mistura possível”, com uma mudança de expressão do Dery, substituindo as falas de Grove Street e a gag do vizinho previstas abaixo. Os tempos executados estão em [production/timeline.json](production/timeline.json); o plano a seguir preserva a primeira versão do roteiro.
+
 ## Direção e formato
 
 Produção futura em **9:16, 1080 × 1920**, com Dery no quarto gamer PS1. Reutilizar o cenário, a rig, o encaixe de olhos/boca e a [biblioteca de 31 expressões](../../assets/personagens/dery/expressions_ps1/v2/). Os rostos trocam em corte seco, com chaves `CONSTANT`. O roteiro de narração é a fonte do texto falado.

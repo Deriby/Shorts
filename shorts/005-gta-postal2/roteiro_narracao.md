@@ -1,5 +1,7 @@
 # Misturaram GTA com POSTAL 2 — narração v1
 
+**Gravação recebida:** a montagem final usa os três WAVs na ordem 2 → 1 → 3, incluindo os ajustes de fala e o novo fechamento “pior/melhor mistura possível”. O texto abaixo preserva o roteiro inicial; a voz enviada é a referência da produção. Veja [production/audio.json](production/audio.json).
+
 Formato: 9:16. Estimativa: 45–55 segundos com as pausas. Os tempos definitivos dependem da gravação.
 
 ## Texto para gravar

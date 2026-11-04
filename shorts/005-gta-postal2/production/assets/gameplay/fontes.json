@@ -82,5 +82,7 @@
     "Quantidade de mapa e missoes jogaveis",
     "Disponibilidade atual, plataformas e instrucoes de instalacao"
   ],
-  "scope": "Nesta etapa: somente roteiros. A versao final sera 9:16; tempos fechados apos a gravacao."
+  "scope": "Producao somente 9:16, sincronizada a gravacao enviada; a propria apresentacao identifica a demo v0.2.",
+  "monitor_feed": "monitor_montado.mp4",
+  "version_card": "Recorte apenas do selo San Andreas Demo v0.2 do arquivo de referencia."
 }
