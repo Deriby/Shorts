@@ -1,0 +1,72 @@
+{
+  "fps": 24,
+  "frames": 672,
+  "duration": 28,
+  "shots": [
+    {
+      "start": 1,
+      "end": 62,
+      "kind": "close"
+    },
+    {
+      "start": 63,
+      "end": 105,
+      "kind": "medium"
+    },
+    {
+      "start": 106,
+      "end": 145,
+      "kind": "reaction"
+    },
+    {
+      "start": 146,
+      "end": 211,
+      "kind": "wide"
+    },
+    {
+      "start": 212,
+      "end": 268,
+      "kind": "monitor"
+    },
+    {
+      "start": 269,
+      "end": 324,
+      "kind": "monitor2"
+    },
+    {
+      "start": 325,
+      "end": 364,
+      "kind": "side"
+    },
+    {
+      "start": 365,
+      "end": 401,
+      "kind": "monitor3"
+    },
+    {
+      "start": 402,
+      "end": 445,
+      "kind": "reaction"
+    },
+    {
+      "start": 446,
+      "end": 500,
+      "kind": "wide"
+    },
+    {
+      "start": 501,
+      "end": 554,
+      "kind": "medium"
+    },
+    {
+      "start": 555,
+      "end": 613,
+      "kind": "close"
+    },
+    {
+      "start": 614,
+      "end": 672,
+      "kind": "punch"
+    }
+  ]
+}

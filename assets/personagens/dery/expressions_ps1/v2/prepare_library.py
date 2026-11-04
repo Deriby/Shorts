@@ -6,6 +6,16 @@ ROOT=Path(__file__).resolve().parent
 NEW=['explicando','orgulhoso','gargalhada','olhando_esquerda','sarcasmo_falando','piscadinha','constrangido','ofendido','pensativo','gritando','confuso','serio','serio_falando','nervoso','impressionado','contente','lingua_fora','nojo','chorando']
 def register(tile,src):
     # Normalize eye/nose/mouth registration across sheets with different cells.
+    if len(src)==7:
+        # Different mouth shapes move the drawn moustache. Keep that identity
+        # feature registered independently instead of clipping it at the nose.
+        candidates=[]
+        for y in range(int(tile.height*.48),int(tile.height*.73)):
+            dark=sum(max(tile.getpixel((x,y)))<85 for x in range(int(tile.width*.16),int(tile.width*.84)))
+            if dark>tile.width*.22:candidates.append(y)
+        moustache=(candidates[0]+tile.height*.012)/tile.height if candidates else(src[3]+src[4])/2
+        moustache=min(src[4]-.045,max(src[2]+.12,moustache))
+        src=[src[0],src[1],src[2],min(src[3],moustache-.035),moustache,src[4],src[5],src[6]]
     target=[0,.14,.28,.58,.67,.76,.91,1]if len(src)==8 else[0,.14,.28,.58,.76,.91,1]
     out=Image.new('RGB',(128,128))
     tile=tile.resize((128,tile.height),Image.Resampling.NEAREST)
@@ -23,9 +33,11 @@ if __name__=='__main__':
         shutil.copyfile(ROOT.parent/e['file'],ROOT/e['file']);entries.append(dict(e))
     image=Image.open(ROOT/'sources/additional_sheet.png').convert('RGB')
     cells=[]
-    for y0,y1,cols,landmarks in [(0,333,4,[0,.13,.30,.58,.79,.94,1]),(333,663,4,[0,.13,.31,.60,.81,.94,1]),(663,907,5,[0,.12,.27,.58,.79,.94,1])]:
+    third=[(0,663,362,907),(369,663,629,907),(627,663,887,907),(866,663,1134,907),(1152,663,1440,907)]
+    for y0,y1,cols,landmarks in [(0,333,4,[0,.13,.30,.58,.79,.94,1]),(333,663,4,[0,.13,.31,.60,.81,.94,1]),(663,907,5,[0,.13,.30,.57,.73,.93,1])]:
         for x in range(cols):
             rect=(round(x*image.width/cols),y0,round((x+1)*image.width/cols),y1)
+            if y0==663:rect=third[x]
             registration=[0,.13,.30,.53,.60,.79,.94,1]if y0==0 and x==2 else landmarks
             cells.append(register(image.crop(rect),registration))
     image=Image.open(ROOT/'sources/additional_six.png').convert('RGB')

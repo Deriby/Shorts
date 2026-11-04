@@ -7,7 +7,7 @@ ROOT=Path(__file__).resolve().parent
 def main():
     parser=argparse.ArgumentParser()
     parser.add_argument('--encode-only',action='store_true')
-    parser.add_argument('--revision',choices=['r1','r2','r3','r4'],default='r1')
+    parser.add_argument('--revision',choices=['r1','r2','r3','r4','r5'],default='r1')
     parser.add_argument('--preset',default='medium')
     args=parser.parse_args()
     rev=args.revision!='r1';suffix='_'+args.revision.upper()if rev else ''
@@ -15,9 +15,9 @@ def main():
     project=ROOT/('output/Dery_Crash_Master'+suffix+'.blend')
     if not args.encode_only:
         if args.revision=='r3':
-            subprocess.run(['blender','-b',str(project),'-t','4','--python',str(ROOT/'render_changed_r3.py')],check=True)
+            subprocess.run(['blender','-b',str(project),'-t','4','--python-exit-code','1','--python',str(ROOT/'render_changed_r3.py')],check=True)
         else:
-            subprocess.run(['blender','-b',str(project),'-t','4','-o',str(frames/'frame_'),
+            subprocess.run(['blender','-b',str(project),'--python-exit-code','1','-t','4','-o',str(frames/'frame_'),
                             '-F','PNG','-s','1','-e','672','-a'],check=True)
     missing=[i for i in range(1,673)if not(frames/('frame_%04d.png'%i)).exists()]
     stale=[i for i in range(1,673)if i not in missing and(frames/('frame_%04d.png'%i)).stat().st_mtime<project.stat().st_mtime]

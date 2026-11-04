@@ -3,6 +3,7 @@
 **31 expressões desenhadas em PNG**, com amostragem `Closest` e troca instantânea por índice. As doze expressões anteriores foram preservadas; há dezenove desenhos novos. A biblioteca não depende de geração de imagem para os próximos episódios.
 
 - [Folha com os 31 desenhos](Dery_31_Expressoes.png).
+- [Os 31 rostos aplicados no modelo, no mesmo enquadramento](../../../../../shorts/004-crash-apelido/production/output/Dery_31_Rostos_No_Modelo.png).
 - [Índices e nomes das expressões](expressions.json).
 - [Atlas 8 × 4, 1024 × 512 pixels](atlas_31_8x4.png).
 

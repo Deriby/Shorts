@@ -6,9 +6,11 @@ Episódio de **28 segundos** do Massacote Games, com Dery no quarto gamer PS1, v
 
 - [Estudo atual do encaixe do rosto — imagem](production/output/Dery_Teste_Encaixe_Olhos.png).
 - [Comparação do primeiro encaixe com o teste atualizado](production/output/Dery_Encaixe_Rosto_Comparacao.png).
-- [Short vertical — 1080 × 1920, 9:16](production/output/Dery_Crash_Short_9x16_R4.mp4).
-- [Master horizontal — 1920 × 1080, 16:9](production/output/Dery_Crash_Master_16x9_R4.mp4).
-- [Projeto Blender com rig, animação e câmeras](production/output/Dery_Crash_Master_R4.blend).
+- [Short vertical — 1080 × 1920, 9:16](production/output/Dery_Crash_Short_9x16_R5.mp4).
+- [Master horizontal — 1920 × 1080, 16:9](production/output/Dery_Crash_Master_16x9_R5.mp4).
+- [Projeto Blender com rig, animação e câmeras](production/output/Dery_Crash_Master_R5.blend).
+- [Biblioteca de 31 rostos aplicada no modelo](production/output/Dery_31_Rostos_No_Modelo.png).
+- [31 PNGs, atlas e controlador reutilizável](../../assets/personagens/dery/expressions_ps1/v2/).
 - [Doze rostos PS1 aplicados no Dery](production/output/Dery_Expressoes_PS1_Aplicadas.png).
 - [Biblioteca reutilizável dos rostos](../../assets/personagens/dery/expressions_ps1/).
 - [Imagem aprovada do enquadramento](production/output/Dery_Crash_Previa_16x9.png).
@@ -81,4 +83,19 @@ Os PNGs e o atlas já estão prontos na pasta compartilhada; os comandos não fa
 
 Estudo após o retorno sobre a aplicação dos desenhos no modelo. Os PNGs aprovados ficam preservados. O estudo mantém o nariz original, encaixa olhos e boca separadamente, suaviza as descontinuidades da iluminação facial e corrige a sombra abaixo dos olhos no material. O espaçamento dos olhos usa o meio-termo entre os dois testes de distância: deslocamento de 7,5 mm por lado no espaço original da malha, com transição suave antes das sobrancelhas.
 
-O projeto [Dery_Face_Fit_Study.blend](production/output/Dery_Face_Fit_Study.blend) contém o teste estático com o controlador de rostos. O estudo é gerado por `blender -b -t 4 --python shorts/004-crash-apelido/production/test_face_fit.py`. As exportações R4 acima ainda mostram o encaixe anterior; não foi renderizada outra animação nesta etapa.
+O projeto [Dery_Face_Fit_Study.blend](production/output/Dery_Face_Fit_Study.blend) contém o teste estático com o controlador de rostos. O estudo é gerado por `blender -b -t 4 --python shorts/004-crash-apelido/production/test_face_fit.py`. As exportações R4 da etapa anterior mostram o encaixe anterior; a revisão R5 abaixo incorpora este ajuste à animação.
+
+## Revisão R5 — 31 rostos e encaixe revisado
+
+A biblioteca tem 31 expressões desenhadas: doze preservadas e dezenove novas. Cada rosto é um PNG de 128 × 128, reunido num atlas 8 × 4. A propriedade `PS1_face_id` escolhe de 0 a 30, com chaves `CONSTANT` para a troca seca de textura. O atlas não mistura expressões, e não há deformação facial animada.
+
+Esta revisão incorpora o encaixe do estudo: nariz original, áreas de olhos e boca separadas, espaçamento intermediário dos olhos e correção localizada das olheiras. As descontinuidades mais fortes da iluminação facial foram removidas. A voz, a gameplay, as câmeras e os gestos de corpo/braços continuam os mesmos da revisão anterior.
+
+As expressões do episódio foram escolhidas pela narração: explicação séria, deboche na piada, susto, pausa sem reação e risada final. A fala alterna os desenhos de boca aberta/fechada em passos de três quadros. A lista das trocas está em [face_cues_r5.json](production/face_cues_r5.json). Todos os 31 rostos foram renderizados no mesmo enquadramento para conferir o encaixe; o episódio usa uma seleção deles.
+
+```bash
+blender -b -t 4 --python shorts/004-crash-apelido/production/revise_r5.py
+python shorts/004-crash-apelido/production/export_short.py --revision r5 --preset veryfast
+```
+
+O projeto R5 inclui a biblioteca instalada e usa os desenhos já versionados, sem novas gerações de imagem. `render_face_gallery.py` gera a conferência dos rostos aplicada na malha. A edição final mantém 28 segundos e 24 fps, em 16:9 e 9:16, sem legendas embutidas.
