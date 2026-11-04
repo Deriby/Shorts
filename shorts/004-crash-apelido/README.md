@@ -4,9 +4,9 @@ Episódio de **28 segundos** do Massacote Games, com Dery no quarto gamer PS1, v
 
 ## Assistir e editar
 
-- [Short vertical — 1080 × 1920, 9:16](production/output/Dery_Crash_Short_9x16_R2.mp4).
-- [Master horizontal — 1920 × 1080, 16:9](production/output/Dery_Crash_Master_16x9_R2.mp4).
-- [Projeto Blender com rig, animação e câmeras](production/output/Dery_Crash_Master_R2.blend).
+- [Short vertical — 1080 × 1920, 9:16](production/output/Dery_Crash_Short_9x16_R3.mp4).
+- [Master horizontal — 1920 × 1080, 16:9](production/output/Dery_Crash_Master_16x9_R3.mp4).
+- [Projeto Blender com rig, animação e câmeras](production/output/Dery_Crash_Master_R3.blend).
 - [Imagem aprovada do enquadramento](production/output/Dery_Crash_Previa_16x9.png).
 - [Roteiro e cortes](roteiro.md).
 
@@ -16,7 +16,7 @@ As duas exportações usam os mesmos quadros e a mesma narração. A edição ve
 
 Os dois WAVs originais foram preservados em [assets/voz](production/assets/voz/), com os hashes e a ordem documentados em [audio.json](production/audio.json). Somam **27,448 segundos**; a entrega mantém a velocidade e o tom originais e termina com uma pausa curta para a reação. O áudio final inclui efeitos digitais discretos, gerados localmente.
 
-A revisão tem treze tomadas, entre closes, plano do quarto e detalhes do monitor. O Dery olha para a câmera e para o jogo, gesticula, move cabeça e tronco e movimenta a boca conforme a energia da voz. A abertura de boca é estilizada, sem sincronização fonética detalhada. A gameplay permanece em reprodução contínua durante todo o episódio. A revisão remove as expressões PNG sobrepostas aos olhos e usa movimentos sutis da própria malha, gestos mais amplos e mais movimentos da cabeça e do corpo.
+A revisão tem treze tomadas, entre closes, plano do quarto e detalhes do monitor. O Dery olha para a câmera e para o jogo, gesticula, move cabeça e tronco e movimenta a boca conforme a energia da voz. A abertura de boca é estilizada, sem sincronização fonética detalhada. A gameplay permanece em reprodução contínua durante todo o episódio. A revisão R3 amplia a atuação facial com sorriso, olhos semicerrados, bochechas elevadas, sobrancelha levantada e surpresa. Os braços alternam gestos de conversa na altura do peito, com rotação dos punhos e ênfases com as duas mãos.
 
 ## Visual e fontes
 
@@ -46,3 +46,16 @@ Renders intermediários e backups do Blender ficam fora do Git.
 Gameplay original enviada pelo usuário, preservada em `production/assets/gameplay/crash_ps1_enviado.mp4`. Trecho contínuo de 6 a 34 segundos, convertido a 24 fps para o monitor, sem congelamento. Brilho da tela aumentado. A revisão usa a base já iluminada, com 13 tomadas, movimentos dos dois braços, cabeça e tronco, sobrancelhas e sorriso discretos na malha. Os olhos usam a textura original, sem sobreposição das expressões PNG.
 
 Para reproduzir a revisão, execute `revise_r2.py` no Blender e depois `export_short.py --revision r2 --preset veryfast`. A versão anterior continua no histórico do repositório.
+
+## Revisão R3 — expressões e gestos
+
+Revisão sobre o projeto R2, mantendo a voz, a gameplay enviada, o brilho do monitor, o cenário, as câmeras e os treze cortes. O sorriso agora movimenta a malha do rosto, os olhos e as bochechas, e ganha dentes no material. Há também uma sobrancelha levantada e uma reação de surpresa na piada. As expressões ficam concentradas nas tomadas do Dery.
+
+Os braços usam IK de duas articulações, com alvos dos punhos e controle dos cotovelos. As mãos sobem para aparecer nos enquadramentos e alternam ênfases conforme as frases. A orientação dos cotovelos é calculada com os ossos em repouso para evitar torção dos braços.
+
+```bash
+blender -b -t 4 --python shorts/004-crash-apelido/production/revise_r3.py
+python shorts/004-crash-apelido/production/export_short.py --revision r3 --preset veryfast
+```
+
+Para reconstruir a partir do projeto R2, `revise_r3.py` reaproveita os 150 quadros aprovados das tomadas focadas no monitor, caso os renders R2 estejam disponíveis localmente. A lista está em [reuse_r3.json](production/reuse_r3.json). Com esse cache, a exportação renderiza os outros 522 quadros e gera as duas proporções; sem o cache, renderiza os 672 quadros. Os renders intermediários não são versionados.
