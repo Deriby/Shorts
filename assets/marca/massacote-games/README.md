@@ -1,5 +1,6 @@
 # Massacote Games — identidade visual
 
+- [Perfil 1080 × 1080 com fundo escuro](logo_fundo_1080.png).
 - [Logo principal: M amarelo em PNG transparente](logo.png).
 - [Primeira proposta completa com mascote CRT](logo_completa_crt.png).
 
