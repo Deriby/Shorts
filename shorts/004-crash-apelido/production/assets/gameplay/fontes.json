@@ -59,5 +59,17 @@
         "use": "Gameplay 3D selecionada para o monitor; recorte central em 4:3"
       }
     ]
+  },
+  "revision_r2": {
+    "source": "Arquivo enviado pelo usuário",
+    "file": "crash_ps1_enviado.mp4",
+    "game": "Crash Bandicoot original de PS1",
+    "source_interval": [
+      6,
+      34
+    ],
+    "feed": "monitor_feed_r2.mp4",
+    "fps": 24,
+    "freeze": false
   }
 }

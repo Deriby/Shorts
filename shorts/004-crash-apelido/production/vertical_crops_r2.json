@@ -1,0 +1,93 @@
+[
+  {
+    "start": 1,
+    "end": 62,
+    "kind": "close",
+    "x_start": 662,
+    "x_end": 650
+  },
+  {
+    "start": 63,
+    "end": 105,
+    "kind": "medium",
+    "x_start": 729,
+    "x_end": 743
+  },
+  {
+    "start": 106,
+    "end": 145,
+    "kind": "reaction",
+    "x_start": 677,
+    "x_end": 648
+  },
+  {
+    "start": 146,
+    "end": 211,
+    "kind": "wide",
+    "x_start": 829,
+    "x_end": 792
+  },
+  {
+    "start": 212,
+    "end": 268,
+    "kind": "monitor",
+    "x_start": 656,
+    "x_end": 656
+  },
+  {
+    "start": 269,
+    "end": 324,
+    "kind": "monitor2",
+    "x_start": 656,
+    "x_end": 656
+  },
+  {
+    "start": 325,
+    "end": 364,
+    "kind": "side",
+    "x_start": 760,
+    "x_end": 759
+  },
+  {
+    "start": 365,
+    "end": 401,
+    "kind": "monitor3",
+    "x_start": 656,
+    "x_end": 656
+  },
+  {
+    "start": 402,
+    "end": 445,
+    "kind": "reaction",
+    "x_start": 645,
+    "x_end": 684
+  },
+  {
+    "start": 446,
+    "end": 500,
+    "kind": "wide",
+    "x_start": 844,
+    "x_end": 838
+  },
+  {
+    "start": 501,
+    "end": 554,
+    "kind": "medium",
+    "x_start": 733,
+    "x_end": 730
+  },
+  {
+    "start": 555,
+    "end": 613,
+    "kind": "close",
+    "x_start": 649,
+    "x_end": 666
+  },
+  {
+    "start": 614,
+    "end": 672,
+    "kind": "punch",
+    "x_start": 665,
+    "x_end": 664
+  }
+]
