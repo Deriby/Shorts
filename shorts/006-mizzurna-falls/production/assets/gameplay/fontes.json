@@ -1,0 +1,124 @@
+{
+  "arquivo": "mizzurna_falls_trailer_enviado.mp4",
+  "arquivo_original": "mizzurna-falls-ps1-trailer-720-ytshorts.savetube.me.mp4",
+  "sha256": "f313d5b832bc131300fe9a7d2982228222f0dbd69c67448e5d8da0dbfae19643",
+  "duracao_segundos": 69.729524,
+  "resolucao": [
+    1280,
+    720
+  ],
+  "fps": "60/1",
+  "observacao": "Trailer cinematográfico; não é o short com a narração sobre o criador.",
+  "referencia_narrativa": {
+    "url": "https://www.youtube.com/shorts/CQaP35kEDbo?feature=share",
+    "acesso": "Bloqueado pelo proxy do ambiente (403 no túnel HTTPS). Vídeo e transcrição não foram consultados.",
+    "pendencia": "Transcrição ou resumo do trecho sobre o criador para adaptar a história e conferir o título."
+  },
+  "pesquisa_externa": {
+    "url": "https://en.wikipedia.org/wiki/Mizzurna_Falls",
+    "acesso": "Bloqueado pelo proxy do ambiente (403 no túnel HTTPS); não usado como fonte consultada."
+  },
+  "mapa_visual_aproximado": [
+    {
+      "segundos": [
+        0,
+        4
+      ],
+      "conteudo": "Cartela HUMAN PRESENTS"
+    },
+    {
+      "segundos": [
+        4,
+        12
+      ],
+      "conteudo": "Paisagem de montanhas nevadas e título MIZZURNA FALLS"
+    },
+    {
+      "segundos": [
+        12,
+        19
+      ],
+      "conteudo": "Personagem deitado na cama"
+    },
+    {
+      "segundos": [
+        19,
+        24
+      ],
+      "conteudo": "Interior com policiais reunidos à mesa"
+    },
+    {
+      "segundos": [
+        24,
+        27
+      ],
+      "conteudo": "Interior de comércio"
+    },
+    {
+      "segundos": [
+        27,
+        31
+      ],
+      "conteudo": "Confronto no bar"
+    },
+    {
+      "segundos": [
+        31,
+        36
+      ],
+      "conteudo": "Interações entre personagens e policial em ambiente externo nevado"
+    },
+    {
+      "segundos": [
+        36,
+        40
+      ],
+      "conteudo": "Exterior noturno da igreja e motocicleta"
+    },
+    {
+      "segundos": [
+        40,
+        45
+      ],
+      "conteudo": "Conversas em interiores e igreja"
+    },
+    {
+      "segundos": [
+        45,
+        50
+      ],
+      "conteudo": "Cachoeira e personagens"
+    },
+    {
+      "segundos": [
+        50,
+        55
+      ],
+      "conteudo": "Interior de casa"
+    },
+    {
+      "segundos": [
+        55,
+        59
+      ],
+      "conteudo": "Personagem em uma cela"
+    },
+    {
+      "segundos": [
+        59,
+        63
+      ],
+      "conteudo": "Incêndio em interior"
+    },
+    {
+      "segundos": [
+        63,
+        69.729524
+      ],
+      "conteudo": "Personagens na neve e na região da cachoeira"
+    }
+  ],
+  "limite_mapeamento": "Faixas estimadas por amostragem visual, não pontos de corte finais. O sincronismo será definido com a voz.",
+  "texto_sobre_criador": "Nenhuma afirmação biográfica ou causal confirmada pelo trailer. Gancho e desfecho reservados até receber a referência.",
+  "contexto_jogo": "Data de lançamento, prazo de sete dias e rotinas dos NPCs usados como contexto preliminar; revalidar com fonte textual antes de gravar a versão definitiva."
+}

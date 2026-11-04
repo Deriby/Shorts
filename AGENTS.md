@@ -4,6 +4,7 @@
 - Use `shorts/NNN-assunto/`, mantendo o título exato informado pelo usuário no README do vídeo e no índice da raiz.
 - Para novos shorts, use somente 9:16. Planeje 16:9 e adaptação para vídeo longo apenas quando o usuário avisar que deseja esse aproveitamento.
 - Quando o pedido for somente de roteiros, entregue narração e planejamento de cenas; deixe a geração de voz e a renderização para a etapa solicitada pelo usuário.
+- Antes da próxima animação, corrigir os riscos/rachaduras pretos que reapareceram no rosto do Dery. Conferir em close as trocas de expressão e a virada de cabeça antes do render completo, preservando as expressões PNG com troca seca e o visual PS1.
 - Mantenha modelos e outros ativos reutilizáveis em `assets/`; preserve os arquivos originais do usuário.
 - Roteiro, gravação de voz e animação seguem a ordem combinada com o usuário. Ajuste os cortes à gravação real.
 - Versione roteiros, scripts, voz, texturas, expressões, projeto Blender e vídeos finais. Não versione renders intermediários, backups ou ZIPs duplicados.

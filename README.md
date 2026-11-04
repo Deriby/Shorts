@@ -11,6 +11,7 @@ Produção de shorts em 3D com estética PS1 / low poly, personagem Dery e narra
 | 003 | **Teste de formato — Massacote Games (5 segundos)** | [Prévia com voz e quarto gamer PS1](shorts/003-teste-quarto-gamer/) |
 | 004 | **O apelido mais quinta série do Crash** | [Short 9:16, master 16:9 e projeto Blender](shorts/004-crash-apelido/) |
 | 005 | **Misturaram GTA com POSTAL 2** | [Short 9:16, roteiros e projeto Blender](shorts/005-gta-postal2/) |
+| 006 | **Esse jogo destruiu seu criador** | [Roteiros preliminares e trailer de Mizzurna Falls](shorts/006-mizzurna-falls/) |
 
 ## Organização
 
