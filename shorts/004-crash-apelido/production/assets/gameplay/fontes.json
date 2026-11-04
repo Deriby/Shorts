@@ -1,0 +1,36 @@
+{
+  "screenshot": {
+    "file": "crash_ps1_screenshot.png",
+    "game": "Crash Bandicoot (PlayStation, 1996)",
+    "source": "https://github.com/libretro-thumbnails/Sony_-_PlayStation/blob/master/Named_Snaps/Crash%20Bandicoot%20(USA).png",
+    "use": "Imagem estática no monitor da prévia 16:9"
+  },
+  "video_source": {
+    "url": "https://github.com/pasteleirodorio/CrashBandicoot/blob/main/video/background.mp4",
+    "game": "Crash Bandicoot N. Sane Trilogy",
+    "type": "Montagem com gameplay e cenas cinematográficas",
+    "source_duration_seconds": 71.308481,
+    "resolution": [
+      1280,
+      720
+    ],
+    "original_recording_credit": "Não identificado no arquivo fonte; repositório de publicação: pasteleirodorio/CrashBandicoot",
+    "use": "Apoio visual para a explicação da câmera, com cenas de gameplay selecionadas",
+    "selected_clips": [
+      {
+        "file": "Crash_Nsane_camera_10-14.mp4",
+        "in": 10,
+        "out": 14,
+        "audio": "removed",
+        "use": "Câmera por trás do protagonista, para a explicação da narração"
+      },
+      {
+        "file": "Crash_Nsane_apoio_56-59.mp4",
+        "in": 56,
+        "out": 59,
+        "audio": "removed",
+        "use": "Apoio geral de gameplay, com cortes e variações de câmera"
+      }
+    ]
+  }
+}

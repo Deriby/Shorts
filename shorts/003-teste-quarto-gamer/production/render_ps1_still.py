@@ -11,18 +11,22 @@ import bpy
 import bmesh
 from mathutils import Vector
 
-ROOT = Path(__file__).resolve().parent
-FRAME = 108
-WIDTH, HEIGHT = 360, 640
-VERTEX_WIDTH, VERTEX_HEIGHT = 180, 320
-TEXTURE_GRID = 512
-OUTPUT = ROOT / 'output' / 'Dery_PS1_Bordas.png'
+CONFIG = globals().get('STILL_CONFIG', {})
+ROOT = Path(CONFIG.get('project_root', Path(__file__).resolve().parent))
+FRAME = CONFIG.get('frame', 108)
+WIDTH, HEIGHT = CONFIG.get('resolution', (360, 640))
+VERTEX_WIDTH, VERTEX_HEIGHT = CONFIG.get('vertex_grid', (180, 320))
+TEXTURE_GRID = CONFIG.get('texture_grid', 512)
+OUTPUT = Path(CONFIG.get('output', ROOT / 'output' / 'Dery_PS1_Bordas.png'))
+OUTPUT_WIDTH, OUTPUT_HEIGHT = CONFIG.get('output_resolution', (1080, 1920))
 RAW = ROOT / 'renders' / 'estudo_ps1' / 'frame.png'
 RAW.parent.mkdir(parents=True, exist_ok=True)
 
-bpy.ops.wm.open_mainfile(filepath=str(ROOT / 'output' / 'Dery_Quarto_Gamer_Teste.blend'))
+bpy.ops.wm.open_mainfile(filepath=str(CONFIG.get('base_blend', ROOT / 'output' / 'Dery_Quarto_Gamer_Teste.blend')))
 scene = bpy.context.scene
 scene.frame_set(FRAME)
+if CONFIG.get('prepare_scene'):
+    CONFIG['prepare_scene'](scene)
 depsgraph = bpy.context.evaluated_depsgraph_get()
 
 # Freeze only this pose. Join and weld the shared neck seam before quantizing,
@@ -132,7 +136,7 @@ for material in mesh.materials:
 # Hard pixel coverage, without the old spatial smoothing or bloom. The real
 # cyan/violet lights and the corrected seating pose are read from the base scene.
 scene.render.engine = 'CYCLES'
-scene.cycles.samples = 64
+scene.cycles.samples = CONFIG.get('samples', 64)
 scene.cycles.adaptive_min_samples = 16
 scene.cycles.adaptive_threshold = .035
 scene.cycles.use_denoising = False
@@ -151,7 +155,7 @@ bpy.ops.render.render(write_still=True)
 # exactly three times, with ordered RGB555 color dithering at its native pixels.
 bayer = '-3+4*mod(X,2)+6*mod(Y,2)-8*mod(X,2)*mod(Y,2)'
 channels = ':'.join(f"{c}='clip(floor(({c}(X,Y)+({bayer}))/8)*8,0,255)'" for c in 'rgb')
-filters = 'format=gbrp,geq='+channels+',scale=1080:1920:flags=neighbor'
+filters = 'format=gbrp,geq='+channels+f',scale={OUTPUT_WIDTH}:{OUTPUT_HEIGHT}:flags=neighbor'
 subprocess.run(['ffmpeg','-hide_banner','-loglevel','error','-y','-i',str(RAW),
     '-vf',filters,'-frames:v','1',str(OUTPUT)], check=True)
 print('SINGLE_IMAGE_READY', OUTPUT, flush=True)

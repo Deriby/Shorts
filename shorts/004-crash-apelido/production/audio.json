@@ -1,0 +1,22 @@
+{
+  "sequence": [
+    {
+      "file": "assets/voz/1-fish-audio-20261103-215858.wav",
+      "start": 0,
+      "duration": 11.527165532879819,
+      "sample_rate": 44100,
+      "channels": 1,
+      "sha256": "924ba889657e5af9c3214f010fed8e838e5c289f04272f4bbdfde67edc413d60"
+    },
+    {
+      "file": "assets/voz/2-fish-audio-20261103-220144.wav",
+      "start": 11.527165532879819,
+      "duration": 15.921111111111111,
+      "sample_rate": 44100,
+      "channels": 1,
+      "sha256": "eb106e8cdee4b562d0727316c03c5e7ebaf3b05a93b1e338f7de9098b20fdeb3"
+    }
+  ],
+  "total_seconds": 27.44827664399093,
+  "originals_unchanged": true
+}
