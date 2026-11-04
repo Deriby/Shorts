@@ -4,6 +4,8 @@
 - Use `shorts/NNN-assunto/`, mantendo o título exato informado pelo usuário no README do vídeo e no índice da raiz.
 - Para novos shorts, use somente 9:16. Planeje 16:9 e adaptação para vídeo longo apenas quando o usuário avisar que deseja esse aproveitamento.
 - Quando o pedido for somente de roteiros, entregue narração e planejamento de cenas; deixe a geração de voz e a renderização para a etapa solicitada pelo usuário.
+- Incluir no planejamento dos próximos shorts cenas curtas fora do quarto, ligadas ao assunto e à piada, como a queda no limbo. Definir essa variação de cenário já no roteiro, aproveitando modelos e recursos reutilizáveis.
+- Planejar a animação por trechos da fala antes de receber a voz. Texto digitado pelo usuário não significa áudio gravado; sincronismo e timecodes finais dependem da gravação.
 - Preservar a correção dos riscos/rachaduras do rosto: usar `assets/personagens/dery/ps1_precision.py` nos próximos renders, evitando deslocamentos diferentes em vértices coincidentes. Conferir em close as trocas de expressão e a virada de cabeça, mantendo PNGs com troca seca e o visual PS1. A correção e a validação inicial estão no episódio 006.
 - Mantenha modelos e outros ativos reutilizáveis em `assets/`; preserve os arquivos originais do usuário.
 - Roteiro, gravação de voz e animação seguem a ordem combinada com o usuário. Ajuste os cortes à gravação real.
