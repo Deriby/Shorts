@@ -1,5 +1,7 @@
 # Rostos PS1 do Dery
 
+**Biblioteca atual ampliada:** [31 rostos, atlas e controlador com o encaixe revisado](v2/). Os arquivos abaixo preservam a primeira biblioteca de doze expressões.
+
 Biblioteca reutilizável com **12 rostos desenhados**, em PNG de **128 × 128**, e um atlas de **512 × 384**. Os rostos foram desenhados com base no Dery original; cada expressão é uma imagem completa diferente.
 
 - [Ver as doze texturas](Dery_Expressoes_PS1.png).
