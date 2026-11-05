@@ -65,9 +65,13 @@ Sexto bloco em roteiro: **2B — NieR: Automata**, com versão revisada pelo usu
 
 - [Narração revisada — 2B](roteiros/06-2b/narracao.md).
 
-Sétimo bloco proposto: **Tracer — Overwatch**, com rascunho de narração para revisão.
+Sétimo bloco em roteiro: **Tracer — Overwatch**, com versão revisada pelo usuário e encerramento em “Mas conhece ela pelo jogo, né?...”. Ainda sem voz recebida.
 
-- [Narração proposta — Tracer](roteiros/07-tracer/narracao.md).
+- [Narração revisada — Tracer](roteiros/07-tracer/narracao.md).
+
+Oitavo bloco proposto: **D.Va — Overwatch**, com rascunho de narração para revisão. O ângulo contrapõe a piloto e seu robô ao conteúdo adulto feito por fãs.
+
+- [Narração proposta — D.Va](roteiros/08-dva/narracao.md).
 
 A ordem dos roteiros acompanha as escolhas do usuário. Os demais blocos ainda precisam de roteiro, pesquisa e autorização de produção. Os episódios anteriores não foram alterados.
 
