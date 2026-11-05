@@ -2,6 +2,7 @@
 from pathlib import Path
 import sys,json,math,wave,array,bpy
 from mathutils import Vector,Quaternion,Matrix
+from bpy_extras.object_utils import world_to_camera_view
 ROOT=Path(__file__).resolve().parent;REPO=next(p for p in ROOT.parents if(p/'AGENTS.md').exists());WIDE='--wide'in sys.argv
 sys.path[:0]=[str(REPO/'shorts/003-teste-quarto-gamer/production'),str(REPO/'assets/personagens/dery'),str(REPO/'assets/personagens/dery/expressions_ps1/v2'),str(REPO/'assets/personagens/dery/roupas/camiseta_preta')]
 import helpers as H
@@ -43,6 +44,13 @@ precision(bpy.data.objects['ROOM | baked lighting geometry'])
 # Keep the monitor bright and continuously refreshed.
 screen=bpy.data.objects['CRT moving picture'];nt=screen.data.materials[0].node_tree;tex=next(n for n in nt.nodes if n.type=='TEX_IMAGE');tex.image=bpy.data.images.load(str(ROOT/'assets/gameplay/monitor_montado.mp4'));tex.interpolation='Closest';tex.image_user.frame_start=1;tex.image_user.frame_offset=0;tex.image_user.frame_duration=N;tex.image_user.use_auto_refresh=True
 next(n for n in nt.nodes if n.type=='EMISSION').inputs['Strength'].default_value=1.15
+wide_monitor_lens=39
+if WIDE:
+ cam.location=(1.15,.28,1.55);cam.rotation_euler=(Vector((.1095,-.7959,1.262))-cam.location).to_track_quat('-Z','Y').to_euler();cam.data.lens=39;bpy.context.view_layer.update()
+ points=[world_to_camera_view(s,cam,screen.matrix_world@v.co)for v in screen.data.vertices]
+ width=max(p.x for p in points)-min(p.x for p in points);height=max(p.y for p in points)-min(p.y for p in points)
+ wide_monitor_lens=39*min(.88/width,.80/height)
+
 with wave.open(str(ROOT/'assets/voz/narracao_completa.wav'))as w:sr=w.getframerate();voice=array.array('h',w.readframes(w.getnframes()))
 def empty(name,loc=(0,0,0),parent=None):
  o=bpy.data.objects.new(name,None);s.collection.objects.link(o);o.parent=parent;o.location=loc;return o
@@ -73,7 +81,7 @@ stone=H.material('CASTLE | grey stone',(.20,.19,.18),lit=False);dark=H.material(
 castle_objs=[]
 def box(name,loc,size,mat):
  o=H.box('CASTLE | '+name,loc,size,mat);castle_objs.append(o);return o
-box('floor',(20,-.4,-.07),(7,6,.12),stone);box('wall',(20,1,1.7),(6,.14,3.5),stone);box('door',(20.25,.90,1.45),(1.65,.12,2.9),door_mat)
+box('floor',(20,-.4,-.07),(12 if WIDE else 7,8 if WIDE else 6,.12),stone);box('wall',(20,1,1.7),(10 if WIDE else 6,.14,3.5),stone);box('door',(20.25,.90,1.45),(1.65,.12,2.9),door_mat)
 for x in [19.25,21.25]:
  box('column',(x,.64,1.5),(.24,.34,3),gold)
  for z in [.08,2.96]:box('capital',(x,.64,z),(.43,.46,.17),stone)
@@ -119,7 +127,7 @@ for f in range(1,N+1):
  t=(f-1)/24;sh=next(x for x in info['shots']if x['start']<=f<=x['end']);mood=sh['mood'];u=(f-sh['start'])/max(1,sh['end']-sh['start']);speaking=talk(t)
  for name,q in base.items():r.pose.bones[name].rotation_quaternion=q
  gaze=curve([(0,.6),(2.4,.6),(2.95,0),(4.8,0),(5.4,.8),(6.8,.1),(11.35,.1),(11.8,0),(20.4,.8),(21.15,0),(23.6,0),(30.2,0),(31.0,.45),(31.6,0),(36.6,.55),(37.2,0),(39,0)],t)
- hq=head_side if mood=='embarrassed'else head_final if mood=='final'else head_cam;r.pose.bones['head'].rotation_quaternion=hq.slerp(head_monitor,gaze)
+ hq=head_side if mood=='embarrassed'or(WIDE and mood=='final')else head_final if mood=='final'else head_cam;r.pose.bones['head'].rotation_quaternion=hq.slerp(head_monitor,gaze)
  tilt=curve([(0,0),(2.8,-.045),(3.5,.025),(4.8,0),(11.7,-.03),(12.5,.04),(13.2,0),(20.5,.08),(22.2,.08),(23.6,0),(30.2,-.075),(31.4,-.075),(31.8,0),(37,.035),(38.5,0)],t)
  r.pose.bones['head'].rotation_quaternion@=rest['head'].inverted()@Quaternion((0,1,0),tilt)@rest['head']
  lean=curve([(0,0),(2.5,.03),(3.2,-.055),(4.4,-.02),(11.4,.025),(12,.045),(13.1,-.01),(20.4,0),(21,-.05),(22.6,-.025),(23.5,0),(30.2,.04),(31,.06),(31.8,0),(36.6,-.04),(37.5,.02),(38.4,.01)],t)
@@ -144,9 +152,9 @@ for f in range(1,N+1):
  a2['PS1_face_id']=26 if mood=='height'else 5 if t<26.7 else 25;a2.keyframe_insert(data_path='["PS1_face_id"]',frame=f);a2.hide_render=sh['kind']!='castle';a2.keyframe_insert(data_path='hide_render',frame=f)
  shadow.location.x=curve([(0,21),(16.44,21),(18.8,20.35),(25.82,20.95),(28.66,20.35)],t);H.record(shadow,'location',f)
  if sh['kind']=='castle':cam.location=(21.2,-4.3+.05*u,2.15);target=Vector((20.12,.35,1.47));lens=33
- elif sh['kind']=='monitor':cam.location=(1.15,.28,1.55);target=Vector((.1095,-.7959,1.262));lens=39
+ elif sh['kind']=='monitor':cam.location=(1.15,.28,1.55);target=Vector((.1095,-.7959,1.262));lens=wide_monitor_lens if WIDE else 39
  elif mood=='embarrassed':cam.location=(1.8,-.45,1.55);target=Vector((0,.10,1.41));lens=68
- elif mood=='final':cam.location=(1.25,-1.25,1.56);target=Vector((0,.10,1.40));lens=57
+ elif mood=='final':cam.location=(1.8,-.45,1.57)if WIDE else(1.25,-1.25,1.56);target=Vector((0,.10,1.40));lens=57
  else:cam.location=(2.1-.025*u,-.85+.015*u,1.65);target=Vector((0,.10,1.18));lens=42
  cam.rotation_euler=(target-cam.location).to_track_quat('-Z','Y').to_euler();cam.data.lens=lens;H.record(cam,'location',f);H.record(cam,'rotation_euler',f);H.record(cam.data,'lens',f)
 H.commit_curves()
@@ -154,9 +162,9 @@ for obj in [a,a2]:
  for fc in obj.animation_data.action.fcurves:
   for k in fc.keyframe_points:k.interpolation='CONSTANT'
 (ROOT/'face_cues.json').write_text(json.dumps(face_events,indent=2));(ROOT/'acting_cues.json').write_text(json.dumps(dict(method='Distinct phrase gestures with preparation, stroke, holds and asymmetric follow-through; no periodic arm loop.',right=R,left=L,reference='User talking reference from episode 007; personal video kept private.'),indent=2))
-s['DeryPS1Look']='128x228 seam-safe vertex precision; 128px body texture addressing; 5-bit RGB + ordered dithering at export';s['DeryFormats']='First 9:16; run build_short.py --wide for future 16:9 with the same acting.'
+s['DeryPS1Look']=f'{405 if WIDE else 128}x228 seam-safe vertex precision; 128px body texture addressing; 5-bit RGB + ordered dithering at export';s['DeryFormats']='First 9:16; run build_short.py --wide for future 16:9 with the same acting.'
 s.sequence_editor_create().sequences.new_sound('VOZ | supplied recording',str(ROOT/'assets/voz/narracao_mix.wav'),channel=1,frame_start=1)
 s.frame_set(80);bpy.data.orphans_purge(do_recursive=True);bpy.ops.file.pack_all();(ROOT/'output').mkdir(exist_ok=True);dest=ROOT/'output'/('Dery_Lady_Master_16x9.blend'if WIDE else'Dery_Lady_Dimitrescu.blend');bpy.ops.wm.save_as_mainfile(filepath=str(dest),compress=True);bpy.ops.file.make_paths_relative();bpy.ops.wm.save_as_mainfile(filepath=str(dest),compress=True)
 for t in [3.3,5.8,12.1,17.5,21.5,26.8,30.8,37.6]:
- s.frame_set(round(t*24)+1);s.render.filepath=str(ROOT/f'output/preview_{round(t*24)+1:04d}.png');bpy.ops.render.render(write_still=True)
+ s.frame_set(round(t*24)+1);s.render.filepath=str(ROOT/f"output/preview_{'wide_'if WIDE else ''}{round(t*24)+1:04d}.png");bpy.ops.render.render(write_still=True)
 print('LADY_SCENE_READY',flush=True)

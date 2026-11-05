@@ -1,7 +1,7 @@
 """Check original geometry, seated support, IK reach, facial seams and PS1 precision."""
 from pathlib import Path
 from collections import defaultdict
-import bpy,json
+import bpy,json,sys
 ROOT=Path(__file__).resolve().parent;REPO=next(p for p in ROOT.parents if(p/'AGENTS.md').exists());s=bpy.context.scene;a=bpy.data.objects['DERY | animated character'];a2=bpy.data.objects['CASTLE | Dery'];r=bpy.data.objects['Dery_Rig'];r2=bpy.data.objects['CASTLE | Dery rig']
 with bpy.data.libraries.load(str(REPO/'shorts/004-crash-apelido/production/output/Dery_Crash_Master_R5.blend'))as(src,dst):dst.objects=['DERY | animated character']
 orig=dst.objects[0];geometry=max((v.co-o.co).length for v,o in zip(a.data.vertices,orig.data.vertices));assert geometry==0
@@ -33,4 +33,4 @@ for obj in [a,a2]:
  for fc in obj.animation_data.action.fcurves:
   if 'PS1_face_id'in fc.data_path:assert all(k.interpolation=='CONSTANT'for k in fc.keyframe_points)
 report=dict(original_geometry_max_displacement_m=geometry,face_checks=faces,precision_checks=motion,seated_pelvis_stable=True,standing_feet_stable=True,arm_checks=reach,monitor_frames=tex.image_user.frame_duration,monitor_auto_refresh=True,expressions='31 PNG faces, discrete changes, no active morphs',acting='Non-periodic phrase gestures with asymmetric strokes, holds and releases')
-(ROOT/'scene_validation.json').write_text(json.dumps(report,indent=2));print('LADY_SCENE_VALIDATED',flush=True)
+(ROOT/('scene_validation_16x9.json'if '--wide'in sys.argv else'scene_validation.json')).write_text(json.dumps(report,indent=2));print('LADY_SCENE_VALIDATED',flush=True)

@@ -1,10 +1,12 @@
 # Personagens que a internet estragou — Lady Dimitrescu
 
-Primeiro bloco: entrega vertical 1080×1920, 24 fps e 39 segundos. Voz de 38,313 s recebida no pacote do usuário, preservada sem cortes, mudança de velocidade ou altura. A timeline segue a gravação real, cuja ordem difere do texto inicial.
+Primeiro bloco: entregas **9:16 em 1080×1920** e **16:9 em 1920×1080**, ambas com 24 fps e 39 segundos. Voz de 38,313 s recebida no pacote do usuário, preservada sem cortes, mudança de velocidade ou altura. A timeline segue a gravação real, cuja ordem difere do texto inicial.
 
 ## Arquivos
 
 - `output/Lady_Dimitrescu_Personagens_que_a_internet_estragou_9x16.mp4`: master do short.
+- `output/Lady_Dimitrescu_Personagens_que_a_internet_estragou_16x9.mp4`: master horizontal, com câmeras e composição de mídia próprias.
+- `output/Dery_Lady_Master_16x9.blend`: projeto horizontal.
 - `output/Dery_Lady_Dimitrescu.blend`: quarto, entrada do castelo, rig, atuação, expressões e voz na timeline.
 - `assets/voz/voz_original.mp3`: gravação original preservada byte a byte. Os WAVs são sua decodificação e cópia com silêncio final.
 - `assets/gameplay/`: trechos selecionados dos vídeos enviados e o feed sincronizado do monitor.
@@ -25,7 +27,7 @@ Parte dos vídeos enviados usa roupa ou câmera modificadas. São apoio visual e
 
 ## Visual PS1
 
-Render nativo 360×640 com upscale inteiro 3× por vizinho mais próximo. Precisão de vértices em grade de 128×228, preservando a proteção do rosto contra fissuras. Texturas do corpo endereçadas em 128 px, amostragem Closest, sombreamento facetado e cenário de poucos polígonos. Na exportação, quantização de 5 bits por canal e dithering Bayer fixo 4×4, sem ruído aleatório, desfoque ou transição de glitch.
+Render nativo 360×640 no vertical e 640×360 no horizontal, com upscale inteiro 3× por vizinho mais próximo. Precisão de vértices em grade de 128×228 no vertical e 405×228 no horizontal, preservando a proteção do rosto contra fissuras. Texturas do corpo endereçadas em 128 px, amostragem Closest, sombreamento facetado e cenário de poucos polígonos. Na exportação, quantização de 5 bits por canal e dithering Bayer fixo 4×4, sem ruído aleatório, desfoque ou transição de glitch.
 
 O movimento dos personagens e da câmera produz o tremido da geometria; o dithering fica preso à grade de pixels. O corpo original, a camiseta preta com M amarelo e as 31 expressões desenhadas foram preservados. As coordenadas da malha são conferidas contra o modelo de origem.
 
@@ -42,6 +44,17 @@ python shorts/008-personagens-que-a-internet-estragou/production/01-lady-dimitre
 
 `prepare_assets.py` prepara o pacote original e o monitor; para executá-lo novamente, é necessário restaurar o ZIP local e seu inventário de inspeção. As mídias preparadas necessárias ao render já estão versionadas. O projeto Blender usa caminhos relativos para vídeo e áudio: baixar a pasta de produção completa para editar.
 
-`build_short.py --wide` prepara a mesma atuação e uma versão do projeto para futuro render 16:9. A entrega desta etapa é 9:16. O vídeo longo ainda exige a montagem dos demais blocos e seus reenquadramentos de mídia.
+A versão 16:9 foi renderizada com a mesma atuação e áudio. O monitor tem aproximação própria, o castelo ganha extensão lateral e o close final usa uma câmera lateral. A gameplay mantém o quadro completo; a comparação de altura e o meme vertical usam composição horizontal, e a reação usa a imagem original lado a lado. O vídeo longo ainda exige a montagem dos demais blocos.
+
+Para gerar o horizontal:
+
+```sh
+blender -b -t 2 --python-exit-code 1 --python shorts/008-personagens-que-a-internet-estragou/production/01-lady-dimitrescu/build_short.py -- --wide
+blender -b shorts/008-personagens-que-a-internet-estragou/production/01-lady-dimitrescu/output/Dery_Lady_Master_16x9.blend -t 1 --python-exit-code 1 --python shorts/008-personagens-que-a-internet-estragou/production/01-lady-dimitrescu/verify_scene.py -- --wide
+python shorts/008-personagens-que-a-internet-estragou/production/01-lady-dimitrescu/export_short.py --wide
+python shorts/008-personagens-que-a-internet-estragou/production/01-lady-dimitrescu/verify_export.py --wide
+```
+
+Os quadros e relatórios do horizontal ficam separados em `renders/final_16x9`, `scene_validation_16x9.json` e `export_validation_16x9.json`.
 
 Apenas os planos 3D passam pelo Blender, em dois processos de dois threads; inserts de imagens e gameplay são montados separadamente. Quadros intermediários, backups e ZIPs duplicados ficam fora do Git.
