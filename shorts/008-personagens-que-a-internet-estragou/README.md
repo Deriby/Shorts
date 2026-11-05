@@ -35,6 +35,11 @@ Primeiro bloco concluído: **Lady Dimitrescu**, com voz, vídeos e memes enviado
 - [Projeto Blender horizontal](production/01-lady-dimitrescu/output/Dery_Lady_Master_16x9.blend).
 - [Produção, fontes e verificações](production/01-lady-dimitrescu/README.md).
 
+Segundo bloco em roteiro: **Tifa — Final Fantasy VII**, com foco no conteúdo adulto de fãs e no incidente da videoconferência de janeiro de 2022. Ainda não há gravação recebida nem produção iniciada para a Tifa.
+
+- [Narração — Tifa](roteiros/02-tifa/narracao.md).
+- [Animação e materiais úteis — Tifa](roteiros/02-tifa/animacao.md).
+
 Os demais blocos ainda precisam de roteiro, pesquisa e autorização de produção. Os episódios anteriores não foram alterados.
 
 ## Fluxo de mídia desejado
@@ -47,7 +52,7 @@ Objetivo futuro: depois de fechar o roteiro, o usuário pretende enviar apenas a
 4. Após receber a gravação, ajustar a seleção à fala real, montar o vídeo do monitor e os cortes diretos de gameplay e sincronizar a atuação do Dery. Conferir leitura, brilho, proporção, movimento da tela e ausência de cortes congelados.
 5. Reaproveitar modelos, cenário e trechos entre os dois formatos, renderizando novamente apenas o que exigir enquadramento ou atuação diferentes.
 
-**Estado atual:** os scripts de produção já montam vídeos locais em feeds para o monitor e exportam os cortes. Busca, seleção e download automáticos ainda não foram implementados nem testados como fluxo completo. O último status do ambiente ainda não tinha os domínios do YouTube ativos; a liberação foi salva em rascunho e depende da aplicação da configuração. Não afirmar que essa aquisição está pronta nem tentar contornar bloqueios de rede.
+**Estado atual:** os scripts de produção já montam vídeos locais em feeds para o monitor e exportam os cortes. Busca, seleção e download automáticos ainda não foram implementados nem testados como fluxo completo. As permissões de mídia foram aplicadas; o YouTube ainda retornou 403, enquanto fontes do Steam permitiram baixar imagens e um trecho de trailer em teste. A pesquisa automática do Google Imagens não foi validada como fluxo completo. O usuário segue enviando as mídias manualmente. Não afirmar que a aquisição automática está pronta nem tentar contornar bloqueios de rede.
 
 ## Direção visual para a próxima animação
 
