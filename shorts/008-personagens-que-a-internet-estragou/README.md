@@ -51,7 +51,17 @@ Terceiro bloco: **Chun-Li — Street Fighter / Fortnite**, com voz, imagens e v�
 - [Assistir / baixar o horizontal 16:9 da Chun-Li](production/03-chun-li/output/ChunLi_Personagens_que_a_internet_estragou_16x9.mp4).
 - [Produção, projetos Blender, fontes e verificações — Chun-Li](production/03-chun-li/README.md).
 
-Os demais blocos ainda precisam de roteiro, pesquisa e autorização de produção. Os episódios anteriores não foram alterados.
+O usuário está fechando as falas e gravará os personagens em sequência. Ao receber uma revisão acompanhada do pedido de próximo personagem, salvar a versão e seguir somente com a próxima narração. O planejamento de animação e a produção ficam para a etapa solicitada.
+
+Quarto bloco em roteiro: **Ankha — Animal Crossing**, com a versão revisada pelo usuário e fechamento em “Nós te perdoamos”. Ainda sem voz recebida.
+
+- [Narração revisada — Ankha](roteiros/04-ankha/narracao.md).
+
+Quinto bloco proposto: **Vaporeon — Pokémon**, com rascunho de narração para revisão.
+
+- [Narração proposta — Vaporeon](roteiros/05-vaporeon/narracao.md).
+
+A ordem dos roteiros acompanha as escolhas do usuário. **2B continua no elenco aprovado e ainda está pendente de roteiro.** Os demais blocos ainda precisam de roteiro, pesquisa e autorização de produção. Os episódios anteriores não foram alterados.
 
 ## Fluxo de mídia desejado
 
