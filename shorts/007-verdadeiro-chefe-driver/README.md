@@ -1,6 +1,6 @@
 # O verdadeiro chefe de Driver
 
-Short do Massacote Games sobre o teste de direção na garagem do primeiro Driver, do PS1. Formato **9:16**. Etapa atual: somente roteiros.
+Short do Massacote Games sobre o teste de direção na garagem do primeiro Driver, do PS1. Formato **9:16**. Produção concluída com a voz e a gameplay enviadas pelo usuário.
 
 - [Falas para gravação](roteiro_narracao.md).
 - [Roteiro de animação por trecho da fala](roteiro_animacao.md).
@@ -9,10 +9,14 @@ A ideia central é a dificuldade do tutorial que precede a campanha Undercover. 
 
 O planejamento inclui quarto gamer, gameplay do tutorial e uma garagem low poly pequena, reaproveitada em duas aparições. Na garagem, uma barra de vida sobre a coluna permanece cheia após a batida; a reação do Dery completa a piada. Essa barra é uma ilustração cômica, não um recurso do Driver original.
 
-Ainda não há voz recebida nem gameplay selecionada para este short. Os roteiros não fixam timecodes. Na etapa de produção, localizar imagens do teste da garagem que mostrem o contador, a lista em inglês e as manobras citadas. Preservar a proporção do material, mantendo a interface legível no monitor quando o recorte vertical não servir.
+A montagem final tem 43,875 segundos e vinte planos, sincronizados com a gravação enviada. O detalhe do monitor preserva o HUD completo; os cortes de ação usam o recorte vertical. A referência pessoal de gestos foi analisada para a atuação e fica fora do repositório público.
 
 O teste obrigatório citado se refere ao acesso à campanha; não significa que todos os modos do jogo estejam bloqueados. A lista é descrita por exemplos, sem atribuir uma contagem de manobras ao roteiro.
 
-Usar a correção compartilhada do rosto do episódio 006, a biblioteca de 31 PNGs com troca seca e o modelo original do Dery. Voz, modelos novos, gameplay e renderização ficam para a etapa solicitada pelo usuário.
+Usar a correção compartilhada do rosto do episódio 006, a biblioteca de 31 PNGs com troca seca e o modelo original do Dery. A produção inclui voz original, gameplay fornecida, garagem, carro, projeto Blender e master final.
 
 A roupa atual do Dery é a [camiseta preta com M amarelo do Massacote Games](../../assets/personagens/dery/roupas/camiseta_preta/), com corte original e alteração somente do material.
+
+- [Assistir / baixar o short](production/output/O_verdadeiro_chefe_de_Driver_9x16.mp4).
+- [Projeto Blender](production/output/Dery_Driver.blend).
+- [Produção e verificações](production/README.md).

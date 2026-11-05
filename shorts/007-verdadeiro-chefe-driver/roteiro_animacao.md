@@ -1,6 +1,6 @@
 # O verdadeiro chefe de Driver — roteiro de animação v1
 
-Planejamento **9:16**, organizado por frases da [narração](roteiro_narracao.md). Ainda não há gravação de voz. Esta etapa entrega somente o roteiro; as durações e os pontos de corte serão definidos depois do áudio.
+Planejamento **9:16**, organizado por frases da [narração](roteiro_narracao.md). Planejamento inicial preservado abaixo. A voz e a gameplay foram recebidas na etapa seguinte; a montagem executada e os cortes finais estão em [production/timeline.json](production/timeline.json).
 
 O arco visual vai de confiança → surpresa com o teste → esforço → impaciência → derrota para uma pilastra. Além do quarto e da gameplay, haverá uma garagem 3D curta, planejada desde o roteiro, com o Dery no carro. A primeira aparição prepara a pilastra; a segunda resolve a piada.
 

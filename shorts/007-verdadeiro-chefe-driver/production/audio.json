@@ -1,0 +1,23 @@
+{
+  "original_filename": "VOZ - O verdadeiro chefe de DRIVER.mp3",
+  "sha256": "52535cdca064131bdfb4dc5a6a201a53ff0da70b246b720942cb413f59467f22",
+  "voice_duration_seconds": 43.21807256235827,
+  "frames": 1053,
+  "speed_changed": false,
+  "pitch_changed": false,
+  "trimmed": false,
+  "sfx_windows": [
+    [
+      25.9,
+      26.04
+    ],
+    [
+      38,
+      38.18
+    ],
+    [
+      40.55,
+      40.69
+    ]
+  ]
+}

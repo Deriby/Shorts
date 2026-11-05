@@ -1,0 +1,169 @@
+{
+  "fps": 24,
+  "frames": 1053,
+  "duration": 43.875,
+  "voice_duration": 43.21807256235827,
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 64,
+      "kind": "game",
+      "mood": "intro",
+      "source_start": 4
+    },
+    {
+      "id": 1,
+      "start": 65,
+      "end": 118,
+      "kind": "actor",
+      "mood": "deadpan",
+      "source_start": 35
+    },
+    {
+      "id": 2,
+      "start": 119,
+      "end": 178,
+      "kind": "actor",
+      "mood": "explain",
+      "source_start": 6
+    },
+    {
+      "id": 3,
+      "start": 179,
+      "end": 261,
+      "kind": "game",
+      "mood": "undercover",
+      "source_start": 5
+    },
+    {
+      "id": 4,
+      "start": 262,
+      "end": 343,
+      "kind": "actor",
+      "mood": "test",
+      "source_start": 2
+    },
+    {
+      "id": 5,
+      "start": 344,
+      "end": 422,
+      "kind": "monitor",
+      "mood": "list",
+      "source_start": 2
+    },
+    {
+      "id": 6,
+      "start": 423,
+      "end": 460,
+      "kind": "game",
+      "mood": "handbrake",
+      "source_start": 12
+    },
+    {
+      "id": 7,
+      "start": 461,
+      "end": 499,
+      "kind": "game",
+      "mood": "spin",
+      "source_start": 26.5,
+      "source_speed": 1.6
+    },
+    {
+      "id": 8,
+      "start": 500,
+      "end": 528,
+      "kind": "game",
+      "mood": "slalom",
+      "source_start": 41
+    },
+    {
+      "id": 9,
+      "start": 529,
+      "end": 574,
+      "kind": "game",
+      "mood": "reverse",
+      "source_start": 29.5
+    },
+    {
+      "id": 10,
+      "start": 575,
+      "end": 639,
+      "kind": "garage",
+      "mood": "brake",
+      "source_start": 12
+    },
+    {
+      "id": 11,
+      "start": 640,
+      "end": 667,
+      "kind": "monitor",
+      "mood": "english",
+      "source_start": 3
+    },
+    {
+      "id": 12,
+      "start": 668,
+      "end": 698,
+      "kind": "actor",
+      "mood": "confused",
+      "source_start": 3
+    },
+    {
+      "id": 13,
+      "start": 699,
+      "end": 756,
+      "kind": "actor",
+      "mood": "small",
+      "source_start": 4
+    },
+    {
+      "id": 14,
+      "start": 757,
+      "end": 839,
+      "kind": "actor",
+      "mood": "stunt",
+      "source_start": 5
+    },
+    {
+      "id": 15,
+      "start": 840,
+      "end": 867,
+      "kind": "game",
+      "mood": "clock",
+      "source_start": 76
+    },
+    {
+      "id": 16,
+      "start": 868,
+      "end": 907,
+      "kind": "game",
+      "mood": "editorial_restart",
+      "source_start": 2
+    },
+    {
+      "id": 17,
+      "start": 908,
+      "end": 958,
+      "kind": "garage",
+      "mood": "boss",
+      "source_start": 8
+    },
+    {
+      "id": 18,
+      "start": 959,
+      "end": 1003,
+      "kind": "garage",
+      "mood": "bonk",
+      "source_start": 8
+    },
+    {
+      "id": 19,
+      "start": 1004,
+      "end": 1053,
+      "kind": "garage",
+      "mood": "defeat",
+      "source_start": 8
+    }
+  ]
+}

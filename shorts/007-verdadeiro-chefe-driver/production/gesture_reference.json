@@ -1,0 +1,41 @@
+{
+  "source": "Personal talking reference supplied by user; raw video deliberately kept outside public repository.",
+  "method": "Hand-authored keyframe acting reference, not motion capture.",
+  "cues": [
+    {
+      "reference_seconds": [
+        12,
+        21
+      ],
+      "gesture": "Two hands in front of chest, small forward emphases."
+    },
+    {
+      "reference_seconds": [
+        24,
+        30
+      ],
+      "gesture": "Both hands pointing toward viewer; eyebrows and head tilt."
+    },
+    {
+      "reference_seconds": [
+        33,
+        39
+      ],
+      "gesture": "Open palms; short forward lean for emphasis."
+    },
+    {
+      "reference_seconds": [
+        42,
+        45
+      ],
+      "gesture": "One hand raised, then asymmetric return."
+    }
+  ],
+  "mapping": {
+    "explanation": "alternating chest-height beats",
+    "small": "hands brought closer together",
+    "stunt": "larger open palms and forward lean",
+    "confused": "head tilt and single palm up",
+    "defeat": "still head, deadpan PNG face"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "original_geometry_max_displacement_m": 0.0,
+  "face_checks": [
+    {
+      "actor": "DERY | animated character",
+      "frame": 134,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 683,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 798,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "CAR | Dery",
+      "frame": 611,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "CAR | Dery",
+      "frame": 930,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "CAR | Dery",
+      "frame": 980,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "CAR | Dery",
+      "frame": 1040,
+      "max_facial_split_m": 0.0
+    }
+  ],
+  "seated_pelvis_stable": true,
+  "wheel_contacts": [
+    {
+      "frame": 611,
+      "hand": "R",
+      "surface_to_wheel_m": 0.0006126599037088454
+    },
+    {
+      "frame": 611,
+      "hand": "L",
+      "surface_to_wheel_m": 0.00044350323150865734
+    },
+    {
+      "frame": 980,
+      "hand": "R",
+      "surface_to_wheel_m": 0.0003581751952879131
+    },
+    {
+      "frame": 980,
+      "hand": "L",
+      "surface_to_wheel_m": 0.00013842580665368587
+    },
+    {
+      "frame": 1040,
+      "hand": "R",
+      "surface_to_wheel_m": 3.4443284675944597e-05
+    },
+    {
+      "frame": 1040,
+      "hand": "L",
+      "surface_to_wheel_m": 0.00017069876776076853
+    }
+  ],
+  "monitor_auto_refresh": true,
+  "monitor_frames": 1053,
+  "expressions": "31 drawn PNGs; discrete changes; no morphing"
+}
