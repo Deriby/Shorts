@@ -1,10 +1,10 @@
 # Personagens que a internet estragou — Vaporeon
 
-Narração entregue ao usuário, que pediu para avançar ao próximo personagem sem enviar alterações textuais. Falas reunidas para gravação em sequência; ainda sem voz recebida ou produção.
+Rascunho entregue antes da gravação. O usuário enviou depois “Voz 5 Vaporeon.mp3”, cuja fala altera este texto: apresenta Vaporeon no início, antecipa a piada da pedra e termina com os memes de contexto. A produção de 47,417 segundos segue o áudio recebido inteiro; este rascunho não foi usado para substituir falas da gravação.
 
-O [roteiro de animação](animacao.md) foi planejado a partir desta versão. Os cortes e o sincronismo serão ajustados à gravação recebida.
+O [roteiro de animação](animacao.md) foi planejado a partir desta versão. Os cortes efetivos estão na [produção](../../production/05-vaporeon/timeline.json), sincronizados à gravação recebida.
 
-## Falas
+## Rascunho anterior à gravação
 
 Esse Pokémon virou vítima de um textão que a internet nunca mais deixou morrer.
 

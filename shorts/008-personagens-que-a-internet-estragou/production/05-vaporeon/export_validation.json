@@ -1,0 +1,18 @@
+{
+  "video": "Vaporeon_Personagens_que_a_internet_estragou_9x16.mp4",
+  "frames": 1138,
+  "duration": 47.416667,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 24,
+  "codec": "H.264 + AAC",
+  "size_bytes": 26442595,
+  "full_decode": "passed",
+  "voice_original_sha256": "e14d26ed0c52ed36157c6cfd041b66aa0463471e73991444ff4b6e3e5021fbba",
+  "voice_unmodified": true,
+  "monitor_frames": 1138,
+  "scene_checks": "passed",
+  "ps1_palette": "5-bit RGB with fixed 4x4 ordered Bayer pattern, integer nearest-neighbor upscale"
+}

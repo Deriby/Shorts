@@ -1,0 +1,100 @@
+{
+  "package": "5 - Vaporeon.zip",
+  "source": "User-provided Google Drive archive",
+  "files": [
+    {
+      "original_filename": "5951910_1097156_sombresnuances_untitled-5951910.f2557f2e6fdb63ecc8867201e15345f6.png",
+      "bytes": 542062,
+      "sha256": "5c232093f3b05436891e36da6a2cbf48731e4ef085db9aa5040bd9f15480e296"
+    },
+    {
+      "original_filename": "700fb66c-7e21-4c04-9fcd-6e4c5ccb2ca0.png",
+      "bytes": 421527,
+      "sha256": "99ce27e1be1629d49b8a8b745973e0dfbe5c2b704db5b9b24cdb30fa9367bac8"
+    },
+    {
+      "original_filename": "contextomeme.jpeg",
+      "bytes": 23609,
+      "sha256": "ea0425f0e21f260a85f353233c5a17f2359c306eb8e7f4ea4da6ba4b79873cf2"
+    },
+    {
+      "original_filename": "contextomeme2.png",
+      "bytes": 644842,
+      "sha256": "80845c0d77f68e96ecf707b1e4cd9f7bf546c56950a5bacd511e1279749f95f8"
+    },
+    {
+      "original_filename": "contextomeme3.jpg",
+      "bytes": 20057,
+      "sha256": "a8dc35de512b9b49b8435ce16772e8b522c1304f3085ba4d1467e35e3f4af9a0"
+    },
+    {
+      "original_filename": "copypastavaporeon.png",
+      "bytes": 743645,
+      "sha256": "b278c8fd8c9e21adb87542755e6d54398bf6d40153c7b6b6b1cd98238a1c838f"
+    },
+    {
+      "original_filename": "did Pokemon lie about Vaporeon or 🤨 (1080p_60fps_H264-128kbit_AAC).mp4",
+      "bytes": 29721467,
+      "sha256": "a8d486e81eef9db54b00ccda0d44514b476948623d64e29fb69272cd02d5271e"
+    },
+    {
+      "original_filename": "frame0.jpg",
+      "bytes": 42068,
+      "sha256": "2779a63a7ef031c9913455fadd2938e06f47d7fa30a3dd9ce72808ade3443b53"
+    },
+    {
+      "original_filename": "images (2).jpg",
+      "bytes": 25678,
+      "sha256": "c092d243bd987ac501304316afe973ac4f300a7e4b02374f46de646d28beeaee"
+    },
+    {
+      "original_filename": "meme.png",
+      "bytes": 362264,
+      "sha256": "d5c645529d59be5282bc81bccc3a2a438a73c2dd6ae2f96423e7a338d0235f68"
+    },
+    {
+      "original_filename": "Vaporeon Character Spotlight ¦ Pokémon UNITE (1080p_60fps_H264-128kbit_AAC).mp4",
+      "bytes": 16884472,
+      "sha256": "613f04a127a19debcf466f7f1b821cdbf9c3134ec62ec0dc2fbdcd0d186d4fac"
+    },
+    {
+      "original_filename": "Vaporeon Clips~ Free To Use (HD) (1080p_30fps_H264-128kbit_AAC).mp4",
+      "bytes": 51139566,
+      "sha256": "63249c2e9e48e022d582c758a6c93b1de2af791ca28313dceb478d5d55b9ebe5"
+    },
+    {
+      "original_filename": "Voz 5 Vaporeon.mp3",
+      "bytes": 1872960,
+      "sha256": "e14d26ed0c52ed36157c6cfd041b66aa0463471e73991444ff4b6e3e5021fbba"
+    }
+  ],
+  "video_derivatives": {
+    "vaporeon_unite.mp4": {
+      "original": "Vaporeon Character Spotlight ¦ Pokémon UNITE (1080p_60fps_H264-128kbit_AAC).mp4",
+      "interval": [
+        1,
+        10
+      ],
+      "description": "Pokémon UNITE; character spotlight supplied by the user",
+      "audio_used": false
+    },
+    "vaporeon_anime.mp4": {
+      "original": "Vaporeon Clips~ Free To Use (HD) (1080p_30fps_H264-128kbit_AAC).mp4",
+      "interval": [
+        3,
+        14
+      ],
+      "description": "Animated Pokémon compilation supplied by the user; normal swimming scene",
+      "audio_used": false
+    }
+  },
+  "images_published": [
+    "contextomeme.jpeg",
+    "contextomeme2.png",
+    "contextomeme3.jpg",
+    "images (2).jpg",
+    "meme.png"
+  ],
+  "editorial": "Only normal Pokémon footage, clothed memes and authored opaque documents. Original copypasta and its sexual arguments are not reproduced. Water Stone card is a stylized illustration, not captured evolution footage.",
+  "unused": "Archive, unselected originals and personal gesture reference remain outside Git."
+}

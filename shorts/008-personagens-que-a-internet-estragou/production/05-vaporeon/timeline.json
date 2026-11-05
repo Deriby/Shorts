@@ -1,0 +1,197 @@
+{
+  "fps": 24,
+  "frames": 1138,
+  "duration": 47.416666666666664,
+  "voice_duration": 46.75514739229025,
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 36,
+      "kind": "monitor",
+      "mood": "name",
+      "source": "vaporeon_unite.mp4",
+      "source_start": 6.3
+    },
+    {
+      "id": 1,
+      "start": 37,
+      "end": 73,
+      "kind": "actor",
+      "mood": "present",
+      "source": "vaporeon_anime.mp4",
+      "source_start": 2
+    },
+    {
+      "id": 2,
+      "start": 74,
+      "end": 155,
+      "kind": "photo",
+      "mood": "stone",
+      "source": "pedra.png",
+      "source_start": 0
+    },
+    {
+      "id": 3,
+      "start": 156,
+      "end": 248,
+      "kind": "actor",
+      "mood": "skeptic",
+      "source": "pedra.png",
+      "source_start": 0
+    },
+    {
+      "id": 4,
+      "start": 249,
+      "end": 298,
+      "kind": "photo",
+      "mood": "document",
+      "source": "documento.png",
+      "source_start": 0
+    },
+    {
+      "id": 5,
+      "start": 299,
+      "end": 336,
+      "kind": "actor",
+      "mood": "deadpan",
+      "source": "documento.png",
+      "source_start": 0
+    },
+    {
+      "id": 6,
+      "start": 337,
+      "end": 390,
+      "kind": "graphic",
+      "mood": "copy",
+      "source": "copiar.png",
+      "source_start": 0
+    },
+    {
+      "id": 7,
+      "start": 391,
+      "end": 439,
+      "kind": "game",
+      "mood": "unite",
+      "source": "vaporeon_unite.mp4",
+      "source_start": 3.0
+    },
+    {
+      "id": 8,
+      "start": 440,
+      "end": 523,
+      "kind": "desk",
+      "mood": "pseudo",
+      "source": "pseudo.png",
+      "source_start": 0
+    },
+    {
+      "id": 9,
+      "start": 524,
+      "end": 576,
+      "kind": "actor",
+      "mood": "skeptic",
+      "source": "pseudo.png",
+      "source_start": 0
+    },
+    {
+      "id": 10,
+      "start": 577,
+      "end": 646,
+      "kind": "photo",
+      "mood": "costume",
+      "source": "fantasia.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 11,
+      "start": 647,
+      "end": 698,
+      "kind": "desk",
+      "mood": "paperwide",
+      "source": "documento.png",
+      "source_start": 0
+    },
+    {
+      "id": 12,
+      "start": 699,
+      "end": 756,
+      "kind": "desk",
+      "mood": "buried",
+      "source": "documento.png",
+      "source_start": 0
+    },
+    {
+      "id": 13,
+      "start": 757,
+      "end": 799,
+      "kind": "graphic",
+      "mood": "audio",
+      "source": "narracoes.png",
+      "source_start": 0
+    },
+    {
+      "id": 14,
+      "start": 800,
+      "end": 859,
+      "kind": "game",
+      "mood": "unite",
+      "source": "vaporeon_unite.mp4",
+      "source_start": 0.2
+    },
+    {
+      "id": 15,
+      "start": 860,
+      "end": 912,
+      "kind": "graphic",
+      "mood": "comments",
+      "source": "post.png",
+      "source_start": 0
+    },
+    {
+      "id": 16,
+      "start": 913,
+      "end": 976,
+      "kind": "actor",
+      "mood": "question",
+      "source": "pergunta.png",
+      "source_start": 0
+    },
+    {
+      "id": 17,
+      "start": 977,
+      "end": 1037,
+      "kind": "graphic",
+      "mood": "question",
+      "source": "pergunta.png",
+      "source_start": 0
+    },
+    {
+      "id": 18,
+      "start": 1038,
+      "end": 1066,
+      "kind": "photo",
+      "mood": "meme",
+      "source": "contexto3.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 19,
+      "start": 1067,
+      "end": 1104,
+      "kind": "photo",
+      "mood": "meme",
+      "source": "contexto2.png",
+      "source_start": 0
+    },
+    {
+      "id": 20,
+      "start": 1105,
+      "end": 1138,
+      "kind": "desk",
+      "mood": "final",
+      "source": "contexto.jpg",
+      "source_start": 0
+    }
+  ]
+}
