@@ -73,9 +73,13 @@ Oitavo bloco em roteiro: **D.Va — Overwatch**, com versão revisada pelo usuá
 
 - [Narração revisada — D.Va](roteiros/08-dva/narracao.md).
 
-Nono bloco proposto: **Mercy — Overwatch**, com rascunho de narração para revisão. O ângulo contrapõe a médica e suas habilidades de cura ao conteúdo adulto feito por fãs.
+Nono bloco em roteiro: **Mercy — Overwatch**, com versão revisada pelo usuário, fechamento do grupo de Overwatch e encerramento em “Coisa que infelizmente não tiveram com ela”. Ainda sem voz recebida.
 
-- [Narração proposta — Mercy](roteiros/09-mercy/narracao.md).
+- [Narração revisada — Mercy](roteiros/09-mercy/narracao.md).
+
+Décimo bloco proposto: **Lara Croft — Tomb Raider**, com rascunho de narração para revisão. O ângulo aborda o boato de código de nudez e o mod Nude Raider para PC nos anos 90.
+
+- [Narração proposta — Lara Croft](roteiros/10-lara-croft/narracao.md).
 
 A ordem dos roteiros acompanha as escolhas do usuário. Os demais blocos ainda precisam de roteiro, pesquisa e autorização de produção. Os episódios anteriores não foram alterados.
 
