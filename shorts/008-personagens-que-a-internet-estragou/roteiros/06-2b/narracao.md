@@ -1,29 +1,23 @@
 # Personagens que a internet estragou — 2B
 
-Rascunho de narração para revisão do usuário. Etapa de fechamento das falas em sequência; ainda sem voz recebida, roteiro de animação ou produção.
+Versão revisada pelo usuário, com suas marcações de interpretação e a grafia “Two B” preservadas. Etapa de fechamento das falas em sequência; ainda sem voz recebida, roteiro de animação ou produção. As tags orientam a interpretação e não são palavras para pronunciar nem legendas.
 
 ## Falas
 
-Esse jogo queria te fazer questionar a existência. A internet ficou mais preocupada com a saia da protagonista.
+[thoughtful] Essa é a Two B, de NieR: Automata.
 
-Essa é a 2B, de NieR: Automata.
+[short pause] Uma androide de combate numa guerra contra máquinas.
 
-Uma androide de combate numa guerra contra máquinas.
+[sighs] A história fala sobre consciência, sofrimento e o que significa estar vivo.
 
-A história fala sobre consciência, sofrimento e o que significa estar vivo.
+[chuckles] Só que os mais safadinhos resolveram estudar outro assunto. Vieram as fanarts, as animações pra adultos e os mods.
 
-Só que os tarados de plantão resolveram estudar outro assunto.
+[sighs] Porém o próprio jogo não se ajuda muito, a autodestruição da personagem leva embora uma parte da sua roupa.
 
-Vieram as fanarts, as animações pra adultos e os mods que você não instala no PC da sala.
+[annoyed] Tinha gente fazendo a Two B sofrer apanhando só pra ver 2 milimetros a mais de pele da personagem.
 
-E o próprio jogo ainda deu uma ajudinha: a autodestruição da personagem leva embora parte da roupa.
-
-Pronto. Tinha gente dominando esse recurso antes de aprender a desviar.
-
-A mulher foi preparada pra enfrentar um exército de máquinas…
-
-Mas ninguém preparou ela pra um tarado com uma mesa digitalizadora.
+[laughing] A mulher foi preparada pra enfrentar um exército de máquinas… Mas ninguém preparou ela pra lutar contra a internet!
 
 ## Continuidade editorial
 
-A autodestruição remove parte do traje padrão, não toda a roupa. O trecho sobre aprender o recurso antes de desviar é uma hipérbole cômica, sem alegar estatísticas de jogadores. A narração evita revelar os acontecimentos finais da história ou atribuir declarações não verificadas ao diretor.
+A autodestruição remove parte do traje padrão, não toda a roupa. O trecho sobre apanhar e “2 milimetros” é uma hipérbole do usuário, não uma medida ou comprovação de que golpes comuns removam o traje. Na seleção futura de imagens, ilustrar o mecanismo citado da autodestruição. O encerramento aprovado é “lutar contra a internet”; não reaproveitar o antigo final sobre mesa digitalizadora. A narração evita revelar os acontecimentos finais da história ou atribuir declarações não verificadas ao diretor.

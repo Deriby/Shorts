@@ -61,9 +61,13 @@ Quinto bloco em roteiro: **Vaporeon — Pokémon**, com narração entregue. O u
 
 - [Narração proposta — Vaporeon](roteiros/05-vaporeon/narracao.md).
 
-Sexto bloco proposto: **2B — NieR: Automata**, com rascunho de narração para revisão.
+Sexto bloco em roteiro: **2B — NieR: Automata**, com versão revisada pelo usuário, grafia “Two B” na fala e encerramento em “lutar contra a internet”. Ainda sem voz recebida.
 
-- [Narração proposta — 2B](roteiros/06-2b/narracao.md).
+- [Narração revisada — 2B](roteiros/06-2b/narracao.md).
+
+Sétimo bloco proposto: **Tracer — Overwatch**, com rascunho de narração para revisão.
+
+- [Narração proposta — Tracer](roteiros/07-tracer/narracao.md).
 
 A ordem dos roteiros acompanha as escolhas do usuário. Os demais blocos ainda precisam de roteiro, pesquisa e autorização de produção. Os episódios anteriores não foram alterados.
 
