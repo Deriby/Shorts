@@ -25,11 +25,16 @@ Planejamento do vídeo e de seus shorts. O usuário aprovou os 14 personagens ab
 
 Entregar shorts em **9:16 primeiro**, com aproveitamento posterior para um vídeo longo em **16:9**. Planejar câmeras, conteúdos de tela e enquadramentos para ambos os formatos antes da animação, com recortes próprios quando rosto, ação ou HUD exigirem. Dividir o roteiro em blocos independentes, com gancho e fechamento, e planejar as transições do longo. Agrupar ou diferenciar os casos de Overwatch para evitar repetição. A duração depende do roteiro e da gravação, não da simples contagem de personagens.
 
-Ainda faltam pesquisa factual, roteiros, voz e produção. Não iniciar edição, renderização ou revisão do visual atual nesta etapa.
+Primeiro bloco preparado: **Lady Dimitrescu**. Entrega atual somente de roteiros; ainda não há voz recebida, mídias selecionadas nem produção autorizada para esse bloco.
+
+- [Narração — Lady Dimitrescu](roteiros/01-lady-dimitrescu/narracao.md).
+- [Animação e materiais necessários — Lady Dimitrescu](roteiros/01-lady-dimitrescu/animacao.md).
+
+Não iniciar edição, renderização ou revisão do visual atual nesta etapa. Os demais blocos ainda precisam de roteiro e pesquisa.
 
 ## Fluxo de mídia desejado
 
-Depois de fechar o roteiro, o usuário pretende enviar apenas a voz. O agente deve cuidar das referências visuais, dos cortes e do conteúdo na tela do computador do Dery, sem depender de uploads manuais de gameplays.
+Objetivo futuro: depois de fechar o roteiro, o usuário pretende enviar apenas a voz, deixando a aquisição de referências visuais com o agente. **Decisão atual:** enquanto esse acesso não estiver disponível, o usuário baixará e enviará os materiais manualmente, como nos episódios anteriores. Seguir com esse fluxo sem insistir em configuração da plataforma ou execução local.
 
 1. Relacionar cada trecho da narração a uma necessidade visual: apresentação do personagem, gameplay, acontecimento documentado ou gag do Dery.
 2. Selecionar fontes acessíveis, priorizando material oficial e capturas adequadas ao trecho explicado. Guardar URL, crédito, versão do jogo, contexto e pontos de entrada/saída. Diferenciar fato do jogo, conteúdo de fãs e caricatura da internet.
