@@ -1,0 +1,103 @@
+{
+  "package": "3 - Chun-Li.zip",
+  "source": "User-provided Google Drive archive",
+  "files": [
+    {
+      "original_filename": "17092251297035.jpg",
+      "bytes": 1530242,
+      "sha256": "415f96800c6f6f46fad6548ad8a512ab4c07846b8f807cc0c197e099d2b90356"
+    },
+    {
+      "original_filename": "AKUMA vs CHUN-LI Level 8 CPU is PURE INSANITY! - Street Fighter 6 Gameplay (1080P 60FPS) (1080p_60fps_H264-128kbit_AAC).mp4",
+      "bytes": 92794747,
+      "sha256": "584b39e5381172b04dcad3296360113654907885b16640694431aaf760c83b75"
+    },
+    {
+      "original_filename": "fortnite-chun-li-party-hips-duel-720-ytshorts.savetube.me.mp4",
+      "bytes": 9478009,
+      "sha256": "9b75bc8b1c41e031408c5bec0497d03913bdd237a8105e33a3f58da3e2b4bd50"
+    },
+    {
+      "original_filename": "images.jpg",
+      "bytes": 39644,
+      "sha256": "061e4d36ce00ea6bf9e92bb2dddb6670d4cf189aa3f9175121f748ceed15a9d7"
+    },
+    {
+      "original_filename": "Jackie-cityhunter.png",
+      "bytes": 109056,
+      "sha256": "4f907b50abbb2a314ca96a723ec939d105858b006f4ccc90a41ae38abaae91f6"
+    },
+    {
+      "original_filename": "legschunli.jpg",
+      "bytes": 20819,
+      "sha256": "bcda3238758baed92f1f1812599efb6e44eba3f5e05bda49e38d7722c1539bb4"
+    },
+    {
+      "original_filename": "maxresdefault (1).jpg",
+      "bytes": 117320,
+      "sha256": "81d375cd43e1e587bc839feccbc40eda572ba6201acc7125a310d65570a65a48"
+    },
+    {
+      "original_filename": "Street Fighter 6 - Meeting Chun-Li Scene (1440p_60fps_AV1-128kbit_AAC).mp4",
+      "bytes": 100963184,
+      "sha256": "b3272057431a2beefc3df84b44d51f66eddabbb75929a40da092a8750200cdda"
+    },
+    {
+      "original_filename": "Street Fighter 6 Chun Li Character Introduction Trailer (1080p_60fps_H264-128kbit_AAC).mp4",
+      "bytes": 22566198,
+      "sha256": "638613dd77062da6e4432eb429cb24f6f047f8b58ed8895e0250de8687d1049e"
+    },
+    {
+      "original_filename": "ULFDk3U3BUhSgFQfkWZjiL.jpg",
+      "bytes": 366386,
+      "sha256": "1aeb8fefeb8deebde39adc7bda9f9a4349d59800006a7ef353715221e7d19c7a"
+    },
+    {
+      "original_filename": "Voz - 3 Chun Li.mp3",
+      "bytes": 1575360,
+      "sha256": "a8dd4587ae9c951ed8ac002ddd163ff0cc46feaa28dd762526ce4e7c369bb361"
+    },
+    {
+      "original_filename": "WILL CHUN-LI DO IT FOR RYU¿ 😈 #3rdstrike #streetfighter #strretfighter6 (1440p_60fps_AV1-128kbit_AAC).mp4",
+      "bytes": 6714337,
+      "sha256": "1a01a2c36e46890369d0def4b8d4ce432acdc2c1e00cdaf7cebe780716f5469d"
+    }
+  ],
+  "video_derivatives": {
+    "chunli_luta.mp4": {
+      "original": "Street Fighter 6 Chun Li Character Introduction Trailer (1080p_60fps_H264-128kbit_AAC).mp4",
+      "interval": [
+        2,
+        14
+      ],
+      "game": "Street Fighter 6",
+      "filter": "crop=1536:864:384:24,scale=960:540:flags=neighbor"
+    },
+    "chunli_akuma.mp4": {
+      "original": "AKUMA vs CHUN-LI Level 8 CPU is PURE INSANITY! - Street Fighter 6 Gameplay (1080P 60FPS) (1080p_60fps_H264-128kbit_AAC).mp4",
+      "interval": [
+        26,
+        35
+      ],
+      "game": "Street Fighter 6",
+      "filter": "scale=960:540:flags=neighbor"
+    },
+    "chunli_fortnite.mp4": {
+      "original": "fortnite-chun-li-party-hips-duel-720-ytshorts.savetube.me.mp4",
+      "interval": [
+        0.4,
+        7.4
+      ],
+      "game": "Fortnite",
+      "filter": "scale=960:540:flags=neighbor"
+    }
+  },
+  "images_published": [
+    "17092251297035.jpg",
+    "images.jpg",
+    "Jackie-cityhunter.png",
+    "legschunli.jpg"
+  ],
+  "editorial": "Street Fighter 6 gameplay is contemporary illustrative footage, not classic-game footage or proof of current Interpol employment. Classic artwork accompanies the career introduction. The gallery and inspection checklist are authored comic illustrations; no adult material is shown.",
+  "omitted": "Long AV1 meeting scene, fan sprite animation and unused images remain outside the repository. Only selected gameplay excerpts are published."
+}

@@ -1,0 +1,242 @@
+{
+  "fps": 24,
+  "frames": 960,
+  "duration": 40.0,
+  "voice_duration": 39.327120181405895,
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 37,
+      "kind": "monitor",
+      "mood": "hook",
+      "source": "chunli_fortnite.mp4",
+      "source_start": 0.2
+    },
+    {
+      "id": 1,
+      "start": 38,
+      "end": 66,
+      "kind": "actor",
+      "mood": "thoughtful",
+      "source": "chunli_fortnite.mp4",
+      "source_start": 1.4
+    },
+    {
+      "id": 2,
+      "start": 67,
+      "end": 96,
+      "kind": "game",
+      "mood": "fight",
+      "source": "chunli_luta.mp4",
+      "source_start": 6.0
+    },
+    {
+      "id": 3,
+      "start": 97,
+      "end": 120,
+      "kind": "actor",
+      "mood": "thoughtful",
+      "source": "chunli_classica.png",
+      "source_start": 0
+    },
+    {
+      "id": 4,
+      "start": 121,
+      "end": 143,
+      "kind": "photo",
+      "mood": "name",
+      "source": "chunli_classica.png",
+      "source_start": 0
+    },
+    {
+      "id": 5,
+      "start": 144,
+      "end": 174,
+      "kind": "monitor",
+      "mood": "name",
+      "source": "chunli_fortnite.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 6,
+      "start": 175,
+      "end": 221,
+      "kind": "game",
+      "mood": "fight",
+      "source": "chunli_luta.mp4",
+      "source_start": 3.2
+    },
+    {
+      "id": 7,
+      "start": 222,
+      "end": 279,
+      "kind": "game",
+      "mood": "fight",
+      "source": "chunli_akuma.mp4",
+      "source_start": 3
+    },
+    {
+      "id": 8,
+      "start": 280,
+      "end": 328,
+      "kind": "actor",
+      "mood": "confident",
+      "source": "chunli_classica.png",
+      "source_start": 0
+    },
+    {
+      "id": 9,
+      "start": 329,
+      "end": 367,
+      "kind": "actor",
+      "mood": "sigh",
+      "source": "meme_pernas.png",
+      "source_start": 0
+    },
+    {
+      "id": 10,
+      "start": 368,
+      "end": 408,
+      "kind": "photo",
+      "mood": "meme",
+      "source": "meme_pernas.png",
+      "source_start": 0
+    },
+    {
+      "id": 11,
+      "start": 409,
+      "end": 432,
+      "kind": "photo",
+      "mood": "jackie",
+      "source": "jackie_chunli.png",
+      "source_start": 0
+    },
+    {
+      "id": 12,
+      "start": 433,
+      "end": 465,
+      "kind": "actor",
+      "mood": "sarcasm",
+      "source": "jackie_chunli.png",
+      "source_start": 0
+    },
+    {
+      "id": 13,
+      "start": 466,
+      "end": 502,
+      "kind": "photo",
+      "mood": "classic",
+      "source": "chunli_classica.png",
+      "source_start": 0
+    },
+    {
+      "id": 14,
+      "start": 503,
+      "end": 563,
+      "kind": "photo",
+      "mood": "gallery",
+      "source": "gallery_censored.png",
+      "source_start": 0
+    },
+    {
+      "id": 15,
+      "start": 564,
+      "end": 599,
+      "kind": "monitor",
+      "mood": "crossover",
+      "source": "chunli_fortnite.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 16,
+      "start": 600,
+      "end": 640,
+      "kind": "game",
+      "mood": "fortnite",
+      "source": "chunli_fortnite.mp4",
+      "source_start": 3.4
+    },
+    {
+      "id": 17,
+      "start": 641,
+      "end": 664,
+      "kind": "actor",
+      "mood": "excited",
+      "source": "chunli_fortnite.mp4",
+      "source_start": 0.2
+    },
+    {
+      "id": 18,
+      "start": 665,
+      "end": 727,
+      "kind": "game",
+      "mood": "dance",
+      "source": "chunli_fortnite.mp4",
+      "source_start": 3
+    },
+    {
+      "id": 19,
+      "start": 728,
+      "end": 758,
+      "kind": "actor",
+      "mood": "chuckle",
+      "source": "chunli_fortnite.mp4",
+      "source_start": 1.4
+    },
+    {
+      "id": 20,
+      "start": 759,
+      "end": 787,
+      "kind": "inspection",
+      "mood": "camera",
+      "source": "chunli_fortnite.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 21,
+      "start": 788,
+      "end": 850,
+      "kind": "inspection",
+      "mood": "reveal",
+      "source": "chunli_fortnite.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 22,
+      "start": 851,
+      "end": 881,
+      "kind": "inspection",
+      "mood": "annoyed",
+      "source": "inspection_blank.png",
+      "source_start": 0
+    },
+    {
+      "id": 23,
+      "start": 882,
+      "end": 899,
+      "kind": "photo",
+      "mood": "checklist",
+      "source": "inspection_blank.png",
+      "source_start": 0
+    },
+    {
+      "id": 24,
+      "start": 900,
+      "end": 914,
+      "kind": "photo",
+      "mood": "checklist",
+      "source": "inspection_checked.png",
+      "source_start": 0
+    },
+    {
+      "id": 25,
+      "start": 915,
+      "end": 960,
+      "kind": "inspection",
+      "mood": "final",
+      "source": "inspection_checked.png",
+      "source_start": 0
+    }
+  ]
+}

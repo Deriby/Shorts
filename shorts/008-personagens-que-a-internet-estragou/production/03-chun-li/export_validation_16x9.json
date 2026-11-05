@@ -1,0 +1,18 @@
+{
+  "video": "ChunLi_Personagens_que_a_internet_estragou_16x9.mp4",
+  "frames": 960,
+  "duration": 40.0,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "codec": "H.264 + AAC",
+  "size_bytes": 51836590,
+  "full_decode": "passed",
+  "voice_original_sha256": "a8dd4587ae9c951ed8ac002ddd163ff0cc46feaa28dd762526ce4e7c369bb361",
+  "voice_unmodified": true,
+  "monitor_frames": 960,
+  "scene_checks": "passed",
+  "ps1_palette": "5-bit RGB with fixed 4x4 ordered Bayer pattern, integer nearest-neighbor upscale"
+}

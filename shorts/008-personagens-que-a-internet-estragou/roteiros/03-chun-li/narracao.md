@@ -1,6 +1,6 @@
 # Personagens que a internet estragou — Chun-Li
 
-Versão revisada pelo usuário, preservada com suas marcações de interpretação. As tags orientam a voz e a atuação; não são palavras para pronunciar nem legendas. Nesta etapa há texto e planejamento de animação. A gravação ainda será recebida; os cortes finais seguirão seu ritmo. Preparar 9:16 e 16:9 para a série.
+Versão revisada pelo usuário, preservada com suas marcações de interpretação. As tags orientam a voz e a atuação; não são palavras para pronunciar nem legendas. A gravação foi recebida no pacote da Chun-Li e a produção foi autorizada. A montagem de 40 segundos acompanha seu ritmo; ver production/03-chun-li. Preparar 9:16 e 16:9 para a série.
 
 ## Falas
 
@@ -28,4 +28,4 @@ Quando a Chun-li entrou pro Fortnite… [thoughtful] a internet até esqueceu qu
 - “Arrisco dizer” apresenta a opinião do narrador. A animação não deve converter isso em um ranking ou recorde comprovado.
 - “Desde os primórdios” é linguagem coloquial; não datar a primeira obra adulta de fãs nem inventar números de publicações.
 - Usar a versão clássica da personagem ao ilustrar sua atuação como agente; identificar as versões dos jogos nos registros das mídias selecionadas.
-- O texto não é uma gravação recebida. Timecodes, duração e sincronismo dependem da voz final.
+- A voz recebida é a referência para timecodes e sincronismo; o texto digitado permanece como versão editorial.

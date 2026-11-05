@@ -1,6 +1,6 @@
 # Chun-Li — animação sobre a versão do usuário
 
-Planejamento para a [narração revisada](narracao.md). Nesta etapa, preparar somente o roteiro. Os cortes, as pausas e o sincronismo serão ajustados à gravação quando ela chegar. Planejar **9:16 e 16:9** com enquadramentos próprios, mantendo o mesmo áudio e a mesma atuação.
+Planejamento para a [narração revisada](narracao.md). Voz e mídias recebidas; produção autorizada. Os cortes e a atuação da montagem de 40 segundos seguem a gravação em [production/03-chun-li](../../production/03-chun-li/). Planejar **9:16 e 16:9** com enquadramentos próprios, mantendo o mesmo áudio e a mesma atuação.
 
 ## Cenas por fala
 
@@ -44,4 +44,4 @@ O Dery mantém a mesma roupa e fica sentado; não construir um novo uniforme, um
 3. Chun-Li em Fortnite: apresentação da skin e um emote com enquadramento normal.
 4. Opcional: meme não explícito adequado ao trecho. A galeria censurada, as placas, a câmera e a ficha podem ser montadas na produção.
 
-Nenhuma nova mídia foi obtida nem animação gerada nesta etapa. O encerramento permanece em “fiscalizar a skin” e no suspiro final do usuário.
+Os materiais selecionados, a timeline e os arquivos finais estão registrados na pasta de produção. O encerramento permanece em “fiscalizar a skin” e no suspiro final do usuário.
