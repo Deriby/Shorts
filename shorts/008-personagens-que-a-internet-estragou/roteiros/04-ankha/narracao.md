@@ -1,8 +1,8 @@
 # Personagens que a internet estragou — Ankha
 
-Versão revisada pelo usuário, com as marcações de interpretação preservadas. O usuário está fechando as falas para gravar os personagens em sequência. Ainda não há voz recebida nem produção iniciada para este bloco; o planejamento de animação já foi autorizado. As tags não são palavras para pronunciar ou legendas.
+Versão revisada pelo usuário, com as marcações de interpretação preservadas. Voz e mídias recebidas no pacote da Ankha; a produção foi autorizada pelo usuário. A montagem de 44,042 segundos segue a gravação real. As tags não são palavras para pronunciar ou legendas.
 
-O [roteiro de animação](animacao.md) foi planejado a partir desta versão. Os cortes e o sincronismo serão ajustados à gravação recebida.
+O [roteiro de animação](animacao.md) foi planejado a partir desta versão. Os cortes finais estão registrados na [produção](../../production/04-ankha/timeline.json).
 
 ## Falas
 

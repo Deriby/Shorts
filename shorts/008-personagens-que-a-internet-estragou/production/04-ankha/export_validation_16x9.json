@@ -1,0 +1,18 @@
+{
+  "video": "Ankha_Personagens_que_a_internet_estragou_16x9.mp4",
+  "frames": 1057,
+  "duration": 44.041667,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "codec": "H.264 + AAC",
+  "size_bytes": 22576866,
+  "full_decode": "passed",
+  "voice_original_sha256": "18c67b1dad5ee90fa280b5539e286e21ebf1cb5801e429f470f289333dff1a6e",
+  "voice_unmodified": true,
+  "monitor_frames": 1057,
+  "scene_checks": "passed",
+  "ps1_palette": "5-bit RGB with fixed 4x4 ordered Bayer pattern, integer nearest-neighbor upscale"
+}

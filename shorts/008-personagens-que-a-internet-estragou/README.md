@@ -27,7 +27,7 @@ Entregar shorts em **9:16 primeiro**, com aproveitamento posterior para um víde
 
 ## Roteiros de animação preparados
 
-O [plano geral de animação e montagem](plano_animacao.md) reúne os 12 blocos, as cenas, os dois formatos e o reaproveitamento do vídeo longo. Os três primeiros usam as produções aprovadas; os nove restantes têm roteiros por fala, expressões, gestos, enquadramentos e necessidades de mídia. Esta etapa é de planejamento: não foram gerados novos renders ou cenários.
+O [plano geral de animação e montagem](plano_animacao.md) reúne os 12 blocos, as cenas, os dois formatos e o reaproveitamento do vídeo longo. Lady, Tifa e Chun-Li usam as produções aprovadas; Ankha também já foi produzida. Os oito restantes têm roteiros por fala, expressões, gestos, enquadramentos e necessidades de mídia para a etapa de produção.
 
 Primeiro bloco concluído: **Lady Dimitrescu**, com voz, vídeos e memes enviados pelo usuário no pacote “1 - Lady Dimitrescu.zip”. Versões **9:16 e 16:9 de 39 segundos**, com atuação por frase, visual PS1 mais marcado e passagem pela entrada do castelo. A montagem acompanha a gravação real e termina em “carreira paralela”.
 
@@ -55,12 +55,15 @@ Terceiro bloco: **Chun-Li — Street Fighter / Fortnite**, com voz, imagens e v�
 - [Assistir / baixar o horizontal 16:9 da Chun-Li](production/03-chun-li/output/ChunLi_Personagens_que_a_internet_estragou_16x9.mp4).
 - [Produção, projetos Blender, fontes e verificações — Chun-Li](production/03-chun-li/README.md).
 
-O usuário fechou as falas dos 12 personagens e está gravando em sequência. Três blocos já têm vídeo nos dois formatos; os nove restantes têm roteiros de animação preparados e aguardam voz e mídias para sincronizar e produzir. O texto digitado não é áudio recebido. A duração do longo será fechada a partir das vozes, sem assumir dez minutos pela quantidade de personagens.
+O usuário fechou as falas dos 12 personagens e está gravando em sequência. Quatro blocos já têm vídeo nos dois formatos; os oito restantes têm roteiros de animação preparados e aguardam voz e mídias para sincronizar e produzir. O texto digitado não é áudio recebido. A duração do longo será fechada a partir das vozes, sem assumir dez minutos pela quantidade de personagens.
 
-Quarto bloco em roteiro: **Ankha — Animal Crossing**, com a versão revisada pelo usuário e fechamento em “Nós te perdoamos”. Ainda sem voz recebida.
+Quarto bloco: **Ankha — Animal Crossing**, produzido com voz, vídeos e memes enviados pelo usuário. Versões **9:16 e 16:9 de 44,042 segundos**, com visual PS1, museu de duas peças, “DOUBLE KILL” e perdão final. A voz foi preservada inteira e termina em “Nós te perdoamos”.
 
 - [Narração revisada — Ankha](roteiros/04-ankha/narracao.md).
 - [Roteiro de animação — ankha](roteiros/04-ankha/animacao.md).
+- [Assistir / baixar o short da Ankha](production/04-ankha/output/Ankha_Personagens_que_a_internet_estragou_9x16.mp4).
+- [Assistir / baixar o horizontal 16:9 da Ankha](production/04-ankha/output/Ankha_Personagens_que_a_internet_estragou_16x9.mp4).
+- [Produção, projetos Blender, fontes e verificações — Ankha](production/04-ankha/README.md).
 
 Quinto bloco em roteiro: **Vaporeon — Pokémon**, com narração entregue. O usuário pediu o próximo personagem sem enviar alterações textuais; ainda sem voz recebida.
 
@@ -102,7 +105,7 @@ Décimo segundo e último bloco da seleção atual: **Sonic**, com versão intei
 - [Narração revisada — Sonic](roteiros/12-sonic/narracao.md).
 - [Roteiro de animação — sonic](roteiros/12-sonic/animacao.md).
 
-A ordem atual do vídeo é: Lady Dimitrescu, Tifa, Chun-Li, Ankha, Vaporeon, 2B, Tracer, D.Va, Mercy, Lara Croft, Peach e Sonic. Vergil e Chris Redfield não entram nesta montagem. Preservar os três blocos já produzidos e sincronizar e produzir os nove restantes em 9:16 e 16:9 quando o usuário enviar o pacote de cada um na etapa de produção. Os episódios anteriores não foram alterados.
+A ordem atual do vídeo é: Lady Dimitrescu, Tifa, Chun-Li, Ankha, Vaporeon, 2B, Tracer, D.Va, Mercy, Lara Croft, Peach e Sonic. Vergil e Chris Redfield não entram nesta montagem. Preservar os quatro blocos já produzidos e sincronizar e produzir os oito restantes em 9:16 e 16:9 quando o usuário enviar o pacote de cada um na etapa de produção. Os episódios anteriores não foram alterados.
 
 ## Fluxo de mídia desejado
 

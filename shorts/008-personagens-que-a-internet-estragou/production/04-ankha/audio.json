@@ -1,0 +1,11 @@
+{
+  "original_filename": "VOZ - 4 ANKHA.mp3",
+  "public_filename": "voz_original.mp3",
+  "sha256": "18c67b1dad5ee90fa280b5539e286e21ebf1cb5801e429f470f289333dff1a6e",
+  "voice_duration": 43.35040816326531,
+  "frames": 1057,
+  "speed_changed": false,
+  "pitch_changed": false,
+  "trimmed": false,
+  "alignment": "Provided narration; local ASR segment timing, actual audio preserved. Source music and game audio are muted."
+}

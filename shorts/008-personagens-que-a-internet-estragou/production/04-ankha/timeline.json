@@ -1,0 +1,206 @@
+{
+  "fps": 24,
+  "frames": 1057,
+  "duration": 44.041666666666664,
+  "voice_duration": 43.35040816326531,
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 50,
+      "kind": "monitor",
+      "mood": "name",
+      "source": "ankha_ilha.mp4",
+      "source_start": 0
+    },
+    {
+      "id": 1,
+      "start": 51,
+      "end": 91,
+      "kind": "actor",
+      "mood": "present",
+      "source": "ankha_ilha.mp4",
+      "source_start": 2
+    },
+    {
+      "id": 2,
+      "start": 92,
+      "end": 122,
+      "kind": "photo",
+      "mood": "gallery",
+      "source": "gallery.png",
+      "source_start": 0
+    },
+    {
+      "id": 3,
+      "start": 123,
+      "end": 185,
+      "kind": "actor",
+      "mood": "sigh",
+      "source": "gallery.png",
+      "source_start": 0
+    },
+    {
+      "id": 4,
+      "start": 186,
+      "end": 235,
+      "kind": "photo",
+      "mood": "egypt",
+      "source": "ankha_egito.png",
+      "source_start": 0
+    },
+    {
+      "id": 5,
+      "start": 236,
+      "end": 295,
+      "kind": "game",
+      "mood": "island",
+      "source": "ankha_ilha.mp4",
+      "source_start": 4.2
+    },
+    {
+      "id": 6,
+      "start": 296,
+      "end": 345,
+      "kind": "museum",
+      "mood": "introduce",
+      "source": "exhibit_ankha.png",
+      "source_start": 0
+    },
+    {
+      "id": 7,
+      "start": 346,
+      "end": 389,
+      "kind": "photo",
+      "mood": "gallery",
+      "source": "gallery.png",
+      "source_start": 0
+    },
+    {
+      "id": 8,
+      "start": 390,
+      "end": 418,
+      "kind": "photo",
+      "mood": "meme",
+      "source": "meme_farao.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 9,
+      "start": 419,
+      "end": 479,
+      "kind": "museum",
+      "mood": "explain",
+      "source": "exhibit_ankha.png",
+      "source_start": 0
+    },
+    {
+      "id": 10,
+      "start": 480,
+      "end": 523,
+      "kind": "museum",
+      "mood": "cassette",
+      "source": "cassette_label.png",
+      "source_start": 0
+    },
+    {
+      "id": 11,
+      "start": 524,
+      "end": 552,
+      "kind": "game",
+      "mood": "song",
+      "source": "camel_cover.mp4",
+      "source_start": 2
+    },
+    {
+      "id": 12,
+      "start": 553,
+      "end": 600,
+      "kind": "museum",
+      "mood": "doublekill",
+      "source": "doublekill.png",
+      "source_start": 0
+    },
+    {
+      "id": 13,
+      "start": 601,
+      "end": 646,
+      "kind": "graphic",
+      "mood": "doublekill",
+      "source": "doublekill.png",
+      "source_start": 0
+    },
+    {
+      "id": 14,
+      "start": 647,
+      "end": 711,
+      "kind": "museum",
+      "mood": "laugh",
+      "source": "doublekill.png",
+      "source_start": 0
+    },
+    {
+      "id": 15,
+      "start": 712,
+      "end": 752,
+      "kind": "photo",
+      "mood": "meme",
+      "source": "meme_sabem.png",
+      "source_start": 0
+    },
+    {
+      "id": 16,
+      "start": 753,
+      "end": 782,
+      "kind": "photo",
+      "mood": "meme",
+      "source": "meme_fogo.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 17,
+      "start": 783,
+      "end": 814,
+      "kind": "photo",
+      "mood": "gallery",
+      "source": "gallery.png",
+      "source_start": 0
+    },
+    {
+      "id": 18,
+      "start": 815,
+      "end": 862,
+      "kind": "photo",
+      "mood": "search",
+      "source": "search.png",
+      "source_start": 0
+    },
+    {
+      "id": 19,
+      "start": 863,
+      "end": 941,
+      "kind": "actor",
+      "mood": "warning",
+      "source": "closed.png",
+      "source_start": 0
+    },
+    {
+      "id": 20,
+      "start": 942,
+      "end": 1003,
+      "kind": "museum",
+      "mood": "relax",
+      "source": "exhibit_ankha.png",
+      "source_start": 0
+    },
+    {
+      "id": 21,
+      "start": 1004,
+      "end": 1057,
+      "kind": "museum",
+      "mood": "forgive",
+      "source": "cassette_label.png",
+      "source_start": 0
+    }
+  ]
+}

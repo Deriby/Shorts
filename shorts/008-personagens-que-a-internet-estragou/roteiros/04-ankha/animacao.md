@@ -1,6 +1,6 @@
 # Ankha — roteiro de animação
 
-Base: [última narração do usuário](narracao.md). Seguir o [plano geral](../../plano_animacao.md). Planejamento para 9:16 e 16:9; voz e mídias ainda não recebidas. Os pontos abaixo são gatilhos de fala, não timecodes finais.
+Base: [última narração do usuário](narracao.md). Seguir o [plano geral](../../plano_animacao.md). Voz e mídias recebidas, produção autorizada e montagem de 44,042 segundos preparada em 9:16 e 16:9. Os cortes executados estão na [timeline](../../production/04-ankha/timeline.json).
 
 ## Cenas por trecho
 

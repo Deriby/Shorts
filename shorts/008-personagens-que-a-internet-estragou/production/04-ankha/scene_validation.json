@@ -1,0 +1,281 @@
+{
+  "original_geometry_max_displacement_m": 0.0,
+  "face_checks": [
+    {
+      "actor": "DERY | animated character",
+      "frame": 60,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 145,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 865,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 901,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 937,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "MUSEUM | Dery",
+      "frame": 318,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "MUSEUM | Dery",
+      "frame": 438,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "MUSEUM | Dery",
+      "frame": 495,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "MUSEUM | Dery",
+      "frame": 577,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "MUSEUM | Dery",
+      "frame": 673,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "MUSEUM | Dery",
+      "frame": 966,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "MUSEUM | Dery",
+      "frame": 1021,
+      "max_facial_split_m": 0.0
+    }
+  ],
+  "precision_checks": [
+    {
+      "actor": "DERY | animated character",
+      "frame": 60,
+      "max_precision_displacement_m": 0.005962752723150816
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 145,
+      "max_precision_displacement_m": 0.0034977401583322016
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 865,
+      "max_precision_displacement_m": 0.005924697680251301
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 901,
+      "max_precision_displacement_m": 0.0058596775362084715
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 937,
+      "max_precision_displacement_m": 0.006015144486727935
+    },
+    {
+      "actor": "MUSEUM | Dery",
+      "frame": 318,
+      "max_precision_displacement_m": 0.017466927309277947
+    },
+    {
+      "actor": "MUSEUM | Dery",
+      "frame": 438,
+      "max_precision_displacement_m": 0.0177133988799085
+    },
+    {
+      "actor": "MUSEUM | Dery",
+      "frame": 495,
+      "max_precision_displacement_m": 0.006935311322590401
+    },
+    {
+      "actor": "MUSEUM | Dery",
+      "frame": 577,
+      "max_precision_displacement_m": 0.017373889288153598
+    },
+    {
+      "actor": "MUSEUM | Dery",
+      "frame": 673,
+      "max_precision_displacement_m": 0.005192577009316366
+    },
+    {
+      "actor": "MUSEUM | Dery",
+      "frame": 966,
+      "max_precision_displacement_m": 0.005192577009316366
+    },
+    {
+      "actor": "MUSEUM | Dery",
+      "frame": 1021,
+      "max_precision_displacement_m": 0.005192577009316366
+    }
+  ],
+  "seated_pelvis_stable": true,
+  "museum_standing_support_stable": true,
+  "arm_checks": [
+    {
+      "frame": 60,
+      "side": "R",
+      "reach_m": 0.29370851737434595,
+      "target_error_m": 0.00023424305758952652
+    },
+    {
+      "frame": 60,
+      "side": "L",
+      "reach_m": 0.36028220638674635,
+      "target_error_m": 0.0001961776688508989
+    },
+    {
+      "frame": 145,
+      "side": "R",
+      "reach_m": 0.37296084499671306,
+      "target_error_m": 0.00016445848806775115
+    },
+    {
+      "frame": 145,
+      "side": "L",
+      "reach_m": 0.38197676995665214,
+      "target_error_m": 0.0001839408053430328
+    },
+    {
+      "frame": 865,
+      "side": "R",
+      "reach_m": 0.2863702261054163,
+      "target_error_m": 0.00021532894612630998
+    },
+    {
+      "frame": 865,
+      "side": "L",
+      "reach_m": 0.3607355013394506,
+      "target_error_m": 0.00019946586394363263
+    },
+    {
+      "frame": 901,
+      "side": "R",
+      "reach_m": 0.28462321901368887,
+      "target_error_m": 0.00017753735225385783
+    },
+    {
+      "frame": 901,
+      "side": "L",
+      "reach_m": 0.32807002288192944,
+      "target_error_m": 0.00024569517539921293
+    },
+    {
+      "frame": 937,
+      "side": "R",
+      "reach_m": 0.34680984722865316,
+      "target_error_m": 0.00017944391359818953
+    },
+    {
+      "frame": 937,
+      "side": "L",
+      "reach_m": 0.36083234203629555,
+      "target_error_m": 0.0002003788394883648
+    }
+  ],
+  "museum_arm_checks": [
+    {
+      "frame": 318,
+      "side": "R",
+      "reach_m": 0.2868421346413695,
+      "target_error_m": 3.769701637287157e-05
+    },
+    {
+      "frame": 318,
+      "side": "L",
+      "reach_m": 0.37569883914056906,
+      "target_error_m": 7.419820708420943e-06
+    },
+    {
+      "frame": 438,
+      "side": "R",
+      "reach_m": 0.29442827969590374,
+      "target_error_m": 2.636446241711822e-05
+    },
+    {
+      "frame": 438,
+      "side": "L",
+      "reach_m": 0.37655071164907167,
+      "target_error_m": 9.166140179484113e-06
+    },
+    {
+      "frame": 495,
+      "side": "R",
+      "reach_m": 0.37678140814306765,
+      "target_error_m": 5.687170239389688e-06
+    },
+    {
+      "frame": 495,
+      "side": "L",
+      "reach_m": 0.2972996773684195,
+      "target_error_m": 1.7056929049050142e-05
+    },
+    {
+      "frame": 577,
+      "side": "R",
+      "reach_m": 0.2911744232522977,
+      "target_error_m": 2.561204026170901e-05
+    },
+    {
+      "frame": 577,
+      "side": "L",
+      "reach_m": 0.29383460840254916,
+      "target_error_m": 3.254000112182114e-05
+    },
+    {
+      "frame": 673,
+      "side": "R",
+      "reach_m": 0.2848278818442307,
+      "target_error_m": 6.847079514937088e-06
+    },
+    {
+      "frame": 673,
+      "side": "L",
+      "reach_m": 0.31117443936531836,
+      "target_error_m": 8.299451848345396e-06
+    },
+    {
+      "frame": 966,
+      "side": "R",
+      "reach_m": 0.28684180671313847,
+      "target_error_m": 3.784300023353783e-05
+    },
+    {
+      "frame": 966,
+      "side": "L",
+      "reach_m": 0.375698508206306,
+      "target_error_m": 7.8689419052255e-06
+    },
+    {
+      "frame": 1021,
+      "side": "R",
+      "reach_m": 0.2951888516524067,
+      "target_error_m": 1.9642059328467045e-05
+    },
+    {
+      "frame": 1021,
+      "side": "L",
+      "reach_m": 0.37702195621265017,
+      "target_error_m": 7.571666965391682e-06
+    }
+  ],
+  "monitor_frames": 1057,
+  "monitor_auto_refresh": true,
+  "expressions": "31 PNG faces, discrete changes, no active morphs",
+  "acting": "Non-periodic phrase gestures with asymmetric strokes, holds and releases"
+}

@@ -1,0 +1,90 @@
+{
+  "package": "4 - Ankha.zip",
+  "source": "User-provided Google Drive archive",
+  "files": [
+    {
+      "original_filename": "1068689ef8ade0a6f391e4b54bcdf843.jpg",
+      "bytes": 37577,
+      "sha256": "3c22f74d133b48a5c556e86c5a4ac1d84be1bb7918c9bee389000b94fd05d603"
+    },
+    {
+      "original_filename": "Ankha Sings I Love You (2160p_60fps_AV1-128kbit_AAC).mp4",
+      "bytes": 41814682,
+      "sha256": "c6de1ce7ceb8f40444ffdf11086fd299e28923a7421755514d93d027b3170f88"
+    },
+    {
+      "original_filename": "ankha-animal-crossing-j7a4sajfshlbtr9z.jpg",
+      "bytes": 79070,
+      "sha256": "7427824f97fa145f564eeade9c4acc670eb60ba4333a34a4494468f058f21b77"
+    },
+    {
+      "original_filename": "ankha-animal-crossing-jnpw0dke4dh3ub53.jpg",
+      "bytes": 56149,
+      "sha256": "5e0bf222f96897b4df88141751476f40c12752b25aedfd661bbaa5ec2dbe5033"
+    },
+    {
+      "original_filename": "Ankha-from-Animal-Crossing.png",
+      "bytes": 566938,
+      "sha256": "8d66953538ab2d06b4e8748f9111331f75b5ed1cb8e524c97fae181d5c37c7b3"
+    },
+    {
+      "original_filename": "Camel by Camel - Sandy Marton ¦ Zone Ankha (Cover⁄Remake with lyrics) (1080p_24fps_H264-128kbit_AAC).mp4",
+      "bytes": 60824684,
+      "sha256": "ae4c1607b60bba6754c8a9aaf2276f117997fd02c78aba59fd891aeb0f77fd96"
+    },
+    {
+      "original_filename": "images (1).jpg",
+      "bytes": 24810,
+      "sha256": "f4a2e15a49b0c4fee54c2ae236436a7d64993eafa6d5c2b9b3e8129588196ebf"
+    },
+    {
+      "original_filename": "images.jpg",
+      "bytes": 55988,
+      "sha256": "a8331d139bc992f81c57de5f0f92f092ce8bfd7026d4424f0f65b3e9d654f697"
+    },
+    {
+      "original_filename": "Screenshot_2.png",
+      "bytes": 639921,
+      "sha256": "c6fb1e0f8b3ce055d31ce3e04b38087cfaacc0e43370e054072f442b44885271"
+    },
+    {
+      "original_filename": "thumb-1920-1414195.png",
+      "bytes": 2991563,
+      "sha256": "1ed5c2ae85cf25eb3f9c9149127a758d30afa242ce93fe65fbe3dc6f3aff2eb7"
+    },
+    {
+      "original_filename": "VOZ - 4 ANKHA.mp3",
+      "bytes": 1736640,
+      "sha256": "18c67b1dad5ee90fa280b5539e286e21ebf1cb5801e429f470f289333dff1a6e"
+    }
+  ],
+  "video_derivatives": {
+    "ankha_ilha.mp4": {
+      "original": "Ankha Sings I Love You (2160p_60fps_AV1-128kbit_AAC).mp4",
+      "interval": [
+        1,
+        10
+      ],
+      "description": "Animal Crossing: New Horizons; fan-edited singing performance",
+      "audio_used": false
+    },
+    "camel_cover.mp4": {
+      "original": "Camel by Camel - Sandy Marton ¦ Zone Ankha (Cover⁄Remake with lyrics) (1080p_24fps_H264-128kbit_AAC).mp4",
+      "interval": [
+        35.5,
+        42.5
+      ],
+      "description": "User-supplied Camel by Camel fan cover/remake; not original Sandy Marton footage",
+      "audio_used": false
+    }
+  },
+  "images_published": [
+    "ankha-animal-crossing-j7a4sajfshlbtr9z.jpg",
+    "Ankha-from-Animal-Crossing.png",
+    "1068689ef8ade0a6f391e4b54bcdf843.jpg",
+    "Screenshot_2.png",
+    "images (1).jpg"
+  ],
+  "editorial": "Singing video is user-supplied fan-edited gameplay; Camel by Camel excerpt is a cover/remake. Museum, labels, censorship, search and pardon are authored illustrations. No adult animation is included.",
+  "unused": "Unselected originals and archive are retained outside the repository."
+}

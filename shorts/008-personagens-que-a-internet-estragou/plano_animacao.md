@@ -1,6 +1,6 @@
 # Personagens que a internet estragou — plano de animação e montagem
 
-Planejamento autorizado pelo usuário para os **12 personagens**. Esta entrega contém roteiros e organização de produção. Os nove novos blocos ainda aguardam os links com voz e mídias; não foram criados cenários, imagens, vozes ou renders nesta etapa. Os três vídeos aprovados continuam preservados.
+Planejamento autorizado pelo usuário para os **12 personagens**. Esta entrega contém roteiros e organização de produção. Na etapa de planejamento, não foram criados cenários, imagens, vozes ou renders. A produção da Ankha foi autorizada depois e está concluída; oito blocos ainda aguardam seus pacotes. Os três vídeos anteriormente aprovados continuam preservados.
 
 ## Ordem, cena principal e roteiro de cada bloco
 
@@ -9,7 +9,7 @@ Planejamento autorizado pelo usuário para os **12 personagens**. Esta entrega c
 | 01 | Lady Dimitrescu | Entrada do castelo, sombra alta e currículo com atividade censurada. | Produzido; [roteiro](roteiros/01-lady-dimitrescu/animacao.md), [produção](production/01-lady-dimitrescu/README.md). |
 | 02 | Tifa | Reunião interrompida; remover o participante não impede os compartilhamentos. | Produzido; [roteiro](roteiros/02-tifa/animacao.md), [produção](production/02-tifa/README.md). |
 | 03 | Chun-Li | Câmera de pedestal e balcão de fiscalização de skin. | Produzido; [roteiro](roteiros/03-chun-li/animacao.md), [produção](production/03-chun-li/README.md). |
-| 04 | Ankha | Museu com duas peças: personagem e música; dupla associação e perdão final. | Planejado; [roteiro](roteiros/04-ankha/animacao.md). |
+| 04 | Ankha | Museu com duas peças: personagem e música; dupla associação e perdão final. | Produzido; [roteiro](roteiros/04-ankha/animacao.md), [produção](production/04-ankha/README.md). |
 | 05 | Vaporeon | Mesa de redação soterrada por um textão; a proposta é fechar a janela. | Planejado; [roteiro](roteiros/05-vaporeon/animacao.md). |
 | 06 | 2B | Estação de treinamento: preparada para máquinas, sem treinamento para a internet. | Planejado; [roteiro](roteiros/06-2b/animacao.md). |
 | 07 | Tracer | Entrevista entre dois Derys: reconhecer a personagem não prova que jogou. | Planejado; [roteiro](roteiros/07-tracer/animacao.md). |
@@ -49,7 +49,7 @@ As duas versões usam a mesma voz e a mesma sequência de ideias, com câmeras e
 
 ## Montagem do vídeo longo
 
-1. Reaproveitar os masters horizontais já aprovados de Lady, Tifa e Chun-Li. Somados, eles têm **107,083 segundos**; isso não determina a duração dos outros nove blocos.
+1. Reaproveitar os masters horizontais de Lady, Tifa, Chun-Li e Ankha. Somados, eles têm **151,125 segundos**; os três primeiros já foram aprovados pelo usuário. Isso não determina a duração dos outros oito blocos.
 2. Começar pelo gancho já gravado da Lady. O título geral pode aparecer no monitor ou numa identificação gráfica curta; não há uma nova abertura falada autorizada nesta etapa.
 3. Nas passagens de personagem, aproveitar a pausa natural da voz e um corte para o novo conteúdo no monitor. Preservar as piadas e as falas completas. Remover apenas sobra silenciosa de exportação quando isso ajudar a ligação e não cortar a sustentação de uma reação.
 4. Manter Tracer, D.Va e Mercy juntas. “Como já tínhamos dito aqui” da D.Va remete à Tracer, e “fechar o combo” da Mercy encerra esse grupo. Diferenciar seus três ambientes: entrevista, cockpit e triagem.
@@ -60,7 +60,7 @@ Nos shorts, o primeiro plano já identifica a personagem ou o assunto. As refer�
 
 ## Reaproveitamento e preparação de produção
 
-| Base existente | Uso planejado | Elementos novos propostos, ainda não construídos |
+| Base existente | Uso planejado | Elementos adicionais por bloco |
 | --- | --- | --- |
 | Quarto e atuação em `production/03-chun-li/` e `production/02-tifa/` | Continuidade do apresentador, câmeras, faces, roupa e monitor. | Conteúdo de tela e gestos específicos de cada gravação. |
 | `assets/cenarios/entrada_castelo/` | Museu da Ankha, ruínas da Lara e vitrine real da Peach. | Pedestais, cassete, placa, coroa genérica e suportes para retratos. |
@@ -70,6 +70,8 @@ Nos shorts, o primeiro plano já identifica a personagem ou o assunto. As refer�
 Usar apenas a parte visível de cada cenário. As fichas, janelas, selos e retratos são candidatos a composição 2D sobre superfícies simples. Não construir modelos novos de todos os personagens, um MEKA completo, uma cidade, uma batalha ou figurantes para estes planos.
 
 Quando chegar o link de cada pacote: inventariar e inspecionar arquivos, medir a voz, selecionar trechos, fechar os cortes por frase, preparar o vídeo contínuo do monitor e conferir um pequeno conjunto de poses nos dois formatos. Guardar origem, intervalos e hashes dos materiais usados. O pacote original fica fora do Git; voz, recortes usados, scripts, projetos e finais entram na pasta do bloco.
+
+O [museu genérico](../../assets/cenarios/museu/) também está disponível após a produção da Ankha, com moldura e suportes sem imagens do episódio.
 
 Na renderização, aplicar o processamento já usado na Chun-Li: ocultar o cenário fora da câmera, renderizar apenas planos 3D, compor os demais diretamente e permitir retomada de quadros completos. Neste ambiente, a configuração estável observada foi um formato por vez com dois threads; reavaliar somente se a execução justificar. Não prometer um tempo fixo antes de medir a gravação e o material.
 
