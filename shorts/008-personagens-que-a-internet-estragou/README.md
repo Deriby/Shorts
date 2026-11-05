@@ -43,6 +43,11 @@ Segundo bloco: **Tifa — Final Fantasy VII**, com voz, meme, notícia e vídeos
 - [Assistir / baixar o horizontal 16:9 da Tifa](production/02-tifa/output/Tifa_Personagens_que_a_internet_estragou_16x9.mp4).
 - [Produção, projetos Blender, fontes e verificações — Tifa](production/02-tifa/README.md).
 
+Terceiro bloco em roteiro: **Chun-Li — Street Fighter / Fortnite**, com a narração revisada pelo usuário e planejamento de animação correspondente. O encerramento fica em “fiscalizar a skin”, seguido do suspiro. A cena fora do quarto será um balcão cômico de fiscalização, reaproveitando a base da sala de reunião. A voz ainda será recebida; não há produção ou render iniciado para este bloco.
+
+- [Narração — Chun-Li](roteiros/03-chun-li/narracao.md).
+- [Animação e materiais úteis — Chun-Li](roteiros/03-chun-li/animacao.md).
+
 Os demais blocos ainda precisam de roteiro, pesquisa e autorização de produção. Os episódios anteriores não foram alterados.
 
 ## Fluxo de mídia desejado
