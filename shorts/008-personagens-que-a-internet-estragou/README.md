@@ -35,10 +35,13 @@ Primeiro bloco concluído: **Lady Dimitrescu**, com voz, vídeos e memes enviado
 - [Projeto Blender horizontal](production/01-lady-dimitrescu/output/Dery_Lady_Master_16x9.blend).
 - [Produção, fontes e verificações](production/01-lady-dimitrescu/README.md).
 
-Segundo bloco em roteiro: **Tifa — Final Fantasy VII**, com a narração revisada pelo usuário, tags de interpretação e planejamento atualizado para terminar em “acabou viralizando”. O foco é o conteúdo adulto de fãs e o incidente da videoconferência de janeiro de 2022. Ainda não há gravação recebida nem produção iniciada para a Tifa.
+Segundo bloco: **Tifa — Final Fantasy VII**, com voz, meme, notícia e vídeos enviados pelo usuário. Versões **9:16 e 16:9 de 28,083 segundos**, com cortes próprios, atuação por frase, visual PS1 e passagem pela sala de reunião fictícia. A gravação foi mantida inteira e termina em “acabou viralizando”.
 
 - [Narração — Tifa](roteiros/02-tifa/narracao.md).
 - [Animação e materiais úteis — Tifa](roteiros/02-tifa/animacao.md).
+- [Assistir / baixar o short da Tifa](production/02-tifa/output/Tifa_Personagens_que_a_internet_estragou_9x16.mp4).
+- [Assistir / baixar o horizontal 16:9 da Tifa](production/02-tifa/output/Tifa_Personagens_que_a_internet_estragou_16x9.mp4).
+- [Produção, projetos Blender, fontes e verificações — Tifa](production/02-tifa/README.md).
 
 Os demais blocos ainda precisam de roteiro, pesquisa e autorização de produção. Os episódios anteriores não foram alterados.
 

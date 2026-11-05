@@ -1,0 +1,188 @@
+{
+  "fps": 24,
+  "frames": 674,
+  "duration": 28.083333333333332,
+  "voice_duration": 27.395419501133787,
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 36,
+      "kind": "monitor",
+      "mood": "hook",
+      "source": "tifa_intro.mp4",
+      "source_start": 0
+    },
+    {
+      "id": 1,
+      "start": 37,
+      "end": 79,
+      "kind": "actor",
+      "mood": "thoughtful",
+      "source": "tifa_intro.mp4",
+      "source_start": 1.5
+    },
+    {
+      "id": 2,
+      "start": 80,
+      "end": 106,
+      "kind": "photo",
+      "mood": "call",
+      "source": "call_normal.png",
+      "source_start": 0
+    },
+    {
+      "id": 3,
+      "start": 107,
+      "end": 134,
+      "kind": "actor",
+      "mood": "thoughtful",
+      "source": "call_normal.png",
+      "source_start": 0
+    },
+    {
+      "id": 4,
+      "start": 135,
+      "end": 151,
+      "kind": "monitor",
+      "mood": "name",
+      "source": "tifa_intro.mp4",
+      "source_start": 3.4
+    },
+    {
+      "id": 5,
+      "start": 152,
+      "end": 174,
+      "kind": "game",
+      "mood": "name",
+      "source": "tifa_intro.mp4",
+      "source_start": 4.1
+    },
+    {
+      "id": 6,
+      "start": 175,
+      "end": 193,
+      "kind": "actor",
+      "mood": "punch",
+      "source": "tifa_fight.mp4",
+      "source_start": 0
+    },
+    {
+      "id": 7,
+      "start": 194,
+      "end": 228,
+      "kind": "game",
+      "mood": "combat",
+      "source": "tifa_fight.mp4",
+      "source_start": 2.1
+    },
+    {
+      "id": 8,
+      "start": 229,
+      "end": 254,
+      "kind": "game",
+      "mood": "combat",
+      "source": "tifa_fight.mp4",
+      "source_start": 3.4
+    },
+    {
+      "id": 9,
+      "start": 255,
+      "end": 287,
+      "kind": "actor",
+      "mood": "sigh",
+      "source": "call_censored.png",
+      "source_start": 0
+    },
+    {
+      "id": 10,
+      "start": 288,
+      "end": 321,
+      "kind": "photo",
+      "mood": "fan",
+      "source": "meme_fa.png",
+      "source_start": 0
+    },
+    {
+      "id": 11,
+      "start": 322,
+      "end": 359,
+      "kind": "photo",
+      "mood": "news",
+      "source": "noticia.png",
+      "source_start": 0
+    },
+    {
+      "id": 12,
+      "start": 360,
+      "end": 401,
+      "kind": "meeting",
+      "mood": "composed",
+      "source": "call_normal.png",
+      "source_start": 0
+    },
+    {
+      "id": 13,
+      "start": 402,
+      "end": 444,
+      "kind": "meeting",
+      "mood": "interrupted",
+      "source": "call_censored.png",
+      "source_start": 0
+    },
+    {
+      "id": 14,
+      "start": 445,
+      "end": 487,
+      "kind": "photo",
+      "mood": "call",
+      "source": "call_censored.png",
+      "source_start": 0
+    },
+    {
+      "id": 15,
+      "start": 488,
+      "end": 508,
+      "kind": "meeting",
+      "mood": "shock",
+      "source": "call_censored.png",
+      "source_start": 0
+    },
+    {
+      "id": 16,
+      "start": 509,
+      "end": 563,
+      "kind": "meeting",
+      "mood": "deadpan",
+      "source": "call_censored.png",
+      "source_start": 0
+    },
+    {
+      "id": 17,
+      "start": 564,
+      "end": 602,
+      "kind": "meeting",
+      "mood": "relief",
+      "source": "call_removed.png",
+      "source_start": 0
+    },
+    {
+      "id": 18,
+      "start": 603,
+      "end": 634,
+      "kind": "photo",
+      "mood": "call",
+      "source": "call_shared.png",
+      "source_start": 0
+    },
+    {
+      "id": 19,
+      "start": 635,
+      "end": 674,
+      "kind": "meeting",
+      "mood": "final",
+      "source": "call_shared.png",
+      "source_start": 0
+    }
+  ]
+}

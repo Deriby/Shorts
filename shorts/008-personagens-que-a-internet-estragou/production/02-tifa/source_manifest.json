@@ -1,0 +1,101 @@
+{
+  "package": "2 - Tifa.zip",
+  "source": "User-provided Google Drive archive",
+  "files": [
+    {
+      "original_filename": "140532-sephiroth-fictional_character-woman_warrior-costume-video_games-1366x768.jpg",
+      "bytes": 241799,
+      "sha256": "112cc8325f0800e08979bd6b0fb55a3cc9453e1a7381b98bd27915608e2a23a7"
+    },
+    {
+      "original_filename": "1898194.jpg",
+      "bytes": 69054,
+      "sha256": "21c15a4b41a0f0a0588aa796e7d5cbdce04bf808c583106c1fd85debae92b494"
+    },
+    {
+      "original_filename": "FINAL FANTASY VII REBIRTH Tifa showed Reno some Love (1080p_60fps_H264-128kbit_AAC).mp4",
+      "bytes": 27558412,
+      "sha256": "cc5aaeff8462c9eae54cdf55bc8a75ec107c8ac3883e993f6b6045b154f54491"
+    },
+    {
+      "original_filename": "final-fantasy-vii-tifa-03-14-23-1.jpg",
+      "bytes": 115730,
+      "sha256": "a04e38ed2de268dcda7809a3d0588fec187ccc2adf82b7fa18d23127402dc952"
+    },
+    {
+      "original_filename": "FJeTDLSXIAAaMqX.jpg",
+      "bytes": 147638,
+      "sha256": "c0a19d41bbd0c18a7d372951e65701e5396b6f86b5a9933ba6e3780ec26487d7"
+    },
+    {
+      "original_filename": "Introduce Tifa Lockhart ¦ Final Fantasy VII Remake 【４Ｋ】 (2160p_60fps_VP9-128kbit_AAC).mkv",
+      "bytes": 84422573,
+      "sha256": "7dbf0a6e7797d88be1b3cc7485297a4bb410ac7dac6db9e67f0846e2b33fd4fa"
+    },
+    {
+      "original_filename": "maxresdefault.jpg",
+      "bytes": 88468,
+      "sha256": "ae92bbb357340fd2174ac3196574d8feb197e9aa97ba588b5b53eff8a105e1cb"
+    },
+    {
+      "original_filename": "Meme1.png",
+      "bytes": 456152,
+      "sha256": "e8333739ccb6e1949a24522a64ca9acdae54f1c81c3ca234864ece581bd67b75"
+    },
+    {
+      "original_filename": "Screenshot_1.png",
+      "bytes": 266740,
+      "sha256": "b1637d0ac45af5de8327ed9ff13f878fc34ece15ef27adab223f18cec24075ed"
+    },
+    {
+      "original_filename": "Tifa & Aerith Beach Cutscene (4K) - Final Fantasy 7 Rebirth (2160p_60fps_AV1-128kbit_AAC).mp4",
+      "bytes": 418871397,
+      "sha256": "eb49f26e5b7e631be0322ceace880d306f114be9b1e89d4d4ba6d86e232446c7"
+    },
+    {
+      "original_filename": "Tifa Teaches Aerith How to Become a Pick Up Girl in Final Fantasy VII Remake Intergrate DLC (1080p_60fps_H264-128kbit_AAC).mp4",
+      "bytes": 37337847,
+      "sha256": "776b0cdb65fbcdebf576af5d469b6531a20e5b5fe6d5c96ae42018939255c068"
+    },
+    {
+      "original_filename": "tifa-is-back-on-top-the-top-2025-gamer-highlights-from-a-v0-bxppmno7086g1.png",
+      "bytes": 83524,
+      "sha256": "1545b68646d3f88aeca288d30a8fc6c503c15328ab0bbe295e9b766bbdb91893"
+    },
+    {
+      "original_filename": "tifa_ffvii_Remake.jpg",
+      "bytes": 228465,
+      "sha256": "c78a322798174c3825f7237059b38114165c72e767bf986888e42e250a5db25e"
+    },
+    {
+      "original_filename": "Voz - 2 Tifa.mp3",
+      "bytes": 1098240,
+      "sha256": "eac90707b6b1c65c2a9dc2b0cf0c291560f263a5486141f3643c7bb4e6e58c70"
+    }
+  ],
+  "video_derivatives": {
+    "tifa_fight.mp4": {
+      "original": "FINAL FANTASY VII REBIRTH Tifa showed Reno some Love (1080p_60fps_H264-128kbit_AAC).mp4",
+      "interval": [
+        0,
+        7
+      ],
+      "game": "Final Fantasy VII Rebirth"
+    },
+    "tifa_intro.mp4": {
+      "original": "Tifa Teaches Aerith How to Become a Pick Up Girl in Final Fantasy VII Remake Intergrate DLC (1080p_60fps_H264-128kbit_AAC).mp4",
+      "interval": [
+        12,
+        20
+      ],
+      "game": "Final Fantasy VII Rebirth; supplied upload title mentions Remake, but the excerpt shows the Rebirth party scene"
+    }
+  },
+  "images_published": [
+    "Meme1.png",
+    "Screenshot_1.png",
+    "tifa_ffvii_Remake.jpg",
+    "140532-sephiroth-fictional_character-woman_warrior-costume-video_games-1366x768.jpg"
+  ],
+  "omitted": "Beach clip, adult-site graphic and other unused sources remain outside the repository. Call graphics are fictional nonexplicit illustrations, not the original adult transmission."
+}

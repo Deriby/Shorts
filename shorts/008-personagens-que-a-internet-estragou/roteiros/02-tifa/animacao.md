@@ -1,6 +1,6 @@
 # Tifa — animação para a versão do usuário
 
-Planejamento ligado à [narração revisada](narracao.md), respeitando a ordem e as tags de interpretação. Somente roteiro de animação nesta etapa: não gerar voz, imagens, cenário, vídeo ou render. Ainda não há gravação recebida; as durações e os pontos de corte serão ajustados ao áudio real.
+Planejamento ligado à [narração revisada](narracao.md), respeitando a ordem e as tags de interpretação. **Produção autorizada e voz recebida no pacote da Tifa.** A montagem final de 28,083 segundos segue a gravação real; os cortes e fontes estão em [production/02-tifa](../../production/02-tifa/).
 
 Preparar o mesmo bloco para **9:16 e 16:9**, com composições próprias. A história termina em **“Só que o momento acabou viralizando”**. O antigo fechamento sobre procurar o botão de encerrar reunião não será usado.
 
@@ -41,4 +41,4 @@ Os gestos têm intenções diferentes: apresentação contida, soco único, susp
 3. Opcional: memes não explícitos relacionando Tifa e Itália, para a passagem sobre repercussão.
 4. A voz final após a revisão do usuário.
 
-A grade de chamada, os avisos, os cartões de compartilhamento e as tarjas serão montagens autorais quando a produção for solicitada. Nenhuma mídia foi selecionada ou baixada para este bloco nesta etapa.
+A grade de chamada, os avisos, os cartões de compartilhamento e as tarjas serão montagens autorais quando a produção for solicitada. A seleção final, os recortes e as interfaces preparadas estão registrados no manifesto da produção.

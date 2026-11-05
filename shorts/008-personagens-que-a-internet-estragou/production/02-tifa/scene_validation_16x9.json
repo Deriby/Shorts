@@ -1,0 +1,347 @@
+{
+  "original_geometry_max_displacement_m": 0.0,
+  "face_checks": [
+    {
+      "actor": "DERY | animated character",
+      "frame": 56,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 187,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 272,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 378,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 428,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 495,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 541,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 582,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 654,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "MEETING | Dery",
+      "frame": 378,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "MEETING | Dery",
+      "frame": 428,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "MEETING | Dery",
+      "frame": 495,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "MEETING | Dery",
+      "frame": 541,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "MEETING | Dery",
+      "frame": 582,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "MEETING | Dery",
+      "frame": 654,
+      "max_facial_split_m": 0.0
+    }
+  ],
+  "precision_checks": [
+    {
+      "actor": "DERY | animated character",
+      "frame": 56,
+      "max_precision_displacement_m": 0.005924766298398489
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 187,
+      "max_precision_displacement_m": 0.005939590753876978
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 272,
+      "max_precision_displacement_m": 0.003462845416582106
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 378,
+      "max_precision_displacement_m": 0.032395162835050145
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 428,
+      "max_precision_displacement_m": 0.03239828766343994
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 495,
+      "max_precision_displacement_m": 0.02149450790564169
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 541,
+      "max_precision_displacement_m": 0.03266202424633825
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 582,
+      "max_precision_displacement_m": 0.03251413442697468
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 654,
+      "max_precision_displacement_m": 0.02408269023364732
+    },
+    {
+      "actor": "MEETING | Dery",
+      "frame": 378,
+      "max_precision_displacement_m": 0.010983348647725337
+    },
+    {
+      "actor": "MEETING | Dery",
+      "frame": 428,
+      "max_precision_displacement_m": 0.011014897400090429
+    },
+    {
+      "actor": "MEETING | Dery",
+      "frame": 495,
+      "max_precision_displacement_m": 0.004143803690490998
+    },
+    {
+      "actor": "MEETING | Dery",
+      "frame": 541,
+      "max_precision_displacement_m": 0.01091590231613426
+    },
+    {
+      "actor": "MEETING | Dery",
+      "frame": 582,
+      "max_precision_displacement_m": 0.011091241729942242
+    },
+    {
+      "actor": "MEETING | Dery",
+      "frame": 654,
+      "max_precision_displacement_m": 0.004427207714582583
+    }
+  ],
+  "seated_pelvis_stable": true,
+  "meeting_seated_support_stable": true,
+  "arm_checks": [
+    {
+      "frame": 56,
+      "side": "R",
+      "reach_m": 0.28962189282010875,
+      "target_error_m": 0.00020052760974973889
+    },
+    {
+      "frame": 56,
+      "side": "L",
+      "reach_m": 0.36039282012087354,
+      "target_error_m": 0.0001968844905775729
+    },
+    {
+      "frame": 187,
+      "side": "R",
+      "reach_m": 0.33500642092332955,
+      "target_error_m": 0.00014819730833658543
+    },
+    {
+      "frame": 187,
+      "side": "L",
+      "reach_m": 0.32527091318861806,
+      "target_error_m": 0.0002568369123100363
+    },
+    {
+      "frame": 272,
+      "side": "R",
+      "reach_m": 0.37296084499671306,
+      "target_error_m": 0.00016445848806775115
+    },
+    {
+      "frame": 272,
+      "side": "L",
+      "reach_m": 0.29997142230950885,
+      "target_error_m": 0.00027767221524572117
+    },
+    {
+      "frame": 378,
+      "side": "R",
+      "reach_m": 0.37148351436273463,
+      "target_error_m": 0.00015405302726054283
+    },
+    {
+      "frame": 378,
+      "side": "L",
+      "reach_m": 0.37709415717840716,
+      "target_error_m": 0.00018197809797317074
+    },
+    {
+      "frame": 428,
+      "side": "R",
+      "reach_m": 0.37148351436273463,
+      "target_error_m": 0.00015405302726054283
+    },
+    {
+      "frame": 428,
+      "side": "L",
+      "reach_m": 0.37709415717840716,
+      "target_error_m": 0.00018197809797317074
+    },
+    {
+      "frame": 495,
+      "side": "R",
+      "reach_m": 0.37148351436273463,
+      "target_error_m": 0.00015405302726054283
+    },
+    {
+      "frame": 495,
+      "side": "L",
+      "reach_m": 0.37709415717840716,
+      "target_error_m": 0.00018197809797317074
+    },
+    {
+      "frame": 541,
+      "side": "R",
+      "reach_m": 0.37148351436273463,
+      "target_error_m": 0.00015405302726054283
+    },
+    {
+      "frame": 541,
+      "side": "L",
+      "reach_m": 0.37709415717840716,
+      "target_error_m": 0.00018197809797317074
+    },
+    {
+      "frame": 582,
+      "side": "R",
+      "reach_m": 0.37148351436273463,
+      "target_error_m": 0.00015405302726054283
+    },
+    {
+      "frame": 582,
+      "side": "L",
+      "reach_m": 0.37709415717840716,
+      "target_error_m": 0.00018197809797317074
+    },
+    {
+      "frame": 654,
+      "side": "R",
+      "reach_m": 0.37148351436273463,
+      "target_error_m": 0.00015405302726054283
+    },
+    {
+      "frame": 654,
+      "side": "L",
+      "reach_m": 0.37709415717840716,
+      "target_error_m": 0.00018197809797317074
+    }
+  ],
+  "meeting_arm_checks": [
+    {
+      "frame": 378,
+      "side": "R",
+      "reach_m": 0.2998333961490489,
+      "target_error_m": 0.0001440991443487909
+    },
+    {
+      "frame": 378,
+      "side": "L",
+      "reach_m": 0.3608323820424076,
+      "target_error_m": 0.0001396511164800654
+    },
+    {
+      "frame": 428,
+      "side": "R",
+      "reach_m": 0.35902660767307676,
+      "target_error_m": 0.00011965158486985659
+    },
+    {
+      "frame": 428,
+      "side": "L",
+      "reach_m": 0.3608159043110008,
+      "target_error_m": 0.0001395775407402735
+    },
+    {
+      "frame": 495,
+      "side": "R",
+      "reach_m": 0.2069296913895164,
+      "target_error_m": 0.0001449606405706581
+    },
+    {
+      "frame": 495,
+      "side": "L",
+      "reach_m": 0.3630750452883606,
+      "target_error_m": 0.0001503273926770367
+    },
+    {
+      "frame": 541,
+      "side": "R",
+      "reach_m": 0.35958649999630704,
+      "target_error_m": 0.0001180658938382888
+    },
+    {
+      "frame": 541,
+      "side": "L",
+      "reach_m": 0.36137749102732447,
+      "target_error_m": 0.00013948285722372857
+    },
+    {
+      "frame": 582,
+      "side": "R",
+      "reach_m": 0.31310708934727893,
+      "target_error_m": 0.00011887934218574221
+    },
+    {
+      "frame": 582,
+      "side": "L",
+      "reach_m": 0.3604558351891818,
+      "target_error_m": 0.00014127275326670605
+    },
+    {
+      "frame": 654,
+      "side": "R",
+      "reach_m": 0.35980879963300866,
+      "target_error_m": 0.00011697760427945363
+    },
+    {
+      "frame": 654,
+      "side": "L",
+      "reach_m": 0.3641893153691189,
+      "target_error_m": 0.00014227139277164387
+    }
+  ],
+  "monitor_frames": 674,
+  "monitor_auto_refresh": true,
+  "expressions": "31 PNG faces, discrete changes, no active morphs",
+  "acting": "Non-periodic phrase gestures with asymmetric strokes, holds and releases"
+}

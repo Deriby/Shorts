@@ -1,0 +1,18 @@
+{
+  "video": "Tifa_Personagens_que_a_internet_estragou_16x9.mp4",
+  "frames": 674,
+  "duration": 28.083333,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "codec": "H.264 + AAC",
+  "size_bytes": 23487752,
+  "full_decode": "passed",
+  "voice_original_sha256": "eac90707b6b1c65c2a9dc2b0cf0c291560f263a5486141f3643c7bb4e6e58c70",
+  "voice_unmodified": true,
+  "monitor_frames": 674,
+  "scene_checks": "passed",
+  "ps1_palette": "5-bit RGB with fixed 4x4 ordered Bayer pattern, integer nearest-neighbor upscale"
+}

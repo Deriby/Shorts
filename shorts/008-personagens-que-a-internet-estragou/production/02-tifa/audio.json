@@ -1,0 +1,10 @@
+{
+  "original_filename": "Voz - 2 Tifa.mp3",
+  "sha256": "eac90707b6b1c65c2a9dc2b0cf0c291560f263a5486141f3643c7bb4e6e58c70",
+  "voice_duration_seconds": 27.395419501133787,
+  "frames": 674,
+  "speed_changed": false,
+  "pitch_changed": false,
+  "trimmed": false,
+  "alignment": "Supplied recording; local ASR segment timing and semantic shot alignment. Delivery tags are not captions."
+}
