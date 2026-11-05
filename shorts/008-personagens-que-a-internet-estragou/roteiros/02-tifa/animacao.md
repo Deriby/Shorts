@@ -1,36 +1,44 @@
-# Tifa — roteiro de animação
+# Tifa — animação para a versão do usuário
 
-Planejamento por frases da [narração](narracao.md), sem timecodes finais. Esperar a gravação e a autorização de produção para animar. Este bloco deve renderizar em **9:16 e 16:9**, aproveitando os mesmos recursos e atuação, com enquadramentos próprios.
+Planejamento ligado à [narração revisada](narracao.md), respeitando a ordem e as tags de interpretação. Somente roteiro de animação nesta etapa: não gerar voz, imagens, cenário, vídeo ou render. Ainda não há gravação recebida; as durações e os pontos de corte serão ajustados ao áudio real.
 
-## Cenas
+Preparar o mesmo bloco para **9:16 e 16:9**, com composições próprias. A história termina em **“Só que o momento acabou viralizando”**. O antigo fechamento sobre procurar o botão de encerrar reunião não será usado.
 
-| Trecho | Imagem e atuação | Expressões e ritmo |
+## Cenas por fala
+
+| Fala e interpretação | Imagem e atuação | Expressões e ritmo |
 | --- | --- | --- |
-| “Essa personagem de Final Fantasy foi parar numa reunião com políticos italianos.” | Abrir com Tifa identificável num golpe da gameplay. Corte para uma grade fictícia de videoconferência no monitor do Dery: um quadrinho mostra apenas o rosto da personagem. Dery olha do jogo para a grade, sem entender a associação. | Explicando → confuso, com troca seca. Entrada direta no assunto. |
-| “Só que o vídeo não era do jogo, né?” | Close do Dery. Ele levanta uma sobrancelha e aponta uma palma para o monitor; o quadrinho da chamada recebe uma tarja “CENSURADO”. Não exibir material explícito para preparar a piada. | Deboche falando → constrangido. Pausa curta no olhar para a câmera. |
-| “Essa é a Tifa, de Final Fantasy VII.” | Mostrar retrato e uma tomada reconhecível do jogo enviado. No monitor, preservar o quadro completo quando o HUD ou a identificação exigirem. Se o material for do Remake/Rebirth, não rotulá-lo como captura do PS1 original. | Dery apresenta a tela com uma mão e relaxa o braço depois do gesto. |
-| “No jogo, ela desce o soco em monstro e ajuda a salvar o planeta.” | Dois cortes de combate, priorizando golpes da Tifa. Dery faz uma única indicação curta do impacto, sem entrar num ciclo de socos nem depender de contato com objetos. | Ênfase breve no golpe; voltar ao apoio antes da próxima frase. |
-| “Na internet, virou estrela de desenhos e animações pra adultos.” | No monitor, gráfico autoral com miniaturas abstratas cobertas por tarjas. Dery recua um pouco o tronco, olha de lado e deixa uma mão suspensa por um instante. Não reutilizar o currículo da Lady: cada personagem terá sua própria piada. | Nervoso → deboche. Uma pausa sustenta o constrangimento. |
-| “E em janeiro de 2022, alguém invadiu uma reunião pelo Zoom e colocou um desses vídeos na transmissão.” | Mostrar título/data em uma notícia ou captura pertinente, quando o usuário fornecer esse material. Depois, **cena fora do quarto:** Dery numa pequena sala de reunião low poly, com mesa e telão. Uma grade fictícia de chamada normal é interrompida por um quadro totalmente coberto por “CENSURADO”. A encenação com Dery é uma ilustração cômica, sem recriar falas reais de políticos. | Seriedade → susto. Cortes secos e som de notificação discreto, sem glitch. |
-| “Sim. Um vídeo adulto da Tifa, no meio de um evento político.” | Plano aberto da sala fictícia: Dery se inclina para conferir a tela, congela por um instante e vira o rosto lentamente para a câmera. Pode haver um microfone sobre a mesa, sem interação física obrigatória. | Susto → sem reação. Evitar braços se mexendo durante toda a pausa. |
-| “O invasor foi removido. Só que o momento acabou viralizando.” | O quadrinho censurado some da grade; fica o rosto do Dery encarando o espaço vazio. No monitor do quarto, pode aparecer uma montagem simples de referências sobre a repercussão. Qualquer manchete real precisa corresponder ao evento; não inventar veículos, números ou declarações. | Uma soltada dos ombros, seguida de um olhar de quem percebe que já era tarde. |
-| “A mulher foi de salvar o planeta… Pra fazer político procurar o botão de encerrar reunião.” | Contrastar um último golpe da Tifa com Dery perdido diante dos controles da chamada. O cursor passa por microfone e câmera antes de encontrar o botão vermelho “ENCERRAR”. A chamada fecha e o plano termina na cara de derrota dele. A piada acontece na interface e na reação, sem precisar animar encaixe de cabo, toque em mouse ou contato com teclado. | Ansiedade → expressão neutra. Pequena pausa antes do corte final. Não adicionar outra fala ou TTS. |
+| **[thoughtful]** “Essa personagem de Final Fantasy foi tão estragada, que foi parar até em uma reunião com políticos italianos.” | Abrir no monitor com Tifa reconhecível numa tomada do jogo. Uma aproximação mostra a imagem passando para um quadrinho de videoconferência. Corte para Dery no quarto: ele olha para a tela, inclina levemente a cabeça e volta à câmera, como quem tenta entender aquela associação. | Pensativo → desconfiado. Uma única palma se abre depois da virada do olhar. Entrada direta no assunto, sem vinheta falada. |
+| **[short pause]** “Essa é a Tifa, de Final Fantasy.” | Na pausa, sustentar a reação anterior por um instante e deixar a mão retornar ao apoio. Mostrar uma tomada limpa da personagem no monitor e um corte direto da gameplay para identificá-la. | Explicando, com gesto curto de apresentação e retorno. Não acrescentar “VII” à voz do usuário. Identificar corretamente a versão do jogo nos registros de mídia. |
+| **[excited]** “No jogo, ela desce a porrada e ajuda a salvar o planeta.” | Dois cortes de combate com golpes da Tifa. Na ênfase de “porrada”, Dery faz um único soco curto no ar; cortar para o impacto real na gameplay. Depois, ele abre uma mão para apresentar a importância dela na aventura. | Entusiasmo no golpe, seguido de relaxamento. Apoio na cadeira preservado; sem ciclo de socos ou pancada na mesa. |
+| **[sighs]** “Mas, na internet virou estrela dos tarado de plantão.” | Voltar ao quarto. No suspiro da gravação, Dery solta os ombros, recosta um pouco e olha de lado. No monitor, entram miniaturas abstratas cobertas por tarjas; ele abre a outra mão em incredulidade e fica parado por um instante. | Cansaço → constrangimento/deboche. O suspiro vem do áudio recebido; não gerar outro. Evitar repetir a pose entusiasmada ou manter os dois braços levantados. |
+| **[short pause]** “Aí do nada, em janeiro de 2022, alguém invadiu uma reunião pelo Zoom e colocou um desses vídeos na transmissão.” | Pausa curta e passagem por uma notícia ou captura pertinente sobre o evento, se fornecida. Em seguida, **cena fora do quarto:** pequena sala de reunião low poly com Dery, mesa, microfone decorativo e telão. A grade fictícia da chamada parece normal até um quadro totalmente coberto por “CENSURADO” ocupar o espaço central. | Dery começa composto, percebe a mudança na tela e interrompe o gesto. Som discreto de notificação pode marcar a entrada, sem glitch ou voz adicional. |
+| **[surprised]** “Sim! Um vídeo adulto da Tifa, no meio de um evento político!” | Em “Sim!”, corte seco para close do Dery. Ele arregala os olhos e recua de uma vez. Abrir o plano na continuação revela a sala de reunião e o quadrinho censurado no telão. Ele vira devagar para a câmera e sustenta o absurdo da situação. | Susto → sem reação. Uma mão reage; a outra permanece em apoio. Não colocar mãos na cabeça nem fazê-las atravessar o boné. |
+| **[chuckles]** “O invasor foi removido. Só que o momento acabou viralizando.” | O quadrinho censurado desaparece e surge “PARTICIPANTE REMOVIDO” na interface fictícia. Dery dá uma risada curta e começa a relaxar. Na palavra “viralizando”, aparecem três cartões gráficos de compartilhamento com “ENCAMINHADO” e uma miniatura totalmente censurada. Ele acompanha a multiplicação com o olhar e termina encarando a câmera, derrotado. | Risada curta → sorriso que some → expressão neutra. Segurar o último olhar conforme a pausa final da gravação. Os cartões são uma ilustração da repercussão, sem métricas inventadas. |
+
+## Fechamento visual
+
+A última gag é **“removeram da chamada, mas já estavam compartilhando”**. Não adicionar o antigo botão de encerrar, outra frase, despedida ou fala de personagem. Os cartões mostram apenas ícones e tarjas: a piada está na disseminação e na reação do Dery.
 
 ## Cenário e continuidade
 
-Construir somente uma baia de sala de reunião: mesa, microfone decorativo, cadeiras e telão. Reaproveitar mesa/computador quando adequado; uma decoração discreta em verde, branco e vermelho situa a piada. Não modelar o Senado inteiro, políticos reais ou uma Tifa 3D nova.
+Construir apenas uma baia de reunião: mesa, microfone decorativo, algumas cadeiras e telão. Reaproveitar objetos existentes. Verde, branco e vermelho discretos podem situar o contexto italiano. A encenação é uma ilustração cômica com Dery, não uma reprodução de imagens reais ou de falas atribuídas a políticos. Não modelar o Senado inteiro ou uma Tifa 3D nova.
 
-Dery mantém camiseta preta com M amarelo, proporções originais e 31 expressões PNG. Aplicar o visual e a correção de fissuras já usados na Lady: texturas pequenas, Closest, precisão limitada nas bordas, paleta de 5 bits e dithering, com nitidez. Usar gestos por intenção, tempos diferentes entre braços, sustentações e retornos, aproveitando a referência pessoal sem publicá-la.
+Manter o Dery original, a camiseta preta com M amarelo e as 31 expressões PNG, trocadas de uma vez. Preservar o visual PS1 já usado na Lady: texturas pequenas, Closest, bordas com precisão limitada, dithering e baixa resolução nítida, com a correção das fissuras do rosto. Sem desfoque, transição de glitch ou legendas de narração embutidas. As tags de voz não aparecem escritas no vídeo.
 
-O gesto de apresentação, o impacto do combate, o recuo de constrangimento e a tentativa de encerrar a chamada são ações distintas. A atuação não depende de um balanço periódico do corpo nem de uma sequência de mãos repetida em todas as falas.
+Os gestos têm intenções diferentes: apresentação contida, soco único, suspiro com ombros baixos, interrupção por surpresa e alívio que vira derrota. Usar preparação, sustentação e retorno, com tempos diferentes entre os braços. A referência pessoal orienta a atuação e permanece fora do repositório público. As pausas não devem ser preenchidas automaticamente com movimento.
 
-No horizontal, a mesa e o telão podem dividir o quadro. No vertical, priorizar o rosto do Dery e aproximar a interface para manter o botão legível. Reorganizar os recortes da chamada em vez de cortar partes importantes. Sem legendas da narração embutidas. O bloco termina sem despedida falada para integrar o longo depois.
+## Enquadramentos
 
-## Materiais úteis quando formos produzir
+- **9:16:** aproximar rosto, tela e cartão censurado nos momentos de reação. Usar no máximo dois cartões de compartilhamento visíveis por vez se os três ficarem pequenos, mantendo a mesma ideia de multiplicação.
+- **16:9:** aproveitar a mesa e o telão no mesmo plano, com os cartões distribuídos lateralmente. Manter a face do Dery legível e a gameplay em sua proporção correta.
+- A mesma gravação serve aos dois formatos. Os cortes finais seguem o áudio real; não impor agora uma duração à pausa, ao suspiro ou à risada.
 
-1. Gameplay da Tifa, com rosto identificável e golpes em combate; FFVII original ou Remake/Rebirth, registrando a versão usada. Um vídeo pode fornecer várias tomadas.
-2. Uma notícia ou captura sobre o incidente de janeiro de 2022, mostrando título/data e contexto. Não é necessário fornecer o vídeo adulto exibido na chamada.
-3. Opcional: memes não explícitos relacionando Tifa à Itália, como material de reação ou de repercussão.
-4. A voz do roteiro após a revisão do usuário.
+## Materiais úteis na produção futura
 
-A grade da chamada, o botão e as tarjas serão montagens autorais na produção. Não fixar duração ou afirmar que uma tomada já foi encontrada antes de receber e inspecionar os materiais.
+1. Gameplay da Tifa, com rosto identificável e golpes em combate, registrando se é FFVII original, Remake ou Rebirth.
+2. Notícia ou captura sobre o incidente de janeiro de 2022, com título/data e contexto. O acontecimento pode ser ilustrado pela matéria e pela chamada fictícia, sem depender do vídeo adulto original.
+3. Opcional: memes não explícitos relacionando Tifa e Itália, para a passagem sobre repercussão.
+4. A voz final após a revisão do usuário.
+
+A grade de chamada, os avisos, os cartões de compartilhamento e as tarjas serão montagens autorais quando a produção for solicitada. Nenhuma mídia foi selecionada ou baixada para este bloco nesta etapa.

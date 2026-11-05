@@ -35,7 +35,7 @@ Primeiro bloco concluído: **Lady Dimitrescu**, com voz, vídeos e memes enviado
 - [Projeto Blender horizontal](production/01-lady-dimitrescu/output/Dery_Lady_Master_16x9.blend).
 - [Produção, fontes e verificações](production/01-lady-dimitrescu/README.md).
 
-Segundo bloco em roteiro: **Tifa — Final Fantasy VII**, com foco no conteúdo adulto de fãs e no incidente da videoconferência de janeiro de 2022. Ainda não há gravação recebida nem produção iniciada para a Tifa.
+Segundo bloco em roteiro: **Tifa — Final Fantasy VII**, com a narração revisada pelo usuário, tags de interpretação e planejamento atualizado para terminar em “acabou viralizando”. O foco é o conteúdo adulto de fãs e o incidente da videoconferência de janeiro de 2022. Ainda não há gravação recebida nem produção iniciada para a Tifa.
 
 - [Narração — Tifa](roteiros/02-tifa/narracao.md).
 - [Animação e materiais úteis — Tifa](roteiros/02-tifa/animacao.md).
