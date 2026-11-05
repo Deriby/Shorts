@@ -1,0 +1,10 @@
+{
+  "original_filename": "Voz - 1 Lady Dimitrescu.mp3",
+  "sha256": "d16736a4e451e4b1fec502aadd3a251af817b85f62aa65b53cbf12ba7906e8f7",
+  "voice_duration_seconds": 38.313378684807255,
+  "frames": 936,
+  "speed_changed": false,
+  "pitch_changed": false,
+  "trimmed": false,
+  "alignment": "Actual supplied recording, local ASR segment timing; no generated or added speech."
+}

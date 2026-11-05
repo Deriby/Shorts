@@ -1,0 +1,18 @@
+{
+  "video": "Lady_Dimitrescu_Personagens_que_a_internet_estragou_9x16.mp4",
+  "frames": 936,
+  "duration": 39.0,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 24,
+  "codec": "H.264 + AAC",
+  "size_bytes": 28249357,
+  "full_decode": "passed",
+  "voice_original_sha256": "d16736a4e451e4b1fec502aadd3a251af817b85f62aa65b53cbf12ba7906e8f7",
+  "voice_unmodified": true,
+  "monitor_frames": 936,
+  "scene_checks": "passed",
+  "ps1_palette": "5-bit RGB with fixed 4x4 ordered Bayer pattern, integer nearest-neighbor upscale"
+}

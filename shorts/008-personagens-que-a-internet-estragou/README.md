@@ -25,12 +25,15 @@ Planejamento do vídeo e de seus shorts. O usuário aprovou os 14 personagens ab
 
 Entregar shorts em **9:16 primeiro**, com aproveitamento posterior para um vídeo longo em **16:9**. Planejar câmeras, conteúdos de tela e enquadramentos para ambos os formatos antes da animação, com recortes próprios quando rosto, ação ou HUD exigirem. Dividir o roteiro em blocos independentes, com gancho e fechamento, e planejar as transições do longo. Agrupar ou diferenciar os casos de Overwatch para evitar repetição. A duração depende do roteiro e da gravação, não da simples contagem de personagens.
 
-Primeiro bloco preparado: **Lady Dimitrescu**, com a narração revisada pelo usuário e o planejamento atualizado para terminar em “carreira paralela”. Entrega atual somente de roteiros; ainda não há voz recebida, mídias selecionadas nem produção autorizada para esse bloco.
+Primeiro bloco concluído: **Lady Dimitrescu**, com voz, vídeos e memes enviados pelo usuário no pacote “1 - Lady Dimitrescu.zip”. Short vertical de **39 segundos**, com atuação por frase, visual PS1 mais marcado e passagem pela entrada do castelo. A montagem acompanha a gravação real e termina em “carreira paralela”.
 
 - [Narração — Lady Dimitrescu](roteiros/01-lady-dimitrescu/narracao.md).
 - [Animação e materiais necessários — Lady Dimitrescu](roteiros/01-lady-dimitrescu/animacao.md).
+- [Assistir / baixar o short da Lady](production/01-lady-dimitrescu/output/Lady_Dimitrescu_Personagens_que_a_internet_estragou_9x16.mp4).
+- [Projeto Blender](production/01-lady-dimitrescu/output/Dery_Lady_Dimitrescu.blend).
+- [Produção, fontes e verificações](production/01-lady-dimitrescu/README.md).
 
-Não iniciar edição, renderização ou revisão do visual atual nesta etapa. Os demais blocos ainda precisam de roteiro e pesquisa.
+Os demais blocos ainda precisam de roteiro, pesquisa e autorização de produção. Os episódios anteriores não foram alterados.
 
 ## Fluxo de mídia desejado
 

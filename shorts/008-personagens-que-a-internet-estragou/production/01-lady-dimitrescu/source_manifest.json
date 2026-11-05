@@ -1,0 +1,85 @@
+{
+  "package": "1 - Lady Dimitrescu.zip",
+  "source": "User-provided Google Drive archive",
+  "files": [
+    {
+      "original_filename": "Lady Dimitrescu Long Dress Black answers the phone 🖤🖤🖤 (1080p_60fps_H264-128kbit_AAC-inglês).mp4",
+      "bytes": 45777612,
+      "sha256": "f05121b2543b7cf1f41e6f0346deb3fcc636b3b62a1cadae5e76feef1fbccd23"
+    },
+    {
+      "original_filename": "ladygamer.jpg",
+      "bytes": 57946,
+      "sha256": "883bcc33c1586056927c10df0f820440d9760597502c8a275f9d36551f478d3b"
+    },
+    {
+      "original_filename": "ladytall.png",
+      "bytes": 64940,
+      "sha256": "965790eb07d608578afece030d896d5a66e5a280783339338e310c90593fffc6"
+    },
+    {
+      "original_filename": "ladytall2.jpg",
+      "bytes": 47743,
+      "sha256": "e63121436077fbcb10ecc9bb7d76bb019c861500e6900b0f8369825c476dcc76"
+    },
+    {
+      "original_filename": "memelady.jpg",
+      "bytes": 88741,
+      "sha256": "bedf2b1dcd77789eaf7f7336c13b2df4e51db4d0b70d677c582a736a0f84aebd"
+    },
+    {
+      "original_filename": "POV from Lady Dimitrescu's Chair, You're the Chair ; Resident Evil Village (1080p_60fps_H264-128kbit_AAC-inglês).mp4",
+      "bytes": 27003115,
+      "sha256": "70445d141f72cea5756fe641b3d22bc083c5691a3eabbabf3c62e6ab7cfc7d73"
+    },
+    {
+      "original_filename": "Resident Evil Village lady dimitrescu unique death animation (1080p_60fps_H264-128kbit_AAC).mp4",
+      "bytes": 8457335,
+      "sha256": "e0e864115582b97ccdcf374c58bce64c373424b3b9807312dfa4c14110d8735e"
+    },
+    {
+      "original_filename": "Rule34 Print.png",
+      "bytes": 125483,
+      "sha256": "13982535527a55b020704934d4336f0a4bf3e32f7e00802f90366b603223f79b"
+    },
+    {
+      "original_filename": "Spanking Lady Dimitrescu (Resident Evil 8 Village) (2160p_60fps_AV1-128kbit_AAC).mp4",
+      "bytes": 214760992,
+      "sha256": "939461d68b0ff03be22b5ca4378d61a361dcad24c7d73125c455036acc8e436b"
+    },
+    {
+      "original_filename": "Unreleased death scene of Lady Dimitrescu in resident evil eight (708p_30fps_H264-128kbit_AAC).mp4",
+      "bytes": 989701,
+      "sha256": "1ee6706e7133bc8cbc32f039d6d507887e21f75d5597ef2bf30300d1d0e80c9b"
+    },
+    {
+      "original_filename": "Voz - 1 Lady Dimitrescu.mp3",
+      "bytes": 1535098,
+      "sha256": "d16736a4e451e4b1fec502aadd3a251af817b85f62aa65b53cbf12ba7906e8f7"
+    }
+  ],
+  "video_derivatives": {
+    "lady_phone.mp4": {
+      "original": "Lady Dimitrescu Long Dress Black answers the phone",
+      "interval": [
+        20,
+        57
+      ]
+    },
+    "lady_hall.mp4": {
+      "original": "Spanking Lady Dimitrescu",
+      "interval": [
+        48,
+        63
+      ]
+    },
+    "lady_claws.mp4": {
+      "original": "Resident Evil Village lady dimitrescu unique death animation",
+      "interval": [
+        0,
+        7
+      ]
+    }
+  },
+  "website_image": "Original banner entirely masked in the public derivative; raw screenshot kept outside the repository."
+}

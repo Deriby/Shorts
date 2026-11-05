@@ -1,6 +1,6 @@
 # Personagens que a internet estragou — Lady Dimitrescu
 
-Versão revisada pelo usuário, preservada abaixo. Estimativa de 40–50 segundos, dependendo das pausas. Sem gravação recebida e sem timecodes finais. O mesmo bloco deve funcionar como short 9:16 e, depois, integrar o vídeo longo 16:9.
+Versão digitada revisada pelo usuário, preservada abaixo. A gravação foi recebida depois, com 38,313 segundos; a produção usa esse arquivo original e segue sua ordem real. O short final tem 39 segundos. Ver [timeline da produção](../../production/01-lady-dimitrescu/timeline.json). O bloco foi entregue em 9:16 e está planejado para integrar o vídeo longo 16:9 posteriormente.
 
 ## Falas
 

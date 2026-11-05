@@ -1,0 +1,161 @@
+{
+  "fps": 24,
+  "frames": 936,
+  "duration": 39.0,
+  "voice_duration": 38.313378684807255,
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 58,
+      "kind": "game",
+      "mood": "threat",
+      "source": "lady_claws.mp4",
+      "source_start": 0.3
+    },
+    {
+      "id": 1,
+      "start": 59,
+      "end": 119,
+      "kind": "actor",
+      "mood": "opposite",
+      "source": "lady_phone.mp4",
+      "source_start": 16
+    },
+    {
+      "id": 2,
+      "start": 120,
+      "end": 164,
+      "kind": "monitor",
+      "mood": "name",
+      "source": "lady_phone.mp4",
+      "source_start": 16
+    },
+    {
+      "id": 3,
+      "start": 165,
+      "end": 220,
+      "kind": "game",
+      "mood": "name",
+      "source": "lady_phone.mp4",
+      "source_start": 17
+    },
+    {
+      "id": 4,
+      "start": 221,
+      "end": 272,
+      "kind": "game",
+      "mood": "claws",
+      "source": "lady_claws.mp4",
+      "source_start": 2
+    },
+    {
+      "id": 5,
+      "start": 273,
+      "end": 319,
+      "kind": "actor",
+      "mood": "claws",
+      "source": "lady_hall.mp4",
+      "source_start": 5
+    },
+    {
+      "id": 6,
+      "start": 320,
+      "end": 395,
+      "kind": "photo",
+      "mood": "height",
+      "source": "ladytall2.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 7,
+      "start": 396,
+      "end": 451,
+      "kind": "castle",
+      "mood": "height",
+      "source": "ladytall2.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 8,
+      "start": 452,
+      "end": 490,
+      "kind": "photo",
+      "mood": "height_meme",
+      "source": "ladytall.png",
+      "source_start": 0
+    },
+    {
+      "id": 9,
+      "start": 491,
+      "end": 568,
+      "kind": "actor",
+      "mood": "strange",
+      "source": "lady_phone.mp4",
+      "source_start": 17
+    },
+    {
+      "id": 10,
+      "start": 569,
+      "end": 620,
+      "kind": "photo",
+      "mood": "reaction",
+      "source": "memelady_vertical.png",
+      "source_start": 0
+    },
+    {
+      "id": 11,
+      "start": 621,
+      "end": 688,
+      "kind": "castle",
+      "mood": "escape",
+      "source": "lady_hall.mp4",
+      "source_start": 6
+    },
+    {
+      "id": 12,
+      "start": 689,
+      "end": 725,
+      "kind": "photo",
+      "mood": "rule34",
+      "source": "rule34_censurado.png",
+      "source_start": 0
+    },
+    {
+      "id": 13,
+      "start": 726,
+      "end": 763,
+      "kind": "actor",
+      "mood": "embarrassed",
+      "source": "rule34_censurado.png",
+      "source_start": 0
+    },
+    {
+      "id": 14,
+      "start": 764,
+      "end": 809,
+      "kind": "photo",
+      "mood": "gamer",
+      "source": "ladygamer.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 15,
+      "start": 810,
+      "end": 878,
+      "kind": "monitor",
+      "mood": "career",
+      "source": "curriculo_lady.png",
+      "source_start": 0
+    },
+    {
+      "id": 16,
+      "start": 879,
+      "end": 936,
+      "kind": "actor",
+      "mood": "final",
+      "source": "curriculo_lady.png",
+      "source_start": 0
+    }
+  ]
+}

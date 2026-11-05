@@ -1,6 +1,6 @@
 # Lady Dimitrescu — roteiro de animação
 
-Somente planejamento, atualizado para a versão da [narração revisada pelo usuário](narracao.md). Aguardar a voz real para definir durações e cortes. Não gerar voz, cenário, imagens novas ou render nesta etapa. O texto agora termina em “carreira paralela”.
+Planejamento criado antes da gravação e atualizado para a versão da [narração revisada pelo usuário](narracao.md). A voz e as mídias foram recebidas depois, e o usuário autorizou a produção. O sincronismo executado está na [timeline](../../production/01-lady-dimitrescu/timeline.json), seguindo a ordem real da gravação. O encerramento permanece em “carreira paralela”.
 
 ## Cenas por trecho da fala
 
