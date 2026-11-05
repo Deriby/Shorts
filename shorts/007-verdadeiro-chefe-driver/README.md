@@ -15,4 +15,4 @@ O teste obrigatório citado se refere ao acesso à campanha; não significa que 
 
 Usar a correção compartilhada do rosto do episódio 006, a biblioteca de 31 PNGs com troca seca e o modelo original do Dery. Voz, modelos novos, gameplay e renderização ficam para a etapa solicitada pelo usuário.
 
-A roupa atual do Dery é a [camiseta preta lisa](../../assets/personagens/dery/roupas/camiseta_preta/), com corte original e alteração somente do material.
+A roupa atual do Dery é a [camiseta preta com M amarelo do Massacote Games](../../assets/personagens/dery/roupas/camiseta_preta/), com corte original e alteração somente do material.

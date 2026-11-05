@@ -38,7 +38,7 @@ s.render.resolution_x=720;s.render.resolution_y=1280;s.render.resolution_percent
 s.render.engine='CYCLES';s.cycles.samples=2;s.cycles.use_denoising=False;s.render.threads_mode='FIXED';s.render.threads=4;s.render.dither_intensity=0;s.view_settings.view_transform='Standard';s.view_settings.look='None'
 geometry_error=max(((v.co-old).length for v,old in zip(a.data.vertices,original)),default=0)
 assert geometry_error==0,geometry_error
-report={'garment_faces':count,'geometry_changed':False,'max_vertex_displacement_m':geometry_error,'shirt_material':'Plain neutral black, no stripes or logo','fit':'Original garment shape, body proportions and sleeves preserved','face':'Original 31 PNG expression system and seam-safe precision retained','source':'Original model and textures preserved unchanged'}
+report={'garment_faces':count,'geometry_changed':False,'max_vertex_displacement_m':geometry_error,'shirt_material':'Neutral black with the approved yellow Massacote Games M on the front chest','logo_source':'assets/marca/massacote-games/logo.png','logo_projection':{'center_rest':[0,1.25],'canvas_width_m':.18,'front_only':True,'method':'Additional UV layer; print follows the rigged shirt without extra geometry'},'fit':'Original garment shape, body proportions and sleeves preserved','face':'Original 31 PNG expression system and seam-safe precision retained','source':'Original model and textures preserved unchanged'}
 (HERE/'modelo.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
 bpy.data.orphans_purge(do_recursive=True);bpy.ops.file.pack_all();s.render.filepath='//previa.png'
 bpy.ops.wm.save_as_mainfile(filepath=str(HERE/'Dery_Camiseta_Preta.blend'),compress=True)

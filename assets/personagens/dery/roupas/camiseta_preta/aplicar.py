@@ -1,12 +1,13 @@
-"""Replace the original sports jersey with a plain black T-shirt, without altering geometry."""
+"""Black shirt with the approved yellow M print; original geometry is unchanged."""
+from pathlib import Path
 import bpy
 from mathutils import Vector
 
 def aplicar(avatar):
-    if avatar.get('DeryWardrobe')=='camiseta_preta_textura_v2':return avatar.get('DeryWardrobeFaces',0)
+    if avatar.get('DeryWardrobe')=='camiseta_preta_logo_v3':return avatar.get('DeryWardrobeFaces',0)
     mesh=avatar.data
-    if mesh.get('DeryWardrobe')=='camiseta_preta_textura_v2':
-        avatar['DeryWardrobe']='camiseta_preta_textura_v2'
+    if mesh.get('DeryWardrobe')=='camiseta_preta_logo_v3':
+        avatar['DeryWardrobe']='camiseta_preta_logo_v3'
         return mesh.get('DeryWardrobeFaces',0)
     source=next(n.image for m in mesh.materials if m and m.use_nodes for n in m.node_tree.nodes if n.type=='TEX_IMAGE'and n.image and 'Diffuse'in n.image.name)
     width,height=source.size;pixels=list(source.pixels[:]);uv=mesh.uv_layers.get('UVMap')or mesh.uv_layers[0]
@@ -30,7 +31,19 @@ def aplicar(avatar):
             selected.append(poly.index)
     assert len(selected)>500, len(selected)
 
-    m=bpy.data.materials.new('DERY | camiseta preta lisa');m.use_nodes=True
+    original_uv=uv.name
+    mesh.uv_layers.get('DeryLogoChest')or mesh.uv_layers.new(name='DeryLogoChest')
+    mesh.color_attributes.get('DeryLogoFront')or mesh.color_attributes.new(name='DeryLogoFront',type='FLOAT_COLOR',domain='CORNER')
+    print_uv=mesh.uv_layers['DeryLogoChest'];front=mesh.color_attributes['DeryLogoFront']
+    for loop in mesh.loops:
+        p=mesh.vertices[loop.vertex_index].co
+        print_uv.data[loop.index].uv=(p.x/.18+.5,(p.z-1.25)/.18+.5)
+        mask=max(0,min(1,(-p.y-.015)/.045))
+        front.data[loop.index].color=(mask,mask,mask,1)
+    mesh.uv_layers[original_uv].active_render=True
+    mesh.uv_layers.active=mesh.uv_layers[original_uv]
+
+    m=bpy.data.materials.new('DERY | camiseta preta com M amarelo');m.use_nodes=True
     nt=m.node_tree;nt.nodes.clear()
     out=nt.nodes.new('ShaderNodeOutputMaterial');emit=nt.nodes.new('ShaderNodeEmission')
     attr=nt.nodes.new('ShaderNodeVertexColor');attr.layer_name='PS1Lighting'
@@ -39,11 +52,19 @@ def aplicar(avatar):
     shade=nt.nodes.new('ShaderNodeMath');shade.operation='MULTIPLY_ADD';shade.inputs[1].default_value=.25;shade.inputs[2].default_value=.82;nt.links.new(dot.outputs['Value'],shade.inputs[0])
     level=nt.nodes.new('ShaderNodeMath');level.operation='MULTIPLY';nt.links.new(gray.outputs[0],level.inputs[0]);nt.links.new(shade.outputs[0],level.inputs[1])
     mix=nt.nodes.new('ShaderNodeMixRGB');mix.blend_type='MULTIPLY';mix.inputs[0].default_value=1;mix.inputs[1].default_value=(.006,.006,.006,1);nt.links.new(level.outputs[0],mix.inputs[2]);nt.links.new(mix.outputs[0],emit.inputs['Color']);nt.links.new(emit.outputs[0],out.inputs['Surface'])
+    logo=nt.nodes.new('ShaderNodeTexImage');logo.name='MASSACOTE | approved M print'
+    logo.image=bpy.data.images.load(str(Path(__file__).resolve().parents[4]/'marca/massacote-games/logo.png'),check_existing=True)
+    logo.interpolation='Closest';logo.extension='CLIP'
+    coordinates=nt.nodes.new('ShaderNodeUVMap');coordinates.uv_map='DeryLogoChest';nt.links.new(coordinates.outputs[0],logo.inputs['Vector'])
+    front_node=nt.nodes.new('ShaderNodeVertexColor');front_node.layer_name='DeryLogoFront'
+    alpha=nt.nodes.new('ShaderNodeMath');alpha.operation='MULTIPLY';nt.links.new(logo.outputs['Alpha'],alpha.inputs[0]);nt.links.new(front_node.outputs['Color'],alpha.inputs[1])
+    ink=nt.nodes.new('ShaderNodeMixRGB');ink.blend_type='MULTIPLY';ink.inputs[0].default_value=1;nt.links.new(logo.outputs['Color'],ink.inputs[1]);nt.links.new(level.outputs[0],ink.inputs[2])
+    composite=nt.nodes.new('ShaderNodeMixRGB');nt.links.new(alpha.outputs[0],composite.inputs[0]);nt.links.new(mix.outputs[0],composite.inputs[1]);nt.links.new(ink.outputs[0],composite.inputs[2]);nt.links.new(composite.outputs[0],emit.inputs['Color'])
     index=len(mesh.materials);mesh.materials.append(m)
     for i in selected:mesh.polygons[i].material_index=index
 
-    avatar['DeryWardrobe']='camiseta_preta_textura_v2'
+    avatar['DeryWardrobe']='camiseta_preta_logo_v3'
     avatar['DeryWardrobeFaces']=len(selected)
-    mesh['DeryWardrobe']='camiseta_preta_textura_v2'
+    mesh['DeryWardrobe']='camiseta_preta_logo_v3'
     mesh['DeryWardrobeFaces']=len(selected)
     return len(selected)

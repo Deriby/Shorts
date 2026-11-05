@@ -2,7 +2,17 @@
   "garment_faces": 6597,
   "geometry_changed": false,
   "max_vertex_displacement_m": 0.0,
-  "shirt_material": "Plain neutral black, no stripes or logo",
+  "shirt_material": "Neutral black with the approved yellow Massacote Games M on the front chest",
+  "logo_source": "assets/marca/massacote-games/logo.png",
+  "logo_projection": {
+    "center_rest": [
+      0,
+      1.25
+    ],
+    "canvas_width_m": 0.18,
+    "front_only": true,
+    "method": "Additional UV layer; print follows the rigged shirt without extra geometry"
+  },
   "fit": "Original garment shape, body proportions and sleeves preserved",
   "face": "Original 31 PNG expression system and seam-safe precision retained",
   "source": "Original model and textures preserved unchanged"
