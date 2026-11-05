@@ -81,9 +81,13 @@ Décimo bloco em roteiro: **Lara Croft — Tomb Raider**, com versão revisada p
 
 - [Narração revisada — Lara Croft](roteiros/10-lara-croft/narracao.md).
 
-Décimo primeiro bloco proposto: **Princesa Peach — Super Mario**, com rascunho de narração para revisão. O ângulo aborda conteúdo adulto de fãs e a criação da Bowsette como exemplo relacionado, distinguindo-a da Peach e da transformação oficial de Toadette.
+Décimo primeiro bloco em roteiro: **Princesa Peach — Super Mario**, com versão revisada pelo usuário e encerramento em “Bizarro porque tipoo... é o bowser pô...”. Ainda sem voz recebida.
 
-- [Narração proposta — Princesa Peach](roteiros/11-peach/narracao.md).
+- [Narração revisada — Princesa Peach](roteiros/11-peach/narracao.md).
+
+Décimo segundo bloco proposto: **Sonic Feio — primeiro visual do filme**, com rascunho de narração para revisão. O ângulo é a ridicularização do trailer de 2019, seguida pelo redesign e pela participação de Ugly Sonic no filme do Tico e Teco em 2022.
+
+- [Narração proposta — Sonic Feio](roteiros/12-sonic-feio/narracao.md).
 
 A ordem dos roteiros acompanha as escolhas do usuário. Os demais blocos ainda precisam de roteiro, pesquisa e autorização de produção. Os episódios anteriores não foram alterados.
 
