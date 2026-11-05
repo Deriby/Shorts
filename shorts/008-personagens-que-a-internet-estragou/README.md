@@ -25,7 +25,7 @@ Planejamento do vídeo e de seus shorts. O usuário aprovou os 14 personagens ab
 
 Entregar shorts em **9:16 primeiro**, com aproveitamento posterior para um vídeo longo em **16:9**. Planejar câmeras, conteúdos de tela e enquadramentos para ambos os formatos antes da animação, com recortes próprios quando rosto, ação ou HUD exigirem. Dividir o roteiro em blocos independentes, com gancho e fechamento, e planejar as transições do longo. Agrupar ou diferenciar os casos de Overwatch para evitar repetição. A duração depende do roteiro e da gravação, não da simples contagem de personagens.
 
-Primeiro bloco preparado: **Lady Dimitrescu**. Entrega atual somente de roteiros; ainda não há voz recebida, mídias selecionadas nem produção autorizada para esse bloco.
+Primeiro bloco preparado: **Lady Dimitrescu**, com a narração revisada pelo usuário e o planejamento atualizado para terminar em “carreira paralela”. Entrega atual somente de roteiros; ainda não há voz recebida, mídias selecionadas nem produção autorizada para esse bloco.
 
 - [Narração — Lady Dimitrescu](roteiros/01-lady-dimitrescu/narracao.md).
 - [Animação e materiais necessários — Lady Dimitrescu](roteiros/01-lady-dimitrescu/animacao.md).
