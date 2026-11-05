@@ -1,0 +1,67 @@
+{
+  "package": "6 - 2B.zip",
+  "source": "User-provided Google Drive archive",
+  "files": [
+    {
+      "original_filename": "maxresdefault.jpg",
+      "bytes": 97643,
+      "sha256": "152696adcb0f6223809b687b9db2ef4ed0845704cd980e68685439fe92adac85"
+    },
+    {
+      "original_filename": "meme2b-2.png",
+      "bytes": 140467,
+      "sha256": "9e7ae89b76409460a30bbeae859481269df040f7136f4656a9ba7a2f932145aa"
+    },
+    {
+      "original_filename": "meme2b.png",
+      "bytes": 578542,
+      "sha256": "d6579b5e633f9d9df2e6fcea4a5056c76f099be727838b6e42d8934939ce1689"
+    },
+    {
+      "original_filename": "Nier Automata; 2B combo - HIT 101 (1080p_30fps_H264-128kbit_AAC).mp4",
+      "bytes": 26118125,
+      "sha256": "6ef6d9eaccb1779ea035d8acb2c48710fdcd8179baff9b837c036d7a9f5e8f38"
+    },
+    {
+      "original_filename": "NieR;Automata - 2B Self-Destruct (720p_30fps_H264-128kbit_AAC).mp4",
+      "bytes": 9878205,
+      "sha256": "67b2ed4365e2ddba5604703eda63c335a1e53c91539c8a262b8e98653a495a75"
+    },
+    {
+      "original_filename": "NieR;Automata Just 2B walking up some stairs because reasons (720p_30fps_H264-128kbit_AAC).mp4",
+      "bytes": 24541695,
+      "sha256": "c19aaea1494e3da6e58c8b668a5720e03eb6c344c58d46efba8188e613bdfa2e"
+    },
+    {
+      "original_filename": "VOZ 6 2B NIER.mp3",
+      "bytes": 1550400,
+      "sha256": "d1fd617c3a6146298c62e6894cf6d8f6709a4c3d436a8ec47c28d0e925eb57df"
+    }
+  ],
+  "video_derivatives": {
+    "combate_2b.mp4": {
+      "original": "Nier Automata; 2B combo - HIT 101 (1080p_30fps_H264-128kbit_AAC).mp4",
+      "interval": [
+        6,
+        16
+      ],
+      "description": "Normal NieR:Automata combat; giant machine in an arena",
+      "audio_used": false
+    },
+    "autodestruicao_2b.mp4": {
+      "original": "NieR;Automata - 2B Self-Destruct (720p_30fps_H264-128kbit_AAC).mp4",
+      "interval": [
+        3,
+        18.8
+      ],
+      "description": "Original self-destruct activation, blast and recovery; normal full-body gameplay",
+      "audio_used": false
+    }
+  },
+  "images_published": [
+    "maxresdefault.jpg",
+    "meme2b-2.png"
+  ],
+  "editorial": "Normal NieR:Automata combat and self-destruct gameplay, clothed portrait and fangirl meme. Folder previews are authored opaque graphics. Ruler is a visual joke, not a body measurement. No adult fan animation or unverified director quotation is included.",
+  "unused": "Archive, unselected originals and personal gesture reference remain outside Git."
+}

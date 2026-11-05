@@ -1,8 +1,8 @@
 # Personagens que a internet estragou — 2B
 
-Versão revisada pelo usuário, com suas marcações de interpretação e a grafia “Two B” preservadas. Falas reunidas para gravação em sequência; ainda sem voz recebida ou produção. As tags orientam a interpretação e não são palavras para pronunciar nem legendas.
+Versão revisada pelo usuário, com suas marcações de interpretação e a grafia “Two B” preservadas. Voz e mídias recebidas no pacote da 2B; produção autorizada nos dois formatos, com 39,375 segundos. As tags orientam a interpretação e não são palavras para pronunciar nem legendas.
 
-O [roteiro de animação](animacao.md) foi planejado a partir desta versão. Os cortes e o sincronismo serão ajustados à gravação recebida.
+O [roteiro de animação](animacao.md) foi planejado a partir desta versão. Os cortes sincronizados estão na [produção](../../production/06-2b/timeline.json), com a gravação recebida inteira.
 
 ## Falas
 

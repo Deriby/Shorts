@@ -1,6 +1,6 @@
 # 2B — roteiro de animação
 
-Base: [versão revisada, com “Two B”](narracao.md). Seguir o [plano geral](../../plano_animacao.md). Planejamento nos dois formatos, sem áudio ou mídias recebidos e sem timecodes fechados.
+Base: [versão revisada, com “Two B”](narracao.md). Seguir o [plano geral](../../plano_animacao.md). Voz e mídias recebidas; produção autorizada e sincronizada em 9:16 e 16:9, com 39,375 segundos. Os cortes exatos estão na [produção](../../production/06-2b/timeline.json).
 
 ## Cenas por trecho
 
@@ -24,3 +24,11 @@ No vertical, o resultado do teste ganha insert próprio e o rosto ocupa o fecham
 Materiais úteis: voz, identificação e combate de 2B, um exemplo normal da autodestruição e, opcionalmente, memes não explícitos. A fala sobre “2 milimetros” é hipérbole; o plano mostra a habilidade verdadeira e não afirma que qualquer dano retire roupa.
 
 Fechamento: **“lutar contra a internet!”**. Não usar a frase antiga sobre mesa digitalizadora.
+
+## Sincronismo da produção
+
+A gravação foi preservada inteira. Identificação em 0–3,02 s; combate em 3,02–6,02 s; reflexão em 6,02–11,02 s; reação e meme em 11,02–15,16 s; três pastas em 15,16–18,92 s; resignação em 18,92–21,52 s; autodestruição em 21,52–25,24 s; reação, resultado da habilidade e régua em 25,24–31,28 s; estação de treinamento e fechamento em 31,28–39,375 s.
+
+A régua ganhou um insert próprio, separado do corpo. O terminal muda para “INTERNET — SEM TREINAMENTO” em 35,25 s, por seleção normal de interface. Dery sustenta a mão, interrompe o sorriso, reage e termina sem expressão. O corpo mantém a pose em pé validada e os pés fixos. O vídeo das escadas e o meme que atribui uma fala ao diretor ficaram fora da montagem.
+
+[Vídeos, projetos Blender, fontes e verificações](../../production/06-2b/README.md).

@@ -1,0 +1,197 @@
+{
+  "fps": 24,
+  "frames": 945,
+  "duration": 39.375,
+  "voice_duration": 38.70950113378685,
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 35,
+      "kind": "monitor",
+      "mood": "name",
+      "source": "2b_retrato.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 1,
+      "start": 36,
+      "end": 72,
+      "kind": "actor",
+      "mood": "present",
+      "source": "combate_2b.mp4",
+      "source_start": 0
+    },
+    {
+      "id": 2,
+      "start": 73,
+      "end": 108,
+      "kind": "game",
+      "mood": "combat",
+      "source": "combate_2b.mp4",
+      "source_start": 0.2
+    },
+    {
+      "id": 3,
+      "start": 109,
+      "end": 144,
+      "kind": "game",
+      "mood": "combat",
+      "source": "combate_2b.mp4",
+      "source_start": 5.2
+    },
+    {
+      "id": 4,
+      "start": 145,
+      "end": 202,
+      "kind": "actor",
+      "mood": "reflect",
+      "source": "2b_retrato.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 5,
+      "start": 203,
+      "end": 264,
+      "kind": "photo",
+      "mood": "reflect",
+      "source": "2b_retrato.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 6,
+      "start": 265,
+      "end": 317,
+      "kind": "actor",
+      "mood": "smirk",
+      "source": "pastas_fanart.png",
+      "source_start": 0
+    },
+    {
+      "id": 7,
+      "start": 318,
+      "end": 364,
+      "kind": "photo",
+      "mood": "meme",
+      "source": "meme_fa.png",
+      "source_start": 0
+    },
+    {
+      "id": 8,
+      "start": 365,
+      "end": 392,
+      "kind": "photo",
+      "mood": "folders",
+      "source": "pastas_fanart.png",
+      "source_start": 0
+    },
+    {
+      "id": 9,
+      "start": 393,
+      "end": 421,
+      "kind": "photo",
+      "mood": "folders",
+      "source": "pastas_animacao.png",
+      "source_start": 0
+    },
+    {
+      "id": 10,
+      "start": 422,
+      "end": 454,
+      "kind": "photo",
+      "mood": "folders",
+      "source": "pastas_mods.png",
+      "source_start": 0
+    },
+    {
+      "id": 11,
+      "start": 455,
+      "end": 516,
+      "kind": "actor",
+      "mood": "resign",
+      "source": "pastas_mods.png",
+      "source_start": 0
+    },
+    {
+      "id": 12,
+      "start": 517,
+      "end": 606,
+      "kind": "game",
+      "mood": "selfdestruct",
+      "source": "autodestruicao_2b.mp4",
+      "source_start": 0
+    },
+    {
+      "id": 13,
+      "start": 607,
+      "end": 653,
+      "kind": "actor",
+      "mood": "annoyed",
+      "source": "autodestruicao_2b.mp4",
+      "source_start": 12.5
+    },
+    {
+      "id": 14,
+      "start": 654,
+      "end": 680,
+      "kind": "game",
+      "mood": "aftermath",
+      "source": "autodestruicao_2b.mp4",
+      "source_start": 12.5
+    },
+    {
+      "id": 15,
+      "start": 681,
+      "end": 710,
+      "kind": "graphic",
+      "mood": "ruler",
+      "source": "regua.png",
+      "source_start": 0
+    },
+    {
+      "id": 16,
+      "start": 711,
+      "end": 751,
+      "kind": "photo",
+      "mood": "reflect",
+      "source": "2b_retrato.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 17,
+      "start": 752,
+      "end": 838,
+      "kind": "training",
+      "mood": "ready",
+      "source": "treino_maquinas.png",
+      "source_start": 0
+    },
+    {
+      "id": 18,
+      "start": 839,
+      "end": 846,
+      "kind": "photo",
+      "mood": "ready",
+      "source": "treino_maquinas.png",
+      "source_start": 0
+    },
+    {
+      "id": 19,
+      "start": 847,
+      "end": 865,
+      "kind": "photo",
+      "mood": "fail",
+      "source": "treino_internet.png",
+      "source_start": 0
+    },
+    {
+      "id": 20,
+      "start": 866,
+      "end": 945,
+      "kind": "training",
+      "mood": "final",
+      "source": "treino_internet.png",
+      "source_start": 0
+    }
+  ]
+}

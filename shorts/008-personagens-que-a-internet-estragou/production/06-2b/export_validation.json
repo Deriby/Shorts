@@ -1,0 +1,18 @@
+{
+  "video": "2B_Personagens_que_a_internet_estragou_9x16.mp4",
+  "frames": 945,
+  "duration": 39.375,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 24,
+  "codec": "H.264 + AAC",
+  "size_bytes": 39930156,
+  "full_decode": "passed",
+  "voice_original_sha256": "d1fd617c3a6146298c62e6894cf6d8f6709a4c3d436a8ec47c28d0e925eb57df",
+  "voice_unmodified": true,
+  "monitor_frames": 945,
+  "scene_checks": "passed",
+  "ps1_palette": "5-bit RGB with fixed 4x4 ordered Bayer pattern, integer nearest-neighbor upscale"
+}

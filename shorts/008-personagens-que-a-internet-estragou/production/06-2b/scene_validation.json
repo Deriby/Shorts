@@ -1,0 +1,259 @@
+{
+  "original_geometry_max_displacement_m": 0.0,
+  "face_checks": [
+    {
+      "actor": "DERY | animated character",
+      "frame": 49,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 174,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 294,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 480,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 625,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "TRAIN | Dery",
+      "frame": 770,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "TRAIN | Dery",
+      "frame": 799,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "TRAIN | Dery",
+      "frame": 838,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "TRAIN | Dery",
+      "frame": 866,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "TRAIN | Dery",
+      "frame": 901,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "TRAIN | Dery",
+      "frame": 938,
+      "max_facial_split_m": 0.0
+    }
+  ],
+  "precision_checks": [
+    {
+      "actor": "DERY | animated character",
+      "frame": 49,
+      "max_precision_displacement_m": 0.005995362657434403
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 174,
+      "max_precision_displacement_m": 0.003406742144804737
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 294,
+      "max_precision_displacement_m": 0.005986906072062399
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 480,
+      "max_precision_displacement_m": 0.0057585347154215085
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 625,
+      "max_precision_displacement_m": 0.0035448173761933946
+    },
+    {
+      "actor": "TRAIN | Dery",
+      "frame": 770,
+      "max_precision_displacement_m": 0.014439713803951896
+    },
+    {
+      "actor": "TRAIN | Dery",
+      "frame": 799,
+      "max_precision_displacement_m": 0.014067064684550419
+    },
+    {
+      "actor": "TRAIN | Dery",
+      "frame": 838,
+      "max_precision_displacement_m": 0.014199636129413197
+    },
+    {
+      "actor": "TRAIN | Dery",
+      "frame": 866,
+      "max_precision_displacement_m": 0.004652808153686256
+    },
+    {
+      "actor": "TRAIN | Dery",
+      "frame": 901,
+      "max_precision_displacement_m": 0.004652808153686256
+    },
+    {
+      "actor": "TRAIN | Dery",
+      "frame": 938,
+      "max_precision_displacement_m": 0.004652808153686256
+    }
+  ],
+  "seated_pelvis_stable": true,
+  "training_standing_support_stable": true,
+  "arm_checks": [
+    {
+      "frame": 49,
+      "side": "R",
+      "reach_m": 0.29370851737434595,
+      "target_error_m": 0.00023424305758952652
+    },
+    {
+      "frame": 49,
+      "side": "L",
+      "reach_m": 0.36028220638674635,
+      "target_error_m": 0.0001961776688508989
+    },
+    {
+      "frame": 174,
+      "side": "R",
+      "reach_m": 0.3727357311814938,
+      "target_error_m": 0.00016263202965815471
+    },
+    {
+      "frame": 174,
+      "side": "L",
+      "reach_m": 0.36202168014894404,
+      "target_error_m": 0.0002095652118522845
+    },
+    {
+      "frame": 294,
+      "side": "R",
+      "reach_m": 0.35846154948593745,
+      "target_error_m": 0.00016534065244143116
+    },
+    {
+      "frame": 294,
+      "side": "L",
+      "reach_m": 0.3112283492936311,
+      "target_error_m": 0.00025588125441266787
+    },
+    {
+      "frame": 480,
+      "side": "R",
+      "reach_m": 0.30724465996815886,
+      "target_error_m": 0.00023656969565438862
+    },
+    {
+      "frame": 480,
+      "side": "L",
+      "reach_m": 0.3438693064401505,
+      "target_error_m": 0.00022750341984474178
+    },
+    {
+      "frame": 625,
+      "side": "R",
+      "reach_m": 0.2424134019980809,
+      "target_error_m": 0.00019440764644569579
+    },
+    {
+      "frame": 625,
+      "side": "L",
+      "reach_m": 0.3366546357677037,
+      "target_error_m": 0.00022431753320761288
+    }
+  ],
+  "training_arm_checks": [
+    {
+      "frame": 770,
+      "side": "R",
+      "reach_m": 0.2949173106699284,
+      "target_error_m": 2.5678466830894966e-05
+    },
+    {
+      "frame": 770,
+      "side": "L",
+      "reach_m": 0.375698508206306,
+      "target_error_m": 7.8689419052255e-06
+    },
+    {
+      "frame": 799,
+      "side": "R",
+      "reach_m": 0.3218831147518189,
+      "target_error_m": 3.4685204722734314e-05
+    },
+    {
+      "frame": 799,
+      "side": "L",
+      "reach_m": 0.3134755375212553,
+      "target_error_m": 1.5449709039406216e-05
+    },
+    {
+      "frame": 838,
+      "side": "R",
+      "reach_m": 0.28684180671313847,
+      "target_error_m": 3.784300023353783e-05
+    },
+    {
+      "frame": 838,
+      "side": "L",
+      "reach_m": 0.375698508206306,
+      "target_error_m": 7.8689419052255e-06
+    },
+    {
+      "frame": 866,
+      "side": "R",
+      "reach_m": 0.320237868834503,
+      "target_error_m": 2.5924457656038383e-05
+    },
+    {
+      "frame": 866,
+      "side": "L",
+      "reach_m": 0.377358280616877,
+      "target_error_m": 7.68697743487189e-06
+    },
+    {
+      "frame": 901,
+      "side": "R",
+      "reach_m": 0.3776032204588731,
+      "target_error_m": 3.4220801369556134e-06
+    },
+    {
+      "frame": 901,
+      "side": "L",
+      "reach_m": 0.37760272162807684,
+      "target_error_m": 7.327311737086998e-06
+    },
+    {
+      "frame": 938,
+      "side": "R",
+      "reach_m": 0.3776032204588731,
+      "target_error_m": 3.4220801369556134e-06
+    },
+    {
+      "frame": 938,
+      "side": "L",
+      "reach_m": 0.37760272162807684,
+      "target_error_m": 7.327311737086998e-06
+    }
+  ],
+  "monitor_frames": 945,
+  "monitor_auto_refresh": true,
+  "expressions": "31 PNG faces, discrete changes, no active morphs",
+  "acting": "Non-periodic phrase gestures with asymmetric strokes, holds and releases"
+}
