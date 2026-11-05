@@ -2,12 +2,13 @@
 from pathlib import Path
 import bpy
 from mathutils import Vector
+from limpar import limpar
 
 def aplicar(avatar):
-    if avatar.get('DeryWardrobe')=='camiseta_preta_logo_v3':return avatar.get('DeryWardrobeFaces',0)
+    if avatar.get('DeryWardrobe')=='camiseta_preta_limpa_v4':return avatar.get('DeryWardrobeFaces',0)
     mesh=avatar.data
-    if mesh.get('DeryWardrobe')=='camiseta_preta_logo_v3':
-        avatar['DeryWardrobe']='camiseta_preta_logo_v3'
+    if mesh.get('DeryWardrobe')=='camiseta_preta_limpa_v4':
+        avatar['DeryWardrobe']='camiseta_preta_limpa_v4'
         return mesh.get('DeryWardrobeFaces',0)
     source=next(n.image for m in mesh.materials if m and m.use_nodes for n in m.node_tree.nodes if n.type=='TEX_IMAGE'and n.image and 'Diffuse'in n.image.name)
     width,height=source.size;pixels=list(source.pixels[:]);uv=mesh.uv_layers.get('UVMap')or mesh.uv_layers[0]
@@ -62,9 +63,10 @@ def aplicar(avatar):
     composite=nt.nodes.new('ShaderNodeMixRGB');nt.links.new(alpha.outputs[0],composite.inputs[0]);nt.links.new(mix.outputs[0],composite.inputs[1]);nt.links.new(ink.outputs[0],composite.inputs[2]);nt.links.new(composite.outputs[0],emit.inputs['Color'])
     index=len(mesh.materials);mesh.materials.append(m)
     for i in selected:mesh.polygons[i].material_index=index
+    limpar(avatar,m,source)
 
-    avatar['DeryWardrobe']='camiseta_preta_logo_v3'
+    avatar['DeryWardrobe']='camiseta_preta_limpa_v4'
     avatar['DeryWardrobeFaces']=len(selected)
-    mesh['DeryWardrobe']='camiseta_preta_logo_v3'
+    mesh['DeryWardrobe']='camiseta_preta_limpa_v4'
     mesh['DeryWardrobeFaces']=len(selected)
     return len(selected)

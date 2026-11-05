@@ -8,7 +8,7 @@
 - Planejar a animação por trechos da fala antes de receber a voz. Texto digitado pelo usuário não significa áudio gravado; sincronismo e timecodes finais dependem da gravação.
 - Preservar a correção dos riscos/rachaduras do rosto: usar `assets/personagens/dery/ps1_precision.py` nos próximos renders, evitando deslocamentos diferentes em vértices coincidentes. Conferir em close as trocas de expressão e a virada de cabeça, mantendo PNGs com troca seca e o visual PS1. A correção e a validação inicial estão no episódio 006.
 - Mantenha modelos e outros ativos reutilizáveis em `assets/`; preserve os arquivos originais do usuário.
-- A camiseta atual do Dery é preta, sem faixas, com o M amarelo aprovado do Massacote Games no centro do peito. Alterar somente a aparência/material, preservando a geometria, o corpo e as mangas originais. Usar `assets/personagens/dery/roupas/camiseta_preta/aplicar.py` ao reutilizar cenas antigas.
+- A camiseta atual do Dery é preta, sem faixas, com o M amarelo aprovado do Massacote Games no centro do peito. Alterar somente a aparência/material, preservando a geometria, o corpo e as mangas originais. Usar `assets/personagens/dery/roupas/camiseta_preta/aplicar.py` após configurar as faces ao reutilizar cenas antigas; o procedimento também inclui a limpeza da pele e das bordas das mangas, sem as manchas de iluminação antigas.
 - Roteiro, gravação de voz e animação seguem a ordem combinada com o usuário. Ajuste os cortes à gravação real.
 - Versione roteiros, scripts, voz, texturas, expressões, projeto Blender e vídeos finais. Não versione renders intermediários, backups ou ZIPs duplicados.
 - Use Git LFS conforme `.gitattributes` para arquivos binários grandes.

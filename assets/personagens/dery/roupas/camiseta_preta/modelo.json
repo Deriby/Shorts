@@ -15,5 +15,11 @@
   },
   "fit": "Original garment shape, body proportions and sleeves preserved",
   "face": "Original 31 PNG expression system and seam-safe precision retained",
-  "source": "Original model and textures preserved unchanged"
+  "source": "Original model and textures preserved unchanged",
+  "surface_cleanup": {
+    "skin_faces": 4160,
+    "changes": "Continuous skin color on exposed arms; coherent neutral lighting instead of colored corner bakes; pixel-level recovery of skin at sleeve boundaries",
+    "facial_expressions_preserved": true,
+    "logo_preserved": true
+  }
 }
