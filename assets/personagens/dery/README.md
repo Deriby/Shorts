@@ -2,6 +2,8 @@
 
 Modelo e texturas originais enviados pelo usuário para uso nos shorts.
 
+**Roupa atual:** [camiseta preta lisa, mantendo o corte e a geometria originais](roupas/camiseta_preta/). Aplicar a troca de material ao reutilizar cenas antigas.
+
 - `Dery.glb`: corpo, cabeça e rig de 72 ossos; inclui 23 ações.
 - `Dery_Material_Diffuse.png`: textura de cor original.
 - `Dery_Material_Normal.png`: mapa normal original.
