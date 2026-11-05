@@ -1,8 +1,8 @@
 # Personagens que a internet estragou
 
-Planejamento do vídeo e de seus shorts. O usuário aprovou os 14 personagens abaixo. O critério é a associação com conteúdo NSFW ou a redução do personagem a uma caricatura ridícula; popularidade em memes, sozinha, não basta. Os ângulos são propostas editoriais, não um roteiro factual já pesquisado ou gravado.
+Planejamento do vídeo e de seus shorts. O banco inicial tinha 14 personagens; o usuário fechou o primeiro vídeo com **os 12 já roteirizados, terminando em Sonic**. Vergil e Chris Redfield ficam reservados para outro vídeo. O critério original é a associação com conteúdo NSFW ou a redução do personagem a uma caricatura ridícula; popularidade em memes, sozinha, não basta. A narração de Sonic foi reescrita pelo usuário e inclui também criações de terror feitas por fãs.
 
-## Elenco aprovado
+## Banco aprovado e seleção atual
 
 | Personagem | Jogo | Ângulo previsto |
 | --- | --- | --- |
@@ -17,9 +17,9 @@ Planejamento do vídeo e de seus shorts. O usuário aprovou os 14 personagens ab
 | Mercy | Overwatch | Conteúdo adulto de fãs. |
 | Lara Croft | Tomb Raider | Boatos antigos, modificações e sexualização por fãs. |
 | Princesa Peach | Mario | Versões sexualizadas feitas por fãs. |
-| Sonic | Sonic / primeiro visual do filme | Ridicularização do visual inicial do filme, o “Sonic Feio”. |
-| Vergil | Devil May Cry | Caricatura de pai caloteiro que foge da pensão. |
-| Chris Redfield | Resident Evil | Caricatura do sujeito obcecado em juntar Leon e Claire para continuar a linhagem. |
+| Sonic | Sonic | Criações de fãs, comentários críticos sobre fanarts e fanfics e o terror de Sonic.exe; versão reescrita pelo usuário. |
+| Vergil — reservado para outro vídeo | Devil May Cry | Caricatura de pai caloteiro que foge da pensão. |
+| Chris Redfield — reservado para outro vídeo | Resident Evil | Caricatura do sujeito obcecado em juntar Leon e Claire para continuar a linhagem. |
 
 ## Formatos e sequência
 
@@ -51,7 +51,7 @@ Terceiro bloco: **Chun-Li — Street Fighter / Fortnite**, com voz, imagens e v�
 - [Assistir / baixar o horizontal 16:9 da Chun-Li](production/03-chun-li/output/ChunLi_Personagens_que_a_internet_estragou_16x9.mp4).
 - [Produção, projetos Blender, fontes e verificações — Chun-Li](production/03-chun-li/README.md).
 
-O usuário está fechando as falas e gravará os personagens em sequência. Ao receber uma revisão acompanhada do pedido de próximo personagem, salvar a versão e seguir somente com a próxima narração. O planejamento de animação e a produção ficam para a etapa solicitada.
+O usuário fechou as falas dos 12 personagens e está gravando em sequência. Três blocos já têm vídeo nos dois formatos; os nove restantes aguardam suas gravações e a etapa de animação solicitada. O texto digitado não é áudio recebido. A duração do longo será fechada a partir das vozes, sem assumir dez minutos pela quantidade de personagens.
 
 Quarto bloco em roteiro: **Ankha — Animal Crossing**, com a versão revisada pelo usuário e fechamento em “Nós te perdoamos”. Ainda sem voz recebida.
 
@@ -85,11 +85,11 @@ Décimo primeiro bloco em roteiro: **Princesa Peach — Super Mario**, com vers�
 
 - [Narração revisada — Princesa Peach](roteiros/11-peach/narracao.md).
 
-Décimo segundo bloco proposto: **Sonic Feio — primeiro visual do filme**, com rascunho de narração para revisão. O ângulo é a ridicularização do trailer de 2019, seguida pelo redesign e pela participação de Ugly Sonic no filme do Tico e Teco em 2022.
+Décimo segundo e último bloco da seleção atual: **Sonic**, com versão inteiramente reescrita pelo usuário sobre criações de fãs e Sonic.exe. Ainda sem voz recebida. O roteiro de Sonic Feio foi substituído e permanece apenas no histórico do Git.
 
-- [Narração proposta — Sonic Feio](roteiros/12-sonic-feio/narracao.md).
+- [Narração revisada — Sonic](roteiros/12-sonic/narracao.md).
 
-A ordem dos roteiros acompanha as escolhas do usuário. Os demais blocos ainda precisam de roteiro, pesquisa e autorização de produção. Os episódios anteriores não foram alterados.
+A ordem atual do vídeo é: Lady Dimitrescu, Tifa, Chun-Li, Ankha, Vaporeon, 2B, Tracer, D.Va, Mercy, Lara Croft, Peach e Sonic. Vergil e Chris Redfield não entram nesta montagem. Preservar os três blocos já produzidos e preparar os nove restantes para 9:16 e 16:9 quando a etapa for solicitada. Os episódios anteriores não foram alterados.
 
 ## Fluxo de mídia desejado
 
