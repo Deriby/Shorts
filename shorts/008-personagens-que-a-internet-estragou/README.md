@@ -77,9 +77,13 @@ Nono bloco em roteiro: **Mercy — Overwatch**, com versão revisada pelo usuár
 
 - [Narração revisada — Mercy](roteiros/09-mercy/narracao.md).
 
-Décimo bloco proposto: **Lara Croft — Tomb Raider**, com rascunho de narração para revisão. O ângulo aborda o boato de código de nudez e o mod Nude Raider para PC nos anos 90.
+Décimo bloco em roteiro: **Lara Croft — Tomb Raider**, com versão revisada pelo usuário e encerramento na frase sobre a mulher feita de meia dúzia de polígonos. Ainda sem voz recebida.
 
-- [Narração proposta — Lara Croft](roteiros/10-lara-croft/narracao.md).
+- [Narração revisada — Lara Croft](roteiros/10-lara-croft/narracao.md).
+
+Décimo primeiro bloco proposto: **Princesa Peach — Super Mario**, com rascunho de narração para revisão. O ângulo aborda conteúdo adulto de fãs e a criação da Bowsette como exemplo relacionado, distinguindo-a da Peach e da transformação oficial de Toadette.
+
+- [Narração proposta — Princesa Peach](roteiros/11-peach/narracao.md).
 
 A ordem dos roteiros acompanha as escolhas do usuário. Os demais blocos ainda precisam de roteiro, pesquisa e autorização de produção. Os episódios anteriores não foram alterados.
 
