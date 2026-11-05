@@ -57,11 +57,15 @@ Quarto bloco em roteiro: **Ankha — Animal Crossing**, com a versão revisada p
 
 - [Narração revisada — Ankha](roteiros/04-ankha/narracao.md).
 
-Quinto bloco proposto: **Vaporeon — Pokémon**, com rascunho de narração para revisão.
+Quinto bloco em roteiro: **Vaporeon — Pokémon**, com narração entregue. O usuário pediu o próximo personagem sem enviar alterações textuais; ainda sem voz recebida.
 
 - [Narração proposta — Vaporeon](roteiros/05-vaporeon/narracao.md).
 
-A ordem dos roteiros acompanha as escolhas do usuário. **2B continua no elenco aprovado e ainda está pendente de roteiro.** Os demais blocos ainda precisam de roteiro, pesquisa e autorização de produção. Os episódios anteriores não foram alterados.
+Sexto bloco proposto: **2B — NieR: Automata**, com rascunho de narração para revisão.
+
+- [Narração proposta — 2B](roteiros/06-2b/narracao.md).
+
+A ordem dos roteiros acompanha as escolhas do usuário. Os demais blocos ainda precisam de roteiro, pesquisa e autorização de produção. Os episódios anteriores não foram alterados.
 
 ## Fluxo de mídia desejado
 

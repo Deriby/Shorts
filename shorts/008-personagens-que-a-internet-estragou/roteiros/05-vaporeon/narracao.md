@@ -1,6 +1,6 @@
 # Personagens que a internet estragou — Vaporeon
 
-Rascunho de narração para revisão do usuário. Etapa de fechamento das falas em sequência; ainda sem voz recebida, roteiro de animação ou produção.
+Narração entregue ao usuário, que pediu para avançar ao próximo personagem sem enviar alterações textuais. Etapa de fechamento das falas em sequência; ainda sem voz recebida, roteiro de animação ou produção.
 
 ## Falas
 
