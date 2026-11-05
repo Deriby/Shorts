@@ -69,9 +69,13 @@ Sétimo bloco em roteiro: **Tracer — Overwatch**, com versão revisada pelo us
 
 - [Narração revisada — Tracer](roteiros/07-tracer/narracao.md).
 
-Oitavo bloco proposto: **D.Va — Overwatch**, com rascunho de narração para revisão. O ângulo contrapõe a piloto e seu robô ao conteúdo adulto feito por fãs.
+Oitavo bloco em roteiro: **D.Va — Overwatch**, com versão revisada pelo usuário e encerramento em “mas com certeza conhece ela”. Ainda sem voz recebida.
 
-- [Narração proposta — D.Va](roteiros/08-dva/narracao.md).
+- [Narração revisada — D.Va](roteiros/08-dva/narracao.md).
+
+Nono bloco proposto: **Mercy — Overwatch**, com rascunho de narração para revisão. O ângulo contrapõe a médica e suas habilidades de cura ao conteúdo adulto feito por fãs.
+
+- [Narração proposta — Mercy](roteiros/09-mercy/narracao.md).
 
 A ordem dos roteiros acompanha as escolhas do usuário. Os demais blocos ainda precisam de roteiro, pesquisa e autorização de produção. Os episódios anteriores não foram alterados.
 
