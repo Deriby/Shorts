@@ -1,6 +1,8 @@
 # Personagens que a internet estragou — Ankha
 
-Versão revisada pelo usuário, com as marcações de interpretação preservadas. O usuário está fechando as falas para gravar os personagens em sequência. Ainda não há voz recebida nem produção iniciada para este bloco; o planejamento de animação fica para a etapa solicitada. As tags não são palavras para pronunciar ou legendas.
+Versão revisada pelo usuário, com as marcações de interpretação preservadas. O usuário está fechando as falas para gravar os personagens em sequência. Ainda não há voz recebida nem produção iniciada para este bloco; o planejamento de animação já foi autorizado. As tags não são palavras para pronunciar ou legendas.
+
+O [roteiro de animação](animacao.md) foi planejado a partir desta versão. Os cortes e o sincronismo serão ajustados à gravação recebida.
 
 ## Falas
 

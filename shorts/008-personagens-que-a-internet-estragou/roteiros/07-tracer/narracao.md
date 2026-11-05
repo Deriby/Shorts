@@ -1,6 +1,8 @@
 # Personagens que a internet estragou — Tracer
 
-Versão revisada pelo usuário, com suas marcações de interpretação preservadas. Etapa de fechamento das falas em sequência; ainda sem voz recebida, roteiro de animação ou produção. As tags orientam a interpretação e não são palavras para pronunciar nem legendas.
+Versão revisada pelo usuário, com suas marcações de interpretação preservadas. Falas reunidas para gravação em sequência; ainda sem voz recebida ou produção. As tags orientam a interpretação e não são palavras para pronunciar nem legendas.
+
+O [roteiro de animação](animacao.md) foi planejado a partir desta versão. Os cortes e o sincronismo serão ajustados à gravação recebida.
 
 ## Falas
 

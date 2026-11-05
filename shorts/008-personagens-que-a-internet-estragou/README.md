@@ -25,6 +25,10 @@ Planejamento do vídeo e de seus shorts. O banco inicial tinha 14 personagens; o
 
 Entregar shorts em **9:16 primeiro**, com aproveitamento posterior para um vídeo longo em **16:9**. Planejar câmeras, conteúdos de tela e enquadramentos para ambos os formatos antes da animação, com recortes próprios quando rosto, ação ou HUD exigirem. Dividir o roteiro em blocos independentes, com gancho e fechamento, e planejar as transições do longo. Agrupar ou diferenciar os casos de Overwatch para evitar repetição. A duração depende do roteiro e da gravação, não da simples contagem de personagens.
 
+## Roteiros de animação preparados
+
+O [plano geral de animação e montagem](plano_animacao.md) reúne os 12 blocos, as cenas, os dois formatos e o reaproveitamento do vídeo longo. Os três primeiros usam as produções aprovadas; os nove restantes têm roteiros por fala, expressões, gestos, enquadramentos e necessidades de mídia. Esta etapa é de planejamento: não foram gerados novos renders ou cenários.
+
 Primeiro bloco concluído: **Lady Dimitrescu**, com voz, vídeos e memes enviados pelo usuário no pacote “1 - Lady Dimitrescu.zip”. Versões **9:16 e 16:9 de 39 segundos**, com atuação por frase, visual PS1 mais marcado e passagem pela entrada do castelo. A montagem acompanha a gravação real e termina em “carreira paralela”.
 
 - [Narração — Lady Dimitrescu](roteiros/01-lady-dimitrescu/narracao.md).
@@ -51,45 +55,54 @@ Terceiro bloco: **Chun-Li — Street Fighter / Fortnite**, com voz, imagens e v�
 - [Assistir / baixar o horizontal 16:9 da Chun-Li](production/03-chun-li/output/ChunLi_Personagens_que_a_internet_estragou_16x9.mp4).
 - [Produção, projetos Blender, fontes e verificações — Chun-Li](production/03-chun-li/README.md).
 
-O usuário fechou as falas dos 12 personagens e está gravando em sequência. Três blocos já têm vídeo nos dois formatos; os nove restantes aguardam suas gravações e a etapa de animação solicitada. O texto digitado não é áudio recebido. A duração do longo será fechada a partir das vozes, sem assumir dez minutos pela quantidade de personagens.
+O usuário fechou as falas dos 12 personagens e está gravando em sequência. Três blocos já têm vídeo nos dois formatos; os nove restantes têm roteiros de animação preparados e aguardam voz e mídias para sincronizar e produzir. O texto digitado não é áudio recebido. A duração do longo será fechada a partir das vozes, sem assumir dez minutos pela quantidade de personagens.
 
 Quarto bloco em roteiro: **Ankha — Animal Crossing**, com a versão revisada pelo usuário e fechamento em “Nós te perdoamos”. Ainda sem voz recebida.
 
 - [Narração revisada — Ankha](roteiros/04-ankha/narracao.md).
+- [Roteiro de animação — ankha](roteiros/04-ankha/animacao.md).
 
 Quinto bloco em roteiro: **Vaporeon — Pokémon**, com narração entregue. O usuário pediu o próximo personagem sem enviar alterações textuais; ainda sem voz recebida.
 
 - [Narração proposta — Vaporeon](roteiros/05-vaporeon/narracao.md).
+- [Roteiro de animação — vaporeon](roteiros/05-vaporeon/animacao.md).
 
 Sexto bloco em roteiro: **2B — NieR: Automata**, com versão revisada pelo usuário, grafia “Two B” na fala e encerramento em “lutar contra a internet”. Ainda sem voz recebida.
 
 - [Narração revisada — 2B](roteiros/06-2b/narracao.md).
+- [Roteiro de animação — 2b](roteiros/06-2b/animacao.md).
 
 Sétimo bloco em roteiro: **Tracer — Overwatch**, com versão revisada pelo usuário e encerramento em “Mas conhece ela pelo jogo, né?...”. Ainda sem voz recebida.
 
 - [Narração revisada — Tracer](roteiros/07-tracer/narracao.md).
+- [Roteiro de animação — tracer](roteiros/07-tracer/animacao.md).
 
 Oitavo bloco em roteiro: **D.Va — Overwatch**, com versão revisada pelo usuário e encerramento em “mas com certeza conhece ela”. Ainda sem voz recebida.
 
 - [Narração revisada — D.Va](roteiros/08-dva/narracao.md).
+- [Roteiro de animação — dva](roteiros/08-dva/animacao.md).
 
 Nono bloco em roteiro: **Mercy — Overwatch**, com versão revisada pelo usuário, fechamento do grupo de Overwatch e encerramento em “Coisa que infelizmente não tiveram com ela”. Ainda sem voz recebida.
 
 - [Narração revisada — Mercy](roteiros/09-mercy/narracao.md).
+- [Roteiro de animação — mercy](roteiros/09-mercy/animacao.md).
 
 Décimo bloco em roteiro: **Lara Croft — Tomb Raider**, com versão revisada pelo usuário e encerramento na frase sobre a mulher feita de meia dúzia de polígonos. Ainda sem voz recebida.
 
 - [Narração revisada — Lara Croft](roteiros/10-lara-croft/narracao.md).
+- [Roteiro de animação — lara-croft](roteiros/10-lara-croft/animacao.md).
 
 Décimo primeiro bloco em roteiro: **Princesa Peach — Super Mario**, com versão revisada pelo usuário e encerramento em “Bizarro porque tipoo... é o bowser pô...”. Ainda sem voz recebida.
 
 - [Narração revisada — Princesa Peach](roteiros/11-peach/narracao.md).
+- [Roteiro de animação — peach](roteiros/11-peach/animacao.md).
 
 Décimo segundo e último bloco da seleção atual: **Sonic**, com versão inteiramente reescrita pelo usuário sobre criações de fãs e Sonic.exe. Ainda sem voz recebida. O roteiro de Sonic Feio foi substituído e permanece apenas no histórico do Git.
 
 - [Narração revisada — Sonic](roteiros/12-sonic/narracao.md).
+- [Roteiro de animação — sonic](roteiros/12-sonic/animacao.md).
 
-A ordem atual do vídeo é: Lady Dimitrescu, Tifa, Chun-Li, Ankha, Vaporeon, 2B, Tracer, D.Va, Mercy, Lara Croft, Peach e Sonic. Vergil e Chris Redfield não entram nesta montagem. Preservar os três blocos já produzidos e preparar os nove restantes para 9:16 e 16:9 quando a etapa for solicitada. Os episódios anteriores não foram alterados.
+A ordem atual do vídeo é: Lady Dimitrescu, Tifa, Chun-Li, Ankha, Vaporeon, 2B, Tracer, D.Va, Mercy, Lara Croft, Peach e Sonic. Vergil e Chris Redfield não entram nesta montagem. Preservar os três blocos já produzidos e sincronizar e produzir os nove restantes em 9:16 e 16:9 quando o usuário enviar o pacote de cada um na etapa de produção. Os episódios anteriores não foram alterados.
 
 ## Fluxo de mídia desejado
 

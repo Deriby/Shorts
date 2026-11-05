@@ -1,6 +1,8 @@
 # Personagens que a internet estragou — Vaporeon
 
-Narração entregue ao usuário, que pediu para avançar ao próximo personagem sem enviar alterações textuais. Etapa de fechamento das falas em sequência; ainda sem voz recebida, roteiro de animação ou produção.
+Narração entregue ao usuário, que pediu para avançar ao próximo personagem sem enviar alterações textuais. Falas reunidas para gravação em sequência; ainda sem voz recebida ou produção.
+
+O [roteiro de animação](animacao.md) foi planejado a partir desta versão. Os cortes e o sincronismo serão ajustados à gravação recebida.
 
 ## Falas
 
