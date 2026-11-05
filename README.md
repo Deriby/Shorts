@@ -13,6 +13,7 @@ Produção de shorts em 3D com estética PS1 / low poly, personagem Dery e narra
 | 005 | **Misturaram GTA com POSTAL 2** | [Short 9:16, roteiros e projeto Blender](shorts/005-gta-postal2/) |
 | 006 | **Esse jogo destruiu seu criador** | [Short 9:16, voz, roteiros e Blender](shorts/006-mizzurna-falls/) |
 | 007 | **O verdadeiro chefe de Driver** | [Short 9:16, voz, gameplay, roteiros e Blender](shorts/007-verdadeiro-chefe-driver/) |
+| 008 | **Personagens que a internet estragou** | [Personagens aprovados e planejamento; sem produção iniciada](shorts/008-personagens-que-a-internet-estragou/) |
 
 ## Organização
 
