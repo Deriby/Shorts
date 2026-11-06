@@ -1,0 +1,56 @@
+{
+  "meeting": [
+    0,
+    6.4
+  ],
+  "interrupted": [
+    6.4,
+    7.7
+  ],
+  "removed": [
+    7.7,
+    11.5
+  ],
+  "roles": [
+    [
+      "VIL\u00c3",
+      0,
+      11.5
+    ],
+    [
+      "HERO\u00cdNA",
+      1,
+      12.8
+    ],
+    [
+      "PRINCESA",
+      10,
+      13.9
+    ],
+    [
+      "OURI\u00c7O",
+      11,
+      15.0
+    ]
+  ],
+  "archive": [
+    16.9,
+    27.5
+  ],
+  "hidden_previews": [
+    22,
+    24.5
+  ],
+  "bin": [
+    24.5,
+    26.9
+  ],
+  "lady_selection": [
+    27.5,
+    31.9
+  ],
+  "title_overlay": [
+    17.2,
+    21.2
+  ]
+}

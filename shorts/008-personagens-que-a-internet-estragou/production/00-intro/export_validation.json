@@ -1,0 +1,21 @@
+{
+  "video": "Intro_Personagens_que_a_internet_estragou_16x9.mp4",
+  "frames": 789,
+  "duration": 32.875,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "codec": "H.264 + AAC",
+  "size_bytes": 26836041,
+  "full_decode": "passed",
+  "voice_original_sha256": "173145c37098aff0f42b639ccc2ad23a904d9d87285badc4b2c24fca128d1277",
+  "voice_unmodified": true,
+  "scene_checks": "passed",
+  "picture_shots": 3,
+  "picture_cuts": 2,
+  "room_shot_camera": "continuous",
+  "vertical_export": false,
+  "ps1_palette": "5-bit RGB with fixed 4x4 Bayer dither and integer nearest-neighbor upscale"
+}

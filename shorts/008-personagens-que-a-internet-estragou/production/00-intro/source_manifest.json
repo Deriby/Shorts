@@ -1,0 +1,92 @@
+{
+  "voice": {
+    "original_filename": "ElevenLabs_2026-11-06T10_21_14_Dery_ivc_s50_sim75_v4.mp3",
+    "public_filename": "voz_original.mp3",
+    "sha256": "173145c37098aff0f42b639ccc2ad23a904d9d87285badc4b2c24fca128d1277",
+    "voice_duration": 32.20897959183674
+  },
+  "reused": [
+    {
+      "source": "shorts/008-personagens-que-a-internet-estragou/production/02-tifa/assets/memes/call_normal.png",
+      "prepared": "call_normal.png",
+      "sha256": "6a01a0e896e3b3c335bd0cbb117ef41764df2364e210fb07a079e6c7428b34ee"
+    },
+    {
+      "source": "shorts/008-personagens-que-a-internet-estragou/production/02-tifa/assets/memes/call_censored.png",
+      "prepared": "call_censored.png",
+      "sha256": "b3b75d3d051683b928cba7ac8d80e9b92ac8fc4dd0a311247a7a11d834eea2c3"
+    },
+    {
+      "source": "shorts/008-personagens-que-a-internet-estragou/production/02-tifa/assets/memes/call_removed.png",
+      "prepared": "call_removed.png",
+      "sha256": "eb132c1e4d4751f7b8bc849f45a3bf0f98d10220dc84284f53ef1897cf78a62b"
+    },
+    {
+      "source": "shorts/008-personagens-que-a-internet-estragou/production/01-lady-dimitrescu/assets/memes/ladytall2.jpg",
+      "prepared": "personagem_01.jpg",
+      "sha256": "e63121436077fbcb10ecc9bb7d76bb019c861500e6900b0f8369825c476dcc76"
+    },
+    {
+      "source": "shorts/008-personagens-que-a-internet-estragou/production/02-tifa/assets/memes/tifa_retrato.jpg",
+      "prepared": "personagem_02.jpg",
+      "sha256": "b1d9e601984144faf89e9d791dfbc45bcdae9c9f5b9cc3172a927e2511bec842"
+    },
+    {
+      "source": "shorts/008-personagens-que-a-internet-estragou/production/03-chun-li/assets/memes/chunli_classica.png",
+      "prepared": "personagem_03.png",
+      "sha256": "b85824b2a45af1cc16e8fe911763ae3526a48294ccb16ba6f8f5f03dfbcf6b8d"
+    },
+    {
+      "source": "shorts/008-personagens-que-a-internet-estragou/production/04-ankha/assets/memes/ankha_retrato.png",
+      "prepared": "personagem_04.png",
+      "sha256": "6695d8a7e44ed4d49e8e6b8627fe73edc8c0944101caf6cd976bc39162a3cffc"
+    },
+    {
+      "source": "shorts/008-personagens-que-a-internet-estragou/production/05-vaporeon/assets/memes/vaporeon_unite.png",
+      "prepared": "personagem_05.png",
+      "sha256": "2dcd4a7e2eaeb3bb4cf5662cc9ee7271176e5ede751d0530f2b8758b2885a2ee"
+    },
+    {
+      "source": "shorts/008-personagens-que-a-internet-estragou/production/06-2b/assets/memes/2b_retrato.jpg",
+      "prepared": "personagem_06.jpg",
+      "sha256": "5d4cf20c36463815122c7f48063e4e20e26b7ad462eeec1ece045f99b8d6030b"
+    },
+    {
+      "source": "shorts/008-personagens-que-a-internet-estragou/production/07-tracer/assets/memes/tracer_retrato.png",
+      "prepared": "personagem_07.png",
+      "sha256": "e523b6b1bc9956e127f8103b542b1e2e28c7683eb0a70143f1ec4d69f6029dab"
+    },
+    {
+      "source": "shorts/008-personagens-que-a-internet-estragou/production/08-dva/assets/memes/dva_piloto.jpg",
+      "prepared": "personagem_08.jpg",
+      "sha256": "68eb0a8f7fbf8ec5c2b5924439b20fcc6ce63aa90483a856d0c5f53ea8b79abb"
+    },
+    {
+      "source": "shorts/008-personagens-que-a-internet-estragou/production/09-mercy/assets/memes/mercy_retrato.jpg",
+      "prepared": "personagem_09.jpg",
+      "sha256": "2e2adf44a0356a833e2e519c3d6f76ab6df57f86db296bf27bbd7394745fe1b5"
+    },
+    {
+      "source": "shorts/008-personagens-que-a-internet-estragou/production/10-lara-croft/assets/memes/lara_classica.jpg",
+      "prepared": "personagem_10.jpg",
+      "sha256": "c5654b088d95ae202d0cdcd0cbde5542c1a66c201b6a9453469dd5c4a6436e8f"
+    },
+    {
+      "source": "shorts/008-personagens-que-a-internet-estragou/production/11-peach/assets/memes/peach.png",
+      "prepared": "personagem_11.png",
+      "sha256": "6b215ae2f4a8d01b967826b45102495b8f0c0520f5925d8e3bf5880435a21f01"
+    },
+    {
+      "source": "shorts/008-personagens-que-a-internet-estragou/production/12-sonic/assets/memes/meme_anel.jpg",
+      "prepared": "personagem_12.jpg",
+      "sha256": "d12823b19e40e5c04e1f9aec8c59e079c074d805a8be15d45b8d4a5bfc1f2e05"
+    },
+    {
+      "source": "shorts/008-personagens-que-a-internet-estragou/production/01-lady-dimitrescu/output/Lady_Dimitrescu_Personagens_que_a_internet_estragou_16x9.mp4",
+      "prepared": "entrada_lady.png",
+      "frame": 0,
+      "description": "First published Lady frame, used to motivate the handoff into that episode."
+    }
+  ],
+  "editorial": "The illustrated Tifa meeting is labelled ENCENAÇÃO in the reused artwork. Normal portraits form one coherent case archive. Adult-content references use wholly opaque authored previews. The unwanted IDEIAS folder has one move to the bin. The final Lady still is a handoff into case 01, not a new excerpt of its narration. No original episode was changed; no 9:16 export or full compilation is produced."
+}

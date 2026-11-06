@@ -1,0 +1,34 @@
+{
+  "fps": 24,
+  "frames": 789,
+  "duration": 32.875,
+  "voice_duration": 32.20897959183674,
+  "format": "16:9 only",
+  "picture_cuts": 2,
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 204,
+      "kind": "interface",
+      "source": "monitor_montado.mp4",
+      "description": "Single illustrated meeting; interruption and removal are states of the same interface."
+    },
+    {
+      "id": 1,
+      "start": 205,
+      "end": 767,
+      "kind": "actor",
+      "source": "monitor_montado.mp4",
+      "description": "Continuous pullback to the presenter, archive action and push into case 01."
+    },
+    {
+      "id": 2,
+      "start": 768,
+      "end": 789,
+      "kind": "handoff",
+      "source": "entrada_lady.png",
+      "description": "Motivated match into the first Lady frame; no audio from that episode is added."
+    }
+  ]
+}

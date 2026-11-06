@@ -25,6 +25,14 @@ Planejamento do vídeo e de seus shorts. O banco inicial tinha 14 personagens; o
 
 Entregar shorts em **9:16 primeiro**, com aproveitamento posterior para um vídeo longo em **16:9**. Planejar câmeras, conteúdos de tela e enquadramentos para ambos os formatos antes da animação, com recortes próprios quando rosto, ação ou HUD exigirem. Dividir o roteiro em blocos independentes, com gancho e fechamento, e planejar as transições do longo. Agrupar ou diferenciar os casos de Overwatch para evitar repetição. A duração depende do roteiro e da gravação, não da simples contagem de personagens.
 
+## Intro do vídeo longo
+
+A [intro em 16:9](production/00-intro/README.md) tem **32,875 segundos**, com a voz enviada preservada inteira. Três planos desenvolvem a mesma situação: reunião no monitor, apresentação dos 12 casos e seleção da Lady para iniciar o primeiro bloco. A câmera do quarto permanece contínua, seguindo a orientação de reduzir cortes sem nexo.
+
+- [Assistir / baixar a intro 16:9](production/00-intro/output/Intro_Personagens_que_a_internet_estragou_16x9.mp4).
+- [Roteiro e direção da intro](roteiros/00-intro/animacao.md).
+- [Projeto Blender da intro](production/00-intro/output/Dery_Intro_Personagens_16x9.blend).
+
 ## Roteiros de animação preparados
 
 O [plano geral de animação e montagem](plano_animacao.md) reúne os 12 blocos, as cenas, os dois formatos e o reaproveitamento do vídeo longo. Lady, Tifa e Chun-Li usam as produções aprovadas; Ankha, Vaporeon, 2B, Tracer, D.Va, Mercy, Lara Croft, Peach e Sonic também já foram produzidos. Os 12 blocos têm voz recebida, atuação sincronizada e versões nos dois formatos.

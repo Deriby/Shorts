@@ -50,7 +50,7 @@ As duas versões usam a mesma voz e a mesma sequência de ideias, com câmeras e
 ## Montagem do vídeo longo
 
 1. Reaproveitar os masters horizontais de Lady, Tifa, Chun-Li, Ankha, Vaporeon, 2B, Tracer, D.Va, Mercy, Lara Croft, Peach e Sonic. Somados, eles têm **443,375 segundos**; os três primeiros já foram aprovados pelo usuário. A duração final do longo depende dos ajustes de sobras silenciosas e transições na montagem.
-2. Começar pelo gancho já gravado da Lady. O título geral pode aparecer no monitor ou numa identificação gráfica curta; não há uma nova abertura falada autorizada nesta etapa.
+2. Abrir com a [intro exclusiva em 16:9](production/00-intro/README.md), autorizada posteriormente com a gravação enviada. São 32,875 segundos e três planos com continuidade. O último quadro prepara a entrada na Lady; seguir com o master do bloco 01. Os 12 masters e a intro somam 476,25 segundos antes dos ajustes da montagem.
 3. Nas passagens de personagem, aproveitar a pausa natural da voz e um corte para o novo conteúdo no monitor. Preservar as piadas e as falas completas. Remover apenas sobra silenciosa de exportação quando isso ajudar a ligação e não cortar a sustentação de uma reação.
 4. Manter Tracer, D.Va e Mercy juntas. “Como já tínhamos dito aqui” da D.Va remete à Tracer, e “fechar o combo” da Mercy encerra esse grupo. Diferenciar seus três ambientes: entrevista, cockpit e triagem.
 5. Fechar o conteúdo em Sonic.exe, conforme a nova fala do usuário. A antiga história de Sonic Feio não entra. Depois da voz, um retorno visual curto à marca pode usar o material existente; o arquivo de encerramento precisa ser conferido na etapa de montagem, sem depender de um render novo agora.
@@ -82,3 +82,7 @@ Na renderização, aplicar o processamento já usado na Chun-Li: ocultar o cená
 - Conteúdo do monitor claro, no trecho correto e em movimento quando for vídeo.
 - Gag e identificação legíveis em 9:16 e 16:9, sem perder a personagem ou o resultado de uma ação no recorte.
 - Arquivos finais reproduzindo integralmente, fontes registradas e envio ao GitHub confirmado.
+
+## Continuidade após a orientação mais recente
+
+O usuário apontou excesso de cortes sem nexo. Na intro, a solução foi manter o arquivo dos casos dentro da mesma situação do quarto, com câmera contínua entre o monitor e o apresentador. Nas próximas produções, escolher cortes pela ação, pelo olhar e pela mudança de ideia; sustentar o tempo necessário para o gesto e a reação. Os vídeos já prontos permanecem preservados.
