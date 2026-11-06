@@ -1,0 +1,26 @@
+{
+  "fps": 24,
+  "frames": 509,
+  "duration": 21.208333333333332,
+  "voice_duration": 19.957551020408165,
+  "format": "16:9 only",
+  "picture_cuts": 1,
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 483,
+      "kind": "actor",
+      "source": "monitor_montado.mp4",
+      "description": "One sustained room shot: conclude cases, invite suggestions, support the channel and wave goodbye."
+    },
+    {
+      "id": 1,
+      "start": 484,
+      "end": 509,
+      "kind": "brand",
+      "source": "marca_final.png",
+      "description": "Approved M logo after the complete recorded farewell."
+    }
+  ]
+}

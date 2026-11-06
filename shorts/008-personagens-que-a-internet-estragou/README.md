@@ -33,6 +33,14 @@ A [intro em 16:9](production/00-intro/README.md) tem **32,875 segundos**, com a 
 - [Roteiro e direção da intro](roteiros/00-intro/animacao.md).
 - [Projeto Blender da intro](production/00-intro/output/Dery_Intro_Personagens_16x9.blend).
 
+## Encerramento do vídeo longo
+
+O [encerramento em 16:9](production/13-encerramento/README.md) tem **21,208 segundos**, com a fala revisada e a voz enviada preservadas. Um plano contínuo no quarto acompanha a conclusão, os pedidos de comentário, inscrição e like e a despedida; a marca entra depois da voz.
+
+- [Assistir / baixar o encerramento 16:9](production/13-encerramento/output/Encerramento_Personagens_que_a_internet_estragou_16x9.mp4).
+- [Roteiro e direção do encerramento](roteiros/13-encerramento/animacao.md).
+- [Projeto Blender do encerramento](production/13-encerramento/output/Dery_Encerramento_Personagens_16x9.blend).
+
 ## Roteiros de animação preparados
 
 O [plano geral de animação e montagem](plano_animacao.md) reúne os 12 blocos, as cenas, os dois formatos e o reaproveitamento do vídeo longo. Lady, Tifa e Chun-Li usam as produções aprovadas; Ankha, Vaporeon, 2B, Tracer, D.Va, Mercy, Lara Croft, Peach e Sonic também já foram produzidos. Os 12 blocos têm voz recebida, atuação sincronizada e versões nos dois formatos.

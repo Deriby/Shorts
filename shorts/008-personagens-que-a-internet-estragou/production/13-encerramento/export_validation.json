@@ -1,0 +1,21 @@
+{
+  "video": "Encerramento_Personagens_que_a_internet_estragou_16x9.mp4",
+  "frames": 509,
+  "duration": 21.208333,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "codec": "H.264 + AAC",
+  "size_bytes": 16804600,
+  "full_decode": "passed",
+  "voice_original_sha256": "35aee4684896ca77c1237399a66add7a61ff3fa229f53937684a71625b9e310e",
+  "voice_unmodified": true,
+  "scene_checks": "passed",
+  "picture_shots": 2,
+  "picture_cuts": 1,
+  "room_shot_camera": "continuous",
+  "vertical_export": false,
+  "ps1_palette": "5-bit RGB with fixed 4x4 Bayer dither and integer nearest-neighbor upscale"
+}

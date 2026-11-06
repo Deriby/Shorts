@@ -1,0 +1,21 @@
+{
+  "voice": {
+    "original_filename": "ElevenLabs_2026-11-06T11_16_53_Dery_ivc_s50_sim75_v4.mp3",
+    "public_filename": "voz_original.mp3",
+    "sha256": "35aee4684896ca77c1237399a66add7a61ff3fa229f53937684a71625b9e310e",
+    "voice_duration": 19.957551020408165
+  },
+  "reused": [
+    {
+      "source": "shorts/008-personagens-que-a-internet-estragou/production/00-intro/assets/memes/arquivo_12.png",
+      "prepared": "arquivo_12.png",
+      "sha256": "fcc2d954badac0f9652efedc59230a1a4aa0946c87e8337dd778b92d36b545da"
+    },
+    {
+      "source": "assets/marca/massacote-games/logo.png",
+      "prepared": "logo.png",
+      "sha256": "045e0ccbd0cacf43a321e02c7a40166c42c4b91d717628a9f13a0f393f95231d"
+    }
+  ],
+  "editorial": "The user replaced the previous proposed closing; the uploaded recording governs the animation. No history-deletion joke is reused. The quoted internet phrase is treated as a comic conclusion, with no weapon or literal shooting. More folders illustrate the colloquial trocentos without a fake statistical count. Support buttons are authored invitations, not real platform interactions. The approved M is reused for the final card; no portrait, episode or intro is altered."
+}
