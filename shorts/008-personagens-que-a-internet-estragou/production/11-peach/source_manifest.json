@@ -1,0 +1,95 @@
+{
+  "package": "11 - Peach.zip",
+  "source": "User-provided Google Drive archive",
+  "files": [
+    {
+      "original_filename": "BOWSETTE in 23 Animation Styles! ■ HUGE Community Collab ■ The Chalkeaters' Mario Song Remake (1080p_24fps_H264-128kbit_AAC).mp4",
+      "bytes": 44958250,
+      "sha256": "e0fa181928284eaa9e6f348af0abf2dfa069e717c80fa07ddfe8dfc94637b010"
+    },
+    {
+      "original_filename": "dlzc1a6-bbdd6b1b-b51a-4a22-b6d0-b65cdfd7299a.jpg",
+      "bytes": 38020,
+      "sha256": "87ada4972a23ebd00280217ce94726c6dfe5c9e1e161e42ead09b603337f7b73"
+    },
+    {
+      "original_filename": "images (1).jpg",
+      "bytes": 37986,
+      "sha256": "9c95bc509444e7b004fc015e4efa3fb4c152886d48a1a5a982ec4d2042be71e5"
+    },
+    {
+      "original_filename": "images.jpg",
+      "bytes": 54323,
+      "sha256": "255a13a6b34dcc731a75b2ae466a679bc69905141dca550da6844529d83325e7"
+    },
+    {
+      "original_filename": "maxresdefault.jpg",
+      "bytes": 107003,
+      "sha256": "6338d4c30bff773d0e5bba86339bd050f4b75a6458e870f41d27665fe6623fe0"
+    },
+    {
+      "original_filename": "peach-bowser-bowsette.jpg",
+      "bytes": 376140,
+      "sha256": "cd383dc1b81d607d6e6153cac299f3ee66dac647545b6934fe497db4ae31992b"
+    },
+    {
+      "original_filename": "Princess Peach; Showtime! - Nintendo Direct 9.14.2023 (1080p_60fps_H264-128kbit_AAC).mp4",
+      "bytes": 83181947,
+      "sha256": "7b2395ffe9e82834b879eeb010b5f1160e6ef98e4b5c5afc0483503b17437827"
+    },
+    {
+      "original_filename": "Princess Peach; Showtime! — Peach in the Spotlight — Nintendo Switch (1080p_60fps_H264-128kbit_AAC).mp4",
+      "bytes": 77041519,
+      "sha256": "d996d0619e709b01318a3d7e9ea7c32f5e6b3a6fe65e8aa250efa30236db4d5b"
+    },
+    {
+      "original_filename": "princess_peach_absolute_meme_by_joaogvds3221_dmidyno-pre.jpg",
+      "bytes": 57390,
+      "sha256": "31b6dd76438fc9afa573b5c1dd1e0cdf7171d109b0c34b6157efecda391673fd"
+    },
+    {
+      "original_filename": "Rosalina and Peach in the Great Ring of Kong (1080p_30fps_H264-128kbit_AAC).mp4",
+      "bytes": 15397789,
+      "sha256": "b763e82b54a86aa9a93c1629b1509be8dad3911b86dab5ef2da50a7713ffa62a"
+    },
+    {
+      "original_filename": "Super Smash Bros. Ultimate - Bowsette Reveal Trailer (1440p_60fps_AV1-128kbit_AAC).mp4",
+      "bytes": 164423536,
+      "sha256": "8e991dff8c12ddd653563ce263ad194120bcd76b73a904b3b2438928c2d7dbcf"
+    },
+    {
+      "original_filename": "voz 11 peach.mp3",
+      "bytes": 1464960,
+      "sha256": "3a045f5f3728bab6b68ed17f48a1b8b77b6eb2f7cc07ea6f5b2861ef15e9bdb5"
+    }
+  ],
+  "video_derivatives": {
+    "peach_luta.mp4": {
+      "original": "Princess Peach; Showtime! — Peach in the Spotlight — Nintendo Switch (1080p_60fps_H264-128kbit_AAC).mp4",
+      "interval": [
+        80.5,
+        84.0
+      ],
+      "description": "Official Princess Peach Showtime: Kung Fu Peach fighting stage enemies, not Bowser.",
+      "audio_used": false
+    },
+    "bowsette_fan.mp4": {
+      "original": "Super Smash Bros. Ultimate - Bowsette Reveal Trailer (1440p_60fps_AV1-128kbit_AAC).mp4",
+      "interval": [
+        54.3,
+        58.2
+      ],
+      "description": "User-supplied fan-made Bowsette showcase in Smash; not an official Nintendo announcement.",
+      "audio_used": false
+    }
+  },
+  "images_published": [
+    "images.jpg",
+    "maxresdefault.jpg",
+    "princess_peach_absolute_meme_by_joaogvds3221_dmidyno-pre.jpg",
+    "peach-bowser-bowsette.jpg",
+    "images (1).jpg"
+  ],
+  "editorial": "Official Showtime footage illustrates Peach fighting stage enemies; Bowser is identified separately. Tennis and kart use authored game-selection cards because the package contains no such gameplay. The 2018 Super Crown transformation is illustrated with correctly named TOADETTE to PEACHETTE diagrams; the package contains no official transformation footage. Bowsette is consistently labelled fan-made, distinct from Peach and Peachette. Supplied Smash Bowsette footage is fan-made, not an official announcement. Adult-content references use wholly opaque authored cards. Crops of supplied portraits focus on faces.",
+  "unused": "AI Peach portrait, fan-song animation, the Rosalina animation and unselected originals remain outside Git. Raw archive, ASR and personal gesture reference are not published."
+}

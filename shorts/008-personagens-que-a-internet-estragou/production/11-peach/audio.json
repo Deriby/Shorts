@@ -1,0 +1,11 @@
+{
+  "original_filename": "voz 11 peach.mp3",
+  "public_filename": "voz_original.mp3",
+  "sha256": "3a045f5f3728bab6b68ed17f48a1b8b77b6eb2f7cc07ea6f5b2861ef15e9bdb5",
+  "voice_duration": 36.563151927437644,
+  "frames": 894,
+  "speed_changed": false,
+  "pitch_changed": false,
+  "trimmed": false,
+  "alignment": "Supplied Peach voice aligned by phrase. Complete source audio; gameplay audio muted."
+}

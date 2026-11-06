@@ -1,6 +1,6 @@
 # Personagens que a internet estragou — plano de animação e montagem
 
-Planejamento autorizado pelo usuário para os **12 personagens**. Esta entrega contém roteiros e organização de produção. Na etapa de planejamento, não foram criados cenários, imagens, vozes ou renders. As produções da Ankha, do Vaporeon, da 2B, da Tracer, da D.Va, da Mercy e da Lara Croft foram autorizadas depois e estão concluídas; dois blocos ainda aguardam seus pacotes. Os três vídeos anteriormente aprovados continuam preservados.
+Planejamento autorizado pelo usuário para os **12 personagens**. Esta entrega contém roteiros e organização de produção. Na etapa de planejamento, não foram criados cenários, imagens, vozes ou renders. As produções da Ankha, do Vaporeon, da 2B, da Tracer, da D.Va, da Mercy, da Lara Croft e da Peach foram autorizadas depois e estão concluídas; Sonic ainda aguarda seu pacote. Os três vídeos anteriormente aprovados continuam preservados.
 
 ## Ordem, cena principal e roteiro de cada bloco
 
@@ -16,7 +16,7 @@ Planejamento autorizado pelo usuário para os **12 personagens**. Esta entrega c
 | 08 | D.Va | Simulador de cockpit cujos painéis saem da frente em “o robô tá atrapalhando”. | Produzido; [roteiro](roteiros/08-dva/animacao.md), [produção](production/08-dva/README.md). |
 | 09 | Mercy | Pequena sala de triagem; pedido de “misericórdia” termina indeferido. | Produzido; [roteiro](roteiros/09-mercy/animacao.md), [produção](production/09-mercy/README.md). |
 | 10 | Lara Croft | Terminal de códigos dentro de ruínas; o tesouro fica esquecido ao lado do PC. | Produzido; [roteiro](roteiros/10-lara-croft/animacao.md), [produção](production/10-lara-croft/README.md). |
-| 11 | Peach | Vitrine de coroas e retratos: transformação oficial separada da invenção dos fãs. | Planejado; [roteiro](roteiros/11-peach/animacao.md). |
+| 11 | Peach | Vitrine de coroas e retratos: transformação oficial separada da invenção dos fãs. | Produzido; [roteiro](roteiros/11-peach/animacao.md), [produção](production/11-peach/README.md). |
 | 12 | Sonic | Arquivo do fandom que vira um pequeno arcade de terror com Sonic.exe. | Planejado; [roteiro](roteiros/12-sonic/animacao.md). |
 
 Nos blocos já produzidos, os projetos e as timelines registram a execução final e prevalecem sobre detalhes de um plano escrito antes da gravação. Não refazer esses vídeos para igualar descrições antigas.
@@ -49,7 +49,7 @@ As duas versões usam a mesma voz e a mesma sequência de ideias, com câmeras e
 
 ## Montagem do vídeo longo
 
-1. Reaproveitar os masters horizontais de Lady, Tifa, Chun-Li, Ankha, Vaporeon, 2B, Tracer, D.Va, Mercy e Lara Croft. Somados, eles têm **371,167 segundos**; os três primeiros já foram aprovados pelo usuário. Isso não determina a duração dos outros dois blocos.
+1. Reaproveitar os masters horizontais de Lady, Tifa, Chun-Li, Ankha, Vaporeon, 2B, Tracer, D.Va, Mercy, Lara Croft e Peach. Somados, eles têm **408,417 segundos**; os três primeiros já foram aprovados pelo usuário. Isso não determina a duração do último bloco, Sonic.
 2. Começar pelo gancho já gravado da Lady. O título geral pode aparecer no monitor ou numa identificação gráfica curta; não há uma nova abertura falada autorizada nesta etapa.
 3. Nas passagens de personagem, aproveitar a pausa natural da voz e um corte para o novo conteúdo no monitor. Preservar as piadas e as falas completas. Remover apenas sobra silenciosa de exportação quando isso ajudar a ligação e não cortar a sustentação de uma reação.
 4. Manter Tracer, D.Va e Mercy juntas. “Como já tínhamos dito aqui” da D.Va remete à Tracer, e “fechar o combo” da Mercy encerra esse grupo. Diferenciar seus três ambientes: entrevista, cockpit e triagem.
@@ -71,7 +71,7 @@ Usar apenas a parte visível de cada cenário. As fichas, janelas, selos e retra
 
 Quando chegar o link de cada pacote: inventariar e inspecionar arquivos, medir a voz, selecionar trechos, fechar os cortes por frase, preparar o vídeo contínuo do monitor e conferir um pequeno conjunto de poses nos dois formatos. Guardar origem, intervalos e hashes dos materiais usados. O pacote original fica fora do Git; voz, recortes usados, scripts, projetos e finais entram na pasta do bloco.
 
-O [museu genérico](../../assets/cenarios/museu/) também está disponível após a produção da Ankha, com moldura e suportes sem imagens do episódio. A [mesa de redação](../../assets/cenarios/mesa_redacao/) também foi extraída após a produção do Vaporeon, sem personagem ou mídias do pacote. A [estação de treinamento](../../assets/cenarios/estacao_treinamento/) também está disponível após a 2B, com terminal neutro. O [set de entrevista](../../assets/cenarios/set_entrevista/) também foi extraído após a Tracer, sem atores e com a superfície de referência neutra. O [cockpit](../../assets/cenarios/cockpit/) está disponível após a D.Va, com banco e grupos de painéis móveis, sem avatar ou mídia do pacote. A [baia de triagem](../../assets/cenarios/baia_triagem/) está disponível após a Mercy, com biombo, mesa e displays neutros. O [terminal nas ruínas](../../assets/cenarios/terminal_ruinas/) foi extraído após a Lara, com CRT neutro e baú estático de moedas.
+O [museu genérico](../../assets/cenarios/museu/) também está disponível após a produção da Ankha, com moldura e suportes sem imagens do episódio. A [mesa de redação](../../assets/cenarios/mesa_redacao/) também foi extraída após a produção do Vaporeon, sem personagem ou mídias do pacote. A [estação de treinamento](../../assets/cenarios/estacao_treinamento/) também está disponível após a 2B, com terminal neutro. O [set de entrevista](../../assets/cenarios/set_entrevista/) também foi extraído após a Tracer, sem atores e com a superfície de referência neutra. O [cockpit](../../assets/cenarios/cockpit/) está disponível após a D.Va, com banco e grupos de painéis móveis, sem avatar ou mídia do pacote. A [baia de triagem](../../assets/cenarios/baia_triagem/) está disponível após a Mercy, com biombo, mesa e displays neutros. O [terminal nas ruínas](../../assets/cenarios/terminal_ruinas/) foi extraído após a Lara, com CRT neutro e baú estático de moedas. A [vitrine de coroas](../../assets/cenarios/vitrine_coroas/) foi extraída após a Peach, com coroa, pedestais e moldura neutra.
 
 Na renderização, aplicar o processamento já usado na Chun-Li: ocultar o cenário fora da câmera, renderizar apenas planos 3D, compor os demais diretamente e permitir retomada de quadros completos. Neste ambiente, a configuração estável observada foi um formato por vez com dois threads; reavaliar somente se a execução justificar. Não prometer um tempo fixo antes de medir a gravação e o material.
 

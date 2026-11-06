@@ -1,0 +1,217 @@
+{
+  "fps": 24,
+  "frames": 894,
+  "duration": 37.25,
+  "voice_duration": 36.563151927437644,
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 29,
+      "kind": "monitor",
+      "mood": "name",
+      "source": "peach.png",
+      "source_start": 0
+    },
+    {
+      "id": 1,
+      "start": 30,
+      "end": 54,
+      "kind": "actor",
+      "mood": "present",
+      "source": "peach.png",
+      "source_start": 0
+    },
+    {
+      "id": 2,
+      "start": 55,
+      "end": 79,
+      "kind": "photo",
+      "mood": "tennis",
+      "source": "tenis.png",
+      "source_start": 0
+    },
+    {
+      "id": 3,
+      "start": 80,
+      "end": 103,
+      "kind": "photo",
+      "mood": "kart",
+      "source": "kart.png",
+      "source_start": 0
+    },
+    {
+      "id": 4,
+      "start": 104,
+      "end": 139,
+      "kind": "game",
+      "mood": "fight",
+      "source": "peach_luta.mp4",
+      "source_start": 0.6
+    },
+    {
+      "id": 5,
+      "start": 140,
+      "end": 160,
+      "kind": "photo",
+      "mood": "bowser",
+      "source": "bowser_card.png",
+      "source_start": 0
+    },
+    {
+      "id": 6,
+      "start": 161,
+      "end": 208,
+      "kind": "actor",
+      "mood": "aside",
+      "source": "galeria.png",
+      "source_start": 0
+    },
+    {
+      "id": 7,
+      "start": 209,
+      "end": 240,
+      "kind": "photo",
+      "mood": "meme",
+      "source": "meme_peach.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 8,
+      "start": 241,
+      "end": 302,
+      "kind": "photo",
+      "mood": "gallery",
+      "source": "galeria.png",
+      "source_start": 0
+    },
+    {
+      "id": 9,
+      "start": 303,
+      "end": 336,
+      "kind": "actor",
+      "mood": "sarcasm",
+      "source": "galeria.png",
+      "source_start": 0
+    },
+    {
+      "id": 10,
+      "start": 337,
+      "end": 391,
+      "kind": "photo",
+      "mood": "meme",
+      "source": "meme_serio.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 11,
+      "start": 392,
+      "end": 422,
+      "kind": "photo",
+      "mood": "bowser",
+      "source": "bowser_card.png",
+      "source_start": 0
+    },
+    {
+      "id": 12,
+      "start": 423,
+      "end": 461,
+      "kind": "showcase",
+      "mood": "reveal",
+      "source": "bowser_card.png",
+      "source_start": 0
+    },
+    {
+      "id": 13,
+      "start": 462,
+      "end": 497,
+      "kind": "showcase",
+      "mood": "crown",
+      "source": "oficial_a.png",
+      "source_start": 0
+    },
+    {
+      "id": 14,
+      "start": 498,
+      "end": 554,
+      "kind": "photo",
+      "mood": "official",
+      "source": "oficial_a.png",
+      "source_start": 0
+    },
+    {
+      "id": 15,
+      "start": 555,
+      "end": 605,
+      "kind": "photo",
+      "mood": "official",
+      "source": "oficial_b.png",
+      "source_start": 0
+    },
+    {
+      "id": 16,
+      "start": 606,
+      "end": 658,
+      "kind": "showcase",
+      "mood": "fans",
+      "source": "bowser_card.png",
+      "source_start": 0
+    },
+    {
+      "id": 17,
+      "start": 659,
+      "end": 701,
+      "kind": "game",
+      "mood": "fan_game",
+      "source": "bowsette_fan.mp4",
+      "source_start": 0.2,
+      "crop_x": "max(360,480-130*t)",
+      "fan_badge": true
+    },
+    {
+      "id": 18,
+      "start": 702,
+      "end": 730,
+      "kind": "photo",
+      "mood": "fan",
+      "source": "bowsette_card.png",
+      "source_start": 0
+    },
+    {
+      "id": 19,
+      "start": 731,
+      "end": 792,
+      "kind": "photo",
+      "mood": "censored",
+      "source": "bowsette_censurada.png",
+      "source_start": 0
+    },
+    {
+      "id": 20,
+      "start": 793,
+      "end": 818,
+      "kind": "showcase",
+      "mood": "reaction",
+      "source": "bowsette_card.png",
+      "source_start": 0
+    },
+    {
+      "id": 21,
+      "start": 819,
+      "end": 836,
+      "kind": "photo",
+      "mood": "bowser",
+      "source": "bowser_card.png",
+      "source_start": 0
+    },
+    {
+      "id": 22,
+      "start": 837,
+      "end": 894,
+      "kind": "showcase",
+      "mood": "laugh",
+      "source": "bowser_card.png",
+      "source_start": 0
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Princesa Peach — roteiro de animação
 
-Base: [última narração do usuário](narracao.md). Seguir o [plano geral](../../plano_animacao.md). Planejar 9:16 e 16:9; ainda sem áudio ou mídias recebidos. Os gatilhos abaixo seguem as falas, não segundos estimados.
+Base: [última narração do usuário](narracao.md). Seguir o [plano geral](../../plano_animacao.md). Produzido em 9:16 e 16:9 com voz completa e mídias recebidas. Duração final: 37,25 segundos. Ver [produção e verificações](../../production/11-peach/README.md). Os cortes finais seguem a tabela abaixo.
 
 ## Cenas por trecho
 
@@ -27,3 +27,18 @@ Bowsette é uma personagem feita por fãs, distinta de Peach e de Peachette. A g
 Materiais úteis: voz, Peach identificável, tênis, kart e luta, Bowser, divulgação/transformação da Super Coroa e uma imagem não explícita de Bowsette. Na ausência de um trecho oficial da transformação, usar a composição de imagens com identificação correta.
 
 Fechamento obrigatório: **“é o bowser pô...”**. Não acrescentar a frase antiga “tu pode ser a princesa”.
+
+## Sincronismo executado
+
+| Tempo | Montagem final |
+| --- | --- |
+| 0–2,25 s | Identificação da Peach no monitor e apresentação do Dery. |
+| 2,25–6,65 s | Cartões autorais de tênis e kart; Kung Fu Peach em Showtime; retrato separado de Bowser. |
+| 6,65–16,3 s | Aparte, galeria autoral opaca, sarcasmo e memes recebidos. |
+| 16,3–20,7 s | Bowser, revelação da vitrine e coroa no pedestal. |
+| 20,7–25,2 s | Diagrama Toadette → Peachette, com identificação da divulgação de 2018. |
+| 25,2–30,4 s | Dery apresenta a hipótese dos fãs; gameplay de Bowsette e retrato, ambos identificados como criação de fãs. |
+| 30,4–33 s | Cartão opaco das versões de fãs. |
+| 33–37,25 s | Incredulidade, alternância entre Bowser e Bowsette, risada e cerca de 0,687 s de silêncio final. |
+
+A timeline registra os 23 planos com arredondamento ao quadro. O pacote não contém tênis, kart ou a transformação oficial da Super Coroa; esses trechos usam cartões e diagrama autorais. A cena em pé reaproveita a pose validada da Ankha, com os pés comparados à referência avaliada. A coroa não encosta nas mãos nem no boné. Não há falas adicionais ou legendas da narração.

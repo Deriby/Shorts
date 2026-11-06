@@ -1,0 +1,18 @@
+{
+  "video": "Peach_Personagens_que_a_internet_estragou_9x16.mp4",
+  "frames": 894,
+  "duration": 37.25,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 24,
+  "codec": "H.264 + AAC",
+  "size_bytes": 24186563,
+  "full_decode": "passed",
+  "voice_original_sha256": "3a045f5f3728bab6b68ed17f48a1b8b77b6eb2f7cc07ea6f5b2861ef15e9bdb5",
+  "voice_unmodified": true,
+  "monitor_frames": 894,
+  "scene_checks": "passed",
+  "ps1_palette": "5-bit RGB with fixed 4x4 ordered Bayer pattern, integer nearest-neighbor upscale"
+}
