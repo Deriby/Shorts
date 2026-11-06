@@ -1,0 +1,18 @@
+{
+  "video": "Sonic_Personagens_que_a_internet_estragou_16x9.mp4",
+  "frames": 839,
+  "duration": 34.958333,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "codec": "H.264 + AAC",
+  "size_bytes": 33349151,
+  "full_decode": "passed",
+  "voice_original_sha256": "958c1675f50e9361ad4a2a68ca5502c12bfe0f307ac79e5d0469848008e619c6",
+  "voice_unmodified": true,
+  "monitor_frames": 839,
+  "scene_checks": "passed",
+  "ps1_palette": "5-bit RGB with fixed 4x4 ordered Bayer pattern, integer nearest-neighbor upscale"
+}

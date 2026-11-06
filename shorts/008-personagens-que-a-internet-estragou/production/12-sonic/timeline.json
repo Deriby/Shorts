@@ -1,0 +1,192 @@
+{
+  "fps": 24,
+  "frames": 839,
+  "duration": 34.958333333333336,
+  "voice_duration": 34.269297052154194,
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 29,
+      "kind": "monitor",
+      "mood": "name",
+      "source": "sonic_dash.mp4",
+      "source_start": 0
+    },
+    {
+      "id": 1,
+      "start": 30,
+      "end": 72,
+      "kind": "actor",
+      "mood": "present",
+      "source": "sonic_dash.mp4",
+      "source_start": 1.2
+    },
+    {
+      "id": 2,
+      "start": 73,
+      "end": 133,
+      "kind": "game",
+      "mood": "normal",
+      "source": "sonic_dash.mp4",
+      "source_start": 2.6
+    },
+    {
+      "id": 3,
+      "start": 134,
+      "end": 173,
+      "kind": "actor",
+      "mood": "list",
+      "source": "arquivo_a.png",
+      "source_start": 0
+    },
+    {
+      "id": 4,
+      "start": 174,
+      "end": 218,
+      "kind": "photo",
+      "mood": "fanart",
+      "source": "fanart_sonic.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 5,
+      "start": 219,
+      "end": 257,
+      "kind": "game",
+      "mood": "fangame",
+      "source": "sonic_freedom.mp4",
+      "source_start": 0.5,
+      "fan_badge": true,
+      "crop_x": 328
+    },
+    {
+      "id": 6,
+      "start": 258,
+      "end": 298,
+      "kind": "photo",
+      "mood": "animation",
+      "source": "meme_anel.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 7,
+      "start": 299,
+      "end": 338,
+      "kind": "photo",
+      "mood": "fanfic",
+      "source": "arquivo_d.png",
+      "source_start": 0
+    },
+    {
+      "id": 8,
+      "start": 339,
+      "end": 391,
+      "kind": "actor",
+      "mood": "awkward",
+      "source": "arquivo_d.png",
+      "source_start": 0
+    },
+    {
+      "id": 9,
+      "start": 392,
+      "end": 442,
+      "kind": "actor",
+      "mood": "confused",
+      "source": "busca.png",
+      "source_start": 0
+    },
+    {
+      "id": 10,
+      "start": 443,
+      "end": 518,
+      "kind": "photo",
+      "mood": "search",
+      "source": "busca.png",
+      "source_start": 0
+    },
+    {
+      "id": 11,
+      "start": 519,
+      "end": 569,
+      "kind": "actor",
+      "mood": "disbelief",
+      "source": "busca.png",
+      "source_start": 0
+    },
+    {
+      "id": 12,
+      "start": 570,
+      "end": 605,
+      "kind": "actor",
+      "mood": "brain",
+      "source": "busca.png",
+      "source_start": 0,
+      "brain_fx": true
+    },
+    {
+      "id": 13,
+      "start": 606,
+      "end": 643,
+      "kind": "arcade",
+      "mood": "reveal",
+      "source": "terror_menu.png",
+      "source_start": 0
+    },
+    {
+      "id": 14,
+      "start": 644,
+      "end": 689,
+      "kind": "photo",
+      "mood": "horror",
+      "source": "terror_menu.png",
+      "source_start": 0
+    },
+    {
+      "id": 15,
+      "start": 690,
+      "end": 725,
+      "kind": "arcade",
+      "mood": "recoil",
+      "source": "terror_menu.png",
+      "source_start": 0
+    },
+    {
+      "id": 16,
+      "start": 726,
+      "end": 761,
+      "kind": "photo",
+      "mood": "variants",
+      "source": "variantes_fas.png",
+      "source_start": 0,
+      "fan_badge": true
+    },
+    {
+      "id": 17,
+      "start": 762,
+      "end": 780,
+      "kind": "photo",
+      "mood": "stories",
+      "source": "creepypastas.png",
+      "source_start": 0
+    },
+    {
+      "id": 18,
+      "start": 781,
+      "end": 797,
+      "kind": "arcade",
+      "mood": "exit",
+      "source": "terror_exit.png",
+      "source_start": 0
+    },
+    {
+      "id": 19,
+      "start": 798,
+      "end": 839,
+      "kind": "arcade",
+      "mood": "final",
+      "source": "terror_closed.png",
+      "source_start": 0
+    }
+  ]
+}

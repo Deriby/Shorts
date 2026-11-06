@@ -1,8 +1,8 @@
 # Personagens que a internet estragou — Sonic
 
-Versão inteiramente reescrita pelo usuário, com suas marcações de interpretação preservadas. Último bloco da seleção atual de 12 personagens. Ainda sem voz recebida ou produção. As tags orientam a interpretação e não são palavras para pronunciar nem legendas.
+Versão inteiramente reescrita pelo usuário, com suas marcações de interpretação preservadas. Último bloco da seleção atual de 12 personagens. Voz recebida no pacote “12 - Sonic.zip” e preservada inteira na produção de 34,958 segundos, em 9:16 e 16:9. As tags orientam a interpretação e não são palavras para pronunciar nem legendas.
 
-O [roteiro de animação](animacao.md) foi planejado a partir desta versão. Os cortes e o sincronismo serão ajustados à gravação recebida.
+O [roteiro de animação](animacao.md) foi planejado a partir desta versão. Os cortes foram sincronizados à gravação recebida; ver [produção](../../production/12-sonic/README.md).
 
 ## Falas
 

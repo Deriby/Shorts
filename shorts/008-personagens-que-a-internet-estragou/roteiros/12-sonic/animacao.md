@@ -1,6 +1,6 @@
 # Sonic — roteiro de animação
 
-Base: [versão totalmente reescrita pelo usuário](narracao.md). Seguir o [plano geral](../../plano_animacao.md). Último bloco do vídeo de 12 personagens. Planejar 9:16 e 16:9; voz e mídias ainda não recebidos, sem timecodes finais.
+Base: [versão totalmente reescrita pelo usuário](narracao.md). Seguir o [plano geral](../../plano_animacao.md). Último bloco do vídeo de 12 personagens. Produzido em 9:16 e 16:9 com voz completa e mídias recebidas. Duração final: 34,958 segundos. Ver [produção e verificações](../../production/12-sonic/README.md). Os cortes finais seguem a tabela abaixo.
 
 ## Cenas por trecho
 
@@ -24,3 +24,18 @@ Sonic.exe é uma criação de fãs e precisa ser identificado dessa forma. Selec
 Materiais úteis: voz, Sonic em gameplay normal, capas ou exemplos apropriados de criações do fandom e uma referência não gráfica a Sonic.exe. Interfaces de pesquisa e arquivo são autorais; não é necessário obter conteúdos sexualizados para ilustrar a crítica.
 
 O bloco encerra em **“pela internet a fora”**, com uma reação visual. A sequência de Sonic Feio, trailer de 2019, redesign, Tico e Teco e a antiga piada do fracasso estão completamente fora deste roteiro. A passagem posterior para a marca pertence à montagem do longo e não adiciona uma fala ao Sonic.
+
+## Sincronismo executado
+
+| Tempo | Montagem final |
+| --- | --- |
+| 0–5,56 s | Sonic Dash no monitor, apresentação e gameplay normal. |
+| 5,56–14,1 s | Enumeração, fanart normal, Sonic Freedom identificado como fangame, meme de animação e arquivo de fanfics. |
+| 14,1–18,4 s | Hesitação e confusão do Dery, com gesto interrompido. |
+| 18,4–23,7 s | Resultados autorais ocultos e retorno à reação do narrador. |
+| 23,7–25,2 s | Susto e uma única dispersão de três cartões “?”. |
+| 25,2–30,2 s | Arcade, menu ilustrativo de Sonic.exe identificado como criação de fãs e recuo do tronco. |
+| 30,2–32,5 s | Montagem de variantes e categorias de histórias, creepypastas e fangames. |
+| 32,5–34,958 s | SAIR destacado, retorno ao rosto, menu encerrado e cerca de 0,689 s de silêncio final. |
+
+A timeline registra os 20 planos com arredondamento ao quadro. Os pés do ator em pé são comparados à pose aprovada da Ankha, vinculada e avaliada. Não há imagens fetichistas, closes de pés, luz piscante, jumpscare sonoro ou fala adicional. Shin Sonic não foi apresentado como o jogo Sonic.exe.

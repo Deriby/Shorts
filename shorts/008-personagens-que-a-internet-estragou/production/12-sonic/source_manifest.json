@@ -1,0 +1,109 @@
+{
+  "package": "12 - Sonic.zip",
+  "source": "User-provided Google Drive archive",
+  "files": [
+    {
+      "original_filename": "34a3026d6ebe3c18fde3b77879be8016.jpg",
+      "bytes": 25569,
+      "sha256": "21f9d3ae7bbc8de02be2e3c87b5a73c8225e1f688460526317905168bfd5d12f"
+    },
+    {
+      "original_filename": "7256p5.jpg",
+      "bytes": 79339,
+      "sha256": "f19007a135d4201f4802dca30335bc27a546481fedccd656ccc6ec1f9ef000f6"
+    },
+    {
+      "original_filename": "artworks-A7JHL3g5zcDo2BqI-EvHz8w-t500x500.jpg",
+      "bytes": 29999,
+      "sha256": "681a31a09d6c3218b13ddc7d4cb4940daf4b5697da6ed9b5e5f72ebe295b2663"
+    },
+    {
+      "original_filename": "didh8bx-ca6c4e93-61e5-4c69-b0de-46c873673441.png",
+      "bytes": 1006242,
+      "sha256": "f98674a66ce195685642f3c2127b2cd562d8d7d62893ab459d32500990b194e1"
+    },
+    {
+      "original_filename": "ed369510455e1f99db2ad8412d59790c.jpg",
+      "bytes": 16919,
+      "sha256": "81824377300d677fda87a8a9a634dbd6e0c488aa875714969005bf17a212de61"
+    },
+    {
+      "original_filename": "images (1).jpg",
+      "bytes": 32574,
+      "sha256": "e71004e8202d1a5532e9a7819d0023e41112e31c0274174aa4a154ff813c3e58"
+    },
+    {
+      "original_filename": "images.jpg",
+      "bytes": 39292,
+      "sha256": "3735d13a55473d1aa6aa352c4f354b616226040dae64e2d37fb69652b891ec1e"
+    },
+    {
+      "original_filename": "Joyful-Sonic-meme-4.jpg",
+      "bytes": 32790,
+      "sha256": "47e5c0cfff230f36a1c3847c03d7e47a65709e167a0fec51976ec91fa7631a07"
+    },
+    {
+      "original_filename": "my-attempt-to-name-sonic-exe-variants-i-only-know-tripwire-v0-9q0xxqdtvtog1.png",
+      "bytes": 110802,
+      "sha256": "ce52b27dd1d259ecff0df51723d44de15412b9081a8b2e83b3f245eed51dbdf8"
+    },
+    {
+      "original_filename": "Shin Sonic chase + Sonic and friends (1080p_29fps_H264-128kbit_AAC).mp4",
+      "bytes": 10949509,
+      "sha256": "a85de4d7294a3472053f644692bc7fc75fb857391a85a7e9c73be1e208392233"
+    },
+    {
+      "original_filename": "Sonic Colors; Ultimate - Gameplay Video - Nintendo Switch (1080p_60fps_H264-128kbit_AAC).mp4",
+      "bytes": 70193977,
+      "sha256": "fe714becfb0e6ff236f77c65bf38559e8d453d522e272ef20f13ce731de05bf9"
+    },
+    {
+      "original_filename": "Sonic Dash - Gameplay and Launch Trailer (1068p_30fps_H264-128kbit_AAC).mp4",
+      "bytes": 19782791,
+      "sha256": "56067d70873fb631ec9103c83507a238dbb9a43da9cc19687f0ed5d71200a29b"
+    },
+    {
+      "original_filename": "Sonic Freedom - Full Gameplay (2160p_60fps_AV1-128kbit_AAC).mp4",
+      "bytes": 197150425,
+      "sha256": "53cd4b16990e32923d6101874d61a36fbd46fb573bbd1368befbc30ec3c51a2d"
+    },
+    {
+      "original_filename": "Sonic_EXE.png",
+      "bytes": 51520,
+      "sha256": "b064e9cae1a599bcbb71489cf1e3b20977645e5df4d35492339c03c30e223f2c"
+    },
+    {
+      "original_filename": "voz 12 sonic.mp3",
+      "bytes": 1372800,
+      "sha256": "958c1675f50e9361ad4a2a68ca5502c12bfe0f307ac79e5d0469848008e619c6"
+    }
+  ],
+  "video_derivatives": {
+    "sonic_dash.mp4": {
+      "original": "Sonic Dash - Gameplay and Launch Trailer (1068p_30fps_H264-128kbit_AAC).mp4",
+      "interval": [
+        20,
+        25.5
+      ],
+      "description": "Official Sonic Dash: normal blue Sonic running through a coastal level.",
+      "audio_used": false
+    },
+    "sonic_freedom.mp4": {
+      "original": "Sonic Freedom - Full Gameplay (2160p_60fps_AV1-128kbit_AAC).mp4",
+      "interval": [
+        26.4,
+        30.0
+      ],
+      "description": "Neutral example of a fan game, used for the category rather than as adult or bizarre content.",
+      "audio_used": false
+    }
+  },
+  "images_published": [
+    "Joyful-Sonic-meme-4.jpg",
+    "Sonic_EXE.png",
+    "my-attempt-to-name-sonic-exe-variants-i-only-know-tripwire-v0-9q0xxqdtvtog1.png",
+    "7256p5.jpg"
+  ],
+  "editorial": "Normal Sonic is illustrated with official Sonic Dash gameplay. Sonic Freedom is a neutral example for the fangame category, not a claim that this particular game is adult or bizarre. Search and archive interfaces are authored, with fully hidden results and no fetish images or foot closeups. The three question cards are a single comic metaphor. Sonic.exe and the variant montage are fan creations, not official SEGA versions. The arcade and its exit menu are authored illustrations, not footage of the original Sonic.exe game.",
+  "unused": "Sonic Colors footage, Shin Sonic animation, fetish images, orphan-violence meme, the failure meme and other unused images remain outside Git. No old Ugly Sonic story is included. Raw archive, ASR and personal gesture reference are not published."
+}

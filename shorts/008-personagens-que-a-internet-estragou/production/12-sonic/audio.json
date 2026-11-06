@@ -1,0 +1,11 @@
+{
+  "original_filename": "voz 12 sonic.mp3",
+  "public_filename": "voz_original.mp3",
+  "sha256": "958c1675f50e9361ad4a2a68ca5502c12bfe0f307ac79e5d0469848008e619c6",
+  "voice_duration": 34.269297052154194,
+  "frames": 839,
+  "speed_changed": false,
+  "pitch_changed": false,
+  "trimmed": false,
+  "alignment": "Supplied Sonic voice aligned by phrase. Complete source audio; gameplay audio muted."
+}

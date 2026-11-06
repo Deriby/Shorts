@@ -27,7 +27,7 @@ Entregar shorts em **9:16 primeiro**, com aproveitamento posterior para um víde
 
 ## Roteiros de animação preparados
 
-O [plano geral de animação e montagem](plano_animacao.md) reúne os 12 blocos, as cenas, os dois formatos e o reaproveitamento do vídeo longo. Lady, Tifa e Chun-Li usam as produções aprovadas; Ankha, Vaporeon, 2B, Tracer, D.Va, Mercy, Lara Croft e Peach também já foram produzidos. O último bloco, Sonic, tem roteiro por fala, expressões, gestos, enquadramentos e necessidades de mídia para a etapa de produção.
+O [plano geral de animação e montagem](plano_animacao.md) reúne os 12 blocos, as cenas, os dois formatos e o reaproveitamento do vídeo longo. Lady, Tifa e Chun-Li usam as produções aprovadas; Ankha, Vaporeon, 2B, Tracer, D.Va, Mercy, Lara Croft, Peach e Sonic também já foram produzidos. Os 12 blocos têm voz recebida, atuação sincronizada e versões nos dois formatos.
 
 Primeiro bloco concluído: **Lady Dimitrescu**, com voz, vídeos e memes enviados pelo usuário no pacote “1 - Lady Dimitrescu.zip”. Versões **9:16 e 16:9 de 39 segundos**, com atuação por frase, visual PS1 mais marcado e passagem pela entrada do castelo. A montagem acompanha a gravação real e termina em “carreira paralela”.
 
@@ -55,7 +55,7 @@ Terceiro bloco: **Chun-Li — Street Fighter / Fortnite**, com voz, imagens e v�
 - [Assistir / baixar o horizontal 16:9 da Chun-Li](production/03-chun-li/output/ChunLi_Personagens_que_a_internet_estragou_16x9.mp4).
 - [Produção, projetos Blender, fontes e verificações — Chun-Li](production/03-chun-li/README.md).
 
-O usuário fechou as falas dos 12 personagens e está gravando em sequência. Onze blocos já têm vídeo nos dois formatos; Sonic tem roteiro de animação preparado e aguarda voz e mídias para sincronizar e produzir. O texto digitado não é áudio recebido. A duração do longo será fechada a partir das vozes, sem assumir dez minutos pela quantidade de personagens.
+As vozes dos 12 personagens foram recebidas e preservadas. Todos os blocos têm vídeo em 9:16 e 16:9. Os masters somam **443,375 segundos** antes dos ajustes de sobras silenciosas e transições na montagem do longo; a quantidade de personagens não exige completar dez minutos.
 
 Quarto bloco: **Ankha — Animal Crossing**, produzido com voz, vídeos e memes enviados pelo usuário. Versões **9:16 e 16:9 de 44,042 segundos**, com visual PS1, museu de duas peças, “DOUBLE KILL” e perdão final. A voz foi preservada inteira e termina em “Nós te perdoamos”.
 
@@ -121,12 +121,15 @@ Décimo primeiro bloco: **Princesa Peach — Super Mario**, produzido com voz, v
 - [Assistir / baixar o horizontal 16:9 da Peach](production/11-peach/output/Peach_Personagens_que_a_internet_estragou_16x9.mp4).
 - [Produção, projetos Blender, fontes e verificações — Peach](production/11-peach/README.md).
 
-Décimo segundo e último bloco da seleção atual: **Sonic**, com versão inteiramente reescrita pelo usuário sobre criações de fãs e Sonic.exe. Ainda sem voz recebida. O roteiro de Sonic Feio foi substituído e permanece apenas no histórico do Git.
+Décimo segundo e último bloco da seleção atual: **Sonic**, produzido com voz, vídeos e imagens enviados pelo usuário. Versões **9:16 e 16:9 de 34,958 segundos**, com arquivo do fandom, resultados ocultos, três cartões de interrogação e arcade de terror. A gravação foi preservada inteira e termina em “pela internet a fora”. O roteiro antigo de Sonic Feio permanece apenas no histórico do Git.
 
 - [Narração revisada — Sonic](roteiros/12-sonic/narracao.md).
-- [Roteiro de animação — sonic](roteiros/12-sonic/animacao.md).
+- [Roteiro de animação — Sonic](roteiros/12-sonic/animacao.md).
+- [Assistir / baixar o short do Sonic](production/12-sonic/output/Sonic_Personagens_que_a_internet_estragou_9x16.mp4).
+- [Assistir / baixar o horizontal 16:9 do Sonic](production/12-sonic/output/Sonic_Personagens_que_a_internet_estragou_16x9.mp4).
+- [Produção, projetos Blender, fontes e verificações — Sonic](production/12-sonic/README.md).
 
-A ordem atual do vídeo é: Lady Dimitrescu, Tifa, Chun-Li, Ankha, Vaporeon, 2B, Tracer, D.Va, Mercy, Lara Croft, Peach e Sonic. Vergil e Chris Redfield não entram nesta montagem. Preservar os onze blocos já produzidos e sincronizar e produzir Sonic em 9:16 e 16:9 quando o usuário enviar seu pacote na etapa de produção. Os episódios anteriores não foram alterados.
+A ordem atual do vídeo é: Lady Dimitrescu, Tifa, Chun-Li, Ankha, Vaporeon, 2B, Tracer, D.Va, Mercy, Lara Croft, Peach e Sonic. Vergil e Chris Redfield não entram nesta montagem. Os doze blocos estão produzidos em 9:16 e 16:9 e ficam preservados para a montagem do longo. Os episódios anteriores não foram alterados.
 
 ## Fluxo de mídia desejado
 
