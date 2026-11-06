@@ -1,0 +1,11 @@
+{
+  "original_filename": "voz 10 tomb raider.mp3",
+  "public_filename": "voz_original.mp3",
+  "sha256": "5d7da31db0a259d51d5b4d55b13ffd2eddb45d34a15ff86a1fbd24ce42023883",
+  "voice_duration": 36.65800453514739,
+  "frames": 896,
+  "speed_changed": false,
+  "pitch_changed": false,
+  "trimmed": false,
+  "alignment": "Supplied Lara voice aligned by phrase. Complete source audio; gameplay audio muted."
+}

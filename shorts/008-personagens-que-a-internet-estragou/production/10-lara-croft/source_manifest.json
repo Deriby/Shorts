@@ -1,0 +1,78 @@
+{
+  "package": "10 - Lara Croft.zip",
+  "source": "User-provided Google Drive archive",
+  "files": [
+    {
+      "original_filename": "137fd0450efdaebbe2a287e6bc1c39b5.jpg",
+      "bytes": 27613,
+      "sha256": "56dade7554608b8a856bc311683bdb23ce965b958d9587f77db0d50f15f41f3a"
+    },
+    {
+      "original_filename": "6788edd742c0a.jpeg",
+      "bytes": 90434,
+      "sha256": "2543e651c8b3ab9e2432558e76d43497a8d6ca9fc618b5090c6c34247910e77e"
+    },
+    {
+      "original_filename": "BdHt0R9.jpg",
+      "bytes": 74376,
+      "sha256": "afde3f655920e8787d7dde0f0920d9982b98ca5b154642f4ff4b755048213b21"
+    },
+    {
+      "original_filename": "Insane Details in 1998 PS1 Game! (1080p_30fps_H264-128kbit_AAC-inglês).mp4",
+      "bytes": 78478326,
+      "sha256": "96657dbde5b11ee069a16135d95a649e578e278a06b06dcd89208744ab149636"
+    },
+    {
+      "original_filename": "mGNNxEaeKU6AJBXu.png",
+      "bytes": 37430,
+      "sha256": "65a777469676e7190bdd21e293aeebf0b7d0c5c962d071ae2fd09175fa200503"
+    },
+    {
+      "original_filename": "Tomb Raider - Kingdom [PS1 Trailer] (1080p_30fps_H264-128kbit_AAC).mp4",
+      "bytes": 81667379,
+      "sha256": "114a6dfc0472cda91dc1b201633f52e5163b535fc9168a202c06836710115b76"
+    },
+    {
+      "original_filename": "Tomb Raider 2; (1997) - Starring Lara Croft; Cinematic (14) - Shower (720p_30fps_H264-128kbit_AAC).mp4",
+      "bytes": 2592331,
+      "sha256": "b29dda0db581eff45452f20ffef48528ddc429fe3d6b1446f05e99c7f31e1fbc"
+    },
+    {
+      "original_filename": "vn73028sf99d1.jpeg",
+      "bytes": 248441,
+      "sha256": "7fb6028b8fd18d87985615f9350b5021b8a8719dcb925c11d51bb2356088b798"
+    },
+    {
+      "original_filename": "voz 10 tomb raider.mp3",
+      "bytes": 1468800,
+      "sha256": "5d7da31db0a259d51d5b4d55b13ffd2eddb45d34a15ff86a1fbd24ce42023883"
+    }
+  ],
+  "video_derivatives": {
+    "lara_exploracao.mp4": {
+      "original": "Tomb Raider - Kingdom [PS1 Trailer] (1080p_30fps_H264-128kbit_AAC).mp4",
+      "interval": [
+        14.0,
+        19.0
+      ],
+      "description": "Supplied fan-level trailer: clothed Lara exploring a stone walkway.",
+      "audio_used": false
+    },
+    "lara_mecanismo.mp4": {
+      "original": "Insane Details in 1998 PS1 Game! (1080p_30fps_H264-128kbit_AAC-inglês).mp4",
+      "interval": [
+        109.5,
+        115.0
+      ],
+      "description": "Supplied classic Tomb Raider footage: Lara climbing a lattice gate, used as traversal context during the narration about puzzles.",
+      "audio_used": false
+    }
+  },
+  "images_published": [
+    "BdHt0R9.jpg",
+    "137fd0450efdaebbe2a287e6bc1c39b5.jpg",
+    "mGNNxEaeKU6AJBXu.png"
+  ],
+  "editorial": "The Kingdom trailer is a fan level; the details clip shows classic Tomb Raider traversal. Both show normal clothed gameplay and are illustrative. The T-Rex warning is an authored illustration because the supplied clips do not establish a dinosaur encounter. The secret-code window is explicitly debunked; the Nude Raider folder is labelled PC and fan-made, with a fully opaque preview. No official nude code or PS1 mod demonstration is implied.",
+  "unused": "Shower cinematic, torso-focused meme, modern portrait and unselected originals are not published. Raw archive, ASR and personal gesture reference remain outside Git."
+}

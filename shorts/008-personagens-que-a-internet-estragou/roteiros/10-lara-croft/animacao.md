@@ -1,6 +1,6 @@
 # Lara Croft — roteiro de animação
 
-Base: [última narração do usuário](narracao.md). Seguir o [plano geral](../../plano_animacao.md). Planejar 9:16 e 16:9; voz e mídias ainda não recebidas. O áudio definirá os cortes e as pausas.
+Base: [última narração do usuário](narracao.md). Seguir o [plano geral](../../plano_animacao.md). Produzido em 9:16 e 16:9 com a voz completa e as mídias recebidas. Duração final: 37,333 segundos. Ver [produção e verificações](../../production/10-lara-croft/README.md). Os cortes finais seguem a tabela abaixo.
 
 ## Cenas por trecho
 
@@ -25,3 +25,18 @@ O código de nudez era um boato; o mod é de PC. Distinguir a plataforma na tela
 Materiais úteis: voz, identificação da Lara clássica, exploração, enigma, dinossauro e, se houver, uma referência documental apropriada ao boato e ao nome do mod. Não é necessário baixar ou instalar Nude Raider.
 
 Fechamento: **“uma mulher feita de meia dúzia de polígonos”**. Não voltar aos finais antigos sobre escapar de dinossauro ou um maluco com Paint.
+
+## Sincronismo executado
+
+| Tempo | Montagem final |
+| --- | --- |
+| 0–5,32 s | Lara clássica no monitor, apresentação contida e meme de rosto. |
+| 5,32–11,2 s | Caminhada, movimentação em gameplay e placa autoral de T-Rex; os clipes recebidos não estabelecem um encontro com dinossauro. |
+| 11,2–15,25 s | Dery em sarcasmo e meme de Lara/Gretchen. |
+| 15,25–21,4 s | Apresentação curiosa, janela fictícia do suposto código e expectativa. |
+| 21,4–24,9 s | BOATO; depois, pasta ilustrativa Nude Raider identificada como mod de fãs para PC. |
+| 24,9–29,5 s | Revelação das ruínas, terminal com prévia opaca e meme de rosto. |
+| 29,5–34,5 s | Palma de incredulidade, insert do tesouro e contraste entre baú e computador. |
+| 34,5–37,333 s | Rosto irritado, mão voltando ao repouso e cerca de 0,675 s de silêncio final. |
+
+A timeline registra os 20 planos com arredondamento ao quadro. A cópia sentada conserva a pose avaliada completa, incluindo os pés. Nenhuma fala extra, legenda da narração ou mídia explícita foi acrescentada. A gravação prevalece sobre as marcas de tempo estimadas no planejamento.

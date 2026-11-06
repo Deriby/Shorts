@@ -1,8 +1,8 @@
 # Personagens que a internet estragou — Lara Croft
 
-Versão revisada pelo usuário, com suas marcações de interpretação preservadas. Falas reunidas para gravação em sequência; ainda sem voz recebida ou produção. As tags orientam a interpretação e não são palavras para pronunciar nem legendas.
+Versão revisada pelo usuário, com suas marcações de interpretação preservadas. Voz recebida no pacote “10 - Lara Croft.zip” e preservada inteira na produção de 37,333 segundos, em 9:16 e 16:9. As tags orientam a interpretação e não são palavras para pronunciar nem legendas.
 
-O [roteiro de animação](animacao.md) foi planejado a partir desta versão. Os cortes e o sincronismo serão ajustados à gravação recebida.
+O [roteiro de animação](animacao.md) foi planejado a partir desta versão. Os cortes foram sincronizados à gravação recebida; ver [produção](../../production/10-lara-croft/README.md).
 
 ## Falas
 

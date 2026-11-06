@@ -1,0 +1,188 @@
+{
+  "fps": 24,
+  "frames": 896,
+  "duration": 37.333333333333336,
+  "voice_duration": 36.65800453514739,
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 31,
+      "kind": "monitor",
+      "mood": "name",
+      "source": "lara_classica.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 1,
+      "start": 32,
+      "end": 80,
+      "kind": "actor",
+      "mood": "intro",
+      "source": "lara_classica.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 2,
+      "start": 81,
+      "end": 128,
+      "kind": "photo",
+      "mood": "old",
+      "source": "meme_rosto.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 3,
+      "start": 129,
+      "end": 199,
+      "kind": "game",
+      "mood": "explore",
+      "source": "lara_exploracao.mp4",
+      "source_start": 0.4
+    },
+    {
+      "id": 4,
+      "start": 200,
+      "end": 233,
+      "kind": "game",
+      "mood": "puzzle",
+      "source": "lara_mecanismo.mp4",
+      "source_start": 1.0
+    },
+    {
+      "id": 5,
+      "start": 234,
+      "end": 269,
+      "kind": "photo",
+      "mood": "dino",
+      "source": "dinossauro.png",
+      "source_start": 0
+    },
+    {
+      "id": 6,
+      "start": 270,
+      "end": 318,
+      "kind": "actor",
+      "mood": "sarcasm",
+      "source": "lara_classica.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 7,
+      "start": 319,
+      "end": 366,
+      "kind": "photo",
+      "mood": "meme",
+      "source": "meme_pensando.png",
+      "source_start": 0
+    },
+    {
+      "id": 8,
+      "start": 367,
+      "end": 403,
+      "kind": "actor",
+      "mood": "curious",
+      "source": "codigo.png",
+      "source_start": 0
+    },
+    {
+      "id": 9,
+      "start": 404,
+      "end": 461,
+      "kind": "photo",
+      "mood": "code",
+      "source": "codigo.png",
+      "source_start": 0
+    },
+    {
+      "id": 10,
+      "start": 462,
+      "end": 514,
+      "kind": "photo",
+      "mood": "expectation",
+      "source": "lara_classica.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 11,
+      "start": 515,
+      "end": 554,
+      "kind": "graphic",
+      "mood": "debunk",
+      "source": "boato.png",
+      "source_start": 0
+    },
+    {
+      "id": 12,
+      "start": 555,
+      "end": 598,
+      "kind": "photo",
+      "mood": "pc",
+      "source": "pc_mod.png",
+      "source_start": 0
+    },
+    {
+      "id": 13,
+      "start": 599,
+      "end": 636,
+      "kind": "ruins",
+      "mood": "reveal",
+      "source": "pc_mod.png",
+      "source_start": 0
+    },
+    {
+      "id": 14,
+      "start": 637,
+      "end": 679,
+      "kind": "photo",
+      "mood": "censored",
+      "source": "pc_mod.png",
+      "source_start": 0
+    },
+    {
+      "id": 15,
+      "start": 680,
+      "end": 708,
+      "kind": "photo",
+      "mood": "meme",
+      "source": "meme_rosto.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 16,
+      "start": 709,
+      "end": 744,
+      "kind": "ruins",
+      "mood": "annoyed",
+      "source": "pc_mod.png",
+      "source_start": 0
+    },
+    {
+      "id": 17,
+      "start": 745,
+      "end": 773,
+      "kind": "ruins",
+      "mood": "treasure",
+      "source": "pc_mod.png",
+      "source_start": 0
+    },
+    {
+      "id": 18,
+      "start": 774,
+      "end": 828,
+      "kind": "ruins",
+      "mood": "contrast",
+      "source": "pc_mod.png",
+      "source_start": 0
+    },
+    {
+      "id": 19,
+      "start": 829,
+      "end": 896,
+      "kind": "ruins",
+      "mood": "final",
+      "source": "pc_mod.png",
+      "source_start": 0
+    }
+  ]
+}
