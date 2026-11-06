@@ -1,0 +1,11 @@
+{
+  "original_filename": "voz 7 tracer.mp3",
+  "public_filename": "voz_original.mp3",
+  "sha256": "df1217a3587a8de38b8f23eeaa531ca63ed64932b55093576adf4657a8b23d2c",
+  "voice_duration": 24.414444444444445,
+  "frames": 602,
+  "speed_changed": false,
+  "pitch_changed": false,
+  "trimmed": false,
+  "alignment": "Provided Tracer narration, aligned with local ASR segments. Full recording preserved; guest has no additional voice and gameplay audio is muted."
+}

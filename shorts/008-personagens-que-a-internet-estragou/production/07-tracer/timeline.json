@@ -1,0 +1,152 @@
+{
+  "fps": 24,
+  "frames": 602,
+  "duration": 25.083333333333332,
+  "voice_duration": 24.414444444444445,
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 24,
+      "kind": "monitor",
+      "mood": "name",
+      "source": "tracer_apresentacao.mp4",
+      "source_start": 0
+    },
+    {
+      "id": 1,
+      "start": 25,
+      "end": 58,
+      "kind": "actor",
+      "mood": "present",
+      "source": "tracer_apresentacao.mp4",
+      "source_start": 1
+    },
+    {
+      "id": 2,
+      "start": 59,
+      "end": 115,
+      "kind": "game",
+      "mood": "blink",
+      "source": "tracer_blink.mp4",
+      "source_start": 0.2
+    },
+    {
+      "id": 3,
+      "start": 116,
+      "end": 189,
+      "kind": "game",
+      "mood": "recall",
+      "source": "tracer_recall.mp4",
+      "source_start": 1.2
+    },
+    {
+      "id": 4,
+      "start": 190,
+      "end": 226,
+      "kind": "actor",
+      "mood": "explain",
+      "source": "viewport.png",
+      "source_start": 0
+    },
+    {
+      "id": 5,
+      "start": 227,
+      "end": 276,
+      "kind": "photo",
+      "mood": "viewport",
+      "source": "viewport.png",
+      "source_start": 0
+    },
+    {
+      "id": 6,
+      "start": 277,
+      "end": 298,
+      "kind": "photo",
+      "mood": "censored",
+      "source": "censurado.png",
+      "source_start": 0
+    },
+    {
+      "id": 7,
+      "start": 299,
+      "end": 316,
+      "kind": "photo",
+      "mood": "meme",
+      "source": "meme_reacao.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 8,
+      "start": 317,
+      "end": 334,
+      "kind": "actor",
+      "mood": "sigh",
+      "source": "censurado.png",
+      "source_start": 0
+    },
+    {
+      "id": 9,
+      "start": 335,
+      "end": 365,
+      "kind": "interview",
+      "mood": "wide",
+      "source": "tracer_retrato.png",
+      "source_start": 0
+    },
+    {
+      "id": 10,
+      "start": 366,
+      "end": 396,
+      "kind": "photo",
+      "mood": "meme",
+      "source": "meme_pesquisa.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 11,
+      "start": 397,
+      "end": 427,
+      "kind": "interview",
+      "mood": "guest",
+      "source": "tracer_retrato.png",
+      "source_start": 0
+    },
+    {
+      "id": 12,
+      "start": 428,
+      "end": 478,
+      "kind": "interview",
+      "mood": "host",
+      "source": "tracer_retrato.png",
+      "source_start": 0
+    },
+    {
+      "id": 13,
+      "start": 479,
+      "end": 492,
+      "kind": "interview",
+      "mood": "proud",
+      "source": "tracer_retrato.png",
+      "source_start": 0
+    },
+    {
+      "id": 14,
+      "start": 493,
+      "end": 521,
+      "kind": "interview",
+      "mood": "followup",
+      "source": "tracer_retrato.png",
+      "source_start": 0
+    },
+    {
+      "id": 15,
+      "start": 522,
+      "end": 602,
+      "kind": "interview",
+      "mood": "final",
+      "source": "tracer_retrato.png",
+      "source_start": 0
+    }
+  ]
+}

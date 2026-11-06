@@ -1,6 +1,6 @@
 # Tracer — roteiro de animação
 
-Base: [última versão da narração](narracao.md). Seguir o [plano geral](../../plano_animacao.md). Planejamento em 9:16 e 16:9; áudio e mídias ainda não recebidos. Os cortes acompanharão a gravação.
+Base: [última versão da narração](narracao.md). Seguir o [plano geral](../../plano_animacao.md). Voz e mídias recebidas; produção autorizada em 9:16 e 16:9, sincronizada à gravação inteira, com 25,083 segundos. Cortes exatos na [produção](../../production/07-tracer/timeline.json).
 
 ## Cenas por trecho
 
@@ -25,3 +25,13 @@ O retorno no tempo aparece na explicação da habilidade e não vira o fechament
 Materiais úteis: voz, identificação da Tracer, disparada e retorno temporal legíveis, retrato normal e memes apropriados. Não é necessário obter modelos de fãs para ilustrar o viewport.
 
 Fechamento obrigatório: **“Mas conhece ela pelo jogo, né?...”**, sustentado pelo silêncio visual do convidado.
+
+## Sincronismo da produção
+
+Identificação em 0–2,4 s; Blink em 2,4–4,8 s; Recall em 4,8–7,88 s; modelo e viewport em 7,88–11,48 s; censura, meme e suspiro em 11,48–13,9 s; entrevista, meme de pesquisa, pergunta e reação em 13,9–25,083 s. O complemento final começa visualmente em 21,7 s e o convidado sustenta a reação até o silêncio de exportação.
+
+O vídeo de habilidades enviado mostra o retorno de posição, com o HUD de vida no máximo nesse exemplo. Não foram inventados valores de vida ou uma recuperação que não apareça na mídia. A gravação é preservada como recebida. O viewport é uma ilustração própria; o outro vídeo de animação recebido não foi selecionado.
+
+As duas cópias sentadas preservam o modelo original e têm apoio estável. O convidado usa apenas expressões silenciosas, sem uma resposta falada. Nos closes, o outro ator fica fora de campo e oculto para poupar render. O [set genérico](../../../../assets/cenarios/set_entrevista/) foi extraído sem atores ou mídias do episódio.
+
+[Vídeos, projetos Blender, fontes e verificações](../../production/07-tracer/README.md).

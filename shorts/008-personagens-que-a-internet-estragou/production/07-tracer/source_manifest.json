@@ -1,0 +1,66 @@
+{
+  "package": "7 - Tracer.zip",
+  "source": "User-provided Google Drive archive",
+  "files": [
+    {
+      "original_filename": "Don't mess with Tracer! (1080p_24fps_H264-128kbit_AAC).mp4",
+      "bytes": 9882925,
+      "sha256": "2b0b73285dc0130f7dfc8c08965d374b59cdb80140853f00b902a577a7dc7d63"
+    },
+    {
+      "original_filename": "Tracer Ability Overview ¦ Overwatch (1080p_30fps_H264-128kbit_AAC).mp4",
+      "bytes": 27430750,
+      "sha256": "3aba6913381d002139839246b808cea50552b7e3aa971d976e75ad954084bd20"
+    },
+    {
+      "original_filename": "tracerassmeme.jpg",
+      "bytes": 58251,
+      "sha256": "9db4b52618ef7d59d6ce2de19ba04678a8045a2f03b25e003e769d7361f07b33"
+    },
+    {
+      "original_filename": "tracermemetraceros.jpeg",
+      "bytes": 64601,
+      "sha256": "5bb9c18d29ab913fb01c903ed1a87cba8c36211c3edfcbf4eaf4e146daa9813c"
+    },
+    {
+      "original_filename": "voz 7 tracer.mp3",
+      "bytes": 979200,
+      "sha256": "df1217a3587a8de38b8f23eeaa531ca63ed64932b55093576adf4657a8b23d2c"
+    }
+  ],
+  "video_derivatives": {
+    "tracer_apresentacao.mp4": {
+      "original": "Tracer Ability Overview ¦ Overwatch (1080p_30fps_H264-128kbit_AAC).mp4",
+      "interval": [
+        8.5,
+        11.0
+      ],
+      "description": "Official Tracer hero introduction",
+      "audio_used": false
+    },
+    "tracer_blink.mp4": {
+      "original": "Tracer Ability Overview ¦ Overwatch (1080p_30fps_H264-128kbit_AAC).mp4",
+      "interval": [
+        24,
+        28
+      ],
+      "description": "Official Blink demonstration",
+      "audio_used": false
+    },
+    "tracer_recall.mp4": {
+      "original": "Tracer Ability Overview ¦ Overwatch (1080p_30fps_H264-128kbit_AAC).mp4",
+      "interval": [
+        30,
+        40
+      ],
+      "description": "Official Recall demonstration; original HUD health remains available",
+      "audio_used": false
+    }
+  },
+  "images_published": [
+    "tracerassmeme.jpg",
+    "tracermemetraceros.jpeg"
+  ],
+  "editorial": "Official Overwatch hero introduction, Blink and Recall demonstration. Recall shows position rewind with the original HUD; the selected footage does not demonstrate a changing health value. Viewport and censorship are authored illustrations, not a real fan project. Guest stays silent. No adult fan animation is included.",
+  "unused": "Archive, unselected originals and personal gesture reference remain outside Git."
+}

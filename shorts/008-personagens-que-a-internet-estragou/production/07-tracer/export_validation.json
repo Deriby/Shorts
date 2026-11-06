@@ -1,0 +1,18 @@
+{
+  "video": "Tracer_Personagens_que_a_internet_estragou_9x16.mp4",
+  "frames": 602,
+  "duration": 25.083333,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 24,
+  "codec": "H.264 + AAC",
+  "size_bytes": 24934897,
+  "full_decode": "passed",
+  "voice_original_sha256": "df1217a3587a8de38b8f23eeaa531ca63ed64932b55093576adf4657a8b23d2c",
+  "voice_unmodified": true,
+  "monitor_frames": 602,
+  "scene_checks": "passed",
+  "ps1_palette": "5-bit RGB with fixed 4x4 ordered Bayer pattern, integer nearest-neighbor upscale"
+}

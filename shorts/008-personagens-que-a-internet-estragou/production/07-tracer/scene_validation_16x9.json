@@ -1,0 +1,357 @@
+{
+  "original_geometry_max_displacement_m": 0.0,
+  "face_checks": [
+    {
+      "actor": "DERY | animated character",
+      "frame": 40,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 204,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 325,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "INTERVIEW | Host",
+      "frame": 346,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "INTERVIEW | Host",
+      "frame": 448,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "INTERVIEW | Host",
+      "frame": 505,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "INTERVIEW | Host",
+      "frame": 548,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "INTERVIEW | Host",
+      "frame": 590,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "INTERVIEW | Guest",
+      "frame": 346,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "INTERVIEW | Guest",
+      "frame": 410,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "INTERVIEW | Guest",
+      "frame": 486,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "INTERVIEW | Guest",
+      "frame": 534,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "INTERVIEW | Guest",
+      "frame": 548,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "INTERVIEW | Guest",
+      "frame": 590,
+      "max_facial_split_m": 0.0
+    }
+  ],
+  "precision_checks": [
+    {
+      "actor": "DERY | animated character",
+      "frame": 40,
+      "max_precision_displacement_m": 0.005932062304855906
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 204,
+      "max_precision_displacement_m": 0.005931065881108844
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 325,
+      "max_precision_displacement_m": 0.003563499251607967
+    },
+    {
+      "actor": "INTERVIEW | Host",
+      "frame": 346,
+      "max_precision_displacement_m": 0.009510380690641574
+    },
+    {
+      "actor": "INTERVIEW | Host",
+      "frame": 448,
+      "max_precision_displacement_m": 0.004500245409088492
+    },
+    {
+      "actor": "INTERVIEW | Host",
+      "frame": 505,
+      "max_precision_displacement_m": 0.004500245409088492
+    },
+    {
+      "actor": "INTERVIEW | Host",
+      "frame": 548,
+      "max_precision_displacement_m": 0.0036625573933038347
+    },
+    {
+      "actor": "INTERVIEW | Host",
+      "frame": 590,
+      "max_precision_displacement_m": 0.0036625573933038347
+    },
+    {
+      "actor": "INTERVIEW | Guest",
+      "frame": 346,
+      "max_precision_displacement_m": 0.009670811323152772
+    },
+    {
+      "actor": "INTERVIEW | Guest",
+      "frame": 410,
+      "max_precision_displacement_m": 0.004530890022792008
+    },
+    {
+      "actor": "INTERVIEW | Guest",
+      "frame": 486,
+      "max_precision_displacement_m": 0.0044735698155214335
+    },
+    {
+      "actor": "INTERVIEW | Guest",
+      "frame": 534,
+      "max_precision_displacement_m": 0.0045531896618435114
+    },
+    {
+      "actor": "INTERVIEW | Guest",
+      "frame": 548,
+      "max_precision_displacement_m": 0.004509576872515016
+    },
+    {
+      "actor": "INTERVIEW | Guest",
+      "frame": 590,
+      "max_precision_displacement_m": 0.004509576872515016
+    }
+  ],
+  "seated_support": {
+    "DERY | animated character": "stable pelvis and feet",
+    "INTERVIEW | Host": "stable pelvis and feet",
+    "INTERVIEW | Guest": "stable pelvis and feet"
+  },
+  "arm_checks": [
+    {
+      "actor": "DERY | animated character",
+      "frame": 40,
+      "side": "R",
+      "reach_m": 0.2909544522041266,
+      "target_error_m": 0.00020767670252122054
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 40,
+      "side": "L",
+      "reach_m": 0.36028220638674635,
+      "target_error_m": 0.0001961776688508989
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 204,
+      "side": "R",
+      "reach_m": 0.3100392694862405,
+      "target_error_m": 0.00021017505490372954
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 204,
+      "side": "L",
+      "reach_m": 0.3113053165107484,
+      "target_error_m": 0.00025567885339297327
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 325,
+      "side": "R",
+      "reach_m": 0.37222046738724135,
+      "target_error_m": 0.00016402038379695469
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 325,
+      "side": "L",
+      "reach_m": 0.3719282329549394,
+      "target_error_m": 0.00019915370215534475
+    },
+    {
+      "actor": "INTERVIEW | Host",
+      "frame": 346,
+      "side": "R",
+      "reach_m": 0.29945059066384744,
+      "target_error_m": 0.00014619028255311755
+    },
+    {
+      "actor": "INTERVIEW | Host",
+      "frame": 346,
+      "side": "L",
+      "reach_m": 0.3603431860924565,
+      "target_error_m": 0.00014136595837571333
+    },
+    {
+      "actor": "INTERVIEW | Host",
+      "frame": 448,
+      "side": "R",
+      "reach_m": 0.28997751347121514,
+      "target_error_m": 0.00013023954502714352
+    },
+    {
+      "actor": "INTERVIEW | Host",
+      "frame": 448,
+      "side": "L",
+      "reach_m": 0.3602828549739934,
+      "target_error_m": 0.00013897984487549353
+    },
+    {
+      "actor": "INTERVIEW | Host",
+      "frame": 505,
+      "side": "R",
+      "reach_m": 0.28904489515152243,
+      "target_error_m": 0.00015556598758693674
+    },
+    {
+      "actor": "INTERVIEW | Host",
+      "frame": 505,
+      "side": "L",
+      "reach_m": 0.33209965584989876,
+      "target_error_m": 0.0001587204569374368
+    },
+    {
+      "actor": "INTERVIEW | Host",
+      "frame": 548,
+      "side": "R",
+      "reach_m": 0.3590266175627818,
+      "target_error_m": 0.00011734198852415557
+    },
+    {
+      "actor": "INTERVIEW | Host",
+      "frame": 548,
+      "side": "L",
+      "reach_m": 0.36083231590326836,
+      "target_error_m": 0.00013752632272141425
+    },
+    {
+      "actor": "INTERVIEW | Host",
+      "frame": 590,
+      "side": "R",
+      "reach_m": 0.3590266175627818,
+      "target_error_m": 0.00011734198852415557
+    },
+    {
+      "actor": "INTERVIEW | Host",
+      "frame": 590,
+      "side": "L",
+      "reach_m": 0.36083231590326836,
+      "target_error_m": 0.00013752632272141425
+    },
+    {
+      "actor": "INTERVIEW | Guest",
+      "frame": 346,
+      "side": "R",
+      "reach_m": 0.368479887701185,
+      "target_error_m": 0.00012711947863573941
+    },
+    {
+      "actor": "INTERVIEW | Guest",
+      "frame": 346,
+      "side": "L",
+      "reach_m": 0.3691667908270676,
+      "target_error_m": 0.00014156456051994876
+    },
+    {
+      "actor": "INTERVIEW | Guest",
+      "frame": 410,
+      "side": "R",
+      "reach_m": 0.3147080588284032,
+      "target_error_m": 0.0001351477193003003
+    },
+    {
+      "actor": "INTERVIEW | Guest",
+      "frame": 410,
+      "side": "L",
+      "reach_m": 0.36914120149315116,
+      "target_error_m": 0.00014208479971682014
+    },
+    {
+      "actor": "INTERVIEW | Guest",
+      "frame": 486,
+      "side": "R",
+      "reach_m": 0.34479175537433326,
+      "target_error_m": 0.00011934656940982085
+    },
+    {
+      "actor": "INTERVIEW | Guest",
+      "frame": 486,
+      "side": "L",
+      "reach_m": 0.36959483696408496,
+      "target_error_m": 0.00014028994955845494
+    },
+    {
+      "actor": "INTERVIEW | Guest",
+      "frame": 534,
+      "side": "R",
+      "reach_m": 0.38329625081464636,
+      "target_error_m": 0.00013052259422694924
+    },
+    {
+      "actor": "INTERVIEW | Guest",
+      "frame": 534,
+      "side": "L",
+      "reach_m": 0.3704918949969132,
+      "target_error_m": 0.0001410405384214734
+    },
+    {
+      "actor": "INTERVIEW | Guest",
+      "frame": 548,
+      "side": "R",
+      "reach_m": 0.38329625081464636,
+      "target_error_m": 0.00013052259422694924
+    },
+    {
+      "actor": "INTERVIEW | Guest",
+      "frame": 548,
+      "side": "L",
+      "reach_m": 0.3704918949969132,
+      "target_error_m": 0.0001410405384214734
+    },
+    {
+      "actor": "INTERVIEW | Guest",
+      "frame": 590,
+      "side": "R",
+      "reach_m": 0.38329625081464636,
+      "target_error_m": 0.00013052259422694924
+    },
+    {
+      "actor": "INTERVIEW | Guest",
+      "frame": 590,
+      "side": "L",
+      "reach_m": 0.3704918949969132,
+      "target_error_m": 0.0001410405384214734
+    }
+  ],
+  "guest_silent": true,
+  "guest_has_no_talking_faces": true,
+  "voice_tracks": 1,
+  "monitor_frames": 602,
+  "monitor_auto_refresh": true,
+  "expressions": "31 PNG faces, constant changes, no morphs",
+  "acting": "Asymmetric phrase gestures, matching seated eyelines, silent guest reaction"
+}
