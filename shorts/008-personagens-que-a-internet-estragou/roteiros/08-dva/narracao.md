@@ -1,8 +1,8 @@
 # Personagens que a internet estragou — D.Va
 
-Versão revisada pelo usuário, com suas marcações de interpretação preservadas. Falas reunidas para gravação em sequência; ainda sem voz recebida ou produção. As tags orientam a interpretação e não são palavras para pronunciar nem legendas.
+Versão revisada pelo usuário, com suas marcações de interpretação preservadas. Voz e mídias recebidas no pacote da D.Va; produção autorizada nos dois formatos, com 41,833 segundos. As tags orientam a interpretação e não são palavras para pronunciar nem legendas.
 
-O [roteiro de animação](animacao.md) foi planejado a partir desta versão. Os cortes e o sincronismo serão ajustados à gravação recebida.
+O [roteiro de animação](animacao.md) foi planejado a partir desta versão. Os cortes sincronizados estão na [produção](../../production/08-dva/timeline.json), com a gravação recebida inteira.
 
 ## Falas
 

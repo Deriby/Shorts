@@ -1,6 +1,6 @@
 # Personagens que a internet estragou — plano de animação e montagem
 
-Planejamento autorizado pelo usuário para os **12 personagens**. Esta entrega contém roteiros e organização de produção. Na etapa de planejamento, não foram criados cenários, imagens, vozes ou renders. As produções da Ankha, do Vaporeon, da 2B e da Tracer foram autorizadas depois e estão concluídas; cinco blocos ainda aguardam seus pacotes. Os três vídeos anteriormente aprovados continuam preservados.
+Planejamento autorizado pelo usuário para os **12 personagens**. Esta entrega contém roteiros e organização de produção. Na etapa de planejamento, não foram criados cenários, imagens, vozes ou renders. As produções da Ankha, do Vaporeon, da 2B, da Tracer e da D.Va foram autorizadas depois e estão concluídas; quatro blocos ainda aguardam seus pacotes. Os três vídeos anteriormente aprovados continuam preservados.
 
 ## Ordem, cena principal e roteiro de cada bloco
 
@@ -13,7 +13,7 @@ Planejamento autorizado pelo usuário para os **12 personagens**. Esta entrega c
 | 05 | Vaporeon | Mesa de redação soterrada por folhas e memes de contexto; segue o fechamento da voz recebida. | Produzido; [roteiro](roteiros/05-vaporeon/animacao.md), [produção](production/05-vaporeon/README.md). |
 | 06 | 2B | Estação de treinamento: preparada para máquinas, sem treinamento para a internet. | Produzido; [roteiro](roteiros/06-2b/animacao.md), [produção](production/06-2b/README.md). |
 | 07 | Tracer | Entrevista entre dois Derys: reconhecer a personagem não prova que jogou. | Produzido; [roteiro](roteiros/07-tracer/animacao.md), [produção](production/07-tracer/README.md). |
-| 08 | D.Va | Simulador de cockpit cujos painéis saem da frente em “o robô tá atrapalhando”. | Planejado; [roteiro](roteiros/08-dva/animacao.md). |
+| 08 | D.Va | Simulador de cockpit cujos painéis saem da frente em “o robô tá atrapalhando”. | Produzido; [roteiro](roteiros/08-dva/animacao.md), [produção](production/08-dva/README.md). |
 | 09 | Mercy | Pequena sala de triagem; pedido de “misericórdia” termina indeferido. | Planejado; [roteiro](roteiros/09-mercy/animacao.md). |
 | 10 | Lara Croft | Terminal de códigos dentro de ruínas; o tesouro fica esquecido ao lado do PC. | Planejado; [roteiro](roteiros/10-lara-croft/animacao.md). |
 | 11 | Peach | Vitrine de coroas e retratos: transformação oficial separada da invenção dos fãs. | Planejado; [roteiro](roteiros/11-peach/animacao.md). |
@@ -49,7 +49,7 @@ As duas versões usam a mesma voz e a mesma sequência de ideias, com câmeras e
 
 ## Montagem do vídeo longo
 
-1. Reaproveitar os masters horizontais de Lady, Tifa, Chun-Li, Ankha, Vaporeon, 2B e Tracer. Somados, eles têm **263 segundos**; os três primeiros já foram aprovados pelo usuário. Isso não determina a duração dos outros cinco blocos.
+1. Reaproveitar os masters horizontais de Lady, Tifa, Chun-Li, Ankha, Vaporeon, 2B, Tracer e D.Va. Somados, eles têm **304,833 segundos**; os três primeiros já foram aprovados pelo usuário. Isso não determina a duração dos outros quatro blocos.
 2. Começar pelo gancho já gravado da Lady. O título geral pode aparecer no monitor ou numa identificação gráfica curta; não há uma nova abertura falada autorizada nesta etapa.
 3. Nas passagens de personagem, aproveitar a pausa natural da voz e um corte para o novo conteúdo no monitor. Preservar as piadas e as falas completas. Remover apenas sobra silenciosa de exportação quando isso ajudar a ligação e não cortar a sustentação de uma reação.
 4. Manter Tracer, D.Va e Mercy juntas. “Como já tínhamos dito aqui” da D.Va remete à Tracer, e “fechar o combo” da Mercy encerra esse grupo. Diferenciar seus três ambientes: entrevista, cockpit e triagem.
@@ -71,7 +71,7 @@ Usar apenas a parte visível de cada cenário. As fichas, janelas, selos e retra
 
 Quando chegar o link de cada pacote: inventariar e inspecionar arquivos, medir a voz, selecionar trechos, fechar os cortes por frase, preparar o vídeo contínuo do monitor e conferir um pequeno conjunto de poses nos dois formatos. Guardar origem, intervalos e hashes dos materiais usados. O pacote original fica fora do Git; voz, recortes usados, scripts, projetos e finais entram na pasta do bloco.
 
-O [museu genérico](../../assets/cenarios/museu/) também está disponível após a produção da Ankha, com moldura e suportes sem imagens do episódio. A [mesa de redação](../../assets/cenarios/mesa_redacao/) também foi extraída após a produção do Vaporeon, sem personagem ou mídias do pacote. A [estação de treinamento](../../assets/cenarios/estacao_treinamento/) também está disponível após a 2B, com terminal neutro. O [set de entrevista](../../assets/cenarios/set_entrevista/) também foi extraído após a Tracer, sem atores e com a superfície de referência neutra.
+O [museu genérico](../../assets/cenarios/museu/) também está disponível após a produção da Ankha, com moldura e suportes sem imagens do episódio. A [mesa de redação](../../assets/cenarios/mesa_redacao/) também foi extraída após a produção do Vaporeon, sem personagem ou mídias do pacote. A [estação de treinamento](../../assets/cenarios/estacao_treinamento/) também está disponível após a 2B, com terminal neutro. O [set de entrevista](../../assets/cenarios/set_entrevista/) também foi extraído após a Tracer, sem atores e com a superfície de referência neutra. O [cockpit](../../assets/cenarios/cockpit/) está disponível após a D.Va, com banco e grupos de painéis móveis, sem avatar ou mídia do pacote.
 
 Na renderização, aplicar o processamento já usado na Chun-Li: ocultar o cenário fora da câmera, renderizar apenas planos 3D, compor os demais diretamente e permitir retomada de quadros completos. Neste ambiente, a configuração estável observada foi um formato por vez com dois threads; reavaliar somente se a execução justificar. Não prometer um tempo fixo antes de medir a gravação e o material.
 

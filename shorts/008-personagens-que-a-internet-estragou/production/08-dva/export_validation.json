@@ -1,0 +1,18 @@
+{
+  "video": "DVa_Personagens_que_a_internet_estragou_9x16.mp4",
+  "frames": 1004,
+  "duration": 41.833333,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 24,
+  "codec": "H.264 + AAC",
+  "size_bytes": 33890399,
+  "full_decode": "passed",
+  "voice_original_sha256": "4232a7d3ca55695ac3e095b69b13b5192af44707488a41ba501ac02a6134ef20",
+  "voice_unmodified": true,
+  "monitor_frames": 1004,
+  "scene_checks": "passed",
+  "ps1_palette": "5-bit RGB with fixed 4x4 ordered Bayer pattern, integer nearest-neighbor upscale"
+}

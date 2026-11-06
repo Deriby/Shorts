@@ -1,6 +1,6 @@
 # D.Va — roteiro de animação
 
-Base: [versão revisada do usuário](narracao.md). Seguir o [plano geral](../../plano_animacao.md). Planejar 9:16 e 16:9; voz e mídias ainda não recebidas. Os gatilhos são as frases e interpretações, sem duração imposta.
+Base: [versão revisada do usuário](narracao.md). Seguir o [plano geral](../../plano_animacao.md). Voz e mídias recebidas; produção autorizada em 9:16 e 16:9, sincronizada à gravação inteira, com 41,833 segundos. Cortes exatos na [produção](../../production/08-dva/timeline.json).
 
 ## Cenas por trecho
 
@@ -25,3 +25,13 @@ D.Va e Hana Song são a mesma personagem; MEKA é o equipamento. A explosão ofe
 Materiais úteis: voz, piloto e MEKA, propulsão, mísseis e autodestruição, além de retrato normal. A prévia censurada pode ser totalmente autoral.
 
 Fechamento: **“mas com certeza conhece ela”**. Não recuperar a antiga piada do botão de ejetar.
+
+## Sincronismo da produção
+
+Identificação e origem em 0–9,34 s; Boosters, ilustração de mísseis, ejeção e explosão em 9,34–14 s; piloto e reação em 14–20,5 s; censura, meme e aparte sussurrado em 20,5–26,36 s; cockpit e combate em 26,36–33,7 s; abertura em 33,7–35,1 s; retrato, reação, meme e fechamento em 35,1–41,833 s.
+
+Os painéis e a moldura deslizam uma vez, em 34,3–34,95 s, enquanto a pose sentada fica fixa. A cópia do rig preserva a pose avaliada das pernas antes de remover as constraints. O retrato traseiro da piloto é uma imagem fixa; a ação do MEKA entra nos cortes de gameplay.
+
+O vídeo antigo não demonstra Micro Missiles; essa parte usa uma ilustração própria, sem rotular os Fusion Cannons como mísseis. A ejeção e a explosão vêm da autodestruição real. Os vídeos de highlight intros e Giantess Hug não foram selecionados.
+
+[Vídeos, projetos Blender, fontes e verificações](../../production/08-dva/README.md).

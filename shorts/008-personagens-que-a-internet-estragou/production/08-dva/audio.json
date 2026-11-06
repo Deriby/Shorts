@@ -1,0 +1,11 @@
+{
+  "original_filename": "voz 8 dva overwatch.mp3",
+  "public_filename": "voz_original.mp3",
+  "sha256": "4232a7d3ca55695ac3e095b69b13b5192af44707488a41ba501ac02a6134ef20",
+  "voice_duration": 41.177460317460316,
+  "frames": 1004,
+  "speed_changed": false,
+  "pitch_changed": false,
+  "trimmed": false,
+  "alignment": "Provided D.Va narration, aligned with local ASR segments. Full original voice preserved; source videos muted."
+}

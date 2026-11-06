@@ -1,0 +1,234 @@
+{
+  "fps": 24,
+  "frames": 1004,
+  "duration": 41.833333333333336,
+  "voice_duration": 41.177460317460316,
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 38,
+      "kind": "monitor",
+      "mood": "name",
+      "source": "dva_intro.mp4",
+      "source_start": 0
+    },
+    {
+      "id": 1,
+      "start": 39,
+      "end": 91,
+      "kind": "photo",
+      "mood": "profile",
+      "source": "perfil.png",
+      "source_start": 0
+    },
+    {
+      "id": 2,
+      "start": 92,
+      "end": 130,
+      "kind": "actor",
+      "mood": "present",
+      "source": "perfil.png",
+      "source_start": 0
+    },
+    {
+      "id": 3,
+      "start": 131,
+      "end": 173,
+      "kind": "game",
+      "mood": "hero",
+      "source": "dva_intro.mp4",
+      "source_start": 1,
+      "crop_x": 350
+    },
+    {
+      "id": 4,
+      "start": 174,
+      "end": 224,
+      "kind": "photo",
+      "mood": "profile",
+      "source": "perfil.png",
+      "source_start": 0
+    },
+    {
+      "id": 5,
+      "start": 225,
+      "end": 248,
+      "kind": "game",
+      "mood": "boosters",
+      "source": "dva_voo.mp4",
+      "source_start": 0.3
+    },
+    {
+      "id": 6,
+      "start": 249,
+      "end": 264,
+      "kind": "photo",
+      "mood": "missiles",
+      "source": "misseis.png",
+      "source_start": 0
+    },
+    {
+      "id": 7,
+      "start": 265,
+      "end": 290,
+      "kind": "game",
+      "mood": "eject",
+      "source": "dva_bomba.mp4",
+      "source_start": 2
+    },
+    {
+      "id": 8,
+      "start": 291,
+      "end": 336,
+      "kind": "game",
+      "mood": "bomb",
+      "source": "dva_bomba.mp4",
+      "source_start": 5.5
+    },
+    {
+      "id": 9,
+      "start": 337,
+      "end": 389,
+      "kind": "actor",
+      "mood": "resign",
+      "source": "dva_piloto.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 10,
+      "start": 390,
+      "end": 446,
+      "kind": "photo",
+      "mood": "pilot",
+      "source": "dva_piloto.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 11,
+      "start": 447,
+      "end": 492,
+      "kind": "photo",
+      "mood": "pilot",
+      "source": "dva_piloto.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 12,
+      "start": 493,
+      "end": 523,
+      "kind": "photo",
+      "mood": "censor",
+      "source": "censurado.png",
+      "source_start": 0
+    },
+    {
+      "id": 13,
+      "start": 524,
+      "end": 542,
+      "kind": "photo",
+      "mood": "meme",
+      "source": "meme_susto.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 14,
+      "start": 543,
+      "end": 574,
+      "kind": "photo",
+      "mood": "censor",
+      "source": "censurado.png",
+      "source_start": 0
+    },
+    {
+      "id": 15,
+      "start": 575,
+      "end": 633,
+      "kind": "actor",
+      "mood": "whisper",
+      "source": "censurado.png",
+      "source_start": 0
+    },
+    {
+      "id": 16,
+      "start": 634,
+      "end": 679,
+      "kind": "cockpit",
+      "mood": "confident",
+      "source": "dva_combate.mp4",
+      "source_start": 0
+    },
+    {
+      "id": 17,
+      "start": 680,
+      "end": 718,
+      "kind": "game",
+      "mood": "combat",
+      "source": "dva_combate.mp4",
+      "source_start": 0.3
+    },
+    {
+      "id": 18,
+      "start": 719,
+      "end": 763,
+      "kind": "cockpit",
+      "mood": "present",
+      "source": "dva_combate.mp4",
+      "source_start": 1
+    },
+    {
+      "id": 19,
+      "start": 764,
+      "end": 809,
+      "kind": "cockpit",
+      "mood": "anticipate",
+      "source": "piloto_poster.png",
+      "source_start": 0
+    },
+    {
+      "id": 20,
+      "start": 810,
+      "end": 842,
+      "kind": "cockpit",
+      "mood": "opening",
+      "source": "piloto_poster.png",
+      "source_start": 0
+    },
+    {
+      "id": 21,
+      "start": 843,
+      "end": 859,
+      "kind": "photo",
+      "mood": "pilot",
+      "source": "dva_piloto.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 22,
+      "start": 860,
+      "end": 914,
+      "kind": "cockpit",
+      "mood": "knowing",
+      "source": "piloto_poster.png",
+      "source_start": 0
+    },
+    {
+      "id": 23,
+      "start": 915,
+      "end": 948,
+      "kind": "photo",
+      "mood": "meme",
+      "source": "meme_jogador.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 24,
+      "start": 949,
+      "end": 1004,
+      "kind": "cockpit",
+      "mood": "final",
+      "source": "piloto_poster.png",
+      "source_start": 0
+    }
+  ]
+}

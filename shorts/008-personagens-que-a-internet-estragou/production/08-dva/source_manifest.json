@@ -1,0 +1,97 @@
+{
+  "package": "8 - DVa.zip",
+  "source": "User-provided Google Drive archive",
+  "files": [
+    {
+      "original_filename": "D.Va Ability Overview ¦ Overwatch (1080p_30fps_H264-128kbit_AAC).mp4",
+      "bytes": 64736054,
+      "sha256": "9413b6d4476852f9c5b1ceed0169456cd52656e1bd5bf60c870bba91ba774441"
+    },
+    {
+      "original_filename": "download.jpg",
+      "bytes": 112723,
+      "sha256": "078b0db6f36c1324c35bc47a7385f666f8d0a626acf04c026f457bbe32c36d73"
+    },
+    {
+      "original_filename": "images (1).jpg",
+      "bytes": 32288,
+      "sha256": "94bfcf230ffa9f4925c1bf723cb67b38db3967f92f4a49d55c9c567cf8c31ed6"
+    },
+    {
+      "original_filename": "images.jpg",
+      "bytes": 34680,
+      "sha256": "db2d4240972b6f528d3d52765d736b12676c1f60552ef3ba39ec2fc181c485dd"
+    },
+    {
+      "original_filename": "l26bkvdgi4pc1.jpeg",
+      "bytes": 506022,
+      "sha256": "0c6425d6e5ad21e76bb501af457bed457d05b64ca38a2cd2df5c2cc2462e07f7"
+    },
+    {
+      "original_filename": "Overwatch - All D.VA Highlight Intros (1440p_60fps_AV1-128kbit_AAC).mp4",
+      "bytes": 24538527,
+      "sha256": "d381590a9f4ba29d80584bd923563d59444c5b7d3558495626ed526dc0b9991c"
+    },
+    {
+      "original_filename": "sVrD5CL2a9EeUXB5jJEEBJ.jpg",
+      "bytes": 275592,
+      "sha256": "705749a12ac999599dba7a2ebaa3017c4a4848579b1d05e861d0738565b1827c"
+    },
+    {
+      "original_filename": "voz 8 dva overwatch.mp3",
+      "bytes": 1649280,
+      "sha256": "4232a7d3ca55695ac3e095b69b13b5192af44707488a41ba501ac02a6134ef20"
+    },
+    {
+      "original_filename": "[AZmaybe9] Overwatch Giantess D.Va Hug Twitch Highlights (2076p_48fps_AV1-128kbit_AAC).mp4",
+      "bytes": 14505571,
+      "sha256": "b3d3c31f972d9c441b3a296c099e978a6fde3461da948b7f1dd812a27809b788"
+    }
+  ],
+  "video_derivatives": {
+    "dva_intro.mp4": {
+      "original": "D.Va Ability Overview ¦ Overwatch (1080p_30fps_H264-128kbit_AAC).mp4",
+      "interval": [
+        5.5,
+        10.0
+      ],
+      "description": "Official D.Va and MEKA introduction",
+      "audio_used": false
+    },
+    "dva_voo.mp4": {
+      "original": "D.Va Ability Overview ¦ Overwatch (1080p_30fps_H264-128kbit_AAC).mp4",
+      "interval": [
+        33,
+        37.2
+      ],
+      "description": "Official Boosters flight demonstration",
+      "audio_used": false
+    },
+    "dva_bomba.mp4": {
+      "original": "D.Va Ability Overview ¦ Overwatch (1080p_30fps_H264-128kbit_AAC).mp4",
+      "interval": [
+        56,
+        64
+      ],
+      "description": "Official Self-Destruct: ejection, warning and explosion",
+      "audio_used": false
+    },
+    "dva_combate.mp4": {
+      "original": "D.Va Ability Overview ¦ Overwatch (1080p_30fps_H264-128kbit_AAC).mp4",
+      "interval": [
+        20,
+        24
+      ],
+      "description": "Original Fusion Cannons combat, not Micro Missiles",
+      "audio_used": false
+    }
+  },
+  "images_published": [
+    "download.jpg",
+    "sVrD5CL2a9EeUXB5jJEEBJ.jpg",
+    "images.jpg",
+    "l26bkvdgi4pc1.jpeg"
+  ],
+  "editorial": "Normal official D.Va and MEKA footage, original Boosters and Self-Destruct, and clothed user images/memes. Missiles use an authored schematic: the legacy ability video shows Fusion Cannons, not the newer Micro Missiles ability. Cockpit movement removes panels and frame, never clothing. No adult fan animation or fabricated gameplay values are included.",
+  "unused": "Archive, unselected originals and personal gesture reference remain outside Git."
+}
