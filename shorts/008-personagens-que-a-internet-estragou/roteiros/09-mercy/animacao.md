@@ -1,6 +1,6 @@
 # Mercy — roteiro de animação
 
-Base: [última narração do usuário](narracao.md). Seguir o [plano geral](../../plano_animacao.md). Planejamento em 9:16 e 16:9, sem gravação ou mídia recebida. Ajustar os cortes e a sustentação à voz final.
+Base: [última narração do usuário](narracao.md). Seguir o [plano geral](../../plano_animacao.md). Produzido em 9:16 e 16:9 com o pacote recebido e a gravação completa. Duração final: 29 segundos. Ver [produção e verificações](../../production/09-mercy/README.md). O plano abaixo foi sincronizado à voz conforme a tabela final.
 
 ## Cenas por trecho
 
@@ -24,3 +24,16 @@ A atuação passa de entusiasmo a explicação, constrangimento e seriedade. Res
 Materiais úteis: voz, retrato normal, asas tecnológicas, cura e ressurreição. Os cartões, a ficha e o selo são gráficos autorais e não dependem de mídia adulta original.
 
 Fechamento obrigatório: **“Coisa que infelizmente não tiveram com ela.”**
+
+## Sincronismo executado
+
+| Tempo | Montagem final |
+| --- | --- |
+| 0–5,12 s | Identificação no monitor, entusiasmo do Dery, meme de sorriso e asas. |
+| 5,12–11,2 s | Cura amarela e ressurreição reais no vídeo de habilidades. |
+| 11,2–16,35 s | Dery explica, retrato com asas e meme de suporte. |
+| 16,35–21,5 s | Biombo atravessa o quadro; triagem, prévia opaca censurada e reação constrangida. |
+| 21,5–25,4 s | Apresentação do terminal; insert do verbete a partir de 23,25 s. |
+| 25,4–29 s | Selo INDEFERIDO, retorno ao rosto sério e silêncio final de cerca de 0,675 s. |
+
+A timeline registra os 17 planos com arredondamento ao quadro. A cópia sentada conserva a pose avaliada completa, incluindo os pés. Não foram acrescentadas falas ou retomadas as piadas retiradas pelo usuário.

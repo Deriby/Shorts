@@ -27,7 +27,7 @@ Entregar shorts em **9:16 primeiro**, com aproveitamento posterior para um víde
 
 ## Roteiros de animação preparados
 
-O [plano geral de animação e montagem](plano_animacao.md) reúne os 12 blocos, as cenas, os dois formatos e o reaproveitamento do vídeo longo. Lady, Tifa e Chun-Li usam as produções aprovadas; Ankha, Vaporeon, 2B, Tracer e D.Va também já foram produzidos. Os quatro restantes têm roteiros por fala, expressões, gestos, enquadramentos e necessidades de mídia para a etapa de produção.
+O [plano geral de animação e montagem](plano_animacao.md) reúne os 12 blocos, as cenas, os dois formatos e o reaproveitamento do vídeo longo. Lady, Tifa e Chun-Li usam as produções aprovadas; Ankha, Vaporeon, 2B, Tracer, D.Va e Mercy também já foram produzidos. Os três restantes têm roteiros por fala, expressões, gestos, enquadramentos e necessidades de mídia para a etapa de produção.
 
 Primeiro bloco concluído: **Lady Dimitrescu**, com voz, vídeos e memes enviados pelo usuário no pacote “1 - Lady Dimitrescu.zip”. Versões **9:16 e 16:9 de 39 segundos**, com atuação por frase, visual PS1 mais marcado e passagem pela entrada do castelo. A montagem acompanha a gravação real e termina em “carreira paralela”.
 
@@ -55,7 +55,7 @@ Terceiro bloco: **Chun-Li — Street Fighter / Fortnite**, com voz, imagens e v�
 - [Assistir / baixar o horizontal 16:9 da Chun-Li](production/03-chun-li/output/ChunLi_Personagens_que_a_internet_estragou_16x9.mp4).
 - [Produção, projetos Blender, fontes e verificações — Chun-Li](production/03-chun-li/README.md).
 
-O usuário fechou as falas dos 12 personagens e está gravando em sequência. Oito blocos já têm vídeo nos dois formatos; os quatro restantes têm roteiros de animação preparados e aguardam voz e mídias para sincronizar e produzir. O texto digitado não é áudio recebido. A duração do longo será fechada a partir das vozes, sem assumir dez minutos pela quantidade de personagens.
+O usuário fechou as falas dos 12 personagens e está gravando em sequência. Nove blocos já têm vídeo nos dois formatos; os três restantes têm roteiros de animação preparados e aguardam voz e mídias para sincronizar e produzir. O texto digitado não é áudio recebido. A duração do longo será fechada a partir das vozes, sem assumir dez minutos pela quantidade de personagens.
 
 Quarto bloco: **Ankha — Animal Crossing**, produzido com voz, vídeos e memes enviados pelo usuário. Versões **9:16 e 16:9 de 44,042 segundos**, com visual PS1, museu de duas peças, “DOUBLE KILL” e perdão final. A voz foi preservada inteira e termina em “Nós te perdoamos”.
 
@@ -97,10 +97,13 @@ Oitavo bloco: **D.Va — Overwatch**, produzido com voz, vídeos e memes enviado
 - [Assistir / baixar o horizontal 16:9 da D.Va](production/08-dva/output/DVa_Personagens_que_a_internet_estragou_16x9.mp4).
 - [Produção, projetos Blender, fontes e verificações — D.Va](production/08-dva/README.md).
 
-Nono bloco em roteiro: **Mercy — Overwatch**, com versão revisada pelo usuário, fechamento do grupo de Overwatch e encerramento em “Coisa que infelizmente não tiveram com ela”. Ainda sem voz recebida.
+Nono bloco: **Mercy — Overwatch**, produzido com voz, vídeos e memes enviados pelo usuário. Versões **9:16 e 16:9 de 29 segundos**, com cura, ressurreição e baia de triagem. O verbete “MERCY — MISERICÓRDIA” recebe o selo “INDEFERIDO”. A gravação foi preservada inteira e Dery termina sério em “Coisa que infelizmente não tiveram com ela”.
 
 - [Narração revisada — Mercy](roteiros/09-mercy/narracao.md).
-- [Roteiro de animação — mercy](roteiros/09-mercy/animacao.md).
+- [Roteiro de animação — Mercy](roteiros/09-mercy/animacao.md).
+- [Assistir / baixar o short da Mercy](production/09-mercy/output/Mercy_Personagens_que_a_internet_estragou_9x16.mp4).
+- [Assistir / baixar o horizontal 16:9 da Mercy](production/09-mercy/output/Mercy_Personagens_que_a_internet_estragou_16x9.mp4).
+- [Produção, projetos Blender, fontes e verificações — Mercy](production/09-mercy/README.md).
 
 Décimo bloco em roteiro: **Lara Croft — Tomb Raider**, com versão revisada pelo usuário e encerramento na frase sobre a mulher feita de meia dúzia de polígonos. Ainda sem voz recebida.
 
@@ -117,7 +120,7 @@ Décimo segundo e último bloco da seleção atual: **Sonic**, com versão intei
 - [Narração revisada — Sonic](roteiros/12-sonic/narracao.md).
 - [Roteiro de animação — sonic](roteiros/12-sonic/animacao.md).
 
-A ordem atual do vídeo é: Lady Dimitrescu, Tifa, Chun-Li, Ankha, Vaporeon, 2B, Tracer, D.Va, Mercy, Lara Croft, Peach e Sonic. Vergil e Chris Redfield não entram nesta montagem. Preservar os oito blocos já produzidos e sincronizar e produzir os quatro restantes em 9:16 e 16:9 quando o usuário enviar o pacote de cada um na etapa de produção. Os episódios anteriores não foram alterados.
+A ordem atual do vídeo é: Lady Dimitrescu, Tifa, Chun-Li, Ankha, Vaporeon, 2B, Tracer, D.Va, Mercy, Lara Croft, Peach e Sonic. Vergil e Chris Redfield não entram nesta montagem. Preservar os nove blocos já produzidos e sincronizar e produzir os três restantes em 9:16 e 16:9 quando o usuário enviar o pacote de cada um na etapa de produção. Os episódios anteriores não foram alterados.
 
 ## Fluxo de mídia desejado
 

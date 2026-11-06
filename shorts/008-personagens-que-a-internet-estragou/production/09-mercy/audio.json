@@ -1,0 +1,11 @@
+{
+  "original_filename": "voz 9 mercy overwatch.mp3",
+  "public_filename": "voz_original.mp3",
+  "sha256": "203b3b60c80d8a9fa6b4330af709f14223b5dd78a00475a42c0b7bd701179bde",
+  "voice_duration": 28.32532879818594,
+  "frames": 696,
+  "speed_changed": false,
+  "pitch_changed": false,
+  "trimmed": false,
+  "alignment": "Provided Mercy narration aligned with local ASR segments. Full original voice preserved; gameplay audio muted."
+}

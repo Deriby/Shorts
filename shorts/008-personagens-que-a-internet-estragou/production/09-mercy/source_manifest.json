@@ -1,0 +1,83 @@
+{
+  "package": "9 - Mercy.zip",
+  "source": "User-provided Google Drive archive",
+  "files": [
+    {
+      "original_filename": "42560a828594e989d123f9f3ade5ad6a.jpg",
+      "bytes": 29638,
+      "sha256": "5c9a1f497cefb960953b9bce366cb883ade9046711322581c6a76215c3383838"
+    },
+    {
+      "original_filename": "83fb716bffe2e09a3b0596415f1425de.jpg",
+      "bytes": 53242,
+      "sha256": "d3c46233b8fa201d0ab6b587a0ffc8aaffd358774236fcd8e59c17a9e35682c9"
+    },
+    {
+      "original_filename": "images (1).jpg",
+      "bytes": 23773,
+      "sha256": "fd4e79f95ffceb9e2155999e87522883b8d151b037b032d5ab24137d94b538c7"
+    },
+    {
+      "original_filename": "images.jpg",
+      "bytes": 29043,
+      "sha256": "83ccf710dfb5d85db14569516a6dee23b5018a6401d0ed57965d7f11adf6f78d"
+    },
+    {
+      "original_filename": "Ljl5zhr-iYNJDFvQ.png",
+      "bytes": 38870,
+      "sha256": "e085c070c9b098e88e70160bf9c6b871aaef9b2735995179d4e4c827ac98f10e"
+    },
+    {
+      "original_filename": "Mercy Ability Overview ¦ Overwatch (1080p_30fps_H264-128kbit_AAC).mp4",
+      "bytes": 33098399,
+      "sha256": "ffed43c0c21c8611266db8e1b8f410a25aaa9822395995843d67ac18a24e0480"
+    },
+    {
+      "original_filename": "Overwatch - Mercy Gameplay Trailer (720p_30fps_H264-128kbit_AAC).mp4",
+      "bytes": 21698910,
+      "sha256": "6caebc1a64c83741753be66e3dbc7a1ae2f971a2b4a46b89cb18d534d1f66e2e"
+    },
+    {
+      "original_filename": "voz 9 mercy overwatch.mp3",
+      "bytes": 1135680,
+      "sha256": "203b3b60c80d8a9fa6b4330af709f14223b5dd78a00475a42c0b7bd701179bde"
+    }
+  ],
+  "video_derivatives": {
+    "mercy_intro.mp4": {
+      "original": "Mercy Ability Overview ¦ Overwatch (1080p_30fps_H264-128kbit_AAC).mp4",
+      "interval": [
+        7.2,
+        10.5
+      ],
+      "description": "Official Mercy introduction with technological wings",
+      "audio_used": false
+    },
+    "mercy_cura.mp4": {
+      "original": "Mercy Ability Overview ¦ Overwatch (1080p_30fps_H264-128kbit_AAC).mp4",
+      "interval": [
+        17,
+        23
+      ],
+      "description": "Actual yellow Caduceus Staff healing beam",
+      "audio_used": false
+    },
+    "mercy_ressurreicao.mp4": {
+      "original": "Mercy Ability Overview ¦ Overwatch (1080p_30fps_H264-128kbit_AAC).mp4",
+      "interval": [
+        68,
+        72.5
+      ],
+      "description": "Original Resurrect demonstration: fallen allies return",
+      "audio_used": false
+    }
+  },
+  "images_published": [
+    "images (1).jpg",
+    "images.jpg",
+    "42560a828594e989d123f9f3ade5ad6a.jpg",
+    "83fb716bffe2e09a3b0596415f1425de.jpg"
+  ],
+  "editorial": "Official Mercy introduction, yellow healing beam and actual Resurrect. The two supplied videos contain the same demonstration at different resolutions; the 1080p version is selected. Clinic, dictionary, opaque preview and INDEFERIDO stamp are authored fiction, not patient data or Blizzard documents. No adult fan image or animation is included.",
+  "unused": "Archive, unselected originals and personal gesture reference remain outside Git."
+}

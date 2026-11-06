@@ -1,0 +1,193 @@
+{
+  "original_geometry_max_displacement_m": 0.0,
+  "face_checks": [
+    {
+      "actor": "DERY | animated character",
+      "frame": 49,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 288,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "TRIAGE | Dery",
+      "frame": 411,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "TRIAGE | Dery",
+      "frame": 442,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "TRIAGE | Dery",
+      "frame": 500,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "TRIAGE | Dery",
+      "frame": 540,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "TRIAGE | Dery",
+      "frame": 630,
+      "max_facial_split_m": 0.0
+    },
+    {
+      "actor": "TRIAGE | Dery",
+      "frame": 680,
+      "max_facial_split_m": 0.0
+    }
+  ],
+  "precision_checks": [
+    {
+      "actor": "DERY | animated character",
+      "frame": 49,
+      "max_precision_displacement_m": 0.0059795910849637654
+    },
+    {
+      "actor": "DERY | animated character",
+      "frame": 288,
+      "max_precision_displacement_m": 0.0059348495547283334
+    },
+    {
+      "actor": "TRIAGE | Dery",
+      "frame": 411,
+      "max_precision_displacement_m": 0.012793429502527076
+    },
+    {
+      "actor": "TRIAGE | Dery",
+      "frame": 442,
+      "max_precision_displacement_m": 0.012793429502527076
+    },
+    {
+      "actor": "TRIAGE | Dery",
+      "frame": 500,
+      "max_precision_displacement_m": 0.004218195210046649
+    },
+    {
+      "actor": "TRIAGE | Dery",
+      "frame": 540,
+      "max_precision_displacement_m": 0.012793429502527076
+    },
+    {
+      "actor": "TRIAGE | Dery",
+      "frame": 630,
+      "max_precision_displacement_m": 0.004218195210046649
+    },
+    {
+      "actor": "TRIAGE | Dery",
+      "frame": 680,
+      "max_precision_displacement_m": 0.004218195210046649
+    }
+  ],
+  "seated_pelvis_stable": true,
+  "triage_seated_support_stable": true,
+  "arm_checks": [
+    {
+      "frame": 49,
+      "side": "R",
+      "reach_m": 0.2954440459996866,
+      "target_error_m": 0.00023403791284963956
+    },
+    {
+      "frame": 49,
+      "side": "L",
+      "reach_m": 0.36028220638674635,
+      "target_error_m": 0.0001961776688508989
+    },
+    {
+      "frame": 288,
+      "side": "R",
+      "reach_m": 0.30043238528137395,
+      "target_error_m": 0.00022516051201510948
+    },
+    {
+      "frame": 288,
+      "side": "L",
+      "reach_m": 0.3083874368910141,
+      "target_error_m": 0.0002595054467496047
+    }
+  ],
+  "triage_arm_checks": [
+    {
+      "frame": 411,
+      "side": "R",
+      "reach_m": 0.3025592455063692,
+      "target_error_m": 0.00025400666756254374
+    },
+    {
+      "frame": 411,
+      "side": "L",
+      "reach_m": 0.3602829986824806,
+      "target_error_m": 0.00023145297110104113
+    },
+    {
+      "frame": 442,
+      "side": "R",
+      "reach_m": 0.36392510590837124,
+      "target_error_m": 0.00019261160954314114
+    },
+    {
+      "frame": 442,
+      "side": "L",
+      "reach_m": 0.3435937474867928,
+      "target_error_m": 0.00027687723430983583
+    },
+    {
+      "frame": 500,
+      "side": "R",
+      "reach_m": 0.36392510590837124,
+      "target_error_m": 0.00019261160954314114
+    },
+    {
+      "frame": 500,
+      "side": "L",
+      "reach_m": 0.36180779605149593,
+      "target_error_m": 0.0002356128752135878
+    },
+    {
+      "frame": 540,
+      "side": "R",
+      "reach_m": 0.30003419596764686,
+      "target_error_m": 0.00024675931328508715
+    },
+    {
+      "frame": 540,
+      "side": "L",
+      "reach_m": 0.3334207086549414,
+      "target_error_m": 0.0002811564235603977
+    },
+    {
+      "frame": 630,
+      "side": "R",
+      "reach_m": 0.35936315240974503,
+      "target_error_m": 0.00019691951214770845
+    },
+    {
+      "frame": 630,
+      "side": "L",
+      "reach_m": 0.36116030894232654,
+      "target_error_m": 0.00023451392192123366
+    },
+    {
+      "frame": 680,
+      "side": "R",
+      "reach_m": 0.35936315240974503,
+      "target_error_m": 0.00019691951214770845
+    },
+    {
+      "frame": 680,
+      "side": "L",
+      "reach_m": 0.36116030894232654,
+      "target_error_m": 0.00023451392192123366
+    }
+  ],
+  "monitor_frames": 696,
+  "monitor_auto_refresh": true,
+  "expressions": "31 PNG faces, discrete changes, no active morphs",
+  "acting": "Non-periodic phrase gestures with asymmetric strokes, holds and releases"
+}

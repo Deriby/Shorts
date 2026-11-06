@@ -1,0 +1,18 @@
+{
+  "video": "Mercy_Personagens_que_a_internet_estragou_16x9.mp4",
+  "frames": 696,
+  "duration": 29.0,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "codec": "H.264 + AAC",
+  "size_bytes": 21207221,
+  "full_decode": "passed",
+  "voice_original_sha256": "203b3b60c80d8a9fa6b4330af709f14223b5dd78a00475a42c0b7bd701179bde",
+  "voice_unmodified": true,
+  "monitor_frames": 696,
+  "scene_checks": "passed",
+  "ps1_palette": "5-bit RGB with fixed 4x4 ordered Bayer pattern, integer nearest-neighbor upscale"
+}
