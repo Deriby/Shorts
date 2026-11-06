@@ -1,0 +1,68 @@
+{
+  "full_decode": "passed",
+  "prefix_h264_image_payload_preserved": true,
+  "reference_vcl_sha256": "55ac346db0abe11b7ee74e52ca82aab4b89ace931afe8db6b717ac4c49629e38",
+  "final_prefix_vcl_sha256": "55ac346db0abe11b7ee74e52ca82aab4b89ace931afe8db6b717ac4c49629e38",
+  "reference_frames_preserved": 17549,
+  "prefix_audio": {
+    "samples_per_channel": 12898515,
+    "correlation": 0.9995855689048767,
+    "rms_error": 0.004115583840757608
+  },
+  "continuation_audio": {
+    "samples_per_channel": 11090415,
+    "correlation": 0.9997648000717163,
+    "rms_error": 0.0030536868143826723
+  },
+  "episodes": [
+    {
+      "episode": "07-tracer",
+      "samples_per_channel": 1106175,
+      "correlation": 0.9998891949653625,
+      "rms_error": 0.0020134071819484234
+    },
+    {
+      "episode": "08-dva",
+      "samples_per_channel": 1844850,
+      "correlation": 0.9999236464500427,
+      "rms_error": 0.0017746522789821029
+    },
+    {
+      "episode": "09-mercy",
+      "samples_per_channel": 1278900,
+      "correlation": 0.9998753070831299,
+      "rms_error": 0.001997430110350251
+    },
+    {
+      "episode": "10-lara-croft",
+      "samples_per_channel": 1646400,
+      "correlation": 0.9999287724494934,
+      "rms_error": 0.0016381166642531753
+    },
+    {
+      "episode": "11-peach",
+      "samples_per_channel": 1642725,
+      "correlation": 0.9999090433120728,
+      "rms_error": 0.0019156734924763441
+    },
+    {
+      "episode": "12-sonic",
+      "samples_per_channel": 1542030,
+      "correlation": 0.9999182820320129,
+      "rms_error": 0.0015985153149813414
+    },
+    {
+      "episode": "13-encerramento",
+      "samples_per_channel": 935655,
+      "correlation": 0.999943733215332,
+      "rms_error": 0.0014905992429703474
+    }
+  ],
+  "video_frames": "32638",
+  "duration": "544.009000",
+  "video_audio_duration_difference": 0.006990999999970882,
+  "original_episode_masters_modified": false,
+  "voice_speed_changed": false,
+  "voice_pitch_changed": false,
+  "native_filmora_plugins_executed": false
+}

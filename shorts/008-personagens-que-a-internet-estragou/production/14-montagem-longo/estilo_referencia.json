@@ -1,0 +1,25 @@
+{
+  "source": "User edited MP4 + Filmora 14.9.3 project from Google Drive",
+  "edited_until": "End of 2B; black tail until 292.483 s",
+  "reference_sha256": "de079118eb14dbbe16d29b916de687f0ef2029e449e15e97a73b933f0551bc06",
+  "observed": [
+    "4.133-second chapter cards with centred portrait, yellow italic type and tape HUD",
+    "Short musical sting during chapter cards",
+    "Music changes between character blocks",
+    "Selective reframing at punchlines; meme inserts already integrated into approved episodes",
+    "Original 1080p export at 60fps, with 24fps animation underneath"
+  ],
+  "applied": [
+    "Original MP4 prefix copied without video re-encoding",
+    "Six new chapter cards, same timing and extracted sting",
+    "Stereo-side instrumentals extracted from supplied reference; no downloaded or generated music",
+    "New narration at original pitch and speed, complete recordings",
+    "Native 640x360 nearest-neighbour reframing on selected reactions",
+    "Completed outro in 16:9"
+  ],
+  "limits": [
+    "Filmora proprietary VHS/glow/title plugins are approximated in newly rendered cards, not executed on Linux.",
+    "Extracted instrumentals retain stereo-side content only; they do not reproduce the full original music stems.",
+    "The user edited prefix is preserved as supplied."
+  ]
+}

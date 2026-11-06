@@ -1,0 +1,32 @@
+{
+  "user_package": {
+    "url": "https://drive.google.com/file/d/1AyEhvIPAr8xLV-faK39wtdA9NVkE4XDJ/view",
+    "rendered_reference": "assets/Edicao_usuario_ate_2B.mp4",
+    "project_reference": "assets/Referencia_Filmora_original.wfp"
+  },
+  "audio_extractions": [
+    {
+      "output": "assets/instrumental_referencia_a.wav",
+      "start": 80,
+      "duration": 23,
+      "operation": "(L-R)/2, mono; voice removed from centre",
+      "title_from_filmora": "PilotRedSun - Cooped Up (Coop theme) Original Loop extended.mp3"
+    },
+    {
+      "output": "assets/instrumental_referencia_b.wav",
+      "start": 154,
+      "duration": 37,
+      "operation": "(L-R)/2, mono; voice removed from centre",
+      "title_from_filmora": "pilotredsky-the-scuffler-128-ytshorts.savetube.me.mp3"
+    },
+    {
+      "output": "assets/vinheta_referencia.wav",
+      "start": 248.4,
+      "duration": 4.133333333333334,
+      "operation": "Stereo extraction from supplied 2B chapter card",
+      "title_from_filmora": "Outro.mp3; author not identified in project"
+    }
+  ],
+  "new_visuals": "Chapter graphics composed from existing approved, non-explicit episode media; no external downloads.",
+  "characters_and_voice": "Approved 16:9 masters and full voice WAVs in 07-tracer through 13-encerramento; originals unchanged."
+}

@@ -147,6 +147,14 @@ Décimo segundo e último bloco da seleção atual: **Sonic**, produzido com voz
 
 A ordem atual do vídeo é: Lady Dimitrescu, Tifa, Chun-Li, Ankha, Vaporeon, 2B, Tracer, D.Va, Mercy, Lara Croft, Peach e Sonic. Vergil e Chris Redfield não entram nesta montagem. Os doze blocos estão produzidos em 9:16 e 16:9 e ficam preservados para a montagem do longo. Os episódios anteriores não foram alterados.
 
+## Montagem do vídeo longo
+
+A edição enviada pelo usuário vai até a 2B (4:52,483), com vinhetas por personagem, nomes amarelos, trilha e reenquadramentos de humor. A montagem continua desse ponto com Tracer, D.Va, Mercy, Lara Croft, Peach, Sonic e o encerramento. O trecho recebido é preservado sem recodificação de imagem; as animações anteriores também ficam intactas.
+
+- [Vídeo completo 16:9](production/14-montagem-longo/output/Personagens_que_a_internet_ESTRAGOU_Completo_16x9.mp4).
+- [Continuação separada para importar no Filmora](production/14-montagem-longo/output/Continuacao_Tracer_ao_Encerramento_16x9.mp4).
+- [Referência, arquivos e verificações da montagem](production/14-montagem-longo/README.md).
+
 ## Fluxo de mídia desejado
 
 Objetivo futuro: depois de fechar o roteiro, o usuário pretende enviar apenas a voz, deixando a aquisição de referências visuais com o agente. **Decisão atual:** enquanto esse acesso não estiver disponível, o usuário baixará e enviará os materiais manualmente, como nos episódios anteriores. Seguir com esse fluxo sem insistir em configuração da plataforma ou execução local.

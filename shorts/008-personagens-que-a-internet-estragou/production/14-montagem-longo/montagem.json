@@ -1,0 +1,515 @@
+{
+  "reference_drive_id": "1AyEhvIPAr8xLV-faK39wtdA9NVkE4XDJ",
+  "reference_duration": 292.483,
+  "reference_video_reencoded": false,
+  "reference_audio_reencoded_for_delivery": true,
+  "reference_exact_frames": 17549,
+  "fps": 60,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "chapter_card_seconds": 4.133333333333334,
+  "episodes": [
+    {
+      "folder": "07-tracer",
+      "master": "07-tracer/output/Tracer_Personagens_que_a_internet_estragou_16x9.mp4",
+      "duration": 25.083333333333332,
+      "zooms": [
+        [
+          17.8,
+          19.9
+        ],
+        [
+          21.7,
+          24.7
+        ]
+      ],
+      "audio": {
+        "voice_samples": 1076677,
+        "voice_gain": 1,
+        "voice_speed": 1,
+        "voice_pitch_changed": false,
+        "music_source": "stereo side of supplied reference, centred for mono compatibility",
+        "music_rms_dbfs": -34,
+        "peak": 0.8996915817260742
+      }
+    },
+    {
+      "folder": "08-dva",
+      "master": "08-dva/output/DVa_Personagens_que_a_internet_estragou_16x9.mp4",
+      "duration": 41.833333333333336,
+      "zooms": [
+        [
+          23.92,
+          26.38
+        ],
+        [
+          35.8,
+          38.08
+        ]
+      ],
+      "audio": {
+        "voice_samples": 1815926,
+        "voice_gain": 1,
+        "voice_speed": 1,
+        "voice_pitch_changed": false,
+        "music_source": "stereo side of supplied reference, centred for mono compatibility",
+        "music_rms_dbfs": -34,
+        "peak": 0.9088354706764221
+      }
+    },
+    {
+      "folder": "09-mercy",
+      "master": "09-mercy/output/Mercy_Personagens_que_a_internet_estragou_16x9.mp4",
+      "duration": 29.0,
+      "zooms": [
+        [
+          21.5,
+          23.25
+        ],
+        [
+          26.17,
+          28.75
+        ]
+      ],
+      "audio": {
+        "voice_samples": 1249147,
+        "voice_gain": 1,
+        "voice_speed": 1,
+        "voice_pitch_changed": false,
+        "music_source": "stereo side of supplied reference, centred for mono compatibility",
+        "music_rms_dbfs": -34,
+        "peak": 0.8921251893043518
+      }
+    },
+    {
+      "folder": "10-lara-croft",
+      "master": "10-lara-croft/output/Lara_Personagens_que_a_internet_estragou_16x9.mp4",
+      "duration": 37.333333333333336,
+      "zooms": [
+        [
+          11.21,
+          13.25
+        ],
+        [
+          34.5,
+          37.1
+        ]
+      ],
+      "audio": {
+        "voice_samples": 1616618,
+        "voice_gain": 1,
+        "voice_speed": 1,
+        "voice_pitch_changed": false,
+        "music_source": "stereo side of supplied reference, centred for mono compatibility",
+        "music_rms_dbfs": -34,
+        "peak": 0.9202678799629211
+      }
+    },
+    {
+      "folder": "11-peach",
+      "master": "11-peach/output/Peach_Personagens_que_a_internet_estragou_16x9.mp4",
+      "duration": 37.25,
+      "zooms": [
+        [
+          12.58,
+          14
+        ],
+        [
+          34.83,
+          37
+        ]
+      ],
+      "audio": {
+        "voice_samples": 1612435,
+        "voice_gain": 1,
+        "voice_speed": 1,
+        "voice_pitch_changed": false,
+        "music_source": "stereo side of supplied reference, centred for mono compatibility",
+        "music_rms_dbfs": -34,
+        "peak": 0.9344449043273926
+      }
+    },
+    {
+      "folder": "12-sonic",
+      "master": "12-sonic/output/Sonic_Personagens_que_a_internet_estragou_16x9.mp4",
+      "duration": 34.96666666666667,
+      "zooms": [
+        [
+          14.08,
+          16.29
+        ],
+        [
+          21.58,
+          23.71
+        ]
+      ],
+      "audio": {
+        "voice_samples": 1511276,
+        "voice_gain": 1,
+        "voice_speed": 1,
+        "voice_pitch_changed": false,
+        "music_source": "stereo side of supplied reference, centred for mono compatibility",
+        "music_rms_dbfs": -34,
+        "peak": 0.8818787336349487
+      }
+    },
+    {
+      "folder": "13-encerramento",
+      "master": "13-encerramento/output/Encerramento_Personagens_que_a_internet_estragou_16x9.mp4",
+      "duration": 21.216666666666665,
+      "zooms": [],
+      "audio": {
+        "voice_samples": 880128,
+        "voice_gain": 1,
+        "voice_speed": 1,
+        "voice_pitch_changed": false,
+        "music_source": "stereo side of supplied reference, centred for mono compatibility",
+        "music_rms_dbfs": -34,
+        "peak": 0.9598236680030823
+      }
+    }
+  ],
+  "segments": [
+    "cartela_07-tracer.mp4",
+    "07-tracer_editado.mp4",
+    "cartela_08-dva.mp4",
+    "08-dva_editado.mp4",
+    "cartela_09-mercy.mp4",
+    "09-mercy_editado.mp4",
+    "cartela_10-lara-croft.mp4",
+    "10-lara-croft_editado.mp4",
+    "cartela_11-peach.mp4",
+    "11-peach_editado.mp4",
+    "cartela_12-sonic.mp4",
+    "12-sonic_editado.mp4",
+    "13-encerramento_editado.mp4"
+  ],
+  "final_probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1080,
+        "closed_captions": 0,
+        "film_grain": 0,
+        "has_b_frames": 2,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "16:9",
+        "pix_fmt": "yuv420p",
+        "level": 41,
+        "color_range": "tv",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709",
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "32638000/543973",
+        "time_base": "1/60000",
+        "start_pts": 2160,
+        "start_time": "0.036000",
+        "duration_ts": 32638380,
+        "duration": "543.973000",
+        "bit_rate": "10507238",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "32638",
+        "extradata_size": 49,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "eng",
+          "handler_name": "\fVideoHandler",
+          "vendor_id": "[0][0][0][0]",
+          "encoder": "h264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "sample_fmt": "fltp",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/44100",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 23988901,
+        "duration": "543.966009",
+        "bit_rate": "193885",
+        "nb_frames": "23428",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      },
+      {
+        "index": 2,
+        "codec_name": "bin_data",
+        "codec_long_name": "binary data",
+        "codec_type": "data",
+        "codec_tag_string": "text",
+        "codec_tag": "0x74786574",
+        "id": "0x3",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/1000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 543967,
+        "duration": "543.967000",
+        "bit_rate": "4",
+        "nb_frames": "14",
+        "extradata_size": 63,
+        "disposition": {
+          "default": 0,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "eng",
+          "handler_name": "SubtitleHandler"
+        }
+      }
+    ],
+    "format": {
+      "filename": "/workspace/Shorts/shorts/008-personagens-que-a-internet-estragou/production/14-montagem-longo/output/Personagens_que_a_internet_ESTRAGOU_Completo_16x9.mp4",
+      "nb_streams": 3,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "544.009000",
+      "size": "728525759",
+      "bit_rate": "10713436",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf61.7.103"
+      }
+    }
+  },
+  "tail_probe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1080,
+        "closed_captions": 0,
+        "film_grain": 0,
+        "has_b_frames": 2,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "16:9",
+        "pix_fmt": "yuv420p",
+        "level": 42,
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "time_base": "1/60000",
+        "start_pts": 1380,
+        "start_time": "0.023000",
+        "duration_ts": 15089000,
+        "duration": "251.483333",
+        "bit_rate": "5364746",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "15089",
+        "extradata_size": 47,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "vendor_id": "[0][0][0][0]",
+          "encoder": "Lavc61.19.101 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "sample_fmt": "fltp",
+        "sample_rate": "44100",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/44100",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 11090400,
+        "duration": "251.482993",
+        "bit_rate": "192034",
+        "nb_frames": "10832",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      }
+    ],
+    "format": {
+      "filename": "/workspace/Shorts/shorts/008-personagens-que-a-internet-estragou/production/14-montagem-longo/output/Continuacao_Tracer_ao_Encerramento_16x9.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "251.506333",
+      "size": "175094267",
+      "bit_rate": "5569458",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf61.7.103"
+      }
+    }
+  }
+}
