@@ -96,16 +96,15 @@ def global_look(frame,t,card=False):
     bright=np.maximum(f-.55,0)/.45
     glow=np.asarray(Image.fromarray(np.uint8(bright*255)).filter(ImageFilter.GaussianBlur(1.25))).astype(np.float32)/255
     f=np.clip(f+.40*(1-f)*glow,0,1)
-    dx=1.0*math.sin(t*2*math.pi*5)+1.7*math.sin(t*2*math.pi*8+.9)
-    dy=.5*math.sin(t*2*math.pi*5+1.3)+1.0*math.sin(t*2*math.pi*8+2.1)
-    a=np.pad(np.uint8(np.clip(f,0,1)*255),((4,4),(4,4),(0,0)),mode='reflect')
-    return np.asarray(Image.fromarray(a).transform((640,360),Image.Transform.AFFINE,
-        (1,0,4-dx,0,1,4-dy),resample=Image.Resampling.BILINEAR))
+    # The user rejected the simulated whole-screen oscillation. The PS1
+    # geometry motion is already present in the approved master frames.
+    return np.uint8(np.clip(f,0,1)*255)
 
 def render_preview():
     poster=Image.open(MEDIA/'tracer_retrato.jpg').convert('RGB')
     logo=Image.open(MEDIA/'tracer_logo_3d.png').convert('RGBA');logo.thumbnail((230,154),Image.Resampling.LANCZOS)
     hud=ImageFont.truetype(MONO,9)
+    poster_scaled=poster.resize((round(640*2400/3508),640),Image.Resampling.LANCZOS)
     xx,yy=np.meshgrid(np.linspace(-1,1,640),np.linspace(-1,1,360))
     vignette=np.clip(1-.7*np.maximum(abs(xx)-.48,0)/.52,0,1)[...,None]
     out=OUT/'Teste_Tracer_Estilo_15s_16x9.mp4'
@@ -116,9 +115,7 @@ def render_preview():
     for i in range(248):
         t=i/60
         c=Image.new('RGB',(640,360),(12,12,16))
-        ph=640;pw=round(ph*2400/3508)
-        p=poster.resize((pw,ph),Image.Resampling.LANCZOS)
-        c.paste(p,((640-pw)//2,round(-235+t/CARD*200)))
+        c.paste(poster_scaled,((640-poster_scaled.width)//2,round(-235+t/CARD*200)))
         layer=Image.new('RGBA',(640,360));d=ImageDraw.Draw(layer)
         for y in range(0,360,3):d.line((0,y,640,y),fill=(0,0,0,18))
         c=Image.alpha_composite(c.convert('RGBA'),layer)
@@ -325,6 +322,7 @@ def main():
         'source_start':SOURCE_START,'source_end':SOURCE_START+BODY,'voice_speed':1,'voice_pitch_changed':False,
         'recovered_music':json.loads((P/'recuperacao_trilha.json').read_text()),
         'native_effects_copied':True,'native_project_tested_in_filmora':False,'preview_plugins':'approximated',
+        'preview_added_screen_oscillation':False,
         'original_masters_changed':False,'shot_changes':SHOTS,'outputs':[preview.name,project.name,bundle.name]}
     (P/'producao.json').write_text(json.dumps(report,ensure_ascii=False,indent=2))
     print('READY',bundle,flush=True)

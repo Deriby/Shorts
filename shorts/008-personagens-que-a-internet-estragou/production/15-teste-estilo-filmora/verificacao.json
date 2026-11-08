@@ -12,5 +12,11 @@
   "native_chapter_effect_chain_exact_copy": true,
   "filmora_application_open_test": "not performed; requires user Filmora",
   "native_render_equivalent_to_mp4": false,
-  "original_long_and_masters_modified": false
+  "original_long_and_masters_modified": false,
+  "preview_added_screen_oscillation": false,
+  "preview_static_input_temporally_stable": true,
+  "audio_payload_unchanged_from_previous_preview": true,
+  "audio_payload_sha256": "340fe7f633926839f9b74b6cf7e1050813cadcdfd0cc87ba0f4400eeb6b239d2",
+  "native_paid_effects_preserved": true,
+  "native_wfp_bundle_unchanged": true
 }

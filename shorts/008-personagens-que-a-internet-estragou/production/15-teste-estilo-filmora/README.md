@@ -22,6 +22,8 @@ A vinheta usa um título com extrusão dourada e retrato com movimento vertical 
 
 O **MP4 aproxima os plugins** com composição por código. Ele serve para assistir ao ritmo e à proposta visual imediatamente. A renderização dos plugins nativos ficará por conta do teste do WFP no Filmora; não afirmar que os dois renders são idênticos.
 
+O usuário rejeitou a oscilação artificial da tela na primeira prévia. A versão atual do MP4 remove esse deslocamento; o movimento PS1 já existente nos modelos permanece. O usuário confirmou que tem o Filmora pago e autorizou manter os plugins pagos no WFP, que continua com os efeitos nativos originais. A licença não foi uma limitação usada para escolher os efeitos desta produção.
+
 ## Voz e música
 
 A vinheta tem 248 quadros a 60 fps (4,133 s). Em seguida entram os 10,867 s finais da entrevista, entre 13,917 e 24,783 s do master da Tracer. O trecho começa em “Tinha gente…” e contém a piada completa. A voz mantém tom, velocidade e ganho originais.
