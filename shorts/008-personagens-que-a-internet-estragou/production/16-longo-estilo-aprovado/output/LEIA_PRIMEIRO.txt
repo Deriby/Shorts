@@ -1,0 +1,9 @@
+RESTANTE DO LONGO — ESTILO APROVADO
+
+Este projeto contém Tracer, D.Va, Mercy, Lara Croft, Peach, Sonic e o encerramento.
+Extraia o ZIP e abra Restante_Estilo_Aprovado.wfp no Filmora. Se pedir arquivos, localize o primeiro na pasta midias.
+Todos têm nomes únicos. Voz, música, retrato, logo e vídeo estão separados.
+Plugins pagos foram preservados. Text Vibrate e transições de tremido ficam desativados para seguir a amostra aprovada.
+O aplicativo Filmora não está disponível no ambiente de produção: a abertura deste WFP ainda requer validação no seu PC.
+O MP4 completo já inclui a sua edição até a 2B. Este WFP é somente o restante para facilitar os ajustes.
+Para usar no seu projeto anterior, exporte o restante ajustado e acrescente em 4:52,483.

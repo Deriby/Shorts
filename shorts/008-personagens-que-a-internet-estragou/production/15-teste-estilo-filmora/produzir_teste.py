@@ -168,7 +168,7 @@ def transform(c,z0,z1,fx,fy,start,end):
         e['paramMapList'].append({'key':3,'name':name,'keyFrame':{'parameter':json.dumps(data,separators=(',',':'))}})
     for chain in c['effectChainList'][1:]:chain['effectList']=[]
 
-def make_project():
+def make_project(total_duration=15.0, project_name='Teste_Tracer_15s'):
     with zipfile.ZipFile(REFERENCE)as z:original={n:z.read(n)for n in z.namelist()}
     main_path=f'ProjectFolder/Medias/{MAIN_ID}/timeline.wesproj'
     v=json.loads(original[main_path]);old=copy.deepcopy(v)
@@ -245,7 +245,7 @@ def make_project():
     exact=[]
     for i in [12,14,16]:
         c=copy.deepcopy(old['timelineInfos'][0]['trackInfos'][i]['clipList'][0])
-        c.update(tlBegin=0,tlEnd=ticks(15),outPoint=c['inPoint']+ticks(15))
+        c.update(tlBegin=0,tlEnd=ticks(total_duration),outPoint=c['inPoint']+ticks(total_duration))
         tracks[i]['clipList']=[c]
         exact.append(c['effectChainList'])
     nested=[]
@@ -259,14 +259,14 @@ def make_project():
     v.update(resources=resources,timelineInfos=[main,*nested],currentTimelineId=46)
     original[main_path]=json.dumps(v,separators=(',',':')).encode()
     meta=json.loads(original['ProjectFolder/project_info.json'])
-    meta.update(project_file_name='Teste_Tracer_15s',project_timeline_duration=ticks(15),project_current_position=0,
-                proj_zip_save_path='Teste_Tracer_15s.wfp',proj_cover_proj_path='',project_custom_cover=False)
+    meta.update(project_file_name=project_name,project_timeline_duration=ticks(total_duration),project_current_position=0,
+                proj_zip_save_path=project_name+'.wfp',proj_cover_proj_path='',project_custom_cover=False)
     original['ProjectFolder/project_info.json']=json.dumps(meta).encode()
     extra_path=f'ProjectFolder/Medias/{MAIN_ID}/extra.json'
     extra=json.loads(original[extra_path])
     original[extra_path]=json.dumps(extra).encode()
     items={MAIN_ID:{'name':'Teste Tracer 15s','id':MAIN_ID,'timeline_uuid':'{8F460D3A-5E28-481e-A846-4717CCFFE1AB}',
-             'media_type':1048576,'duration':ticks(15),'download_url':'','enable_modify_mediaId':0}}
+             'media_type':1048576,'duration':ticks(total_duration),'download_url':'','enable_modify_mediaId':0}}
     media_ids=[]
     # Compound clips have media IDs in addition to their timeline IDs.
     compound_ids=[media_link(card)]
@@ -290,7 +290,7 @@ def make_project():
     # Filmora serializes repeated media_item keys, not a JSON array. Preserve that convention.
     struct='{"media_structure":{"Folder":{'+','.join('"media_item":'+json.dumps(m)for m in [*media_ids,*compound_ids])+'},"media_item":'+json.dumps(MAIN_ID)+'},"media_items":'+json.dumps(items)+'}'
     original['ProjectFolder/Medias/medias_info.json']=struct.encode()
-    project=OUT/'Teste_Tracer_15s.wfp'
+    project=OUT/(project_name+'.wfp')
     with zipfile.ZipFile(project,'w',zipfile.ZIP_DEFLATED)as z:
         for name,data in original.items():z.writestr(name,data)
     (P/'efeitos_nativos_copiados.json').write_text(json.dumps({'global_effect_chains':exact,'chapter_effect_chain':card['effectChainList'],

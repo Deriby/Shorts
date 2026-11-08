@@ -1,0 +1,28 @@
+{
+  "zip_integrity": "passed",
+  "all_media_links_bundled": true,
+  "all_full_voice_pcm_preserved": true,
+  "native_timelines": 13,
+  "disabled_shake_instances": 26,
+  "available_plugins": [
+    "",
+    "Aesthetic Style Overlay 02 16-9",
+    "Glow",
+    "Pixelate",
+    "Text Vibrate",
+    "VHS And Glitch Effect Vol 01 Overlay 02",
+    "VHS Distortion",
+    "Vortex Rings",
+    "change_channel",
+    "crop-pan-zoom",
+    "ducking",
+    "equalizer",
+    "fade",
+    "matchcolorV2",
+    "retro effect 4",
+    "transform",
+    "volume"
+  ],
+  "video_coverage_max_gap_100ns": 1,
+  "filmora_application_open_test": "pending on user computer"
+}

@@ -151,11 +151,12 @@ A ordem atual do vídeo é: Lady Dimitrescu, Tifa, Chun-Li, Ankha, Vaporeon, 2B,
 
 A edição enviada pelo usuário vai até a 2B (4:52,483), com vinhetas por personagem, nomes amarelos, trilha e reenquadramentos de humor. A montagem continua desse ponto com Tracer, D.Va, Mercy, Lara Croft, Peach, Sonic e o encerramento. O trecho recebido é preservado sem recodificação de imagem; as animações anteriores também ficam intactas.
 
-- [Vídeo completo 16:9](production/14-montagem-longo/output/Personagens_que_a_internet_ESTRAGOU_Completo_16x9.mp4).
-- [Continuação separada para importar no Filmora](production/14-montagem-longo/output/Continuacao_Tracer_ao_Encerramento_16x9.mp4).
-- [Referência, arquivos e verificações da montagem](production/14-montagem-longo/README.md).
+- [Vídeo completo 16:9 — estilo aprovado](production/16-longo-estilo-aprovado/output/Personagens_que_a_internet_ESTRAGOU_Estilo_Aprovado_16x9.mp4).
+- [Continuação separada — Tracer ao encerramento](production/16-longo-estilo-aprovado/output/Restante_Tracer_ao_Encerramento_Estilo_Aprovado_16x9.mp4).
+- [Projeto Filmora do restante, com mídias](production/16-longo-estilo-aprovado/output/Restante_Estilo_Aprovado_Filmora.zip).
+- [Arquivos e verificações da versão aprovada](production/16-longo-estilo-aprovado/README.md).
 
-O usuário considerou a continuação diferente do seu estilo. O [teste posterior de 15 segundos da Tracer](production/15-teste-estilo-filmora/README.md) entrega uma nova prévia e um pacote WFP experimental com as configurações nativas copiadas. A abertura no Filmora aguarda validação; o longo anterior fica preservado até o retorno sobre a amostra.
+O usuário considerou a primeira continuação diferente do seu estilo. Depois aprovou o [teste corrigido de 15 segundos da Tracer](production/15-teste-estilo-filmora/README.md), sem oscilação artificial da tela, e pediu o restante completo nesse padrão. A versão 16 aplica essa direção de Tracer ao encerramento e mantém os plugins pagos no projeto, com o tremido da tela desativado. A abertura do WFP no Filmora ainda requer validação no computador do usuário. A [montagem anterior](production/14-montagem-longo/README.md) permanece preservada.
 
 ## Fluxo de mídia desejado
 

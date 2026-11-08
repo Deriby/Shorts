@@ -1,0 +1,95 @@
+{
+  "full_decode": "passed",
+  "prefix_h264_picture_payload_preserved": true,
+  "prefix_vcl_sha256": "a57efc87a51bee5fe2207797dc1be6f4d902cd0e972dce5fe8b6ef0204e006aa",
+  "reference_frames_preserved": 17549,
+  "screen_oscillation_added": false,
+  "static_processing_temporally_stable": true,
+  "prefix_audio": {
+    "samples": 12898515,
+    "correlation": 0.9995855689048767,
+    "rms_error": 0.004115583840757608
+  },
+  "continuation_audio": {
+    "samples": 11088945,
+    "correlation": 0.999617338180542,
+    "rms_error": 0.003927106037735939
+  },
+  "episodes": [
+    {
+      "folder": "07-tracer",
+      "samples": 1106175,
+      "correlation": 0.9997424483299255,
+      "rms_error": 0.003132217563688755
+    },
+    {
+      "folder": "08-dva",
+      "samples": 1844850,
+      "correlation": 0.9998020529747009,
+      "rms_error": 0.002910297829657793
+    },
+    {
+      "folder": "09-mercy",
+      "samples": 1278900,
+      "correlation": 0.9997372627258301,
+      "rms_error": 0.0029768510721623898
+    },
+    {
+      "folder": "10-lara-croft",
+      "samples": 1646400,
+      "correlation": 0.9997973442077637,
+      "rms_error": 0.002824923489242792
+    },
+    {
+      "folder": "11-peach",
+      "samples": 1642725,
+      "correlation": 0.9997817873954773,
+      "rms_error": 0.003020425094291568
+    },
+    {
+      "folder": "12-sonic",
+      "samples": 1541295,
+      "correlation": 0.9997709393501282,
+      "rms_error": 0.002719398122280836
+    },
+    {
+      "folder": "13-encerramento",
+      "samples": 934920,
+      "correlation": 0.9998021721839905,
+      "rms_error": 0.0028214608319103718
+    }
+  ],
+  "video_frames": 32636,
+  "duration": "543.933000",
+  "audio_video_duration_difference": 0.016326000000049135,
+  "native_project": {
+    "zip_integrity": "passed",
+    "all_media_links_bundled": true,
+    "all_full_voice_pcm_preserved": true,
+    "native_timelines": 13,
+    "disabled_shake_instances": 26,
+    "available_plugins": [
+      "",
+      "Aesthetic Style Overlay 02 16-9",
+      "Glow",
+      "Pixelate",
+      "Text Vibrate",
+      "VHS And Glitch Effect Vol 01 Overlay 02",
+      "VHS Distortion",
+      "Vortex Rings",
+      "change_channel",
+      "crop-pan-zoom",
+      "ducking",
+      "equalizer",
+      "fade",
+      "matchcolorV2",
+      "retro effect 4",
+      "transform",
+      "volume"
+    ],
+    "video_coverage_max_gap_100ns": 1,
+    "filmora_application_open_test": "pending on user computer"
+  },
+  "source_masters_modified": false,
+  "voice_speed_or_pitch_changed": false
+}

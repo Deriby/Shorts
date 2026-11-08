@@ -1,0 +1,29 @@
+[
+  {
+    "id": "a",
+    "title_from_user_project": "Cooped Up",
+    "reference_start": 79.5,
+    "duration": 12.0,
+    "voice_alignment_samples": 0,
+    "voice_subtraction_gain": 0.9968959093093872,
+    "original_residual_rms": 0.024529995396733284
+  },
+  {
+    "id": "b",
+    "title_from_user_project": "The Scuffler",
+    "reference_start": 156,
+    "duration": 24.0,
+    "voice_alignment_samples": 0,
+    "voice_subtraction_gain": 0.9978592991828918,
+    "original_residual_rms": 0.02745220810174942
+  },
+  {
+    "id": "c",
+    "title_from_user_project": "Bully — Searching",
+    "reference_start": 112,
+    "duration": 12.0,
+    "voice_alignment_samples": 0,
+    "voice_subtraction_gain": 0.9990352392196655,
+    "original_residual_rms": 0.02070550248026848
+  }
+]
