@@ -1,0 +1,16 @@
+{
+  "archive_crc_and_media_sha256": "passed",
+  "original_project_byte_preserved": true,
+  "continuation_project_byte_preserved": true,
+  "original_edit_clips_preserved_except_relinked_paths": true,
+  "original_child_timelines_preserved": true,
+  "continuation_clips_shifted_by_original_duration": true,
+  "timelines": 40,
+  "media_files_packaged": 56,
+  "unified_active_resources_bundled": 47,
+  "external_original_resources_not_received": 29,
+  "fully_portable": false,
+  "filmora_application_open_test": "pending on user computer",
+  "duration_seconds": 543.9333333,
+  "package_bytes": 1218948281
+}

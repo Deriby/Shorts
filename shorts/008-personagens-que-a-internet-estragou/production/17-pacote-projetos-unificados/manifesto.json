@@ -1,0 +1,409 @@
+{
+  "original_references": [
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/Intro_Personagens_que_a_internet_estragou_16x9.mp4",
+      "filename": "Intro_Personagens_que_a_internet_estragou_16x9.mp4",
+      "used_in_timeline": true,
+      "available": true,
+      "package_path": "midias/inicio_00_Intro_Personagens_que_a_internet_estragou_16x9.mp4",
+      "bytes": 26836041,
+      "sha256": "06a2ef1201d2b914dca23989f9cdd80d41216f5a94fa1fb78c891ee7375dc1cb",
+      "match_method": "original filename or delivered master filename"
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/Deryk/Programas/Wondershare Filmora/Download/Filmora/audio/6_Memes_Hehe_Boi_AISFX_05/Data/Memes-Hehe Boi - AISFX.mp3",
+      "filename": "Memes-Hehe Boi - AISFX.mp3",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/6 - 2B Nier Automata/7b649ea7-4e35-42d3-a793-868799f3383c.png",
+      "filename": "7b649ea7-4e35-42d3-a793-868799f3383c.png",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/6 - 2B Nier Automata/enbt8eahlmya1.jpg",
+      "filename": "enbt8eahlmya1.jpg",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Músicas/Pilotredsky - Polymer/Pilotredsky - Polymer (128kbit_AAC).m4a",
+      "filename": "Pilotredsky - Polymer (128kbit_AAC).m4a",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Músicas/PilotRedSun - Cooped Up (Coop theme) Original Loop extended.mp3",
+      "filename": "PilotRedSun - Cooped Up (Coop theme) Original Loop extended.mp3",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Músicas/bully-ost-006-searching-128-ytshorts.savetube.me.mp3",
+      "filename": "bully-ost-006-searching-128-ytshorts.savetube.me.mp3",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/Deryk/Programas/Wondershare Filmora/Download/Filmora/audio/6_Memes_Squirrel_Shout_AISFX_05/Data/Memes-Squirrel Shout - AISFX.mp3",
+      "filename": "Memes-Squirrel Shout - AISFX.mp3",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Músicas/pilotredsky-the-scuffler-128-ytshorts.savetube.me.mp3",
+      "filename": "pilotredsky-the-scuffler-128-ytshorts.savetube.me.mp3",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/Deryk/Programas/Wondershare Filmora/Download/Filmora/audio/6_Game_Positive_Select_Click_02_SFX_03/Data/Game Positive Select Click 02 - SFX.mp3",
+      "filename": "Game Positive Select Click 02 - SFX.mp3",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Músicas/pilotredsun-green-robe-128-ytshorts.savetube.me.mp3",
+      "filename": "pilotredsun-green-robe-128-ytshorts.savetube.me.mp3",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/Deryk/Programas/Wondershare Filmora/Download/Filmora/resAudioSound/47_slug_tape_cassette_insert_and_close_01_417/Data/downloadCommonCfg.cof",
+      "filename": "downloadCommonCfg.cof",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/Deryk/Programas/Wondershare Filmora/Download/Filmora/audio/6_audiostock_Mark_01_94838/Data/94838.wav",
+      "filename": "94838.wav",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/Deryk/Programas/Wondershare Filmora/Download/Filmora/audio/6_audiostock_Notification_459619/Data/459619.wav",
+      "filename": "459619.wav",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/Deryk/Programas/Wondershare Filmora/Download/Filmora/audio/6_slug_anime_awkward_moment_518/Data/Anime Awkward Moment - AISFX.mp3",
+      "filename": "Anime Awkward Moment - AISFX.mp3",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Músicas/Outro.mp3",
+      "filename": "Outro.mp3",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Músicas/pilotredsun - unison/pilotredsun - unison (128kbit_AAC).m4a",
+      "filename": "pilotredsun - unison (128kbit_AAC).m4a",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/Deryk/Programas/Wondershare Filmora/Download/Filmora/resAudioSound/47_Memes_Alert_AISFX_05/Data/downloadCommonCfg.cof",
+      "filename": "downloadCommonCfg.cof",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/1 - Lady Dimitrescu/Voz - 1 Lady Dimitrescu.mp3",
+      "filename": "Voz - 1 Lady Dimitrescu.mp3",
+      "used_in_timeline": true,
+      "available": true,
+      "package_path": "midias/inicio_18_voz_original.mp3",
+      "bytes": 1535098,
+      "sha256": "d16736a4e451e4b1fec502aadd3a251af817b85f62aa65b53cbf12ba7906e8f7",
+      "match_method": "original filename or delivered master filename"
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/2 - Tifa — Final Fantasy VII/Tifa.Lockhart.600.4156349.jpg",
+      "filename": "Tifa.Lockhart.600.4156349.jpg",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/16x9/1 -Lady_Dimitrescu_Personagens_que_a_internet_estragou_16x9.mp4",
+      "filename": "1 -Lady_Dimitrescu_Personagens_que_a_internet_estragou_16x9.mp4",
+      "used_in_timeline": true,
+      "available": true,
+      "package_path": "midias/inicio_20_Lady_Dimitrescu_Personagens_que_a_internet_estragou_16x9.mp4",
+      "bytes": 30211935,
+      "sha256": "3386692c94eb0dc413e3bb31a083ce27a22132ef04020cc4c0bfd36cf2ed87b7",
+      "match_method": "original filename or delivered master filename"
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/Deryk/Programas/Wondershare Filmora/Download/Filmora/resAudioSound/47_11labs_aisfx_ui_success_ding_20260513/Data/downloadCommonCfg.cof",
+      "filename": "downloadCommonCfg.cof",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/16x9/2 - Tifa_Personagens_que_a_internet_estragou_16x9.mp4",
+      "filename": "2 - Tifa_Personagens_que_a_internet_estragou_16x9.mp4",
+      "used_in_timeline": true,
+      "available": true,
+      "package_path": "midias/inicio_22_Tifa_Personagens_que_a_internet_estragou_16x9.mp4",
+      "bytes": 23487752,
+      "sha256": "ff7fe8447c6fd1139c6eb9fae4d9afcce8e4b4c05a44b340317e791b09cc4dd4",
+      "match_method": "original filename or delivered master filename"
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/16x9/3 - ChunLi_Personagens_que_a_internet_estragou_16x9.mp4",
+      "filename": "3 - ChunLi_Personagens_que_a_internet_estragou_16x9.mp4",
+      "used_in_timeline": true,
+      "available": true,
+      "package_path": "midias/inicio_23_ChunLi_Personagens_que_a_internet_estragou_16x9.mp4",
+      "bytes": 51836590,
+      "sha256": "01e657c2d85b970d53d5b9fb38c994481fb91b78bad486e46149cc0aea1d4355",
+      "match_method": "original filename or delivered master filename"
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Memes/Imagens/59028b73bbf5a490325678eef2ce3cbe.jpg",
+      "filename": "59028b73bbf5a490325678eef2ce3cbe.jpg",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/16x9/4 - Ankha_Personagens_que_a_internet_estragou_16x9.mp4",
+      "filename": "4 - Ankha_Personagens_que_a_internet_estragou_16x9.mp4",
+      "used_in_timeline": true,
+      "available": true,
+      "package_path": "midias/inicio_25_Ankha_Personagens_que_a_internet_estragou_16x9.mp4",
+      "bytes": 22576866,
+      "sha256": "925f3cedff63428274a55f02d6c6be985928b60c6148e99d2175f40787a5e46b",
+      "match_method": "original filename or delivered master filename"
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/16x9/5 - Vaporeon_Personagens_que_a_internet_estragou_16x9.mp4",
+      "filename": "5 - Vaporeon_Personagens_que_a_internet_estragou_16x9.mp4",
+      "used_in_timeline": true,
+      "available": true,
+      "package_path": "midias/inicio_26_Vaporeon_Personagens_que_a_internet_estragou_16x9.mp4",
+      "bytes": 23816193,
+      "sha256": "6482a621906af9bceee2903dd9b82caaf8f45559598b60c7937cdcccda926baa",
+      "match_method": "original filename or delivered master filename"
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/16x9/6 - 2B_Personagens_que_a_internet_estragou_16x9.mp4",
+      "filename": "6 - 2B_Personagens_que_a_internet_estragou_16x9.mp4",
+      "used_in_timeline": true,
+      "available": true,
+      "package_path": "midias/inicio_27_2B_Personagens_que_a_internet_estragou_16x9.mp4",
+      "bytes": 41053326,
+      "sha256": "18b131a5abced42d8ccfb6a74be34c48db8da12dcaf7dfdf62bf824e0cb202e6",
+      "match_method": "original filename or delivered master filename"
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/1 - Lady Dimitrescu/monthly_bonus_lady_dimitrescu_nsfw_alt_by_necdaz91_dej0r7b-fullview.jpg",
+      "filename": "monthly_bonus_lady_dimitrescu_nsfw_alt_by_necdaz91_dej0r7b-fullview.jpg",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/4 - Ankha — Animal Crossing/32085f91-63bc-4fbb-b078-e232cca644e5.png",
+      "filename": "32085f91-63bc-4fbb-b078-e232cca644e5.png",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/4 - Ankha — Animal Crossing/ankha.jpg",
+      "filename": "ankha.jpg",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/3- Chun-Li — Street Fighter/D_NQ_NP_808830-MLB84893443982_052025-O-chunli--colecao-nsfw--em-resina-12k--tinta-importada (1).png",
+      "filename": "D_NQ_NP_808830-MLB84893443982_052025-O-chunli--colecao-nsfw--em-resina-12k--tinta-importada (1).png",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/3- Chun-Li — Street Fighter/93d0b01d-5b68-4cb1-8644-ce39869cfee9.png",
+      "filename": "93d0b01d-5b68-4cb1-8644-ce39869cfee9.png",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/5 - Vaporeon — Pokémon/images.jpg",
+      "filename": "images.jpg",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/2 - Tifa — Final Fantasy VII/313bb8c2-7ba9-4656-9ad9-32b8f3858a8a.png",
+      "filename": "313bb8c2-7ba9-4656-9ad9-32b8f3858a8a.png",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/1 - Lady Dimitrescu/6ebb79da-c7f1-4611-becf-6bcb019405b3.png",
+      "filename": "6ebb79da-c7f1-4611-becf-6bcb019405b3.png",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/5 - Vaporeon — Pokémon/vaporeon.png",
+      "filename": "vaporeon.png",
+      "used_in_timeline": true,
+      "available": false
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/1 - Lady Dimitrescu/Resident Evil Village lady dimitrescu unique death animation (1080p_60fps_H264-128kbit_AAC).mp4",
+      "filename": "Resident Evil Village lady dimitrescu unique death animation (1080p_60fps_H264-128kbit_AAC).mp4",
+      "used_in_timeline": false,
+      "available": true,
+      "package_path": "midias/inicio_37_Resident_Evil_Village_lady_dimitrescu_unique_death_animation__1080p_60fps_H264-128kbit_AAC_.mp4",
+      "bytes": 8457335,
+      "sha256": "e0e864115582b97ccdcf374c58bce64c373424b3b9807312dfa4c14110d8735e",
+      "match_method": "original filename or delivered master filename"
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/16x9/9 - Mercy_Personagens_que_a_internet_estragou_16x9.mp4",
+      "filename": "9 - Mercy_Personagens_que_a_internet_estragou_16x9.mp4",
+      "used_in_timeline": false,
+      "available": true,
+      "package_path": "midias/inicio_38_Mercy_Personagens_que_a_internet_estragou_16x9.mp4",
+      "bytes": 21207221,
+      "sha256": "4b00f084f89bcbe1df654c9f4f0b010b2e57201c33bf89c337575e4c33b9244d",
+      "match_method": "original filename or delivered master filename"
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/16x9/7 - Tracer_Personagens_que_a_internet_estragou_16x9.mp4",
+      "filename": "7 - Tracer_Personagens_que_a_internet_estragou_16x9.mp4",
+      "used_in_timeline": false,
+      "available": true,
+      "package_path": "midias/inicio_39_Tracer_Personagens_que_a_internet_estragou_16x9.mp4",
+      "bytes": 26025400,
+      "sha256": "580a733d5b467a35b41cd8aa144f8de2788c7af0fc947e28aef338b8f9302af2",
+      "match_method": "original filename or delivered master filename"
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/16x9/11 - Peach_Personagens_que_a_internet_estragou_16x9.mp4",
+      "filename": "11 - Peach_Personagens_que_a_internet_estragou_16x9.mp4",
+      "used_in_timeline": false,
+      "available": true,
+      "package_path": "midias/inicio_40_Peach_Personagens_que_a_internet_estragou_16x9.mp4",
+      "bytes": 25131922,
+      "sha256": "7cd75a71583a864b2578758f555494a43ba79ec1e2bed78beb7b62819414421e",
+      "match_method": "original filename or delivered master filename"
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/16x9/8 - DVa_Personagens_que_a_internet_estragou_16x9.mp4",
+      "filename": "8 - DVa_Personagens_que_a_internet_estragou_16x9.mp4",
+      "used_in_timeline": false,
+      "available": true,
+      "package_path": "midias/inicio_41_DVa_Personagens_que_a_internet_estragou_16x9.mp4",
+      "bytes": 34366513,
+      "sha256": "c9c7c6ba647b640d611c5e95a0a8350788b8ff6eaed872d3cb8ca450e40339d7",
+      "match_method": "original filename or delivered master filename"
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/16x9/12 - Sonic_Personagens_que_a_internet_estragou_16x9.mp4",
+      "filename": "12 - Sonic_Personagens_que_a_internet_estragou_16x9.mp4",
+      "used_in_timeline": false,
+      "available": true,
+      "package_path": "midias/inicio_42_Sonic_Personagens_que_a_internet_estragou_16x9.mp4",
+      "bytes": 33349151,
+      "sha256": "260440a62ffe4154bc6a7ced42d19991782960a34912bf6a51cfcf0c928818aa",
+      "match_method": "original filename or delivered master filename"
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/16x9/10 - Lara_Personagens_que_a_internet_estragou_16x9.mp4",
+      "filename": "10 - Lara_Personagens_que_a_internet_estragou_16x9.mp4",
+      "used_in_timeline": false,
+      "available": true,
+      "package_path": "midias/inicio_43_Lara_Personagens_que_a_internet_estragou_16x9.mp4",
+      "bytes": 28948445,
+      "sha256": "358af0b3ef3b9be20207c9670a601c362414cad8ebb2475e79f79a9bf72bc3b6",
+      "match_method": "original filename or delivered master filename"
+    },
+    {
+      "reference": "F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/Encerramento_Personagens_que_a_internet_estragou_16x9.mp4",
+      "filename": "Encerramento_Personagens_que_a_internet_estragou_16x9.mp4",
+      "used_in_timeline": false,
+      "available": true,
+      "package_path": "midias/inicio_44_Encerramento_Personagens_que_a_internet_estragou_16x9.mp4",
+      "bytes": 16804600,
+      "sha256": "6548d5a0e7a90c89b8acc7da5fe9b693c770e9f82ed6cfa1fa2f5009f8aa7fdb",
+      "match_method": "original filename or delivered master filename"
+    }
+  ],
+  "media_sha256": {
+    "midias/07-tracer_video.mp4": "8f28db3ed9baf915329cae5e2949b76e16e5b3e561826c9ffe6880c8ad9b4f68",
+    "midias/07-tracer_voz.wav": "0dcf41f1da6c44e9b14524420f87d8df70c3a104b96a535876e8357c41bc55fd",
+    "midias/07-tracer_musica.wav": "b63830f95b29982a4e5f35ffcbee052cb5259105c007562135ab2ca9aaa00c8c",
+    "midias/07-tracer_vinheta.wav": "8d614f123d99a92b4fedd73638ba2fc73b22d059fa9718ad1ad9c70cfe41321e",
+    "midias/07-tracer_retrato.jpg": "0319e9002250d5986823a9b95c90573b346c7eb5ffbd8a6786b6e747c61a9f99",
+    "midias/07-tracer_logo.png": "43102663f48e9e15ed8cc667c3b6291fda367b95e688820b48337d2c886f08fe",
+    "midias/08-dva_video.mp4": "05373aec37cf8a7881afc4a2df66f89a94863789ca84448e8377e13d14b6d214",
+    "midias/08-dva_voz.wav": "aae4c81521ff44c38579565144e925d6bc19f3cd63b5e36ec4fe94f9204c1c02",
+    "midias/08-dva_musica.wav": "795f4ad1d3e9760343db3f50f144351627764f2a3865045e1ca695c9a6dd78ff",
+    "midias/08-dva_vinheta.wav": "8d614f123d99a92b4fedd73638ba2fc73b22d059fa9718ad1ad9c70cfe41321e",
+    "midias/08-dva_retrato.jpg": "f97b0253734e4c54c2a3b50674e616147b6351f975953974e162c9715b69c763",
+    "midias/08-dva_logo.png": "5a86831404175e2e36efec5be0e81eb97ceba8e24859deff1dfebd8e016d2bfe",
+    "midias/09-mercy_video.mp4": "8b200c65c57047177d387aedc2e921efdca04b0c3f91a3d5a650c6cc9af1b93a",
+    "midias/09-mercy_voz.wav": "ba706a627dbe56524a801dd7503cc3495f0f0da3d996654b1d009b388c30d57a",
+    "midias/09-mercy_musica.wav": "66949a84f77b1cf4e3ca5d1ac44f184201b90dc9cc528a42abcfce4087e84c40",
+    "midias/09-mercy_vinheta.wav": "8d614f123d99a92b4fedd73638ba2fc73b22d059fa9718ad1ad9c70cfe41321e",
+    "midias/09-mercy_retrato.jpg": "d14d6d8f8bf67bad0367bca8963647debae633a6d86a8c1bc60c9f0df8d417aa",
+    "midias/09-mercy_logo.png": "db5e8861a0c49cc337fd602491997f88f715d60ae0a1b051a0225e1c9ec2b1d4",
+    "midias/10-lara-croft_video.mp4": "9f5ac0f32dda67e377c2606eed444600c4ea97486b5f9c0d4716b15e2e652247",
+    "midias/10-lara-croft_voz.wav": "5716f46f902dea5d46b24fc227d5ded9a006eaa530987ff7eec563c83b174c60",
+    "midias/10-lara-croft_musica.wav": "92f522149fabe7fa9d8a7782d6a384a6a0634cd2ea091dab0da8976e77855fe7",
+    "midias/10-lara-croft_vinheta.wav": "8d614f123d99a92b4fedd73638ba2fc73b22d059fa9718ad1ad9c70cfe41321e",
+    "midias/10-lara-croft_retrato.jpg": "cec4bded0f3b1ac30e2a879fe09b09215b8491afcde5ceadaf818c7778a7ef38",
+    "midias/10-lara-croft_logo.png": "58b5f40d41fc96768391f09b31971d3960830ee43140d16065f54996f76a2616",
+    "midias/11-peach_video.mp4": "736cfeaa55117206a96f94422ae8223a2d50dc007e506f23d1f45a219da1d352",
+    "midias/11-peach_voz.wav": "dd9a96645af52f8a5525585f90748945154290e0f42cc160798956d8c286106f",
+    "midias/11-peach_musica.wav": "b03a0a543d87fe316daa8647f1ccea94bf6a519c797abe77f64dfd6b4759db41",
+    "midias/11-peach_vinheta.wav": "8d614f123d99a92b4fedd73638ba2fc73b22d059fa9718ad1ad9c70cfe41321e",
+    "midias/11-peach_retrato.jpg": "6fe7b7ff70872b70c268af19cf41d056705098ed89864f1a4aadec75a9083ebc",
+    "midias/11-peach_logo.png": "25f842a2d0e8e424ed0de9acf042ad43f7dd619bf80e93abde271f92471fb23f",
+    "midias/12-sonic_video.mp4": "5d38e9c146d338fe75ab25992e23e26a7b5a7e2103ef5eb3f83abc80c26851e8",
+    "midias/12-sonic_voz.wav": "74747dddd54846fb361171c0b1b415d9febde42246ff8cc2e0643706cc85065b",
+    "midias/12-sonic_musica.wav": "456155807ae651820e3efe52b18950ef9bb0c2cbca0ea2b4d6a835fa88935771",
+    "midias/12-sonic_vinheta.wav": "8d614f123d99a92b4fedd73638ba2fc73b22d059fa9718ad1ad9c70cfe41321e",
+    "midias/12-sonic_retrato.jpg": "7c40141ec1958f9a5fb551792aff02ec2f16d280f66f836d9a5e5ddde331c628",
+    "midias/12-sonic_logo.png": "9ac24c021f3d46ff8bcbc0d3630512f1d2ea94546bb5c69875ec963587e631bd",
+    "midias/13-encerramento_video.mp4": "70bdd4f9e4b0a6c4b0ae07dc38bcbe7c7d1054cb1788b818b46ffeaee9ca5850",
+    "midias/13-encerramento_voz.wav": "3d3f39125ece9bbc5d0c15c9e46789deea2703ef32c6df7d1a285d623b39dad8",
+    "midias/13-encerramento_musica.wav": "24a2fa39ffe0c98214a1d6f147786620880da2160fd901eaa11626fc958b7a64",
+    "midias/inicio_00_Intro_Personagens_que_a_internet_estragou_16x9.mp4": "06a2ef1201d2b914dca23989f9cdd80d41216f5a94fa1fb78c891ee7375dc1cb",
+    "midias/inicio_18_voz_original.mp3": "d16736a4e451e4b1fec502aadd3a251af817b85f62aa65b53cbf12ba7906e8f7",
+    "midias/inicio_20_Lady_Dimitrescu_Personagens_que_a_internet_estragou_16x9.mp4": "3386692c94eb0dc413e3bb31a083ce27a22132ef04020cc4c0bfd36cf2ed87b7",
+    "midias/inicio_22_Tifa_Personagens_que_a_internet_estragou_16x9.mp4": "ff7fe8447c6fd1139c6eb9fae4d9afcce8e4b4c05a44b340317e791b09cc4dd4",
+    "midias/inicio_23_ChunLi_Personagens_que_a_internet_estragou_16x9.mp4": "01e657c2d85b970d53d5b9fb38c994481fb91b78bad486e46149cc0aea1d4355",
+    "midias/inicio_25_Ankha_Personagens_que_a_internet_estragou_16x9.mp4": "925f3cedff63428274a55f02d6c6be985928b60c6148e99d2175f40787a5e46b",
+    "midias/inicio_26_Vaporeon_Personagens_que_a_internet_estragou_16x9.mp4": "6482a621906af9bceee2903dd9b82caaf8f45559598b60c7937cdcccda926baa",
+    "midias/inicio_27_2B_Personagens_que_a_internet_estragou_16x9.mp4": "18b131a5abced42d8ccfb6a74be34c48db8da12dcaf7dfdf62bf824e0cb202e6",
+    "midias/inicio_37_Resident_Evil_Village_lady_dimitrescu_unique_death_animation__1080p_60fps_H264-128kbit_AAC_.mp4": "e0e864115582b97ccdcf374c58bce64c373424b3b9807312dfa4c14110d8735e",
+    "midias/inicio_38_Mercy_Personagens_que_a_internet_estragou_16x9.mp4": "4b00f084f89bcbe1df654c9f4f0b010b2e57201c33bf89c337575e4c33b9244d",
+    "midias/inicio_39_Tracer_Personagens_que_a_internet_estragou_16x9.mp4": "580a733d5b467a35b41cd8aa144f8de2788c7af0fc947e28aef338b8f9302af2",
+    "midias/inicio_40_Peach_Personagens_que_a_internet_estragou_16x9.mp4": "7cd75a71583a864b2578758f555494a43ba79ec1e2bed78beb7b62819414421e",
+    "midias/inicio_41_DVa_Personagens_que_a_internet_estragou_16x9.mp4": "c9c7c6ba647b640d611c5e95a0a8350788b8ff6eaed872d3cb8ca450e40339d7",
+    "midias/inicio_42_Sonic_Personagens_que_a_internet_estragou_16x9.mp4": "260440a62ffe4154bc6a7ced42d19991782960a34912bf6a51cfcf0c928818aa",
+    "midias/inicio_43_Lara_Personagens_que_a_internet_estragou_16x9.mp4": "358af0b3ef3b9be20207c9670a601c362414cad8ebb2475e79f79a9bf72bc3b6",
+    "midias/inicio_44_Encerramento_Personagens_que_a_internet_estragou_16x9.mp4": "6548d5a0e7a90c89b8acc7da5fe9b693c770e9f82ed6cfa1fa2f5009f8aa7fdb",
+    "midias/Seu_inicio_renderizado.mp4": "de079118eb14dbbe16d29b916de687f0ef2029e449e15e97a73b933f0551bc06"
+  },
+  "missing_count": 29,
+  "packaged_media_count": 56,
+  "original_project_sha256": "57dcaf1bb3c9d71cf8bf89033150937ade8a71b91e9454e706a0d0f8091aa7ed",
+  "continuation_project_sha256": "d4f4a4de03bc2ec3b61433e72ec240e6e46a910940ab71c4b471ee5889ddaca8",
+  "unified_project_sha256": "e9b8cd5c9b388dc597ee46a442bb3506464b25a04326df0c5376f54b0f58e813",
+  "prefix_ticks": 2924833333,
+  "tail_ticks": 2514500000,
+  "full_ticks": 5439333333,
+  "original_clip_edits_preserved": true,
+  "original_child_timelines_preserved": true,
+  "timeline_count": 40,
+  "resource_count": 76,
+  "native_application_open_test": "pending on user Filmora"
+}

@@ -1,0 +1,14 @@
+SEU PROJETO + CONTINUAÇÃO + MÍDIAS DISPONÍVEIS
+
+Extraia o ZIP inteiro antes de abrir um WFP.
+
+03_Video_Completo_Unificado.wfp: sua timeline original, seguida da continuação editável. Abra este para trabalhar no longo.
+01_Seu_projeto_original.wfp: seu arquivo recebido, preservado byte a byte como backup.
+02_Continuacao.wfp: a continuação separada, também preservada como entregue.
+
+A pasta midias inclui todas as 39 mídias da continuação e as fontes do projeto original encontradas neste ambiente. Se pedir localização, selecione o arquivo na pasta midias. Os nomes são únicos.
+
+ATENÇÃO: 29 referências de música, sons e imagens do primeiro trecho não estavam no envio. Os caminhos originais dessas fontes continuam no projeto. Consulte MIDIAS_NAO_RECEBIDAS.txt.
+Também foi incluído midias/Seu_inicio_renderizado.mp4 como referência visual pronta da sua edição até a 2B; esse vídeo não substitui os cortes editáveis na timeline unificada.
+
+Não houve nova renderização de vídeo nem alteração dos projetos de origem. A integridade do ZIP e as referências foram conferidas; a abertura do WFP unificado ainda precisa ser testada no Filmora.

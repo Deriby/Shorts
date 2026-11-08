@@ -154,6 +154,7 @@ A edição enviada pelo usuário vai até a 2B (4:52,483), com vinhetas por pers
 - [Vídeo completo 16:9 — estilo aprovado](production/16-longo-estilo-aprovado/output/Personagens_que_a_internet_ESTRAGOU_Estilo_Aprovado_16x9.mp4).
 - [Continuação separada — Tracer ao encerramento](production/16-longo-estilo-aprovado/output/Restante_Tracer_ao_Encerramento_Estilo_Aprovado_16x9.mp4).
 - [Projeto Filmora do restante, com mídias](production/16-longo-estilo-aprovado/output/Restante_Estilo_Aprovado_Filmora.zip).
+- [Pacote conjunto: projeto original, continuação, WFP unificado e mídias disponíveis](production/17-pacote-projetos-unificados/README.md).
 - [Arquivos e verificações da versão aprovada](production/16-longo-estilo-aprovado/README.md).
 
 O usuário considerou a primeira continuação diferente do seu estilo. Depois aprovou o [teste corrigido de 15 segundos da Tracer](production/15-teste-estilo-filmora/README.md), sem oscilação artificial da tela, e pediu o restante completo nesse padrão. A versão 16 aplica essa direção de Tracer ao encerramento e mantém os plugins pagos no projeto, com o tremido da tela desativado. A abertura do WFP no Filmora ainda requer validação no computador do usuário. A [montagem anterior](production/14-montagem-longo/README.md) permanece preservada.
