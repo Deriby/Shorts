@@ -1,0 +1,89 @@
+{
+  "duration": 15,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 60,
+  "chapter_frames": 248,
+  "body_frames": 652,
+  "source_start": 13.916666666666666,
+  "source_end": 24.78333333333333,
+  "voice_speed": 1,
+  "voice_pitch_changed": false,
+  "recovered_music": {
+    "reference_start": 79.5,
+    "length": 12.0,
+    "sample_lag": 0,
+    "voice_gain": 0.9968959093093872,
+    "music_original_rms": 0.024529995396733284,
+    "method": "Subtract aligned original Tifa master narration, lowpass at 8kHz; extracted stereo music from user reference"
+  },
+  "native_effects_copied": true,
+  "native_project_tested_in_filmora": false,
+  "preview_plugins": "approximated",
+  "original_masters_changed": false,
+  "shot_changes": [
+    [
+      0.0,
+      1.3,
+      1,
+      1,
+      0.5,
+      0.5
+    ],
+    [
+      1.3,
+      2.5833333333333335,
+      1,
+      1.12,
+      0.5,
+      0.5
+    ],
+    [
+      2.5833333333333335,
+      3.8666666666666667,
+      1,
+      1.87,
+      0.6,
+      0.52
+    ],
+    [
+      3.8666666666666667,
+      6.0,
+      1.1,
+      1.32,
+      0.44,
+      0.53
+    ],
+    [
+      6.0,
+      6.583333333333333,
+      1.55,
+      1.55,
+      0.6,
+      0.52
+    ],
+    [
+      6.583333333333333,
+      7.8,
+      1.08,
+      1.35,
+      0.44,
+      0.53
+    ],
+    [
+      7.8,
+      10.866666666666667,
+      1,
+      2.08,
+      0.6,
+      0.52
+    ]
+  ],
+  "outputs": [
+    "Teste_Tracer_Estilo_15s_16x9.mp4",
+    "Teste_Tracer_15s.wfp",
+    "Teste_Tracer_Filmora_15s.zip"
+  ]
+}

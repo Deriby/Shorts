@@ -1,0 +1,7 @@
+TESTE TRACER — 15 SEGUNDOS
+
+Extraia o ZIP antes de abrir o projeto Teste_Tracer_15s.wfp no Filmora.
+Se ele pedir arquivos ausentes, localize o primeiro na pasta midias deste pacote. Os demais estão nessa mesma pasta.
+Os efeitos globais e os da vinheta foram copiados do seu WFP. Requer os mesmos plugins/recursos da sua instalação.
+A abertura no Filmora ainda precisa ser validada. O MP4 é uma prévia com aproximações dos plugins.
+O projeto é uma cópia isolada de 15s e não altera o seu projeto original.

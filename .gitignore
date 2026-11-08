@@ -9,6 +9,8 @@ __pycache__/
 
 # Pacotes de download duplicam arquivos já presentes no repositório.
 **/output/*.zip
+# Pacote entregável do teste nativo; não é um ZIP de download/cache.
+!shorts/008-personagens-que-a-internet-estragou/production/15-teste-estilo-filmora/output/Teste_Tracer_Filmora_15s.zip
 
 # Estudos anteriores preservados localmente, fora da produção atual.
 shorts/*/estudos_iniciais/

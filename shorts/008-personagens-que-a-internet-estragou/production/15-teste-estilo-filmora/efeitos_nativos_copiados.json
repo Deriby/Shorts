@@ -1,0 +1,658 @@
+{
+  "global_effect_chains": [
+    [
+      {
+        "effectList": [
+          {
+            "display": "crop-pan-zoom",
+            "id": "video/effect/crop-pan-zoom",
+            "thisUId": "686739de-21da-f111-b446-1c872cc50916",
+            "type": 3,
+            "userData": [
+              {
+                "data": "ezQ0OUM5MzM5LTI1NjgtNDllNy1BRjQ3LTc3NDMxNDY1MTNEOH0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+                "key": 3,
+                "size": 64
+              },
+              {
+                "data": "AQ==",
+                "key": 7,
+                "size": 1
+              }
+            ]
+          },
+          {
+            "display": "transform",
+            "id": "video/effect/transform",
+            "paramList": [
+              {
+                "fxParam": {
+                  "paramType": 5,
+                  "unValue": 1186339
+                },
+                "name": "dwValue"
+              },
+              {
+                "fxParam": {
+                  "paramType": 5,
+                  "unValue": 1
+                },
+                "name": "EnableTransform"
+              }
+            ],
+            "thisUId": "696739de-21da-f111-b446-1c872cc50916",
+            "type": 3,
+            "userData": [
+              {
+                "data": "MS4w",
+                "key": 15005,
+                "size": 3
+              },
+              {
+                "data": "e0ZDQUYzMEM0LTdBQTgtNGRkMC05QzAyLUI5QTI3OTNDNzU2Nn0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+                "key": 3,
+                "size": 64
+              },
+              {
+                "data": "AQ==",
+                "key": 7,
+                "size": 1
+              },
+              {
+                "data": "MQA=",
+                "key": 36878,
+                "size": 2
+              }
+            ]
+          }
+        ],
+        "name": "Basic"
+      },
+      {
+        "effectList": [
+          {
+            "display": "Text Vibrate",
+            "id": "29DABA52-7FDD-406C-9368-2FF5438F384F",
+            "paramList": [
+              {
+                "fxParam": {
+                  "paramType": 3,
+                  "unValue": 5.0
+                },
+                "name": "Strength"
+              },
+              {
+                "fxParam": {
+                  "paramType": 3,
+                  "unValue": 50.0
+                },
+                "name": "Speed"
+              }
+            ],
+            "thisUId": "6a6739de-21da-f111-b446-1c872cc50916",
+            "type": 3,
+            "userData": [
+              {
+                "data": "e0VFQkFFQkMzLUJGQ0UtNDJlMC1BQTkwLUUwQjZBMTBGN0M2Nn0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+                "key": 3,
+                "size": 64
+              },
+              {
+                "data": "eyJpZCI6OTgzNDk5OCwiaW5mb1R5cGUiOjcsImlzX2N1c3RvbSI6MCwic21hcnRfcmVzb3VyY2UiOjAsInNhbGVfbW9kZSI6MSwic291cmNlIjowLCJyZXNfc3ViX3R5cGUiOjAsInJlc190eXBlIjozLCJzbWFydF9yZXNfcmVsYXRpdmVfcGF0aCI6IiIsInJlbGF0ZWRfc2x1ZyI6IiIsIm5hbWUiOiJNaW5pX1NoYWtlIiwidXNlcl9zdHJpbmciOnt9LCJyZXNvdXJjZVJhdGUiOi0xfQ==",
+                "key": 12,
+                "size": 217
+              },
+              {
+                "data": "TWluaS1iYXRpZG8=",
+                "key": 50,
+                "size": 11
+              }
+            ]
+          }
+        ],
+        "name": "Effect"
+      }
+    ],
+    [
+      {
+        "effectList": [
+          {
+            "display": "crop-pan-zoom",
+            "id": "video/effect/crop-pan-zoom",
+            "thisUId": "6c6739de-21da-f111-b446-1c872cc50916",
+            "type": 3,
+            "userData": [
+              {
+                "data": "ezQ0OUM5MzM5LTI1NjgtNDllNy1BRjQ3LTc3NDMxNDY1MTNEOH0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+                "key": 3,
+                "size": 64
+              },
+              {
+                "data": "AQ==",
+                "key": 7,
+                "size": 1
+              }
+            ]
+          },
+          {
+            "display": "transform",
+            "id": "video/effect/transform",
+            "paramList": [
+              {
+                "fxParam": {
+                  "paramType": 5,
+                  "unValue": 1186339
+                },
+                "name": "dwValue"
+              },
+              {
+                "fxParam": {
+                  "paramType": 5,
+                  "unValue": 1
+                },
+                "name": "EnableTransform"
+              }
+            ],
+            "thisUId": "6d6739de-21da-f111-b446-1c872cc50916",
+            "type": 3,
+            "userData": [
+              {
+                "data": "MS4w",
+                "key": 15005,
+                "size": 3
+              },
+              {
+                "data": "e0ZDQUYzMEM0LTdBQTgtNGRkMC05QzAyLUI5QTI3OTNDNzU2Nn0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+                "key": 3,
+                "size": 64
+              },
+              {
+                "data": "AQ==",
+                "key": 7,
+                "size": 1
+              },
+              {
+                "data": "MQA=",
+                "key": 36878,
+                "size": 2
+              }
+            ]
+          }
+        ],
+        "name": "Basic"
+      },
+      {
+        "effectList": [
+          {
+            "display": "Text Vibrate",
+            "id": "29DABA52-7FDD-406C-9368-2FF5438F384F",
+            "paramList": [
+              {
+                "fxParam": {
+                  "paramType": 3,
+                  "unValue": 80.0
+                },
+                "name": "Speed"
+              },
+              {
+                "fxParam": {
+                  "paramType": 3,
+                  "unValue": 10.0
+                },
+                "name": "Strength"
+              }
+            ],
+            "thisUId": "6e6739de-21da-f111-b446-1c872cc50916",
+            "type": 3,
+            "userData": [
+              {
+                "data": "e0VFQkFFQkMzLUJGQ0UtNDJlMC1BQTkwLUUwQjZBMTBGN0M2Nn0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+                "key": 3,
+                "size": 64
+              },
+              {
+                "data": "eyJpZCI6OTgzNDk5OCwiaW5mb1R5cGUiOjcsImlzX2N1c3RvbSI6MCwic21hcnRfcmVzb3VyY2UiOjAsInNhbGVfbW9kZSI6MSwic291cmNlIjowLCJyZXNfc3ViX3R5cGUiOjAsInJlc190eXBlIjozLCJzbWFydF9yZXNfcmVsYXRpdmVfcGF0aCI6IiIsInJlbGF0ZWRfc2x1ZyI6IiIsIm5hbWUiOiJNaW5pX1NoYWtlIiwidXNlcl9zdHJpbmciOnt9LCJyZXNvdXJjZVJhdGUiOi0xfQ==",
+                "key": 12,
+                "size": 217
+              },
+              {
+                "data": "TWluaS1iYXRpZG8=",
+                "key": 50,
+                "size": 11
+              }
+            ]
+          }
+        ],
+        "name": "Effect"
+      }
+    ],
+    [
+      {
+        "effectList": [
+          {
+            "display": "crop-pan-zoom",
+            "id": "video/effect/crop-pan-zoom",
+            "thisUId": "706739de-21da-f111-b446-1c872cc50916",
+            "type": 3,
+            "userData": [
+              {
+                "data": "ezU3OEJBOUNBLUUwQzgtNGQxMy05Mjk5LTYwRjNBNDk3NTZFOH0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+                "key": 3,
+                "size": 64
+              },
+              {
+                "data": "AQ==",
+                "key": 7,
+                "size": 1
+              }
+            ]
+          },
+          {
+            "display": "transform",
+            "id": "video/effect/transform",
+            "paramList": [
+              {
+                "fxParam": {
+                  "paramType": 5,
+                  "unValue": 1186339
+                },
+                "name": "dwValue"
+              },
+              {
+                "fxParam": {
+                  "paramType": 5,
+                  "unValue": 1
+                },
+                "name": "EnableTransform"
+              }
+            ],
+            "thisUId": "716739de-21da-f111-b446-1c872cc50916",
+            "type": 3,
+            "userData": [
+              {
+                "data": "MS4w",
+                "key": 15005,
+                "size": 3
+              },
+              {
+                "data": "e0ZGMDQ3OEVFLUY1MDktNGRiNy05OEJCLTNDQzgwOUVCM0Q2Qn0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+                "key": 3,
+                "size": 64
+              },
+              {
+                "data": "AQ==",
+                "key": 7,
+                "size": 1
+              },
+              {
+                "data": "MQA=",
+                "key": 36878,
+                "size": 2
+              }
+            ]
+          }
+        ],
+        "name": "Basic"
+      },
+      {
+        "effectList": [
+          {
+            "display": "Glow",
+            "id": "25E4478A-C617-4c60-B95A-F378D2923E17",
+            "paramList": [
+              {
+                "fxParam": {
+                  "paramType": 5,
+                  "unValue": 40
+                },
+                "name": "alpha"
+              }
+            ],
+            "thisUId": "726739de-21da-f111-b446-1c872cc50916",
+            "type": 3,
+            "userData": [
+              {
+                "data": "ezgwQjU1RjE1LTI1MzYtNDVmNy04NjEzLUMxQzFENkY5RUVCNH0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+                "key": 3,
+                "size": 64
+              },
+              {
+                "data": "eyJpZCI6Mzg5MTIsImluZm9UeXBlIjo3LCJpc19jdXN0b20iOjAsInNtYXJ0X3Jlc291cmNlIjowLCJzYWxlX21vZGUiOjAsInNvdXJjZSI6MCwicmVzX3N1Yl90eXBlIjowLCJyZXNfdHlwZSI6Mywic21hcnRfcmVzX3JlbGF0aXZlX3BhdGgiOiIiLCJyZWxhdGVkX3NsdWciOiIiLCJuYW1lIjoiR2xvdyIsInVzZXJfc3RyaW5nIjp7fSwicmVzb3VyY2VSYXRlIjotMX0=",
+                "key": 12,
+                "size": 209
+              },
+              {
+                "data": "Q2xhcsOjbw==",
+                "key": 50,
+                "size": 7
+              }
+            ]
+          }
+        ],
+        "name": "Effect"
+      }
+    ]
+  ],
+  "chapter_effect_chain": [
+    {
+      "effectList": [
+        {
+          "display": "crop-pan-zoom",
+          "id": "video/effect/crop-pan-zoom",
+          "thisUId": "436739de-21da-f111-b446-1c872cc50916",
+          "type": 3,
+          "userData": [
+            {
+              "data": "e0UzQUMzRTY0LUIwMjgtNDI4ZC1BOTBFLTUyODY3MzQ2QURDOH0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "key": 3,
+              "size": 64
+            },
+            {
+              "data": "AQ==",
+              "key": 7,
+              "size": 1
+            },
+            {
+              "data": "e30=",
+              "key": 130,
+              "size": 2
+            }
+          ]
+        },
+        {
+          "display": "transform",
+          "id": "video/effect/transform",
+          "paramList": [
+            {
+              "fxParam": {
+                "paramType": 5,
+                "unValue": 1186339
+              },
+              "name": "dwValue"
+            },
+            {
+              "fxParam": {
+                "paramType": 5,
+                "unValue": 1
+              },
+              "name": "EnableTransform"
+            }
+          ],
+          "thisUId": "446739de-21da-f111-b446-1c872cc50916",
+          "type": 3,
+          "userData": [
+            {
+              "data": "ezNENEVCODRCLTdDNjYtNDc2NS05QzUwLUQxMUMyQjE1QzFENH0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "key": 3,
+              "size": 64
+            },
+            {
+              "data": "MS4w",
+              "key": 15005,
+              "size": 3
+            },
+            {
+              "data": "AQ==",
+              "key": 7,
+              "size": 1
+            },
+            {
+              "data": "MQA=",
+              "key": 36878,
+              "size": 2
+            },
+            {
+              "data": "e30=",
+              "key": 130,
+              "size": 2
+            }
+          ]
+        }
+      ],
+      "name": "Basic"
+    },
+    {
+      "effectList": [
+        {
+          "display": "VHS And Glitch Effect Vol 01 Overlay 02",
+          "id": "D628C5EF-3794-4353-BC01-09AE3748DFB5",
+          "thisUId": "456739de-21da-f111-b446-1c872cc50916",
+          "type": 3,
+          "userData": [
+            {
+              "data": "ezkyNTNEMTY4LTczQkYtNGQ2My04RTlCLTVFOTU1QTQ0MEY0NX0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "key": 3,
+              "size": 64
+            },
+            {
+              "data": "eyJpZCI6NzY2MTc5LCJpbmZvVHlwZSI6NywiaXNfY3VzdG9tIjowLCJzbWFydF9yZXNvdXJjZSI6MCwic2FsZV9tb2RlIjoxLCJzb3VyY2UiOjMsInJlc19zdWJfdHlwZSI6MCwicmVzX3R5cGUiOjQsInNtYXJ0X3Jlc19yZWxhdGl2ZV9wYXRoIjoiIiwicmVsYXRlZF9zbHVnIjoiIiwibmFtZSI6IlZIU19BbmRfR2xpdGNoX0VmZmVjdF9Wb2xfMDFfT3ZlcmxheV8wMiIsInVzZXJfc3RyaW5nIjp7fSwicmVzb3VyY2VSYXRlIjotMX0=",
+              "key": 12,
+              "size": 245
+            },
+            {
+              "data": "VkhTIGUgR2xpdGNoIEVmZmVjdCBWb2wgMDEgT3ZlcmxheSAwMg==",
+              "key": 50,
+              "size": 37
+            },
+            {
+              "data": "AA==",
+              "key": 7,
+              "size": 1
+            }
+          ]
+        },
+        {
+          "display": "VHS Distortion",
+          "id": "f69d954e-921a-4fd9-87fa-c76275063e4d",
+          "thisUId": "466739de-21da-f111-b446-1c872cc50916",
+          "type": 3,
+          "userData": [
+            {
+              "data": "ezk4QTIwNkRFLUUzMzgtNGQ3My04QzYzLTBEMEVGNjVBRjIwMX0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "key": 3,
+              "size": 64
+            },
+            {
+              "data": "eyJpZCI6MzkwOTUsImluZm9UeXBlIjo3LCJpc19jdXN0b20iOjAsInNtYXJ0X3Jlc291cmNlIjowLCJzYWxlX21vZGUiOjAsInNvdXJjZSI6MSwicmVzX3N1Yl90eXBlIjowLCJyZXNfdHlwZSI6NCwic21hcnRfcmVzX3JlbGF0aXZlX3BhdGgiOiIiLCJyZWxhdGVkX3NsdWciOiIiLCJuYW1lIjoiVkhTX0Rpc3RvcnRpb24iLCJ1c2VyX3N0cmluZyI6e30sInJlc291cmNlUmF0ZSI6LTF9",
+              "key": 12,
+              "size": 219
+            },
+            {
+              "data": "RGlzdG9yw6fDo28gVkhT",
+              "key": 50,
+              "size": 15
+            },
+            {
+              "data": "AA==",
+              "key": 7,
+              "size": 1
+            }
+          ]
+        },
+        {
+          "display": "Aesthetic Style Overlay 02 16-9",
+          "id": "88448C5E-F4A4-4A75-AA26-00F6E139E803",
+          "thisUId": "476739de-21da-f111-b446-1c872cc50916",
+          "type": 3,
+          "userData": [
+            {
+              "data": "ezQxMkQzMjM4LTgwOEUtNDVlNi05MTkzLURENDlBNTIyQkJBMn0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "key": 3,
+              "size": 64
+            },
+            {
+              "data": "eyJpZCI6MTQ5MTA1NCwiaW5mb1R5cGUiOjcsImlzX2N1c3RvbSI6MCwic21hcnRfcmVzb3VyY2UiOjAsInJlc291cmNlUmF0ZSI6NCwic2FsZV9tb2RlIjoxLCJzb3VyY2UiOjEsInJlc19zdWJfdHlwZSI6MCwicmVzX3R5cGUiOjQsInNtYXJ0X3Jlc19yZWxhdGl2ZV9wYXRoIjoiIiwicmVsYXRlZF9zbHVnIjoiIiwibmFtZSI6IkFlc3RoZXRpY19TdHlsZV9PdmVybGF5XzAyXzE2LTkiLCJ1c2VyX3N0cmluZyI6e319",
+              "key": 12,
+              "size": 237
+            },
+            {
+              "data": "U29icmVwb3Npw6fDo28gZGUgZXN0aWxvIGVzdMOpdGljbyAwMg==",
+              "key": 50,
+              "size": 37
+            },
+            {
+              "data": "AA==",
+              "key": 7,
+              "size": 1
+            }
+          ]
+        },
+        {
+          "display": "retro effect 4",
+          "id": "B815B718-4DF1-4ACB-BED3-183DA177BB78",
+          "paramList": [
+            {
+              "fxParam": {
+                "paramType": 5,
+                "unValue": 100
+              },
+              "name": "noise"
+            },
+            {
+              "fxParam": {
+                "paramType": 5,
+                "unValue": 100
+              },
+              "name": "strength"
+            },
+            {
+              "fxParam": {
+                "paramType": 5,
+                "unValue": 11
+              },
+              "name": "lighten"
+            }
+          ],
+          "thisUId": "486739de-21da-f111-b446-1c872cc50916",
+          "type": 3,
+          "userData": [
+            {
+              "data": "e0U3N0QxOTJGLUU1NkMtNDliNi04MkFFLUNEQjQzMTE3MTgxQX0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "key": 3,
+              "size": 64
+            },
+            {
+              "data": "eyJpZCI6MTQ2MDA0NiwiaW5mb1R5cGUiOjcsImlzX2N1c3RvbSI6MCwic21hcnRfcmVzb3VyY2UiOjAsInJlc291cmNlUmF0ZSI6Niwic2FsZV9tb2RlIjowLCJzb3VyY2UiOjUsInJlc19zdWJfdHlwZSI6MCwicmVzX3R5cGUiOjMsInNtYXJ0X3Jlc19yZWxhdGl2ZV9wYXRoIjoiIiwicmVsYXRlZF9zbHVnIjoiIiwibmFtZSI6InJldHJvX2VmZmVjdF80IiwidXNlcl9zdHJpbmciOnt9fQ==",
+              "key": 12,
+              "size": 220
+            },
+            {
+              "data": "RXhwb3Npw6fDo28=",
+              "key": 50,
+              "size": 11
+            },
+            {
+              "data": "AA==",
+              "key": 7,
+              "size": 1
+            }
+          ]
+        },
+        {
+          "display": "Text Vibrate",
+          "id": "29DABA52-7FDD-406C-9368-2FF5438F384F",
+          "paramList": [
+            {
+              "fxParam": {
+                "paramType": 3,
+                "unValue": 80.0
+              },
+              "name": "Speed"
+            },
+            {
+              "fxParam": {
+                "paramType": 3,
+                "unValue": 20.0
+              },
+              "name": "Strength"
+            }
+          ],
+          "thisUId": "496739de-21da-f111-b446-1c872cc50916",
+          "type": 3,
+          "userData": [
+            {
+              "data": "ezY2NzVBODA5LUY4RUMtNGY3MS04QUUxLUVFRUY5MTc0NDcwOX0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "key": 3,
+              "size": 64
+            },
+            {
+              "data": "eyJpZCI6OTgzNDk5OCwiaW5mb1R5cGUiOjcsImlzX2N1c3RvbSI6MCwic21hcnRfcmVzb3VyY2UiOjAsInNhbGVfbW9kZSI6MSwic291cmNlIjowLCJyZXNfc3ViX3R5cGUiOjAsInJlc190eXBlIjozLCJzbWFydF9yZXNfcmVsYXRpdmVfcGF0aCI6IiIsInJlbGF0ZWRfc2x1ZyI6IiIsIm5hbWUiOiJNaW5pX1NoYWtlIiwidXNlcl9zdHJpbmciOnt9LCJyZXNvdXJjZVJhdGUiOi0xfQ==",
+              "key": 12,
+              "size": 217
+            },
+            {
+              "data": "TWluaS1iYXRpZG8=",
+              "key": 50,
+              "size": 11
+            },
+            {
+              "data": "AA==",
+              "key": 7,
+              "size": 1
+            }
+          ]
+        }
+      ],
+      "name": "Effect"
+    },
+    {
+      "effectList": [
+        {
+          "display": "change_channel",
+          "id": "audio/effect/change_channel",
+          "thisUId": "4a6739de-21da-f111-b446-1c872cc50916",
+          "type": 3,
+          "userData": [
+            {
+              "data": "e0M1RTZFQUQ1LUMxOTgtNDI0Zi1BQ0I0LTdDRTREREMyREQyMX0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "key": 3,
+              "size": 64
+            },
+            {
+              "data": "AQ==",
+              "key": 7,
+              "size": 1
+            },
+            {
+              "data": "e30=",
+              "key": 130,
+              "size": 2
+            }
+          ]
+        }
+      ],
+      "name": "BasicFollow"
+    },
+    {
+      "effectList": [
+        {
+          "display": "matchcolorV2",
+          "enable": false,
+          "id": "779373A8-DBFA-41CD-BD17-741C46015D49",
+          "thisUId": "4b6739de-21da-f111-b446-1c872cc50916",
+          "type": 3,
+          "userData": [
+            {
+              "data": "ezdFNEQ5NzQ3LTdFRTktNDM2My1CMEU4LTUxMTdGMDQyRjMxM30AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "key": 3,
+              "size": 64
+            },
+            {
+              "data": "AQ==",
+              "key": 7,
+              "size": 1
+            },
+            {
+              "data": "e30=",
+              "key": 130,
+              "size": 2
+            }
+          ]
+        }
+      ],
+      "name": "Color"
+    }
+  ],
+  "plugin_execution_in_cloud": false,
+  "filmora_open_test": "pending on user computer"
+}

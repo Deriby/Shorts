@@ -155,6 +155,8 @@ A edição enviada pelo usuário vai até a 2B (4:52,483), com vinhetas por pers
 - [Continuação separada para importar no Filmora](production/14-montagem-longo/output/Continuacao_Tracer_ao_Encerramento_16x9.mp4).
 - [Referência, arquivos e verificações da montagem](production/14-montagem-longo/README.md).
 
+O usuário considerou a continuação diferente do seu estilo. O [teste posterior de 15 segundos da Tracer](production/15-teste-estilo-filmora/README.md) entrega uma nova prévia e um pacote WFP experimental com as configurações nativas copiadas. A abertura no Filmora aguarda validação; o longo anterior fica preservado até o retorno sobre a amostra.
+
 ## Fluxo de mídia desejado
 
 Objetivo futuro: depois de fechar o roteiro, o usuário pretende enviar apenas a voz, deixando a aquisição de referências visuais com o agente. **Decisão atual:** enquanto esse acesso não estiver disponível, o usuário baixará e enviará os materiais manualmente, como nos episódios anteriores. Seguir com esse fluxo sem insistir em configuração da plataforma ou execução local.

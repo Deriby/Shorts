@@ -1,0 +1,16 @@
+{
+  "mp4_full_decode": "passed",
+  "frames": 900,
+  "duration_seconds": 15.0,
+  "video_audio_duration_difference": 0.0,
+  "voice_excerpt_pcm_unmodified": true,
+  "aac_mix_correlation": 0.9990330338478088,
+  "zip_integrity": "passed",
+  "wfp_json_and_links": "passed",
+  "all_six_media_resources_bundled": true,
+  "native_global_effect_chains_exact_copy": true,
+  "native_chapter_effect_chain_exact_copy": true,
+  "filmora_application_open_test": "not performed; requires user Filmora",
+  "native_render_equivalent_to_mp4": false,
+  "original_long_and_masters_modified": false
+}
