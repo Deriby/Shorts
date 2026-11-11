@@ -4,6 +4,8 @@ Base recebida em `Dery Rig.zip`, em 11/11/2026. A etapa inicial simplificou a an
 
 **Base atual retomada: [versão v3](texturas/rosto_neutro_v3/).** O usuário rejeitou todas as texturas da v4 e preferiu o conjunto anterior completo. Usar o [Blender v3](texturas/rosto_neutro_v3/Dery_Referencia_Sem_Mochila_v3.blend), que permaneceu intacto, com o encaixe do rosto e a franja texturizada. O [registro da versão atual](versao_atual.json) identifica arquivo, hash e escopo da escolha. A [v4](texturas/estilo_ps1_v4/) permanece apenas no histórico; não reaplicar suas pinturas ou paletas. A biblioteca de expressões continua dependente do retorno do usuário.
 
+**Nova proposta de acabamento:** [refino v5](texturas/refino_v3_v5/), solicitado para melhorar as texturas existentes, preservando a pintura e o jeans da v3. Os PNGs permanecem intactos; o ajuste ocorre na amostragem e no realce local dos materiais. A v3 continua como base selecionada até o retorno do usuário.
+
 ## Arquivos
 
 - [Dery_Rig_PS1_Base.blend](Dery_Rig_PS1_Base.blend): nova base editável, com imagens originais incorporadas e o rig preservado.

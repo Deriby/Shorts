@@ -1,0 +1,159 @@
+{
+  "source_blend": "../rosto_neutro_v3/Dery_Referencia_Sem_Mochila_v3.blend",
+  "source_sha256": "9752035dc6e93564d76151311708567a1b3c63fec5227dd49dd2f779612a6933",
+  "source_unchanged": true,
+  "all_original_image_pixels_unchanged": true,
+  "image_pixel_hashes": {
+    "Corpo_Atlas_512": "4b2a6c770fd1498a47e2a818bd6eceb038740b1d3a16d0f21304f7e5a625f894",
+    "Franja_128x64": "82f3795f34103dd4e98e171377d6886036f2e9a34b91c16dee3ea3b1e58db9d8",
+    "Malha_Cinza_64": "8b59799a02ebc2863403368395647b8f4e636e698ecd7618034299d0352a9742",
+    "Rosto_Neutro_128": "8607fd454243c3ef9f59ff49a6668f218d4f9ff8994c8b78f69ee63b202c51ec"
+  },
+  "geometry_uv_material_assignments_unchanged": true,
+  "rig_bones": 71,
+  "masks_and_alpha_preserved": true,
+  "mask_color_links_preserved": 3,
+  "sampling_passes": 9,
+  "settings": {
+    "PS1 | roupa e boné | 512 / Corpo_Atlas_512": {
+      "source_resolution": [
+        512,
+        512
+      ],
+      "sampling_grid": [
+        256,
+        256
+      ],
+      "strength": 0.24,
+      "maximum_linear_channel_change": 0.01,
+      "artwork_replaced": false,
+      "original_png_unchanged": true,
+      "interpolation": "Closest"
+    },
+    "PS1 | rosto neutro | 128 / Rosto_Neutro_128": {
+      "source_resolution": [
+        128,
+        128
+      ],
+      "sampling_grid": [
+        128,
+        128
+      ],
+      "strength": 0.1,
+      "maximum_linear_channel_change": 0.006,
+      "artwork_replaced": false,
+      "original_png_unchanged": true,
+      "interpolation": "Closest"
+    },
+    "PS1 | pele frontal | 128 / Rosto_Neutro_128": {
+      "source_resolution": [
+        128,
+        128
+      ],
+      "sampling_grid": [
+        128,
+        128
+      ],
+      "strength": 0.1,
+      "maximum_linear_channel_change": 0.006,
+      "artwork_replaced": false,
+      "original_png_unchanged": true,
+      "interpolation": "Closest"
+    },
+    "PS1 | pele frontal | 128 / Corpo_Atlas_512": {
+      "source_resolution": [
+        512,
+        512
+      ],
+      "sampling_grid": [
+        512,
+        512
+      ],
+      "strength": 0.24,
+      "maximum_linear_channel_change": 0.01,
+      "artwork_replaced": false,
+      "original_png_unchanged": true,
+      "interpolation": "Closest"
+    },
+    "PS1 | pescoço e laterais | 128 / Rosto_Neutro_128": {
+      "source_resolution": [
+        128,
+        128
+      ],
+      "sampling_grid": [
+        128,
+        128
+      ],
+      "strength": 0.1,
+      "maximum_linear_channel_change": 0.006,
+      "artwork_replaced": false,
+      "original_png_unchanged": true,
+      "interpolation": "Closest"
+    },
+    "PS1 | pescoço e laterais | 128 / Corpo_Atlas_512": {
+      "source_resolution": [
+        512,
+        512
+      ],
+      "sampling_grid": [
+        512,
+        512
+      ],
+      "strength": 0.24,
+      "maximum_linear_channel_change": 0.01,
+      "artwork_replaced": false,
+      "original_png_unchanged": true,
+      "interpolation": "Closest"
+    },
+    "PS1 | mangas cinzas / Corpo_Atlas_512": {
+      "source_resolution": [
+        512,
+        512
+      ],
+      "sampling_grid": [
+        512,
+        512
+      ],
+      "strength": 0.24,
+      "maximum_linear_channel_change": 0.01,
+      "artwork_replaced": false,
+      "original_png_unchanged": true,
+      "interpolation": "Closest"
+    },
+    "PS1 | mangas cinzas / Malha_Cinza_64": {
+      "source_resolution": [
+        64,
+        64
+      ],
+      "sampling_grid": [
+        64,
+        64
+      ],
+      "strength": 0.24,
+      "maximum_linear_channel_change": 0.01,
+      "artwork_replaced": false,
+      "original_png_unchanged": true,
+      "interpolation": "Closest"
+    },
+    "Cabelo | textura PS1 com recorte alfa / Franja_128x64": {
+      "source_resolution": [
+        128,
+        64
+      ],
+      "sampling_grid": [
+        128,
+        64
+      ],
+      "strength": 0.08,
+      "maximum_linear_channel_change": 0.004,
+      "artwork_replaced": false,
+      "original_png_unchanged": true,
+      "interpolation": "Closest"
+    }
+  },
+  "new_texture_art_generated": false,
+  "v4_assets_used": false,
+  "new_expressions": 0,
+  "approved_by_user": false,
+  "scope": "Gentle reversible native-texel detail enhancement of existing v3 samples, without repainting, recoloring, re-palettizing or changing layouts. The original 512px body image uses an effective 256px visible sampling grid; raw skin masks retain native sampling."
+}
