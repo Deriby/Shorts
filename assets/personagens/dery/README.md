@@ -10,6 +10,8 @@ Modelo e texturas originais enviados pelo usuário para uso nos shorts.
 
 **Contorno facial em avaliação:** [v7](rig_ps1_v2/formato_rosto_v7/), ajuste reversível de mandíbula/queixo após o usuário apontar diferença no formato do rosto. Preserva o visual da v6 e apresenta comparação de frente e três quartos.
 
+**Encaixe facial atualizado:** [v8](rig_ps1_v2/texturas/encaixe_rosto_v8/), solicitado após ajustar o contorno. Reposiciona suavemente o mesmo desenho neutro na cabeça v7, com UV separado, preservando os pixels originais e a geometria. Inclui comparação e Blender; aguarda avaliação.
+
 **Roupa atual:** [camiseta preta com M amarelo do Massacote Games no peito](roupas/camiseta_preta/), mantendo o corte e a geometria originais. Aplicar a troca de material ao reutilizar cenas antigas.
 
 O mesmo procedimento inclui a limpeza das manchas na pele, da iluminação colorida antiga e das transições entre pele e mangas, preservando o rosto desenhado e a malha original.

@@ -1,0 +1,30 @@
+{
+  "source": "../../formato_rosto_v7/Dery_Contorno_Rosto_v7.blend",
+  "source_sha256": "1b52f8a5811bfda75b8b9a20401b11f2617898fbb7a397363b5f97f00746a696",
+  "source_unchanged": true,
+  "method": "Dedicated UV fit of the existing 128px neutral-face painting; no image repaint or pixel edit.",
+  "fit_uv": "DeryFaceFitV8",
+  "previous_uv": "DeryPS1UV",
+  "modified_face_corners": 2565,
+  "changed_uv_nodes": [
+    [
+      "PS1 | rosto neutro | 128",
+      "UV Map"
+    ],
+    [
+      "PS1 | pele frontal | 128",
+      "UV Map"
+    ]
+  ],
+  "eyebrow_lift_uv": 0.009,
+  "mouth_drop_uv": 0.011,
+  "mouth_width_reduction": 0.045,
+  "chin_width_reduction": 0.095,
+  "chin_clearance_uv": 0.032,
+  "original_images_basis_shape_keys_uvs_material_assignments_weights_unchanged": true,
+  "rig_bones": 71,
+  "new_texture_art_generated": false,
+  "new_expressions": 0,
+  "approved_by_user": false,
+  "reference": "Visual fit guided by the previously supplied photos; no calibrated landmarks or exact-likeness claim."
+}
