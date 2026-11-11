@@ -1,5 +1,7 @@
 # Projeto atual recebido — edição recuperada
 
+**Histórico:** após concluir sua edição integral, o usuário enviou uma versão nova de mesmo nome. A [produção 20](../20-edicao-final-usuario/) passa a ser a referência atual de edição. O arquivo desta pasta permanece preservado como versão anterior.
+
 O usuário informou em 11 de novembro de 2026 que resolveu os problemas anteriores no chat **“Ver projeto Codex Shorts”** e anexou esta versão como estado atual:
 
 - [Massacote_EDICAO_RECUPERADA_EXPORT_TESTE.wfp](Massacote_EDICAO_RECUPERADA_EXPORT_TESTE.wfp).
