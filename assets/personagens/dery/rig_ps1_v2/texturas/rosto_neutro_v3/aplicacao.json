@@ -1,0 +1,89 @@
+{
+  "neutral_only": true,
+  "approved_by_user": false,
+  "new_expressions": 0,
+  "face_texture": [
+    128,
+    128
+  ],
+  "body_atlas": [
+    512,
+    512
+  ],
+  "texture_rgb_bits": [
+    5,
+    5,
+    5
+  ],
+  "interpolation": "Closest",
+  "render_engine": "BLENDER_EEVEE_NEXT",
+  "shading": "nearest diffuse multiplied by baked per-corner Gouraud lighting; emission output, one sample",
+  "pbr_materials": false,
+  "old_new_face_shader_blend": false,
+  "preserved_cap_collar_mask": "original UV RGB skin key, with protected eye/mouth/forehead zones",
+  "uv": "DeryPS1UV",
+  "face_fit_uv": "DeryFaceUV",
+  "material_face_counts": {
+    "0": 34401,
+    "4": 10696,
+    "2": 2058,
+    "3": 1477,
+    "1": 242
+  },
+  "main_body_geometry_changed": false,
+  "added_hair_triangles": 32,
+  "hair_texture": [
+    128,
+    64
+  ],
+  "face_fit_u_profile": [
+    [
+      1.554,
+      0.196
+    ],
+    [
+      1.582,
+      0.196
+    ],
+    [
+      1.6,
+      0.21
+    ],
+    [
+      1.62,
+      0.21
+    ],
+    [
+      1.643,
+      0.19
+    ],
+    [
+      1.663,
+      0.184
+    ],
+    [
+      1.683,
+      0.184
+    ],
+    [
+      1.699,
+      0.194
+    ],
+    [
+      1.72,
+      0.194
+    ],
+    [
+      1.75,
+      0.194
+    ]
+  ],
+  "face_fit_height_m": 0.19,
+  "face_fit_anchor_z": 1.641,
+  "face_fit_reference": "visual alignment to the previously supplied frontal selfie; not automatic landmark detection",
+  "face_fit_adjustment": "broaden painted features across the head, with separate brow/eye/mouth widths and increased vertical extent",
+  "backpack": false,
+  "wardrobe": "black T-shirt, gray underlayer sleeves, dark jeans, light sneakers, backward cap with strap",
+  "bones": 71,
+  "triangles": 48874
+}

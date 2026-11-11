@@ -2,7 +2,7 @@
 
 Base recebida em `Dery Rig.zip`, em 11/11/2026. A etapa inicial simplificou a anatomia do rosto seguindo o exemplo de Silent Hill fornecido pelo usuário: nariz e contorno em geometria simples, com olhos e boca desenhados nas texturas.
 
-**Textura em avaliação:** [rosto neutro PS1 v2](texturas/rosto_neutro_v2/), redesenhado após a rejeição da primeira aplicação. A proposta usa textura facial de 64×64 e mantém os originais separados. A biblioteca de expressões depende do retorno do usuário. Os arquivos de geometria e as prévias cinzas desta pasta permanecem preservados.
+**Proposta atual em avaliação:** [referência de corpo inteiro v3](texturas/rosto_neutro_v3/), seguindo a nova referência fornecida, sem mochila, com mangas cinza e cabelo sobre a testa. Após o usuário apontar o rosto pequeno no centro da cabeça, o UV foi ampliado nos dois eixos; a franja de pontas foi substituída por textura. A [proposta v2](texturas/rosto_neutro_v2/) fica preservada. A biblioteca de expressões depende do retorno do usuário. Os arquivos de geometria e as prévias cinzas desta pasta permanecem preservados.
 
 ## Arquivos
 
