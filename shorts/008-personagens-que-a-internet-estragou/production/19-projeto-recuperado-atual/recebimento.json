@@ -26,5 +26,14 @@
   "shared_chat_title": "Ver projeto Codex Shorts",
   "shared_chat_read": false,
   "shared_chat_access": "Blocked by environment HTTP proxy: CONNECT 403; no chat-history search tool available.",
-  "future_video_decisions_imported": false
+  "future_video_decisions_imported": true,
+  "handoff_summary_received": true,
+  "handoff_summary_upload_id": "file_000000007c98820ebb442b731008b236",
+  "handoff_summary_sha256": "96f5a09789ac92a4ba25f204af8e0d15f06befe2a3e069724c0bc9175d4fb346",
+  "handoff_summary_section5_rejected_by_user": true,
+  "automation_goal_authorized": false,
+  "future_context_source": "User-pasted summary, with section 5 explicitly excluded; full shared chat remains unread.",
+  "specific_project_export_confirmed": false,
+  "asset_library_reported": true,
+  "asset_library_files_received": false
 }
