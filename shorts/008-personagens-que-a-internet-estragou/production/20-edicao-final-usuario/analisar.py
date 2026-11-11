@@ -52,7 +52,9 @@ record={
     'video_intervals':dict(segments),
     'approval_source':'User states this completed edit turned out very good and requests matching short projects/style.',
     'native_filmora_render_test':'Not executed in this Linux environment; visual appearance not verified from a rendered movie.',
-    'scope_clarification_pending':'Split this long edit into 12 vertical shorts, or use the style for upcoming material?'
+    'requested_scope':'Use this editing style for upcoming content and editable Filmora projects.',
+    'scope_confirmed_by_user':True,
+    'split_existing_long_video_requested':False
 }
 (P/'recebimento_e_estilo.json').write_text(json.dumps(record,ensure_ascii=False,indent=2)+'\n')
 print(json.dumps({k:record[k]for k in ('sha256','duration_seconds','timeline_count','resources','main_clips','embedded_audiovisual_media_count','main_video_clip_duration_seconds')},ensure_ascii=False))

@@ -678,5 +678,7 @@
   },
   "approval_source": "User states this completed edit turned out very good and requests matching short projects/style.",
   "native_filmora_render_test": "Not executed in this Linux environment; visual appearance not verified from a rendered movie.",
-  "scope_clarification_pending": "Split this long edit into 12 vertical shorts, or use the style for upcoming material?"
+  "requested_scope": "Use this editing style for upcoming content and editable Filmora projects.",
+  "scope_confirmed_by_user": true,
+  "split_existing_long_video_requested": false
 }

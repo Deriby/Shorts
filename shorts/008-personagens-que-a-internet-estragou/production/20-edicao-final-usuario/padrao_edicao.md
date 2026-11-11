@@ -2,6 +2,10 @@
 
 Referência principal: `Massacote_EDICAO_FINAL_USUARIO.wfp` desta pasta, enviado após o usuário terminar a edição inteira e aprovar o resultado. As aproximações anteriores deixam de ser o padrão principal. O detalhamento abaixo descreve a estrutura inspecionada; sem um render da versão completa, não afirmar que a aparência dos efeitos foi assistida ou reproduzida.
 
+## Escopo confirmado
+
+O usuário escolheu usar este estilo nos próximos conteúdos. Preservar o longo concluído como referência. Os futuros projetos editáveis do Filmora devem adaptar a identidade visual, o ritmo e o tratamento de áudio às novas gravações e cenas; os tempos exatos de keyframes do vídeo atual não são um molde automático para outra narração.
+
 ## Preservação do trabalho do usuário
 
 Para shorts derivados deste longo, copiar as camadas efetivamente usadas no trecho, seus cortes, tempos de mídia, keyframes, transições, títulos/composições, efeitos e mixagem. Preservar as composições filhas e suas referências; não transplantar IDs de outras versões. Reenquadrar o vertical por cena, mantendo o assunto e os textos legíveis. Não aplicar um único recorte cego ao vídeo inteiro. Preservar o original e gerar um WFP separado por short, com pastas próprias.
