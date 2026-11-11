@@ -2,6 +2,8 @@
 
 Modelo e texturas originais enviados pelo usuário para uso nos shorts.
 
+**Modelo mais recente em avaliação:** [v9 — pescoço ajustado com as dez expressões](rig_ps1_v2/pescoco_v9/). Corrige o contorno do pescoço, o UV de pele esticado e a transição de sombra sob o queixo; preserva os rostos e o restante do visual.
+
 **Base atual da atualização:** [versão v3](rig_ps1_v2/texturas/rosto_neutro_v3/), retomada por preferência do usuário após rejeitar todas as texturas da v4. Usar o conjunto completo de materiais da v3, com o encaixe ampliado do rosto e a franja texturizada. A v4 fica apenas no histórico. A escolha da base não confirma aprovação integral do modelo nem autoriza iniciar expressões. Os modelos e episódios anteriores permanecem preservados.
 
 **Refino em avaliação:** [v5 sobre as mesmas texturas da v3](rig_ps1_v2/texturas/refino_v3_v5/), solicitado em seguida para melhorar o acabamento existente. Preserva os PNGs e aplica apenas amostragem e nitidez suaves nos materiais; não troca as pinturas ou as cores da roupa.

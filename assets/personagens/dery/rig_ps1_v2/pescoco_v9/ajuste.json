@@ -1,0 +1,62 @@
+{
+  "source": "../expressoes_v1/Dery_10_Expressoes_PS1.blend",
+  "source_sha256": "644e2ddafd00713f2d7b7b31c5acd8d09e65f77e524bd8439bb799a27efb9cc8",
+  "source_unchanged": true,
+  "method": "Reversible neck contour shape key with linked baked Gouraud neck lighting.",
+  "shape_key": "DERY | pescoço e ligação da mandíbula",
+  "changed_vertices": 920,
+  "maximum_vertex_displacement_m": 0.011657255746317137,
+  "width_profile_z_scale": [
+    [
+      1.455,
+      1
+    ],
+    [
+      1.48,
+      0.96
+    ],
+    [
+      1.5,
+      0.86
+    ],
+    [
+      1.52,
+      0.86
+    ],
+    [
+      1.54,
+      0.93
+    ],
+    [
+      1.557,
+      1
+    ]
+  ],
+  "modified_neck_lighting_corners": 5525,
+  "neck_uv": "DeryNeckUVV9",
+  "neck_texture": "Clear skin patch in the same original neutral face PNG; no new image art.",
+  "neck_skin_grain_contrast": 0.18,
+  "skin_tone_average": "Four unmarked cheek texels from the same neutral face PNG.",
+  "neck_shader_skin_classifier_and_collar_height_gate": true,
+  "basis_existing_shape_keys_uvs_images_weights_assignments_original_lighting_unchanged": true,
+  "face_contour_and_expression_art_unchanged": true,
+  "expression_selector_checked_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "turning_pose_degrees": 25,
+  "turning_pose_finite": true,
+  "rig_bones": 71,
+  "neck_height_changed": false,
+  "new_expressions": 0,
+  "approved_by_user": false
+}

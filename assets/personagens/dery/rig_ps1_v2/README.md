@@ -2,6 +2,8 @@
 
 Base recebida em `Dery Rig.zip`, em 11/11/2026. A etapa inicial simplificou a anatomia do rosto seguindo o exemplo de Silent Hill fornecido pelo usuário: nariz e contorno em geometria simples, com olhos e boca desenhados nas texturas.
 
+**Modelo mais recente em avaliação:** [pescoço v9](pescoco_v9/), após o usuário apontar o problema nas prévias dos dez rostos. Corrige a silhueta, o mapeamento da pele e a iluminação do pescoço, preservando as dez expressões, o encaixe facial e o rig. O Blender e o comparativo em três ângulos estão na pasta.
+
 **Base atual retomada: [versão v3](texturas/rosto_neutro_v3/).** O usuário rejeitou todas as texturas da v4 e preferiu o conjunto anterior completo. Usar o [Blender v3](texturas/rosto_neutro_v3/Dery_Referencia_Sem_Mochila_v3.blend), que permaneceu intacto, com o encaixe do rosto e a franja texturizada. O [registro da versão atual](versao_atual.json) identifica arquivo, hash e escopo da escolha. A [v4](texturas/estilo_ps1_v4/) permanece apenas no histórico; não reaplicar suas pinturas ou paletas. A biblioteca de expressões continua dependente do retorno do usuário.
 
 **Nova proposta de acabamento:** [refino v5](texturas/refino_v3_v5/), solicitado para melhorar as texturas existentes, preservando a pintura e o jeans da v3. Os PNGs permanecem intactos; o ajuste ocorre na amostragem e no realce local dos materiais. A v3 continua como base selecionada até o retorno do usuário.
