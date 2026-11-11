@@ -2,9 +2,9 @@
 
 Modelo e texturas originais enviados pelo usuário para uso nos shorts.
 
-**Modelo mais recente em avaliação:** [v11 — contorno pela marcação vermelha](rig_ps1_v2/contorno_marcado_v11/). Segue a indicação posterior do usuário para uma base de mandíbula mais reta e quina definida no pescoço, com encaixe de textura corrigido e as dez expressões preservadas.
+**Modelo mais recente em avaliação:** [v12 — rosto PSX e contorno frontal marcado](rig_ps1_v2/pixel_psx_v12/). Usa amostragem facial equivalente a 64×64 nas dez expressões e no neutro. Segue a marcação frontal posterior do usuário para o rosto afunilando até o queixo e o pescoço abrindo para os ombros, preservando Y/Z do perfil anterior.
 
-**Base atual da atualização:** [versão v3](rig_ps1_v2/texturas/rosto_neutro_v3/), retomada por preferência do usuário após rejeitar todas as texturas da v4. Usar o conjunto completo de materiais da v3, com o encaixe ampliado do rosto e a franja texturizada. A v4 fica apenas no histórico. A escolha da base não confirma aprovação integral do modelo nem autoriza iniciar expressões. Os modelos e episódios anteriores permanecem preservados.
+**Origem dos materiais preservados:** [versão v3](rig_ps1_v2/texturas/rosto_neutro_v3/), preferida pelo usuário após rejeitar as texturas da v4. As revisões posteriores mantêm esses desenhos e a franja, com seus próprios ajustes de encaixe e materiais. A v4 fica rejeitada no histórico. Para o modelo mais recente, usar a versão indicada no início deste arquivo.
 
 **Refino em avaliação:** [v5 sobre as mesmas texturas da v3](rig_ps1_v2/texturas/refino_v3_v5/), solicitado em seguida para melhorar o acabamento existente. Preserva os PNGs e aplica apenas amostragem e nitidez suaves nos materiais; não troca as pinturas ou as cores da roupa.
 

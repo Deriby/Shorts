@@ -1,0 +1,114 @@
+{
+  "source": "../contorno_marcado_v11/Dery_Contorno_Marcado_v11.blend",
+  "source_sha256": "3b0ec02ce5fa20f42b0bbe7f51e1ec90cd62bff1cafd5dfac0bdef6615872345",
+  "source_unchanged": true,
+  "approved_profile_source_version": "v11",
+  "original_basis_shape_keys_uvs_image_pixels_weights_material_assignments_unchanged": true,
+  "frontal_contour_shape_key": "DERY | rosto e pescoço conforme guia frontal",
+  "frontal_reference": "Later user frontal red outline: tapered jaw/chin and neck widening toward shoulders. Manually interpreted width profiles, not calibrated pixel tracing.",
+  "face_width_profile_z_scale": [
+    [
+      1.548,
+      0.62
+    ],
+    [
+      1.558,
+      0.62
+    ],
+    [
+      1.575,
+      0.8
+    ],
+    [
+      1.59,
+      0.88
+    ],
+    [
+      1.61,
+      0.94
+    ],
+    [
+      1.64,
+      0.99
+    ],
+    [
+      1.665,
+      1
+    ]
+  ],
+  "neck_width_profile_z_scale": [
+    [
+      1.483,
+      1
+    ],
+    [
+      1.515,
+      1
+    ],
+    [
+      1.527,
+      0.97
+    ],
+    [
+      1.54,
+      0.78
+    ],
+    [
+      1.558,
+      0.76
+    ],
+    [
+      1.585,
+      0.82
+    ],
+    [
+      1.61,
+      1
+    ]
+  ],
+  "frontal_maximum_vertex_displacement_m": 0.013812008410409821,
+  "profile_yz_preserved": true,
+  "frontal_contour_approved_by_user": false,
+  "method": "64x64 effective local UV sampling before facial PNG/atlas lookup; Closest; no screen postprocessing.",
+  "effective_face_resolution": [
+    64,
+    64
+  ],
+  "original_png_resolution": [
+    128,
+    128
+  ],
+  "new_image_art_generated": false,
+  "images_resized_or_repainted": false,
+  "facial_coordinate_inputs_quantized": {
+    "PS1 | rosto neutro | 128": 10,
+    "PS1 | pele frontal | 128": 10
+  },
+  "previous_sharpening_strengths": {
+    "PS1 | rosto neutro | 128": 0.10000000149011612,
+    "PS1 | pele frontal | 128": 0.10000000149011612
+  },
+  "facial_sharpening_disabled": true,
+  "atlas_cell_boundaries_preserved": true,
+  "resolution_property": "PSX_face_resolution",
+  "resolution_range": [
+    32,
+    128
+  ],
+  "expression_selector_checked_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "new_expressions": 0,
+  "rig_bones": 71,
+  "pixel_finish_approved_by_user": false
+}
