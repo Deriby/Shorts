@@ -11,7 +11,7 @@ A proposta “Massacote Shorts Factory” e o plano de automação da seção 5 
 - Usar o arquivo intacto `Massacote_EDICAO_RECUPERADA_EXPORT_TESTE.wfp`, guardado nesta pasta, como referência atual. Preservar as edições humanas.
 - O resumo informa que o backup recuperado tinha 268 clipes, 60 timelines e 19 composições registradas. Esses números descrevem o backup anterior, e não substituem os do arquivo anexado: a inspeção deste encontrou 275 clipes na timeline principal e 62 timelines internas.
 - Segundo o usuário, a reprodução dos vídeos voltou após restaurar os parâmetros de velocidade normal. O áudio voltou após corrigir referências que divergiam entre caminhos completos e relativos.
-- **A exportação desta versão específica ainda não foi confirmada.** Um teste de render funcionou durante a recuperação, mas houve confusão entre versões. Não declarar o longo definitivamente validado para exportação.
+- **Atualização posterior do usuário em 11/11/2026: o teste de renderização deu certo.** O teste está confirmado pelo usuário; a exportação final integral não foi confirmada separadamente. O arquivo recebido permanece intacto.
 - O resumo relata correção da duração interna de 75 clipes de vídeo, antes configurados para 86.400 segundos. Essa correção não deve ser reaplicada automaticamente ao arquivo recebido.
 
 ## Cuidados para qualquer correção futura
@@ -34,9 +34,11 @@ Novos shorts: 9:16 como padrão. Produzir 16:9 quando o usuário informar aprove
 
 ## Biblioteca PSX
 
-O usuário informou possuir uma biblioteca grande de texturas, props, itens, mapas, modelos e cenários PSX. Essa informação continua válida e é independente da seção 5 descartada. Sua localização, formatos e arquivos ainda não foram recebidos neste chat.
+O usuário enviou posteriormente o banco pelo [Google Drive](https://drive.google.com/file/d/1M4MgjcMoNM-OW6gAXcxCzV2zRHpW7Bsq/view?usp=sharing), para aproveitar os recursos em vez de criar tudo do zero. Essa orientação é independente da seção 5 descartada.
 
-Tratar a biblioteca como recurso a aproveitar e preservar seus originais. O modo de uso e eventuais propostas de catalogação ficam para discussão; esta importação de contexto não inicia implementação, indexação, alteração de assets ou renderização.
+O pacote foi baixado e extraído com verificação de integridade: 26 conjuntos, 3.703 arquivos, incluindo formatos alternativos dos mesmos modelos. Há cenários comerciais e residenciais, carros, vegetação, móveis, props urbanos e texturas. O [registro do banco](../../../../assets/biblioteca_psx/README.md) informa fonte, pastas, formatos e localização dos originais. Os arquivos brutos ficam em cache local fora do Git; o registro e a fonte são versionados.
+
+Consultar esse banco antes de modelar novos recursos, preservando os originais e trabalhando em cópias. Conferir importação, escala, UVs e materiais na produção autorizada. Nenhuma importação ou renderização foi executada nesta etapa; o projeto Filmora permanece inalterado.
 
 ## Próxima conversa
 

@@ -19,6 +19,7 @@ Produção de shorts em 3D com estética PS1 / low poly, personagem Dery e narra
 
 - `shorts/NNN-assunto/`: uma pasta independente por short, com título, roteiro e produção.
 - `assets/personagens/dery/`: modelo original e texturas reutilizáveis do personagem.
+- [`assets/biblioteca_psx/`](assets/biblioteca_psx/): fonte e registro do banco PSX enviado pelo usuário, com 26 conjuntos para reaproveitar nas animações. Os originais são um cache local obtido pelo Drive.
 - Cada produção mantém seus scripts, voz, expressões, projeto Blender e vídeos finais.
 - Quadros intermediários, backups do Blender e ZIPs de download ficam fora do Git.
 

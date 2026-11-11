@@ -1,0 +1,372 @@
+{
+  "source_url": "https://drive.google.com/file/d/1M4MgjcMoNM-OW6gAXcxCzV2zRHpW7Bsq/view?usp=sharing",
+  "source_drive_id": "1M4MgjcMoNM-OW6gAXcxCzV2zRHpW7Bsq",
+  "original_filename": "Banco 3D para vídeos.zip",
+  "received_date": "2026-11-11",
+  "archive_bytes": 692858658,
+  "archive_sha256": "a666951a1c28b302a6051e8a12fb5e3ccd90f571f60656d3beeea236ccc55c8f",
+  "archive_validation": "all entries extracted successfully with ZIP CRC verification; paths and symlinks checked",
+  "file_count": 3703,
+  "uncompressed_bytes": 958331850,
+  "pack_count": 26,
+  "extensions": {
+    ".bin": 2,
+    ".blend": 62,
+    ".blend1": 11,
+    ".dae": 27,
+    ".fbx": 1094,
+    ".glb": 774,
+    ".ini": 17,
+    ".jpeg": 1,
+    ".jpg": 330,
+    ".jpg~": 1,
+    ".mtl": 79,
+    ".obj": 121,
+    ".ogg": 16,
+    ".pdf": 1,
+    ".png": 1015,
+    ".txt": 4,
+    ".uasset": 134,
+    ".umap": 1,
+    ".unitypackage": 4,
+    ".uproject": 1,
+    ".url": 1,
+    ".ush": 3,
+    "[sem extensão]": 4
+  },
+  "local_archive_cache": "/workspace/attachments/biblioteca-psx/Banco_3D_para_videos.zip",
+  "originals_path_from_repo_root": "assets/biblioteca_psx/originais/Banco 3D para vídeos",
+  "original_assets_versioned": false,
+  "blender_imports_validated": false,
+  "packs": [
+    {
+      "name": "6twelve",
+      "folder": "originais/Banco 3D para vídeos/6twelve",
+      "files": 95,
+      "uncompressed_bytes": 33685899,
+      "extensions": {
+        ".dae": 1,
+        ".fbx": 1,
+        ".jpg": 62,
+        ".png": 30,
+        ".unitypackage": 1
+      }
+    },
+    {
+      "name": "Bus_stop",
+      "folder": "originais/Banco 3D para vídeos/Bus_stop",
+      "files": 49,
+      "uncompressed_bytes": 11335030,
+      "extensions": {
+        ".fbx": 3,
+        ".jpg": 15,
+        ".png": 31
+      }
+    },
+    {
+      "name": "Christmas",
+      "folder": "originais/Banco 3D para vídeos/Christmas",
+      "files": 61,
+      "uncompressed_bytes": 9877124,
+      "extensions": {
+        ".dae": 2,
+        ".fbx": 4,
+        ".jpg": 8,
+        ".png": 47
+      }
+    },
+    {
+      "name": "DINER",
+      "folder": "originais/Banco 3D para vídeos/DINER",
+      "files": 102,
+      "uncompressed_bytes": 155552388,
+      "extensions": {
+        ".dae": 2,
+        ".fbx": 2,
+        ".jpeg": 1,
+        ".jpg": 41,
+        ".png": 55,
+        ".unitypackage": 1
+      }
+    },
+    {
+      "name": "Free_PSX_Case_Template",
+      "folder": "originais/Banco 3D para vídeos/Free_PSX_Case_Template",
+      "files": 23,
+      "uncompressed_bytes": 51221387,
+      "extensions": {
+        ".obj": 2,
+        ".png": 19,
+        ".txt": 1,
+        ".unitypackage": 1
+      }
+    },
+    {
+      "name": "Gas_station",
+      "folder": "originais/Banco 3D para vídeos/Gas_station",
+      "files": 67,
+      "uncompressed_bytes": 35821545,
+      "extensions": {
+        ".fbx": 2,
+        ".jpg": 38,
+        ".png": 26,
+        ".unitypackage": 1
+      }
+    },
+    {
+      "name": "halloween",
+      "folder": "originais/Banco 3D para vídeos/halloween",
+      "files": 50,
+      "uncompressed_bytes": 6796995,
+      "extensions": {
+        ".fbx": 4,
+        ".jpg": 5,
+        ".png": 41
+      }
+    },
+    {
+      "name": "House",
+      "folder": "originais/Banco 3D para vídeos/House",
+      "files": 157,
+      "uncompressed_bytes": 17989650,
+      "extensions": {
+        ".fbx": 2,
+        ".jpg": 51,
+        ".jpg~": 1,
+        ".png": 103
+      }
+    },
+    {
+      "name": "LowPolyAssetPack_Free",
+      "folder": "originais/Banco 3D para vídeos/LowPolyAssetPack_Free",
+      "files": 260,
+      "uncompressed_bytes": 108058258,
+      "extensions": {
+        ".blend": 25,
+        ".blend1": 11,
+        ".fbx": 217,
+        ".jpg": 1,
+        ".png": 1,
+        ".txt": 1,
+        "[sem extensão]": 4
+      }
+    },
+    {
+      "name": "Metro_PSX",
+      "folder": "originais/Banco 3D para vídeos/Metro_PSX",
+      "files": 30,
+      "uncompressed_bytes": 10455192,
+      "extensions": {
+        ".dae": 1,
+        ".fbx": 1,
+        ".glb": 1,
+        ".jpg": 9,
+        ".png": 18
+      }
+    },
+    {
+      "name": "OFFICE",
+      "folder": "originais/Banco 3D para vídeos/OFFICE",
+      "files": 394,
+      "uncompressed_bytes": 25059433,
+      "extensions": {
+        ".fbx": 180,
+        ".glb": 180,
+        ".jpg": 21,
+        ".png": 13
+      }
+    },
+    {
+      "name": "PS1BottlesAssetPackV1.1",
+      "folder": "originais/Banco 3D para vídeos/PS1BottlesAssetPackV1.1",
+      "files": 173,
+      "uncompressed_bytes": 100520159,
+      "extensions": {
+        ".bin": 2,
+        ".fbx": 11,
+        ".ini": 17,
+        ".png": 4,
+        ".uasset": 134,
+        ".umap": 1,
+        ".uproject": 1,
+        ".ush": 3
+      }
+    },
+    {
+      "name": "PSX firearms basic kit",
+      "folder": "originais/Banco 3D para vídeos/PSX firearms basic kit",
+      "files": 14,
+      "uncompressed_bytes": 429219,
+      "extensions": {
+        ".fbx": 7,
+        ".png": 7
+      }
+    },
+    {
+      "name": "PSX Kitchen Props Pack",
+      "folder": "originais/Banco 3D para vídeos/PSX Kitchen Props Pack",
+      "files": 228,
+      "uncompressed_bytes": 18266323,
+      "extensions": {
+        ".blend": 1,
+        ".fbx": 48,
+        ".glb": 48,
+        ".mtl": 48,
+        ".obj": 48,
+        ".png": 34,
+        ".txt": 1
+      }
+    },
+    {
+      "name": "PSX_Style_Cars_by_GGBot_(August2023)",
+      "folder": "originais/Banco 3D para vídeos/PSX_Style_Cars_by_GGBot_(August2023)",
+      "files": 95,
+      "uncompressed_bytes": 11111654,
+      "extensions": {
+        ".blend": 12,
+        ".mtl": 12,
+        ".obj": 12,
+        ".ogg": 16,
+        ".png": 42,
+        ".url": 1
+      }
+    },
+    {
+      "name": "Quequis_House",
+      "folder": "originais/Banco 3D para vídeos/Quequis_House",
+      "files": 135,
+      "uncompressed_bytes": 115616817,
+      "extensions": {
+        ".blend": 1,
+        ".dae": 3,
+        ".fbx": 3,
+        ".glb": 2,
+        ".jpg": 19,
+        ".png": 107
+      }
+    },
+    {
+      "name": "Retro Car1.0",
+      "folder": "originais/Banco 3D para vídeos/Retro Car1.0",
+      "files": 7,
+      "uncompressed_bytes": 4042894,
+      "extensions": {
+        ".blend": 1,
+        ".fbx": 1,
+        ".png": 5
+      }
+    },
+    {
+      "name": "Retro Tree Pack v1.0",
+      "folder": "originais/Banco 3D para vídeos/Retro Tree Pack v1.0",
+      "files": 133,
+      "uncompressed_bytes": 28167955,
+      "extensions": {
+        ".dae": 16,
+        ".fbx": 16,
+        ".glb": 16,
+        ".mtl": 16,
+        ".obj": 16,
+        ".pdf": 1,
+        ".png": 52
+      }
+    },
+    {
+      "name": "RetroModelPack",
+      "folder": "originais/Banco 3D para vídeos/RetroModelPack",
+      "files": 48,
+      "uncompressed_bytes": 9024833,
+      "extensions": {
+        ".blend": 15,
+        ".fbx": 15,
+        ".png": 18
+      }
+    },
+    {
+      "name": "retro_nature_pack",
+      "folder": "originais/Banco 3D para vídeos/retro_nature_pack",
+      "files": 222,
+      "uncompressed_bytes": 7815384,
+      "extensions": {
+        ".fbx": 40,
+        ".glb": 40,
+        ".obj": 40,
+        ".png": 101,
+        ".txt": 1
+      }
+    },
+    {
+      "name": "Suv",
+      "folder": "originais/Banco 3D para vídeos/Suv",
+      "files": 10,
+      "uncompressed_bytes": 806347,
+      "extensions": {
+        ".fbx": 2,
+        ".glb": 2,
+        ".mtl": 2,
+        ".obj": 2,
+        ".png": 2
+      }
+    },
+    {
+      "name": "Tacos",
+      "folder": "originais/Banco 3D para vídeos/Tacos",
+      "files": 122,
+      "uncompressed_bytes": 66221488,
+      "extensions": {
+        ".blend": 1,
+        ".dae": 2,
+        ".fbx": 2,
+        ".glb": 2,
+        ".jpg": 28,
+        ".png": 87
+      }
+    },
+    {
+      "name": "Taxi 01",
+      "folder": "originais/Banco 3D para vídeos/Taxi 01",
+      "files": 9,
+      "uncompressed_bytes": 966927,
+      "extensions": {
+        ".blend": 1,
+        ".mtl": 1,
+        ".obj": 1,
+        ".png": 6
+      }
+    },
+    {
+      "name": "Trailer_Park",
+      "folder": "originais/Banco 3D para vídeos/Trailer_Park",
+      "files": 120,
+      "uncompressed_bytes": 21575232,
+      "extensions": {
+        ".fbx": 6,
+        ".jpg": 19,
+        ".png": 95
+      }
+    },
+    {
+      "name": "tree_pack_1.1",
+      "folder": "originais/Banco 3D para vídeos/tree_pack_1.1",
+      "files": 88,
+      "uncompressed_bytes": 1748489,
+      "extensions": {
+        ".fbx": 44,
+        ".png": 44
+      }
+    },
+    {
+      "name": "URBAN",
+      "folder": "originais/Banco 3D para vídeos/URBAN",
+      "files": 1011,
+      "uncompressed_bytes": 106165228,
+      "extensions": {
+        ".blend": 5,
+        ".fbx": 483,
+        ".glb": 483,
+        ".jpg": 13,
+        ".png": 27
+      }
+    }
+  ]
+}

@@ -21,7 +21,7 @@
   "main_clips": 275,
   "main_movie_audio_clips": 198,
   "main_movie_audio_with_speed": 198,
-  "working_status": "User reports playback issues resolved in other chat; not executed in Filmora here.",
+  "working_status": "User reports playback issues resolved and subsequently confirms the render/export test succeeded; Filmora not executed here.",
   "shared_chat_url": "https://chatgpt.com/share/6af44128-44ac-83e9-8e4b-7a43e2df5ce0",
   "shared_chat_title": "Ver projeto Codex Shorts",
   "shared_chat_read": false,
@@ -33,7 +33,11 @@
   "handoff_summary_section5_rejected_by_user": true,
   "automation_goal_authorized": false,
   "future_context_source": "User-pasted summary, with section 5 explicitly excluded; full shared chat remains unread.",
-  "specific_project_export_confirmed": false,
+  "specific_project_export_test_confirmed": true,
+  "export_confirmation_source": "User clarification on 2026-11-11: era só pra ver se ia renderizar mas deu certo",
+  "full_final_export_confirmed": false,
   "asset_library_reported": true,
-  "asset_library_files_received": false
+  "asset_library_files_received": true,
+  "asset_library_source_drive_id": "1M4MgjcMoNM-OW6gAXcxCzV2zRHpW7Bsq",
+  "asset_library_record": "assets/biblioteca_psx/recebimento.json"
 }
