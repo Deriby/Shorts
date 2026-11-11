@@ -1,0 +1,21 @@
+{
+  "scene_file": "Quarto_Gamer_Banco_PS1.blend",
+  "sha256": "ffbade66e2b3b6eeac95651c4745cbc5f103d88f0e746c1487f6db20a5fe4255",
+  "library_models_unchanged": true,
+  "used_library_instances": 34,
+  "unique_library_models": 21,
+  "packed_images": 31,
+  "missing_images": 0,
+  "camera_presets": 3,
+  "bed_dimensions_m": [
+    1.3276044130325317,
+    1.9882146418094635,
+    0.8885235451161861
+  ],
+  "separate_pc_display_material": true,
+  "original_dery_unchanged": true,
+  "finite_coordinates": true,
+  "all_meshes_have_uv": true,
+  "animation_rendered": false,
+  "approval_pending": true
+}

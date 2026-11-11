@@ -1,0 +1,852 @@
+{
+  "bank_source": "assets/biblioteca_psx/recebimento.json",
+  "sources": [
+    {
+      "file": "House/House/Models/House.fbx",
+      "sha256": "5b6cbbeec4ea63feb6760ae5a69c46e740ae2230fce8dd5b1c30baafa00b2d0d",
+      "objects": [
+        "bed_02"
+      ]
+    },
+    {
+      "file": "OFFICE/OFFICE/desks/desk1_weathered.glb",
+      "sha256": "07b4cb9dbf8af8d392403d191e1f1d3071815ee0e7f12631096be14f88c51a45",
+      "objects": [
+        "desk1_weathered"
+      ]
+    },
+    {
+      "file": "OFFICE/OFFICE/desks/desk2.glb",
+      "sha256": "55fd7b7b12b96cd835fc9bfec540549db541b06889cea8296fbd3efc91f3733d",
+      "objects": [
+        "desk2"
+      ]
+    },
+    {
+      "file": "OFFICE/OFFICE/chairs/office_chair_fancy.glb",
+      "sha256": "5dade1599c0e4f751e6e834d8f7468c4661a26a9841d1f6efb19e4ff476dc19b",
+      "objects": [
+        "office_chair_fancy"
+      ]
+    },
+    {
+      "file": "OFFICE/OFFICE/computers/computer_monitor.glb",
+      "sha256": "3ff1d1f778996b5951e410e88954eccd0e2cd657c6cabb885d7f8c486053fd29",
+      "objects": [
+        "computer_monitor"
+      ]
+    },
+    {
+      "file": "OFFICE/OFFICE/computers/computer_keyboard.glb",
+      "sha256": "0851afa1a288ed9c860a7a954f996b19881522ee0f92d4907b61fc54adde6f94",
+      "objects": [
+        "computer_keyboard"
+      ]
+    },
+    {
+      "file": "OFFICE/OFFICE/computers/computer_mouse.glb",
+      "sha256": "bbfabd7a11c005a800038b9b5f2cdc83b4e8747444a36f5ecd2bcd7e6736bf85",
+      "objects": [
+        "computer_mouse"
+      ]
+    },
+    {
+      "file": "OFFICE/OFFICE/computers/computer_tower.glb",
+      "sha256": "12309d9e11dbad6142156f04c3d629e4ce8ab14007724ada30fb254cd769a42f",
+      "objects": [
+        "computer_tower"
+      ]
+    },
+    {
+      "file": "OFFICE/OFFICE/extras/circular_desklamp.glb",
+      "sha256": "774c441cd377dc82ac72d45fdbc5edeff74217a244b3c7c3f089307222ce22a9",
+      "objects": [
+        "circular_desklamp"
+      ]
+    },
+    {
+      "file": "OFFICE/OFFICE/extras/mug.glb",
+      "sha256": "0e8c41eccd2426471f127c45e08bb671dfe47e0efe60329414b22924a71642f9",
+      "objects": [
+        "mug"
+      ]
+    },
+    {
+      "file": "OFFICE/OFFICE/book_things/book_case.glb",
+      "sha256": "c94b81017e83b26d27a5a8c4ea98d31228302d030237ef7073d2492e9057e03f",
+      "objects": [
+        "book_case"
+      ]
+    },
+    {
+      "file": "OFFICE/OFFICE/book_things/book_case_small.glb",
+      "sha256": "ac7e3f7f345bfaa3acca59d501979e488097c5f529d4a7a4b2236f67fb1a1fc6",
+      "objects": [
+        "book_case_small"
+      ]
+    },
+    {
+      "file": "OFFICE/OFFICE/computers/TV.glb",
+      "sha256": "b9c5499f2740a71d010817241abe0afbae6c0294a9dae314acf8441142647141",
+      "objects": [
+        "TV"
+      ]
+    },
+    {
+      "file": "OFFICE/OFFICE/extras/wall_clock.glb",
+      "sha256": "6a2e89b5acdd068af1c2d9d5d88a1f467d9db9a2859eb781a05ff703a12184df",
+      "objects": [
+        "wall_clock"
+      ]
+    },
+    {
+      "file": "OFFICE/OFFICE/book_things/books.glb",
+      "sha256": "b6dc71bb86e7b7769e819e09c746e92871ce3a3ee1d43d6b574fc38215c98630",
+      "objects": [
+        "books"
+      ]
+    },
+    {
+      "file": "OFFICE/OFFICE/book_things/books_alt2.glb",
+      "sha256": "8e1827f2f9e9a1d9757a405231ebfa40a25d87f44d08fc5ec7c2562d06083101",
+      "objects": [
+        "books_alt2"
+      ]
+    },
+    {
+      "file": "LowPolyAssetPack_Free/LowPolyAssetPack_Free/FBX and Blend Files/Technology Props/Games Consoles/Free_Mesh_GamesConsoles_Mutliple.blend",
+      "sha256": "fd8a1bf0decbac4daa885c51431429736c424eec4eb18fb053521ed12bcbe048",
+      "objects": [
+        "Mesh_GameConsole_01"
+      ]
+    },
+    {
+      "file": "LowPolyAssetPack_Free/LowPolyAssetPack_Free/FBX and Blend Files/Technology Props/Games Consoles/Free_Mesh_GamesConsoles_Mutliple.blend",
+      "sha256": "fd8a1bf0decbac4daa885c51431429736c424eec4eb18fb053521ed12bcbe048",
+      "objects": [
+        "Mesh_GameConsole_03"
+      ]
+    },
+    {
+      "file": "LowPolyAssetPack_Free/LowPolyAssetPack_Free/FBX and Blend Files/Technology Props/Games Consoles/Free_Mesh_GamesConsoles_Mutliple.blend",
+      "sha256": "fd8a1bf0decbac4daa885c51431429736c424eec4eb18fb053521ed12bcbe048",
+      "objects": [
+        "Mesh_GameConsoleController_01"
+      ]
+    },
+    {
+      "file": "LowPolyAssetPack_Free/LowPolyAssetPack_Free/FBX and Blend Files/Technology Props/Games Consoles/Free_Mesh_GamesConsoles_Mutliple.blend",
+      "sha256": "fd8a1bf0decbac4daa885c51431429736c424eec4eb18fb053521ed12bcbe048",
+      "objects": [
+        "Mesh_GameConsoleController_02"
+      ]
+    },
+    {
+      "file": "LowPolyAssetPack_Free/LowPolyAssetPack_Free/FBX and Blend Files/Technology Props/Audio Equipment/Free_Mesh_Audio_Equipment.blend",
+      "sha256": "33bdad43d6bab30fe5f90d6cc0e77f448d4a6b2e0878f35c2a92aab2f687be49",
+      "objects": [
+        "Mesh_Radio_01"
+      ]
+    },
+    {
+      "file": "LowPolyAssetPack_Free/LowPolyAssetPack_Free/FBX and Blend Files/Technology Props/Audio Equipment/Free_Mesh_Audio_Equipment.blend",
+      "sha256": "33bdad43d6bab30fe5f90d6cc0e77f448d4a6b2e0878f35c2a92aab2f687be49",
+      "objects": [
+        "Mesh_Headphones_01"
+      ]
+    },
+    {
+      "file": "LowPolyAssetPack_Free/LowPolyAssetPack_Free/FBX and Blend Files/Technology Props/Audio Equipment/Free_Mesh_Audio_Equipment.blend",
+      "sha256": "33bdad43d6bab30fe5f90d6cc0e77f448d4a6b2e0878f35c2a92aab2f687be49",
+      "objects": [
+        "Mesh_Speakers_01"
+      ]
+    },
+    {
+      "file": "LowPolyAssetPack_Free/LowPolyAssetPack_Free/FBX and Blend Files/Technology Props/Audio Equipment/Free_Mesh_Audio_Equipment.blend",
+      "sha256": "33bdad43d6bab30fe5f90d6cc0e77f448d4a6b2e0878f35c2a92aab2f687be49",
+      "objects": [
+        "Mesh_Speakers_01"
+      ]
+    },
+    {
+      "file": "LowPolyAssetPack_Free/LowPolyAssetPack_Free/FBX and Blend Files/Technology Props/Audio Equipment/Free_Mesh_Audio_Equipment.blend",
+      "sha256": "33bdad43d6bab30fe5f90d6cc0e77f448d4a6b2e0878f35c2a92aab2f687be49",
+      "objects": [
+        "Mesh_CDStack_01"
+      ]
+    },
+    {
+      "file": "LowPolyAssetPack_Free/LowPolyAssetPack_Free/FBX and Blend Files/Technology Props/Misc Tech Props/Free_Mesh_MiscTechProps.blend",
+      "sha256": "df4ee94fb7e3db1b9bce1aacf657c285eb10f5f5804bfa5bfbea3224b70abf81",
+      "objects": [
+        "Mesh_Cable_01"
+      ]
+    },
+    {
+      "file": "LowPolyAssetPack_Free/LowPolyAssetPack_Free/FBX and Blend Files/Technology Props/Misc Tech Props/Free_Mesh_MiscTechProps.blend",
+      "sha256": "df4ee94fb7e3db1b9bce1aacf657c285eb10f5f5804bfa5bfbea3224b70abf81",
+      "objects": [
+        "Mesh_AlarmClock_01"
+      ]
+    },
+    {
+      "file": "LowPolyAssetPack_Free/LowPolyAssetPack_Free/FBX and Blend Files/Technology Props/Games Consoles/Free_Mesh_GamesConsoles_Mutliple.blend",
+      "sha256": "fd8a1bf0decbac4daa885c51431429736c424eec4eb18fb053521ed12bcbe048",
+      "objects": [
+        "Mesh_GameConsoleGame_01"
+      ]
+    },
+    {
+      "file": "LowPolyAssetPack_Free/LowPolyAssetPack_Free/FBX and Blend Files/Technology Props/Games Consoles/Free_Mesh_GamesConsoles_Mutliple.blend",
+      "sha256": "fd8a1bf0decbac4daa885c51431429736c424eec4eb18fb053521ed12bcbe048",
+      "objects": [
+        "Mesh_GameConsoleGame_01"
+      ]
+    },
+    {
+      "file": "LowPolyAssetPack_Free/LowPolyAssetPack_Free/FBX and Blend Files/Technology Props/Games Consoles/Free_Mesh_GamesConsoles_Mutliple.blend",
+      "sha256": "fd8a1bf0decbac4daa885c51431429736c424eec4eb18fb053521ed12bcbe048",
+      "objects": [
+        "Mesh_GameConsoleGame_01"
+      ]
+    },
+    {
+      "file": "LowPolyAssetPack_Free/LowPolyAssetPack_Free/FBX and Blend Files/Technology Props/Games Consoles/Free_Mesh_GamesConsoles_Mutliple.blend",
+      "sha256": "fd8a1bf0decbac4daa885c51431429736c424eec4eb18fb053521ed12bcbe048",
+      "objects": [
+        "Mesh_GameConsoleGame_01"
+      ]
+    },
+    {
+      "file": "LowPolyAssetPack_Free/LowPolyAssetPack_Free/FBX and Blend Files/Technology Props/Games Consoles/Free_Mesh_GamesConsoles_Mutliple.blend",
+      "sha256": "fd8a1bf0decbac4daa885c51431429736c424eec4eb18fb053521ed12bcbe048",
+      "objects": [
+        "Mesh_GameConsoleGame_01"
+      ]
+    },
+    {
+      "file": "PSX Kitchen Props Pack/PSX Kitchen Props Pack/glb/pizza_box_semi_close_with_pizza.glb",
+      "sha256": "1e99a1e764ee9b0e3bfa67994b51e95ccb7cee586fcd3905385081acef365917",
+      "objects": [
+        "pizza box semi close with pizza"
+      ]
+    },
+    {
+      "file": "PSX Kitchen Props Pack/PSX Kitchen Props Pack/glb/soda_bottle.glb",
+      "sha256": "0685f8cd521ec69adc993909a453f24e825bc2868424e4005c53702c38feedf5",
+      "objects": [
+        "soda bottle"
+      ]
+    }
+  ],
+  "placements": [
+    {
+      "name": "Cama | House bed_02",
+      "location": [
+        1.83,
+        -0.62,
+        0.03
+      ],
+      "reference_size": 1.32,
+      "rotation_degrees": 90.0
+    },
+    {
+      "name": "Mesa principal | madeira gasta",
+      "location": [
+        -1.12,
+        0.74,
+        0
+      ],
+      "reference_size": 0.77,
+      "rotation_degrees": 0.0
+    },
+    {
+      "name": "Mesa lateral | retorno em L",
+      "location": [
+        -2.08,
+        -0.69,
+        0
+      ],
+      "reference_size": 0.77,
+      "rotation_degrees": 90.0
+    },
+    {
+      "name": "Cadeira do Dery",
+      "location": [
+        0.36,
+        0.52,
+        0
+      ],
+      "reference_size": 1.1,
+      "rotation_degrees": 0.0
+    },
+    {
+      "name": "Monitor CRT | computador",
+      "location": [
+        -1.25,
+        0.78,
+        0.772
+      ],
+      "reference_size": 0.53,
+      "rotation_degrees": 0.0
+    },
+    {
+      "name": "Teclado",
+      "location": [
+        -1.25,
+        0.3,
+        0.782
+      ],
+      "reference_size": 0.5,
+      "rotation_degrees": 0.0
+    },
+    {
+      "name": "Mouse",
+      "location": [
+        -0.86,
+        0.32,
+        0.782
+      ],
+      "reference_size": 0.064,
+      "rotation_degrees": 0.0
+    },
+    {
+      "name": "Gabinete bege",
+      "location": [
+        -2.03,
+        -0.08,
+        0.772
+      ],
+      "reference_size": 0.48,
+      "rotation_degrees": 0.0
+    },
+    {
+      "name": "Luminária da mesa",
+      "location": [
+        -0.4,
+        1.04,
+        0.772
+      ],
+      "reference_size": 0.42,
+      "rotation_degrees": -25.0
+    },
+    {
+      "name": "Caneca na mesa",
+      "location": [
+        -0.58,
+        0.47,
+        0.782
+      ],
+      "reference_size": 0.108,
+      "rotation_degrees": -12.000000000000002
+    },
+    {
+      "name": "Estante de jogos",
+      "location": [
+        0.81,
+        1.97,
+        0
+      ],
+      "reference_size": 1.92,
+      "rotation_degrees": 0.0
+    },
+    {
+      "name": "Móvel da TV",
+      "location": [
+        1.98,
+        1.26,
+        0
+      ],
+      "reference_size": 0.67,
+      "rotation_degrees": 0.0
+    },
+    {
+      "name": "TV de tubo",
+      "location": [
+        1.98,
+        1.22,
+        0.671
+      ],
+      "reference_size": 0.63,
+      "rotation_degrees": 0.0
+    },
+    {
+      "name": "Relógio de parede",
+      "location": [
+        -1.98,
+        2.075,
+        2.16
+      ],
+      "reference_size": 0.32,
+      "rotation_degrees": 0.0
+    },
+    {
+      "name": "Livros e revistas",
+      "location": [
+        0.46,
+        1.94,
+        1.5
+      ],
+      "reference_size": 0.4,
+      "rotation_degrees": 0.0
+    },
+    {
+      "name": "Manuais de jogos",
+      "location": [
+        0.6,
+        1.94,
+        0.18
+      ],
+      "reference_size": 0.38,
+      "rotation_degrees": 0.0
+    },
+    {
+      "name": "Console retrô | estante",
+      "location": [
+        0.62,
+        1.94,
+        1.08
+      ],
+      "reference_size": 0.43,
+      "rotation_degrees": 0.0
+    },
+    {
+      "name": "Segundo console",
+      "location": [
+        0.58,
+        1.94,
+        0.58
+      ],
+      "reference_size": 0.38,
+      "rotation_degrees": 0.0
+    },
+    {
+      "name": "Controle na cama",
+      "location": [
+        1.72,
+        -1.05,
+        0.47
+      ],
+      "reference_size": 0.2,
+      "rotation_degrees": -25.0
+    },
+    {
+      "name": "Controle da estante",
+      "location": [
+        1.12,
+        1.94,
+        0.58
+      ],
+      "reference_size": 0.18,
+      "rotation_degrees": 12.000000000000002
+    },
+    {
+      "name": "Rádio portátil",
+      "location": [
+        -2.1,
+        -0.65,
+        0.78
+      ],
+      "reference_size": 0.39,
+      "rotation_degrees": -5.0
+    },
+    {
+      "name": "Fone de ouvido",
+      "location": [
+        -0.33,
+        0.3,
+        0.79
+      ],
+      "reference_size": 0.23,
+      "rotation_degrees": -14.999999999999998
+    },
+    {
+      "name": "Caixa de som esquerda",
+      "location": [
+        -1.69,
+        0.78,
+        0.78
+      ],
+      "reference_size": 0.25,
+      "rotation_degrees": 0.0
+    },
+    {
+      "name": "Caixa de som direita",
+      "location": [
+        -0.78,
+        0.8,
+        0.78
+      ],
+      "reference_size": 0.25,
+      "rotation_degrees": 0.0
+    },
+    {
+      "name": "Pilha de CDs",
+      "location": [
+        1.17,
+        1.94,
+        1.08
+      ],
+      "reference_size": 0.2,
+      "rotation_degrees": 0.0
+    },
+    {
+      "name": "Cabo no chão",
+      "location": [
+        -1.35,
+        0.1,
+        0.012
+      ],
+      "reference_size": 0.75,
+      "rotation_degrees": 21.0
+    },
+    {
+      "name": "Despertador",
+      "location": [
+        0.95,
+        1.8,
+        1.93
+      ],
+      "reference_size": 0.22,
+      "rotation_degrees": 0.0
+    },
+    {
+      "name": "Caixa de jogo 1",
+      "location": [
+        0.93,
+        1.94,
+        1.5
+      ],
+      "reference_size": 0.093,
+      "rotation_degrees": -1.9124108200006722
+    },
+    {
+      "name": "Caixa de jogo 2",
+      "location": [
+        1.0350000000000001,
+        1.94,
+        1.5
+      ],
+      "reference_size": 0.093,
+      "rotation_degrees": 0.9685832909714663
+    },
+    {
+      "name": "Caixa de jogo 3",
+      "location": [
+        1.1400000000000001,
+        1.94,
+        1.5
+      ],
+      "reference_size": 0.093,
+      "rotation_degrees": -0.9926417809949998
+    },
+    {
+      "name": "Caixa de jogo 4",
+      "location": [
+        1.245,
+        1.94,
+        1.5
+      ],
+      "reference_size": 0.093,
+      "rotation_degrees": -1.8123623750248774
+    },
+    {
+      "name": "Caixa de jogo 5",
+      "location": [
+        1.35,
+        1.94,
+        1.5
+      ],
+      "reference_size": 0.093,
+      "rotation_degrees": -0.06290796571130697
+    },
+    {
+      "name": "Pizza esquecida",
+      "location": [
+        -2.05,
+        -1.01,
+        0.78
+      ],
+      "reference_size": 0.37,
+      "rotation_degrees": 12.000000000000002
+    },
+    {
+      "name": "Garrafa na mesa",
+      "location": [
+        -1.95,
+        -0.82,
+        0.81
+      ],
+      "reference_size": 0.22,
+      "rotation_degrees": 0.0
+    }
+  ],
+  "mesh_objects": 55,
+  "triangles": 43350,
+  "packed_images": [
+    [
+      "bed_02.png",
+      [
+        512,
+        512
+      ],
+      true
+    ],
+    [
+      "bed_03.003",
+      [
+        512,
+        512
+      ],
+      true
+    ],
+    [
+      "beer bottle",
+      [
+        256,
+        256
+      ],
+      true
+    ],
+    [
+      "bookcase",
+      [
+        128,
+        64
+      ],
+      true
+    ],
+    [
+      "bookcase.001",
+      [
+        128,
+        64
+      ],
+      true
+    ],
+    [
+      "books",
+      [
+        96,
+        48
+      ],
+      true
+    ],
+    [
+      "books.001",
+      [
+        96,
+        48
+      ],
+      true
+    ],
+    [
+      "carpet.jpg",
+      [
+        64,
+        64
+      ],
+      true
+    ],
+    [
+      "Ceiling.jpg",
+      [
+        256,
+        256
+      ],
+      true
+    ],
+    [
+      "clock",
+      [
+        64,
+        64
+      ],
+      true
+    ],
+    [
+      "cola can",
+      [
+        256,
+        256
+      ],
+      true
+    ],
+    [
+      "computer",
+      [
+        256,
+        465
+      ],
+      true
+    ],
+    [
+      "computer.001",
+      [
+        256,
+        465
+      ],
+      true
+    ],
+    [
+      "computer.002",
+      [
+        256,
+        465
+      ],
+      true
+    ],
+    [
+      "computer.003",
+      [
+        256,
+        465
+      ],
+      true
+    ],
+    [
+      "desk-lamp",
+      [
+        64,
+        64
+      ],
+      true
+    ],
+    [
+      "desk_1_old",
+      [
+        128,
+        128
+      ],
+      true
+    ],
+    [
+      "desk_2",
+      [
+        128,
+        128
+      ],
+      true
+    ],
+    [
+      "Door_02.png",
+      [
+        103,
+        256
+      ],
+      true
+    ],
+    [
+      "leather_office_chair",
+      [
+        128,
+        128
+      ],
+      true
+    ],
+    [
+      "logo.png",
+      [
+        1254,
+        1254
+      ],
+      true
+    ],
+    [
+      "MasterMaterial1px.png.001",
+      [
+        32,
+        32
+      ],
+      true
+    ],
+    [
+      "mugs",
+      [
+        64,
+        64
+      ],
+      true
+    ],
+    [
+      "ntsc_case_front.png",
+      [
+        1698,
+        1000
+      ],
+      true
+    ],
+    [
+      "pizza",
+      [
+        256,
+        256
+      ],
+      true
+    ],
+    [
+      "Pizza box",
+      [
+        256,
+        256
+      ],
+      true
+    ],
+    [
+      "PlasterWhite.jpg",
+      [
+        256,
+        256
+      ],
+      true
+    ],
+    [
+      "tv",
+      [
+        128,
+        128
+      ],
+      true
+    ],
+    [
+      "Windows.jpg",
+      [
+        81,
+        128
+      ],
+      true
+    ],
+    [
+      "Wood_02.jpg",
+      [
+        256,
+        256
+      ],
+      true
+    ],
+    [
+      "WoodPlanks.jpg",
+      [
+        256,
+        220
+      ],
+      true
+    ]
+  ],
+  "lighting": "colored diffuse baked into PS1Light corners, ambient + visibility rays",
+  "render_base_resolutions": [
+    [
+      480,
+      270
+    ],
+    [
+      270,
+      480
+    ]
+  ],
+  "geometry_precision": "shared seam-safe screen-space group per camera",
+  "new_video_renders": 0,
+  "character_modified": false,
+  "approved_by_user": false
+}
