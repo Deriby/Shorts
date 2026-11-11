@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-11",
+  "source_tool": "image_gen",
+  "source_generation_file": "exec-634702ef-8b7b-45ba-97ef-74f233440762.png",
+  "source_image": "Tecidos_Fonte.png",
+  "prompt": "Paint a production texture sheet for a late-1990s PLAYSTATION 1 human character, stylistically like the actual small hand-painted diffuse materials in Silent Hill 1 and Resident Evil 1-3. The character wears a plain black T-shirt over gray long sleeves, dark charcoal denim trousers, and a backward black cap. We need real painted low-resolution game fabrics, not photos of cloth, not PBR materials, not a rendered character.\n\nONE SQUARE IMAGE, exact clean 2x2 grid with FOUR equally sized square diffuse fabric tiles, edge-to-edge. Tile boundaries exactly at 50% horizontal/vertical. NO gutters, borders, dividers, labels, text, objects, clothing silhouettes, human skin, faces, UV wireframes or extra tiles. Each quadrant must occupy its entire 50% x 50% square.\n\nTOP LEFT: BLACK COTTON T-SHIRT. Mostly very dark charcoal/neutral black, subtle black-gray tonal blocks, a few broad restrained hand-painted vertical/diagonal garment folds as on a 1999 3D character. Folds are very low contrast. No purple or brown camouflage patches, no printed design, no logo, no glossy white highlights. Solid neutral black fabric.\n\nTOP RIGHT: DARK CHARCOAL DENIM TROUSERS. Clearly dark gray-blue/charcoal cloth, simplified painted broad angular folds, occasional diagonal creases, a tiny understated pixel weave. Color range restrained: blackish charcoal to muted medium-dark slate, no shiny silver areas, no leather or plastic gloss, no ripped holes, no isolated belt or zipper. The cloth should feel matte and low-polygon-era, not photographic.\n\nBOTTOM LEFT: MEDIUM GRAY COTTON UNDERSLEEVE. Muted neutral gray, restrained blocky painted folds, a faint tiny weave pattern. Mostly clean gray. No wavy seam running through the center, no zigzags, no stripes, no camouflage. Gray remains lighter than the black shirt but not white.\n\nBOTTOM RIGHT: BLACK CAP COTTON. Dark brown-black/charcoal with soft muted dark-gray painted shading, a few understated fabric seam hints. Very dark matte surface with little color variation, no strap, holes, buckle, bill silhouette, logos or bright bands. It should be visibly different from a smooth modern glossy cap.\n\nArtwork: apparent 128x128 working pixels IN EACH QUADRANT. Each fabric uses about 12-16 coherent muted paint colors. Deliberate chunky but small texels, simple brush-made shade clusters and very restrained checker dithering between selected shades. Recognizable semi-realistic PS1 diffuse texture painting rather than cartoon outlines. The tiles must have broadly compatible opposing edges for wrapping on a low-poly mesh; no bright border seams. Natural contrast stays dark and subtle. No modern pore-level fiber detail, no glossy lighting, no fake glitch or blur. Produce only this four-tile painted material page.",
+  "layout": {
+    "top_left": "black cotton shirt",
+    "top_right": "dark denim",
+    "bottom_left": "gray undersleeve",
+    "bottom_right": "black cap cotton"
+  },
+  "face_redrawn": false,
+  "expression_variants_created": 0,
+  "stage": "General texture refinement proposal; user review pending."
+}
