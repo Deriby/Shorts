@@ -12,6 +12,8 @@ Modelo e texturas originais enviados pelo usuário para uso nos shorts.
 
 **Encaixe facial atualizado:** [v8](rig_ps1_v2/texturas/encaixe_rosto_v8/), solicitado após ajustar o contorno. Reposiciona suavemente o mesmo desenho neutro na cabeça v7, com UV separado, preservando os pixels originais e a geometria. Inclui comparação e Blender; aguarda avaliação.
 
+**Novo teste autorizado de expressões:** [dez rostos PS1 aplicados à base v8](rig_ps1_v2/expressoes_v1/), com PNGs 128×128, neutro original preservado, seletor `PS1_face_id` e troca seca no Blender. Inclui prancha de prévias e biblioteca própria para o novo UV/rig. Não aplicar automaticamente a biblioteca antiga de 31 rostos a esta base.
+
 **Roupa atual:** [camiseta preta com M amarelo do Massacote Games no peito](roupas/camiseta_preta/), mantendo o corte e a geometria originais. Aplicar a troca de material ao reutilizar cenas antigas.
 
 O mesmo procedimento inclui a limpeza das manchas na pele, da iluminação colorida antiga e das transições entre pele e mangas, preservando o rosto desenhado e a malha original.

@@ -1,0 +1,29 @@
+{
+  "source": "../texturas/encaixe_rosto_v8/Dery_Encaixe_Rosto_v8.blend",
+  "source_sha256": "a04701ef0ed3a184200dbedcb3684a114ff892ba9b3643784d1cfbc020a5f17a",
+  "source_unchanged": true,
+  "geometry_uvs_shape_keys_weights_assignments_preserved": true,
+  "original_images_unchanged": true,
+  "expression_selector_checked_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "atlas_samplers": 10,
+  "nearest_sampling": true,
+  "cell_edge_clamping": true,
+  "neutral_skin_boundary_preserved": true,
+  "expression_morphing": false,
+  "new_expressions": 10,
+  "rig_bones": 71,
+  "user_authorized_expression_test": true,
+  "approved_by_user": false
+}

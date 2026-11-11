@@ -1,0 +1,18 @@
+{
+  "source": "Folha_Fonte.png",
+  "generation_file": "exec-ea044daa-c1fb-4dee-b271-7a006c79a377.png",
+  "prompt": "Create a PRODUCTION TEXTURE CONTACT SHEET by editing the FIRST reference image, which is the exact current 128x128 neutral face diffuse of Dery. SECOND image is the applied 3D model only to understand the character; do not draw that rendered head. Preserve the identity and painted late-1990s Silent Hill / PS1 human-face style of the first texture. Same young adult man, warm light olive-beige skin, thick dark eyebrows, hazel brown eyes, slim straight nose, thin sparse moustache, small chin goatee and subtle stubble. NOT a different man, not cartoon, not emoji, not photoreal modern face.\n\nOutput exactly a 4-COLUMN by 3-ROW grid filling the ENTIRE landscape canvas, with 12 equal-size rectangular texture cells. No margins, no gaps, no dividers, no labels, no text, no perspective. Each cell is a complete FLAT FRONTAL FACE DIFFUSE MAP using the SAME full-image percentage feature layout as the first reference. When a cell is resized to 128x128 it must fit the existing UV. Each cell contains ONLY skin and facial features, never a head silhouette, ears, head hair, cap, neck, clothing or background. Skin fills every corner/edge; keep the SAME neutral skin color and subtle texture at the outer 10% of EVERY cell, preventing visible seams when swapped. The nose position, iris color, face scale and centerline stay fixed. Expression is painted eyes/brows/mouth only. Preserve moustache and small goatee identity through the expressions. Restrained broad diffuse shading, very light cheek blemishes, crisp low-resolution painted details, approximate native 128px face texture style. No smooth plastic skin, no heavy dark eye bags, no extreme contour shadows, no glitch, no blur.\n\nREADING ORDER left-to-right, top-to-bottom:\nRow 1:\n1. Gentle friendly CLOSED-MOUTH SMILE, lifted mouth corners, slightly smiling eyes.\n2. COMIC LAUGH, squinted happy eyes, open smiling mouth with readable small teeth band and dark mouth interior.\n3. SURPRISED, raised eyebrows, wider eyes and round open mouth, recognizable same person.\n4. ANGRY, knitted low eyebrows and annoyed eyes, clenched teeth.\nRow 2:\n5. CONFUSED, ONE eyebrow raised and other lowered, crooked questioning closed mouth.\n6. SARCASTIC SMIRK, clearly asymmetric half-smile, one eyelid slightly drooped, knowingly smug.\n7. SAD, raised inner eyebrows, downturned lips, no tears.\n8. DISGUSTED, slightly wrinkled nose, narrowed eyes, asymmetric upper lip.\nRow 3:\n9. BLINK, BOTH eyes fully shut with natural eyelid lines, relaxed closed mouth.\n10. TALKING / AH, relaxed open eyes and a medium open speaking mouth, distinct from surprise and laughter.\n11. EXACT NEUTRAL reference face, closed mouth.\n12. EXACT NEUTRAL reference face again, closed mouth.\n\nAll 12 tiles are tightly registered face TEXTURES with matching eye/nose/mouth anchor positions. Strong readable distinctions between the ten expressions while keeping the SAME identity. The bottom two neutral tiles are calibration spares. This is not a character illustration, face portrait collage, 3D render, grid of heads or background scene. Output only the texture sheet.",
+  "reference_paths": [
+    "../texturas/rosto_neutro_v3/Rosto_Neutro_128.png",
+    "../texturas/encaixe_rosto_v8/Depois_Frente.png"
+  ],
+  "art_created_with": "image_gen",
+  "new_expressions": 10,
+  "generated_sheet_layout": [
+    4,
+    3
+  ],
+  "unused_neutral_calibration_cells": 2,
+  "neutral_in_library": "Exact original neutral texture, not the generated calibration cells.",
+  "asset_conversion": "Cell extraction, nearest-neighbor size conversion to 128px, RGB555 precision, atlas packing. No procedural facial drawings."
+}

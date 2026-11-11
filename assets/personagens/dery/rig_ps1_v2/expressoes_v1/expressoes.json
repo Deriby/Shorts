@@ -1,0 +1,86 @@
+{
+  "version": "rig_ps1_v2_expressions_v1",
+  "source_model": "../texturas/encaixe_rosto_v8/Dery_Encaixe_Rosto_v8.blend",
+  "texture_size": [
+    128,
+    128
+  ],
+  "atlas_grid": [
+    4,
+    3
+  ],
+  "property": "PS1_face_id",
+  "neutral_id": 0,
+  "expressions": [
+    {
+      "id": 0,
+      "slug": "neutro",
+      "label": "Neutro",
+      "file": "png/00_neutro.png"
+    },
+    {
+      "id": 1,
+      "slug": "sorriso",
+      "label": "Sorriso",
+      "file": "png/01_sorriso.png"
+    },
+    {
+      "id": 2,
+      "slug": "risada",
+      "label": "Risada",
+      "file": "png/02_risada.png"
+    },
+    {
+      "id": 3,
+      "slug": "surpreso",
+      "label": "Surpresa",
+      "file": "png/03_surpreso.png"
+    },
+    {
+      "id": 4,
+      "slug": "bravo",
+      "label": "Raiva",
+      "file": "png/04_bravo.png"
+    },
+    {
+      "id": 5,
+      "slug": "confuso",
+      "label": "Confusão",
+      "file": "png/05_confuso.png"
+    },
+    {
+      "id": 6,
+      "slug": "deboche",
+      "label": "Deboche",
+      "file": "png/06_deboche.png"
+    },
+    {
+      "id": 7,
+      "slug": "triste",
+      "label": "Tristeza",
+      "file": "png/07_triste.png"
+    },
+    {
+      "id": 8,
+      "slug": "nojo",
+      "label": "Nojo",
+      "file": "png/08_nojo.png"
+    },
+    {
+      "id": 9,
+      "slug": "piscando",
+      "label": "Piscada",
+      "file": "png/09_piscando.png"
+    },
+    {
+      "id": 10,
+      "slug": "falando",
+      "label": "Falando",
+      "file": "png/10_falando.png"
+    }
+  ],
+  "new_expressions_count": 10,
+  "user_authorized_preview_library": true,
+  "production_short_authorized": false,
+  "approved_by_user": false
+}

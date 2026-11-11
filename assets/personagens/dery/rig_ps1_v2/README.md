@@ -12,6 +12,8 @@ Base recebida em `Dery Rig.zip`, em 11/11/2026. A etapa inicial simplificou a an
 
 **Encaixe da textura após o contorno:** [v8](texturas/encaixe_rosto_v8/), com reajuste local do UV do mesmo rosto de 128×128: sobrancelhas um pouco mais altas, boca ligeiramente mais estreita/baixa e cavanhaque ajustado à mandíbula. Preserva o desenho, a geometria v7 e o restante do visual. Comparativo e modelo acompanham a proposta, ainda em avaliação.
 
+**Teste de expressões autorizado em seguida:** [biblioteca de dez expressões](expressoes_v1/) com PNGs 128×128, prancha renderizada no modelo v8 e Blender com seletor `PS1_face_id`. O neutro anterior permanece no ID 0; os IDs 1–10 têm os novos desenhos. A autorização é para testar as expressões, sem iniciar um short ou presumir aprovação estética da biblioteca.
+
 ## Arquivos
 
 - [Dery_Rig_PS1_Base.blend](Dery_Rig_PS1_Base.blend): nova base editável, com imagens originais incorporadas e o rig preservado.

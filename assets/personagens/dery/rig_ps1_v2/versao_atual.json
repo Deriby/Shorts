@@ -6,13 +6,15 @@
   "selection_reason": "User rejected all v4 textures and preferred the previous textures.",
   "scope": "Return to the complete v3 material set, including face, fringe, clothing, cap and shoes.",
   "full_model_approval_confirmed": false,
-  "expression_library_authorized": false,
+  "expression_library_authorized": true,
   "preview_body": "texturas/rosto_neutro_v3/Previa_Corpo.png",
   "preview_head": "texturas/rosto_neutro_v3/Previa_Rosto.png",
   "preview_angles": "texturas/rosto_neutro_v3/previa_angulos/",
   "rejected_texture_variant": "texturas/estilo_ps1_v4/",
-  "candidate_version": "v8",
-  "candidate_model": "texturas/encaixe_rosto_v8/Dery_Encaixe_Rosto_v8.blend",
-  "candidate_note": "Refit the same neutral-face texture to the v7 jaw via a dedicated UV; geometry, image pixels and all prior UVs preserved. Likeness awaits user review; no expressions authorized.",
-  "candidate_parent": "v7"
+  "candidate_version": "v8 + expressões v1",
+  "candidate_model": "expressoes_v1/Dery_10_Expressoes_PS1.blend",
+  "candidate_note": "Ten new PS1 texture expressions applied to v8 with a dry PNG selector. Original neutral, geometry, UVs, rig and clothing preserved. Await aesthetic feedback before production.",
+  "candidate_parent": "v8",
+  "expression_authorization_scope": "Ten new facial-expression PNGs and applied model previews, as explicitly requested; no short production or presumed final approval.",
+  "expression_library": "expressoes_v1/"
 }
