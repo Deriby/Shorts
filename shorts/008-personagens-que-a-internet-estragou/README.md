@@ -149,6 +149,8 @@ A ordem atual do vídeo é: Lady Dimitrescu, Tifa, Chun-Li, Ankha, Vaporeon, 2B,
 
 ## Montagem do vídeo longo
 
+**Projeto atual:** o usuário informou que resolveu os problemas anteriores em outro chat e enviou a [edição recuperada](production/19-projeto-recuperado-atual/README.md) em 11/11/2026. Essa passa a ser a referência para continuidade; os arquivos abaixo permanecem como histórico das etapas anteriores.
+
 A edição enviada pelo usuário vai até a 2B (4:52,483), com vinhetas por personagem, nomes amarelos, trilha e reenquadramentos de humor. A montagem continua desse ponto com Tracer, D.Va, Mercy, Lara Croft, Peach, Sonic e o encerramento. O trecho recebido é preservado sem recodificação de imagem; as animações anteriores também ficam intactas.
 
 - [Vídeo completo 16:9 — estilo aprovado](production/16-longo-estilo-aprovado/output/Personagens_que_a_internet_ESTRAGOU_Estilo_Aprovado_16x9.mp4).

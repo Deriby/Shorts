@@ -1,0 +1,30 @@
+{
+  "filename": "Massacote_EDICAO_RECUPERADA_EXPORT_TESTE.wfp",
+  "source_upload_id": "file_0000000080d4820e9cb963e1e0e2a0fa",
+  "sha256": "8f6c0e50dec09a272e0f7e828110c4dc9d36d43a0b09490660845f3ec41cbf9c",
+  "size_bytes": 4860700,
+  "original_upload_preserved": true,
+  "archive_integrity": "passed",
+  "duration_seconds": 543.9333334,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": [
+    60,
+    1
+  ],
+  "filmora_version": "14.9.3.14445",
+  "timeline_count": 62,
+  "resources": 71,
+  "main_tracks": 26,
+  "main_clips": 275,
+  "main_movie_audio_clips": 198,
+  "main_movie_audio_with_speed": 198,
+  "working_status": "User reports playback issues resolved in other chat; not executed in Filmora here.",
+  "shared_chat_url": "https://chatgpt.com/share/6af44128-44ac-83e9-8e4b-7a43e2df5ce0",
+  "shared_chat_title": "Ver projeto Codex Shorts",
+  "shared_chat_read": false,
+  "shared_chat_access": "Blocked by environment HTTP proxy: CONNECT 403; no chat-history search tool available.",
+  "future_video_decisions_imported": false
+}
