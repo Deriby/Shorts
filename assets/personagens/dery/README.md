@@ -2,7 +2,7 @@
 
 Modelo e texturas originais enviados pelo usuário para uso nos shorts.
 
-**Atualização em preparação:** [novo rig e base do rosto PS1](rig_ps1_v2/), recebidos em 11/11/2026. A geometria frontal e o UV foram preparados seguindo a referência de Silent Hill. As texturas com a aparência do usuário e as novas expressões ficaram explicitamente para o próximo chat. Os modelos e episódios anteriores permanecem preservados.
+**Atualização em preparação:** [novo rig e base do rosto PS1](rig_ps1_v2/), recebidos em 11/11/2026. A geometria frontal e o UV foram preparados seguindo a referência de Silent Hill. A [proposta de textura neutra v2](rig_ps1_v2/texturas/rosto_neutro_v2/) está em avaliação após a rejeição da primeira aplicação; as novas expressões dependem do retorno do usuário. Os modelos e episódios anteriores permanecem preservados.
 
 **Roupa atual:** [camiseta preta com M amarelo do Massacote Games no peito](roupas/camiseta_preta/), mantendo o corte e a geometria originais. Aplicar a troca de material ao reutilizar cenas antigas.
 

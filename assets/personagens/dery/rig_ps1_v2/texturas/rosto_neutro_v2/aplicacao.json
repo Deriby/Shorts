@@ -1,0 +1,35 @@
+{
+  "neutral_only": true,
+  "approved_by_user": false,
+  "new_expressions": 0,
+  "face_texture": [
+    64,
+    64
+  ],
+  "body_atlas": [
+    256,
+    256
+  ],
+  "texture_rgb_bits": [
+    5,
+    5,
+    5
+  ],
+  "interpolation": "Closest",
+  "render_engine": "BLENDER_EEVEE_NEXT",
+  "shading": "nearest diffuse multiplied by baked per-corner Gouraud lighting; emission output, one sample",
+  "pbr_materials": false,
+  "old_new_face_shader_blend": false,
+  "preserved_cap_collar_mask": "original UV RGB skin key, with protected eye/mouth/forehead zones",
+  "uv": "DeryPS1UV",
+  "face_fit_uv": "DeryFaceUV",
+  "material_face_counts": {
+    "0": 45090,
+    "2": 2058,
+    "3": 1484,
+    "1": 242
+  },
+  "geometry_changed": false,
+  "bones": 71,
+  "triangles": 48874
+}

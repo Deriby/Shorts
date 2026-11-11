@@ -1,6 +1,8 @@
 # Dery / Massacote — novo rig, base do rosto PS1
 
-Base recebida em `Dery Rig.zip`, em 11/11/2026. O pedido desta etapa é simplificar a anatomia do rosto seguindo o exemplo de Silent Hill fornecido pelo usuário: nariz e contorno em geometria simples, com olhos e boca desenhados nas texturas. **As texturas baseadas na aparência do usuário serão feitas no próximo chat.**
+Base recebida em `Dery Rig.zip`, em 11/11/2026. A etapa inicial simplificou a anatomia do rosto seguindo o exemplo de Silent Hill fornecido pelo usuário: nariz e contorno em geometria simples, com olhos e boca desenhados nas texturas.
+
+**Textura em avaliação:** [rosto neutro PS1 v2](texturas/rosto_neutro_v2/), redesenhado após a rejeição da primeira aplicação. A proposta usa textura facial de 64×64 e mantém os originais separados. A biblioteca de expressões depende do retorno do usuário. Os arquivos de geometria e as prévias cinzas desta pasta permanecem preservados.
 
 ## Arquivos
 
