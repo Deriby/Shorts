@@ -1,0 +1,38 @@
+# Dery / Massacote — novo rig, base do rosto PS1
+
+Base recebida em `Dery Rig.zip`, em 11/11/2026. O pedido desta etapa é simplificar a anatomia do rosto seguindo o exemplo de Silent Hill fornecido pelo usuário: nariz e contorno em geometria simples, com olhos e boca desenhados nas texturas. **As texturas baseadas na aparência do usuário serão feitas no próximo chat.**
+
+## Arquivos
+
+- [Dery_Rig_PS1_Base.blend](Dery_Rig_PS1_Base.blend): nova base editável, com imagens originais incorporadas e o rig preservado.
+- [Frente](Previa_frente.png), [perfil](Previa_perfil.png) e [três quartos](Previa_tres_quartos.png): inspeção da geometria em material cinza, sem textura de expressão. Não representam a aparência final do personagem.
+- [UV_Rosto_PS1.svg](UV_Rosto_PS1.svg): guia do UV frontal para a etapa de pintura; não é uma expressão.
+- [adaptar_rosto.py](adaptar_rosto.py): reconstrução da base a partir do FBX fornecido.
+- [adaptacao.json](adaptacao.json) e [validacao.json](validacao.json): alterações e verificações realizadas.
+- [recebimento.json](recebimento.json): origem e hashes dos arquivos preservados em `original/`.
+
+## Alterações
+
+A região frontal que continha 1.368 triângulos foi substituída por uma superfície de 242 triângulos. As cavidades e relevos de olhos e boca foram removidos dessa área; o nariz conserva um volume pequeno e angular. A transição para testa e bochechas foi ajustada, mantendo a malha soldada e o contorno inferior do queixo. A escala do conjunto foi normalizada para aproximadamente 1,82 m por um pai comum, sem alterar a proporção entre malha e esqueleto.
+
+O corpo abaixo do pescoço mantém suas posições originais. O rig mantém os 71 ossos e a ação `Armature|Default` do FBX. O modelo completo ainda tem 48.874 triângulos; esta etapa simplifica o rosto, sem fazer uma otimização completa do corpo para o orçamento de polígonos de um PS1.
+
+O UV `DeryFaceUV` projeta a região frontal numa ilha contínua, incluindo o nariz. O material `ROSTO | BASE NEUTRA` tem um nó `EXPRESSAO_PNG` reservado, com interpolação **Closest** e UV explícito. O nó ainda não possui imagem nem ligação à cor; a cor neutra mantém a base utilizável até a pintura. No próximo chat, atribuir o PNG de expressão e ligar sua cor ao material, preservando a troca seca entre desenhos.
+
+O UV de renderização do corpo continua sendo `Channel0`. As texturas originais do corpo não foram redesenhadas. As prévias usam material cinza para mostrar o volume sem a aparência antiga escondê-lo.
+
+## Verificação
+
+Todas as faces são triângulos; todas as arestas pertencem a duas faces, sem bordas abertas. Os pesos estão normalizados, o UV frontal está dentro da imagem e as texturas originais estão incorporadas ao Blender. Foram inspecionadas viradas de cabeça de −30°, 0° e +30°, sem coordenadas inválidas ou triângulos faciais degenerados. Essas verificações não substituem a revisão da atuação e dos novos desenhos na próxima produção.
+
+Não aplicar automaticamente o controlador antigo de 31 rostos: ele usa outro encaixe, UV e rig. Esta base mantém o original recebido e os episódios anteriores separados; os roteiros de produção antigos não foram migrados.
+
+## Reproduzir
+
+Com Blender 4.3.2:
+
+```bash
+blender -b --disable-autoexec -t 4 --python assets/personagens/dery/rig_ps1_v2/adaptar_rosto.py -- --output /tmp/dery_rosto_ps1
+```
+
+O comando importa `original/autorig_actor.fbx`, preserva suas ações, prepara geometria e UV, gera três imagens e salva uma nova base no diretório de saída. Não utiliza os cenários ou vídeos de outros episódios.

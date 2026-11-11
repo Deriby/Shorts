@@ -1,0 +1,37 @@
+{
+  "source_upload_id": "file_000000008f90820eb837b1b0901c82ac",
+  "original_zip_name": "Dery Rig.zip",
+  "received_date": "2026-11-11",
+  "zip_bytes": 18667190,
+  "zip_sha256": "0215a7548e95ba20d89b51af85a917a17d759bb5af8f2792150ade7abf47b5e6",
+  "original_files_preserved": true,
+  "files": [
+    {
+      "path": "original/autorig_actor.fbx",
+      "bytes": 15521008,
+      "sha256": "193f6709121eb504b7baf391931aad14ae973f8c639e7ee755ebc60b34a97aff"
+    },
+    {
+      "path": "original/autorig_actor.json",
+      "bytes": 16362,
+      "sha256": "0f839b85a0244d5520370a8d4e31d7709e3bd6ce69ff7cc7032fb17ebb526f04"
+    },
+    {
+      "path": "original/autorig_actor_ExpressionFrameMap.ini",
+      "bytes": 1768,
+      "sha256": "b90350e79421c1fdb2b106b2ef846a901c4a5b6206fdc98538ca5007cc68d815"
+    },
+    {
+      "path": "original/textures/autorig_actor/autorig_actor/default/Material/Material_metallic.png",
+      "bytes": 2550131,
+      "sha256": "dbdf25ca03ac5c4f2bc0fb4202e5fabb18fabf9be52da12e21cab9ac59d1aea5"
+    },
+    {
+      "path": "original/textures/autorig_actor/autorig_actor/default/Material/Material_roughness.png",
+      "bytes": 2937212,
+      "sha256": "e9c170a84ef7043c854638e17a20a8528a5b84f2511b902a08d9a417d68c9e9a"
+    }
+  ],
+  "reference": "Three images supplied in the user message, showing a Silent Hill-style PS1 character from front, side and close-up.",
+  "authorized_stage": "Facial geometry and UV preparation. Personalized face textures explicitly deferred to next chat."
+}

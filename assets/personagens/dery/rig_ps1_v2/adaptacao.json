@@ -1,0 +1,22 @@
+{
+  "original_vertices": 25002,
+  "original_triangles": 50000,
+  "new_vertices": 24439,
+  "new_triangles": 48874,
+  "original_facial_triangles": 1368,
+  "new_facial_triangles": 242,
+  "shared_boundary_vertices": 114,
+  "retained_source_vertices": 24374,
+  "new_facial_vertices": 65,
+  "body_below_neck_preserved": true,
+  "face_uv": "DeryFaceUV",
+  "rig_bones": 71,
+  "edge_face_counts": {
+    "2": 73311
+  },
+  "preserved_action_names": [
+    "Armature|Default"
+  ],
+  "personalized_face_textures_created": false,
+  "stage": "geometry and UV base; personalized expression textures deferred by user"
+}

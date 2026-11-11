@@ -1,0 +1,26 @@
+{
+  "bones": 71,
+  "vertex_weights_normalized": true,
+  "all_faces_triangles": true,
+  "body_texture_uses_original_uv": true,
+  "facial_uv_in_unit_square": true,
+  "images_packed": true,
+  "pose_inspections": [
+    {
+      "head_turn_degrees": -30,
+      "minimum_facial_triangle_area_local": 1.4095654421453219e-07,
+      "finite": true
+    },
+    {
+      "head_turn_degrees": 0,
+      "minimum_facial_triangle_area_local": 4.499915107203378e-09,
+      "finite": true
+    },
+    {
+      "head_turn_degrees": 30,
+      "minimum_facial_triangle_area_local": 1.4093068045895052e-07,
+      "finite": true
+    }
+  ],
+  "delivered_blend_unchanged_by_inspection": true
+}
