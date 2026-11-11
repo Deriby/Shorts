@@ -2,7 +2,7 @@
 
 Base recebida em `Dery Rig.zip`, em 11/11/2026. A etapa inicial simplificou a anatomia do rosto seguindo o exemplo de Silent Hill fornecido pelo usuário: nariz e contorno em geometria simples, com olhos e boca desenhados nas texturas.
 
-**Proposta atual em avaliação:** [materiais PS1 v4](texturas/estilo_ps1_v4/), revisão geral das texturas após o usuário pedir maior semelhança com jogos de PS1. Usa a [referência de corpo inteiro v3](texturas/rosto_neutro_v3/) preservada, com o mesmo encaixe ampliado do rosto e a mesma franja texturizada, sem mochila. Os tecidos foram repintados e preparados em paletas pequenas. A biblioteca de expressões depende do retorno do usuário. As propostas anteriores e as prévias cinzas desta pasta permanecem preservadas.
+**Base atual retomada: [versão v3](texturas/rosto_neutro_v3/).** O usuário rejeitou todas as texturas da v4 e preferiu o conjunto anterior completo. Usar o [Blender v3](texturas/rosto_neutro_v3/Dery_Referencia_Sem_Mochila_v3.blend), que permaneceu intacto, com o encaixe do rosto e a franja texturizada. O [registro da versão atual](versao_atual.json) identifica arquivo, hash e escopo da escolha. A [v4](texturas/estilo_ps1_v4/) permanece apenas no histórico; não reaplicar suas pinturas ou paletas. A biblioteca de expressões continua dependente do retorno do usuário.
 
 ## Arquivos
 

@@ -1,5 +1,7 @@
 # Materiais PS1 — proposta v4
 
+**Versão rejeitada pelo usuário em 11/11/2026.** Primeiro preferiu a calça anterior e, em seguida, esclareceu que todas as texturas anteriores eram melhores. A base atual volta a ser a [v3 completa](../rosto_neutro_v3/), incluindo rosto, franja, pele, roupas, boné e tênis. Não reaplicar partes desta v4 automaticamente. Arquivos mantidos apenas para histórico; ver [avaliação do usuário](avaliacao_usuario.json).
+
 O usuário pediu uma melhoria geral das texturas para aproximar o personagem dos jogos de PS1. Esta proposta parte do arquivo v3, preservando a geometria, o rig, o encaixe do rosto, os UVs e a franja. A etapa continua com **um único rosto neutro**, aguardando avaliação antes da biblioteca de expressões.
 
 ## Entrega

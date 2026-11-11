@@ -1,0 +1,14 @@
+{
+  "selected_version": "v3",
+  "selected_model": "texturas/rosto_neutro_v3/Dery_Referencia_Sem_Mochila_v3.blend",
+  "sha256": "9752035dc6e93564d76151311708567a1b3c63fec5227dd49dd2f779612a6933",
+  "selected_date": "2026-11-11",
+  "selection_reason": "User rejected all v4 textures and preferred the previous textures.",
+  "scope": "Return to the complete v3 material set, including face, fringe, clothing, cap and shoes.",
+  "full_model_approval_confirmed": false,
+  "expression_library_authorized": false,
+  "preview_body": "texturas/rosto_neutro_v3/Previa_Corpo.png",
+  "preview_head": "texturas/rosto_neutro_v3/Previa_Rosto.png",
+  "preview_angles": "texturas/rosto_neutro_v3/previa_angulos/",
+  "rejected_texture_variant": "texturas/estilo_ps1_v4/"
+}

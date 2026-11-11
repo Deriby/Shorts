@@ -1,5 +1,7 @@
 # Referência de corpo inteiro — proposta v3
 
+**Base atual retomada em 11/11/2026:** o usuário preferiu todas as texturas desta versão às da v4. Retomar o conjunto completo da v3, preservado sem alterações, com o encaixe do rosto e a franja texturizada. Isso registra a preferência pelos materiais anteriores; não confirma aprovação integral do modelo ou início das expressões.
+
 O usuário forneceu uma referência do personagem com camiseta preta, mangas cinza por baixo, jeans escuros, tênis claros e boné para trás. Pediu esse visual sem mochila e reforçou que os pixels, a geometria angular e o cabelo sobre a testa devem permanecer.
 
 Na conferência, apontou que os desenhos lembravam sua aparência, mas ficavam pequenos no centro da cabeça. Também rejeitou a franja de pontas repetidas. Esta proposta ajusta o encaixe do mesmo desenho e substitui as pontas por uma franja texturizada. **Ainda não houve aprovação da versão corrigida. Não iniciar as outras expressões.**

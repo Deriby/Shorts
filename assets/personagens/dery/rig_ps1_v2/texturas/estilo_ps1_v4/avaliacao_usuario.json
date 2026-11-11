@@ -1,0 +1,10 @@
+{
+  "review_date": "2026-11-11",
+  "status": "rejected_by_user",
+  "scope": "all v4 textures, not only trousers",
+  "user_feedback": "na verdade tava todas texturas melhores antes kkkkk",
+  "working_base": "../rosto_neutro_v3/Dery_Referencia_Sem_Mochila_v3.blend",
+  "restored_base_sha256": "9752035dc6e93564d76151311708567a1b3c63fec5227dd49dd2f779612a6933",
+  "v4_preserved_for_history": true,
+  "new_generation_or_render_performed": false
+}

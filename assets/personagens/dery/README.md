@@ -2,7 +2,7 @@
 
 Modelo e texturas originais enviados pelo usuário para uso nos shorts.
 
-**Atualização em preparação:** [novo rig e base do rosto PS1](rig_ps1_v2/), recebidos em 11/11/2026. A [proposta atual de materiais v4](rig_ps1_v2/texturas/estilo_ps1_v4/) repinta os tecidos e limita as paletas para reforçar o visual PS1. Preserva o personagem sem mochila, o rosto neutro com encaixe ampliado, as mangas cinza e a franja texturizada da v3. A proposta ainda depende de avaliação; as novas expressões ficam para depois desse retorno. Os modelos e episódios anteriores permanecem preservados.
+**Base atual da atualização:** [versão v3](rig_ps1_v2/texturas/rosto_neutro_v3/), retomada por preferência do usuário após rejeitar todas as texturas da v4. Usar o conjunto completo de materiais da v3, com o encaixe ampliado do rosto e a franja texturizada. A v4 fica apenas no histórico. A escolha da base não confirma aprovação integral do modelo nem autoriza iniciar expressões. Os modelos e episódios anteriores permanecem preservados.
 
 **Roupa atual:** [camiseta preta com M amarelo do Massacote Games no peito](roupas/camiseta_preta/), mantendo o corte e a geometria originais. Aplicar a troca de material ao reutilizar cenas antigas.
 
