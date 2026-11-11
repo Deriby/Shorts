@@ -2,7 +2,7 @@
 
 Modelo e texturas originais enviados pelo usuário para uso nos shorts.
 
-**Modelo mais recente em avaliação:** [v10 — base do queixo ajustada](rig_ps1_v2/queixo_v10/), após o usuário apontar a ponta excessiva no close. Arredonda a borda inferior e preserva as dez expressões, o pescoço v9 e o restante do visual.
+**Modelo mais recente em avaliação:** [v11 — contorno pela marcação vermelha](rig_ps1_v2/contorno_marcado_v11/). Segue a indicação posterior do usuário para uma base de mandíbula mais reta e quina definida no pescoço, com encaixe de textura corrigido e as dez expressões preservadas.
 
 **Base atual da atualização:** [versão v3](rig_ps1_v2/texturas/rosto_neutro_v3/), retomada por preferência do usuário após rejeitar todas as texturas da v4. Usar o conjunto completo de materiais da v3, com o encaixe ampliado do rosto e a franja texturizada. A v4 fica apenas no histórico. A escolha da base não confirma aprovação integral do modelo nem autoriza iniciar expressões. Os modelos e episódios anteriores permanecem preservados.
 

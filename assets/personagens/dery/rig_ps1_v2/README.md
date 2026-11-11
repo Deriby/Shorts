@@ -2,7 +2,7 @@
 
 Base recebida em `Dery Rig.zip`, em 11/11/2026. A etapa inicial simplificou a anatomia do rosto seguindo o exemplo de Silent Hill fornecido pelo usuário: nariz e contorno em geometria simples, com olhos e boca desenhados nas texturas.
 
-**Modelo mais recente em avaliação:** [queixo v10](queixo_v10/), após o usuário apontar a ponta excessiva no close da v9. Ajusta a borda inferior da mandíbula com uma shape key reversível e preserva as dez expressões, os materiais, o pescoço v9 e o rig. O Blender e o comparativo de close/perfil estão na pasta.
+**Modelo mais recente em avaliação:** [contorno marcado v11](contorno_marcado_v11/), seguindo as linhas vermelhas enviadas pelo usuário em três quartos e perfil. Define a base mais reta da mandíbula e a quina no pescoço, corrige o encaixe local da textura e preserva os PNGs, as dez expressões e o rig. A interpretação anterior de arredondar a ponta fica superada por essa marcação.
 
 **Base atual retomada: [versão v3](texturas/rosto_neutro_v3/).** O usuário rejeitou todas as texturas da v4 e preferiu o conjunto anterior completo. Usar o [Blender v3](texturas/rosto_neutro_v3/Dery_Referencia_Sem_Mochila_v3.blend), que permaneceu intacto, com o encaixe do rosto e a franja texturizada. O [registro da versão atual](versao_atual.json) identifica arquivo, hash e escopo da escolha. A [v4](texturas/estilo_ps1_v4/) permanece apenas no histórico; não reaplicar suas pinturas ou paletas. A biblioteca de expressões continua dependente do retorno do usuário.
 

@@ -1,0 +1,44 @@
+{
+  "source": "../queixo_v10/Dery_Queixo_Ajustado_v10.blend",
+  "source_sha256": "de30d8aa4e71acb38652c14f1779a6731b61f00c1f559c248895d0dffa56bae0",
+  "source_unchanged": true,
+  "reference": "User red-marked 3/4 and profile screenshot; manually interpreted guide points in the same cameras.",
+  "scope": "Straighter lower-jaw base and defined throat corner according to the red outline, retaining the existing face textures.",
+  "shape_key": "DERY | mandíbula conforme marcação vermelha",
+  "changed_vertices": 227,
+  "underside_triangles": 328,
+  "maximum_vertex_displacement_m": 0.027315571325627095,
+  "guide_front_m": [
+    0.0,
+    -0.105,
+    1.554
+  ],
+  "guide_throat_m": [
+    0.0,
+    -0.043,
+    1.557
+  ],
+  "maximum_fitted_plane_residual_m": 0.0003828974183917033,
+  "new_degenerate_triangles": 0,
+  "original_basis_shape_keys_uvs_images_weights_assignments_preserved": true,
+  "material_changes": "UV routing only; original image pixels and material assignments preserved.",
+  "lower_face_fit_uv": "DeryJawUVV11",
+  "throat_depth_compression": 0.425,
+  "new_texture_art": false,
+  "new_expressions": 0,
+  "expression_selector_checked_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "rig_bones": 71,
+  "approved_by_user": false
+}
