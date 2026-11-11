@@ -1,0 +1,170 @@
+{
+  "source_blend": "Dery_Referencia_Sem_Mochila_v3.blend",
+  "source_sha256": "9752035dc6e93564d76151311708567a1b3c63fec5227dd49dd2f779612a6933",
+  "source_unchanged": true,
+  "render_engine": "BLENDER_EEVEE_NEXT",
+  "new_model_or_textures_created": false,
+  "side_labels": "Anatomical sides of Dery: model right = negative X; model left = positive X.",
+  "views": [
+    {
+      "group": "corpo",
+      "file": "corpo/01_frente.png",
+      "label": "Frente",
+      "camera_azimuth_degrees": 0,
+      "resolution": [
+        540,
+        680
+      ]
+    },
+    {
+      "group": "corpo",
+      "file": "corpo/02_tres_quartos_direita.png",
+      "label": "3/4 frente — direita",
+      "camera_azimuth_degrees": 45,
+      "resolution": [
+        540,
+        680
+      ]
+    },
+    {
+      "group": "corpo",
+      "file": "corpo/03_lateral_direita.png",
+      "label": "Lateral direita",
+      "camera_azimuth_degrees": 90,
+      "resolution": [
+        540,
+        680
+      ]
+    },
+    {
+      "group": "corpo",
+      "file": "corpo/04_costas_direita.png",
+      "label": "3/4 costas — direita",
+      "camera_azimuth_degrees": 135,
+      "resolution": [
+        540,
+        680
+      ]
+    },
+    {
+      "group": "corpo",
+      "file": "corpo/05_costas.png",
+      "label": "Costas",
+      "camera_azimuth_degrees": 180,
+      "resolution": [
+        540,
+        680
+      ]
+    },
+    {
+      "group": "corpo",
+      "file": "corpo/06_costas_esquerda.png",
+      "label": "3/4 costas — esquerda",
+      "camera_azimuth_degrees": 225,
+      "resolution": [
+        540,
+        680
+      ]
+    },
+    {
+      "group": "corpo",
+      "file": "corpo/07_lateral_esquerda.png",
+      "label": "Lateral esquerda",
+      "camera_azimuth_degrees": 270,
+      "resolution": [
+        540,
+        680
+      ]
+    },
+    {
+      "group": "corpo",
+      "file": "corpo/08_tres_quartos_esquerda.png",
+      "label": "3/4 frente — esquerda",
+      "camera_azimuth_degrees": 315,
+      "resolution": [
+        540,
+        680
+      ]
+    },
+    {
+      "group": "rosto",
+      "file": "rosto/01_frente.png",
+      "label": "Frente",
+      "camera_azimuth_degrees": 0,
+      "resolution": [
+        512,
+        512
+      ]
+    },
+    {
+      "group": "rosto",
+      "file": "rosto/02_tres_quartos_direita.png",
+      "label": "3/4 frente — direita",
+      "camera_azimuth_degrees": 45,
+      "resolution": [
+        512,
+        512
+      ]
+    },
+    {
+      "group": "rosto",
+      "file": "rosto/03_lateral_direita.png",
+      "label": "Lateral direita",
+      "camera_azimuth_degrees": 90,
+      "resolution": [
+        512,
+        512
+      ]
+    },
+    {
+      "group": "rosto",
+      "file": "rosto/04_costas_direita.png",
+      "label": "3/4 costas — direita",
+      "camera_azimuth_degrees": 135,
+      "resolution": [
+        512,
+        512
+      ]
+    },
+    {
+      "group": "rosto",
+      "file": "rosto/05_costas.png",
+      "label": "Costas",
+      "camera_azimuth_degrees": 180,
+      "resolution": [
+        512,
+        512
+      ]
+    },
+    {
+      "group": "rosto",
+      "file": "rosto/06_costas_esquerda.png",
+      "label": "3/4 costas — esquerda",
+      "camera_azimuth_degrees": 225,
+      "resolution": [
+        512,
+        512
+      ]
+    },
+    {
+      "group": "rosto",
+      "file": "rosto/07_lateral_esquerda.png",
+      "label": "Lateral esquerda",
+      "camera_azimuth_degrees": 270,
+      "resolution": [
+        512,
+        512
+      ]
+    },
+    {
+      "group": "rosto",
+      "file": "rosto/08_tres_quartos_esquerda.png",
+      "label": "3/4 frente — esquerda",
+      "camera_azimuth_degrees": 315,
+      "resolution": [
+        512,
+        512
+      ]
+    }
+  ]
+}

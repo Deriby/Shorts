@@ -7,6 +7,7 @@ Na conferência, apontou que os desenhos lembravam sua aparência, mas ficavam p
 ## Arquivos
 
 - [Corpo inteiro](Previa_Corpo.png) e [close do rosto](Previa_Rosto.png).
+- [Prévia em oito direções](previa_angulos/): pranchas de corpo e cabeça, com imagens individuais para examinar todos os lados da versão atual.
 - [Dery_Referencia_Sem_Mochila_v3.blend](Dery_Referencia_Sem_Mochila_v3.blend): candidato editável com as texturas incorporadas, 71 ossos e franja ligada ao osso da cabeça.
 - `Rosto_Neutro_128.png`: um único rosto neutro, 128×128, usando o desenho de `Desenho_Fonte.png`.
 - `Franja_128x64.png`: textura de cabelo com alfa binário, derivada de `Franja_Fonte.png`; não usa mais as sete pontas triangulares da primeira conferência.
