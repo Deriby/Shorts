@@ -1,0 +1,18 @@
+{
+  "source": "refino_v3_v5/Dery_v3_Refino_v5.blend",
+  "source_sha256": "5a129ec4db84069130d52650f2998a1c217b01657e41e8a0808608e2f5d44ead",
+  "source_unchanged": true,
+  "existing_texture_pixels_unchanged": true,
+  "geometry_existing_uvs_material_assignments_unchanged": true,
+  "rig_bones": 71,
+  "logo": "assets/marca/massacote-games/logo.png",
+  "placement": "center of front chest only",
+  "sampling_grid": [
+    64,
+    64
+  ],
+  "logo_uv_square_m": 0.22,
+  "logo_uv_center_z_m": 1.31,
+  "new_expressions": 0,
+  "approved_by_user": false
+}

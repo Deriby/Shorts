@@ -6,6 +6,8 @@ Modelo e texturas originais enviados pelo usuário para uso nos shorts.
 
 **Refino em avaliação:** [v5 sobre as mesmas texturas da v3](rig_ps1_v2/texturas/refino_v3_v5/), solicitado em seguida para melhorar o acabamento existente. Preserva os PNGs e aplica apenas amostragem e nitidez suaves nos materiais; não troca as pinturas ou as cores da roupa.
 
+**Última adição ao novo modelo:** [M amarelo no peito — v6](rig_ps1_v2/texturas/camiseta_m_v6/), aplicado à camiseta da v5, com logo original e estampa pixelizada. Mantém rosto, franja, jeans e demais texturas.
+
 **Roupa atual:** [camiseta preta com M amarelo do Massacote Games no peito](roupas/camiseta_preta/), mantendo o corte e a geometria originais. Aplicar a troca de material ao reutilizar cenas antigas.
 
 O mesmo procedimento inclui a limpeza das manchas na pele, da iluminação colorida antiga e das transições entre pele e mangas, preservando o rosto desenhado e a malha original.
