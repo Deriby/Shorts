@@ -1,0 +1,41 @@
+{
+  "source": "../pescoco_v9/Dery_Pescoco_Ajustado_v9.blend",
+  "source_sha256": "ddc0d9af540723d3591374cc397e1eaba94d7500091bd691095daad9eb8e6744",
+  "source_unchanged": true,
+  "scope": "Round and retract the chin base, cancel the earlier downward chin extension, and soften the jaw-to-neck silhouette.",
+  "shape_key": "DERY | base do queixo arredondada",
+  "changed_vertices": 235,
+  "maximum_vertex_displacement_m": 0.02087860285281814,
+  "chin_tip_retraction_m": 0.006,
+  "welded_edge_relaxation_passes": 6,
+  "rounded_envelope_center_m": [
+    0.0,
+    -0.079,
+    1.582
+  ],
+  "rounded_envelope_radii_m": [
+    0.07,
+    0.032,
+    0.026
+  ],
+  "original_basis_shape_keys_uvs_images_weights_assignments_unchanged": true,
+  "material_changes": false,
+  "new_texture_art": false,
+  "new_expressions": 0,
+  "expression_selector_checked_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "rig_bones": 71,
+  "evaluated_geometry_finite": true,
+  "approved_by_user": false
+}

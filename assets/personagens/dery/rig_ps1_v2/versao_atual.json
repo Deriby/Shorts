@@ -11,11 +11,11 @@
   "preview_head": "texturas/rosto_neutro_v3/Previa_Rosto.png",
   "preview_angles": "texturas/rosto_neutro_v3/previa_angulos/",
   "rejected_texture_variant": "texturas/estilo_ps1_v4/",
-  "candidate_version": "v9 + expressões v1",
-  "candidate_model": "pescoco_v9/Dery_Pescoco_Ajustado_v9.blend",
-  "candidate_note": "Neck silhouette, skin UV and baked lighting refinement on the ten-expression model; previous face art, UVs, rig and wardrobe preserved. Await aesthetic review.",
-  "candidate_parent": "v8 + expressões v1",
+  "candidate_version": "v10 + expressões v1",
+  "candidate_model": "queixo_v10/Dery_Queixo_Ajustado_v10.blend",
+  "candidate_note": "Local reversible chin-base rounding after feedback about the pointed tip. Retains v9 neck, original materials, PNGs, UVs, rig and ten expressions; aesthetic review pending.",
+  "candidate_parent": "v9 + expressões v1",
   "expression_authorization_scope": "Ten new facial-expression PNGs and applied model previews, as explicitly requested; no short production or presumed final approval.",
   "expression_library": "expressoes_v1/",
-  "candidate_preview": "pescoco_v9/Comparativo_Pescoco.png"
+  "candidate_preview": "queixo_v10/Comparativo_Queixo.png"
 }
