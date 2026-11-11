@@ -1,0 +1,8 @@
+As fontes abaixo mantêm os caminhos do seu projeto original. Se o Filmora pedir, localize o arquivo no seu PC. Plugins continuam dependendo da sua instalação.
+
+47_11labs_aisfx_ui_success_ding_20260513/Data/downloadCommonCfg.cof
+47_slug_tape_cassette_insert_and_close_01_417/Data/downloadCommonCfg.cof
+6_Memes_Squirrel_Shout_AISFX_05/Data/Memes-Squirrel Shout - AISFX.mp3
+file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Músicas/bully-ost-006-searching-128-ytshorts.savetube.me.mp3
+file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/3- Chun-Li — Street Fighter/3527780-chun_li_double_bun_earrings_by_burrowers-d4su7pd[1].jpg
+file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/3- Chun-Li — Street Fighter/d420ef4c1651a39a1188a70cc1b16c0c.jpg

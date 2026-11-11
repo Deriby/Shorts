@@ -1,0 +1,4 @@
+As fontes abaixo mantêm os caminhos do seu projeto original. Se o Filmora pedir, localize o arquivo no seu PC. Plugins continuam dependendo da sua instalação.
+
+47_slug_tape_cassette_insert_and_close_01_417/Data/downloadCommonCfg.cof
+file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Músicas/crash-bandicoot-1-hog-wild-whole-hog-music-128-ytshorts.savetube.me.mp3

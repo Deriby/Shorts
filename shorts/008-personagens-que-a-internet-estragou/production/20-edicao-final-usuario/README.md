@@ -1,5 +1,7 @@
 # Edição completa do usuário — referência atual
 
+**Pedido posterior:** o usuário solicitou também os 12 shorts existentes separados. Os projetos derivados estão na [produção 21](../21-shorts-filmora-separados/), preservando este WFP de referência intacto.
+
 O usuário informou que terminou a edição do vídeo e gostou do resultado. Pediu projetos dos shorts com a mesma edição/vibe e que esse padrão fosse lembrado. O novo WFP substitui a versão da produção 19 como referência para trabalhos futuros; ambos permanecem intactos.
 
 - [WFP recebido, preservado byte a byte](Massacote_EDICAO_FINAL_USUARIO.wfp).

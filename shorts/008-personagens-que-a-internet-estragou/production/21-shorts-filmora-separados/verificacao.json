@@ -1,0 +1,150 @@
+{
+  "project_count": 12,
+  "source_original_unchanged": true,
+  "projects": [
+    {
+      "character": "01-lady-dimitrescu",
+      "native_clips_compared": 39,
+      "keyframe_curves_with_original_times": 91,
+      "portrait_resource_records_checked": 1,
+      "zip_integrity": true,
+      "vertical_metadata_consistent": true,
+      "source_media_hashes_passed": true,
+      "non_transform_effects_unchanged": true,
+      "audio_speed_curves_preserved": true,
+      "native_open_test": "Not executed in Filmora; structural checks only."
+    },
+    {
+      "character": "02-tifa",
+      "native_clips_compared": 20,
+      "keyframe_curves_with_original_times": 42,
+      "portrait_resource_records_checked": 2,
+      "zip_integrity": true,
+      "vertical_metadata_consistent": true,
+      "source_media_hashes_passed": true,
+      "non_transform_effects_unchanged": true,
+      "audio_speed_curves_preserved": true,
+      "native_open_test": "Not executed in Filmora; structural checks only."
+    },
+    {
+      "character": "03-chun-li",
+      "native_clips_compared": 25,
+      "keyframe_curves_with_original_times": 56,
+      "portrait_resource_records_checked": 1,
+      "zip_integrity": true,
+      "vertical_metadata_consistent": true,
+      "source_media_hashes_passed": true,
+      "non_transform_effects_unchanged": true,
+      "audio_speed_curves_preserved": true,
+      "native_open_test": "Not executed in Filmora; structural checks only."
+    },
+    {
+      "character": "04-ankha",
+      "native_clips_compared": 15,
+      "keyframe_curves_with_original_times": 28,
+      "portrait_resource_records_checked": 1,
+      "zip_integrity": true,
+      "vertical_metadata_consistent": true,
+      "source_media_hashes_passed": true,
+      "non_transform_effects_unchanged": true,
+      "audio_speed_curves_preserved": true,
+      "native_open_test": "Not executed in Filmora; structural checks only."
+    },
+    {
+      "character": "05-vaporeon",
+      "native_clips_compared": 17,
+      "keyframe_curves_with_original_times": 21,
+      "portrait_resource_records_checked": 1,
+      "zip_integrity": true,
+      "vertical_metadata_consistent": true,
+      "source_media_hashes_passed": true,
+      "non_transform_effects_unchanged": true,
+      "audio_speed_curves_preserved": true,
+      "native_open_test": "Not executed in Filmora; structural checks only."
+    },
+    {
+      "character": "06-2b",
+      "native_clips_compared": 33,
+      "keyframe_curves_with_original_times": 49,
+      "portrait_resource_records_checked": 1,
+      "zip_integrity": true,
+      "vertical_metadata_consistent": true,
+      "source_media_hashes_passed": true,
+      "non_transform_effects_unchanged": true,
+      "audio_speed_curves_preserved": true,
+      "native_open_test": "Not executed in Filmora; structural checks only."
+    },
+    {
+      "character": "07-tracer",
+      "native_clips_compared": 25,
+      "keyframe_curves_with_original_times": 121,
+      "portrait_resource_records_checked": 1,
+      "zip_integrity": true,
+      "vertical_metadata_consistent": true,
+      "source_media_hashes_passed": true,
+      "non_transform_effects_unchanged": true,
+      "audio_speed_curves_preserved": true,
+      "native_open_test": "Not executed in Filmora; structural checks only."
+    },
+    {
+      "character": "08-dva",
+      "native_clips_compared": 18,
+      "keyframe_curves_with_original_times": 73,
+      "portrait_resource_records_checked": 1,
+      "zip_integrity": true,
+      "vertical_metadata_consistent": true,
+      "source_media_hashes_passed": true,
+      "non_transform_effects_unchanged": true,
+      "audio_speed_curves_preserved": true,
+      "native_open_test": "Not executed in Filmora; structural checks only."
+    },
+    {
+      "character": "09-mercy",
+      "native_clips_compared": 19,
+      "keyframe_curves_with_original_times": 74,
+      "portrait_resource_records_checked": 1,
+      "zip_integrity": true,
+      "vertical_metadata_consistent": true,
+      "source_media_hashes_passed": true,
+      "non_transform_effects_unchanged": true,
+      "audio_speed_curves_preserved": true,
+      "native_open_test": "Not executed in Filmora; structural checks only."
+    },
+    {
+      "character": "10-lara-croft",
+      "native_clips_compared": 21,
+      "keyframe_curves_with_original_times": 87,
+      "portrait_resource_records_checked": 2,
+      "zip_integrity": true,
+      "vertical_metadata_consistent": true,
+      "source_media_hashes_passed": true,
+      "non_transform_effects_unchanged": true,
+      "audio_speed_curves_preserved": true,
+      "native_open_test": "Not executed in Filmora; structural checks only."
+    },
+    {
+      "character": "11-peach",
+      "native_clips_compared": 16,
+      "keyframe_curves_with_original_times": 62,
+      "portrait_resource_records_checked": 1,
+      "zip_integrity": true,
+      "vertical_metadata_consistent": true,
+      "source_media_hashes_passed": true,
+      "non_transform_effects_unchanged": true,
+      "audio_speed_curves_preserved": true,
+      "native_open_test": "Not executed in Filmora; structural checks only."
+    },
+    {
+      "character": "12-sonic",
+      "native_clips_compared": 17,
+      "keyframe_curves_with_original_times": 62,
+      "portrait_resource_records_checked": 1,
+      "zip_integrity": true,
+      "vertical_metadata_consistent": true,
+      "source_media_hashes_passed": true,
+      "non_transform_effects_unchanged": true,
+      "audio_speed_curves_preserved": true,
+      "native_open_test": "Not executed in Filmora; structural checks only."
+    }
+  ]
+}

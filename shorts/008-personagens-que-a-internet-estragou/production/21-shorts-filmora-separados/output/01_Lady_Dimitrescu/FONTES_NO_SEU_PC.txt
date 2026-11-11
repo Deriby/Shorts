@@ -1,0 +1,6 @@
+As fontes abaixo mantêm os caminhos do seu projeto original. Se o Filmora pedir, localize o arquivo no seu PC. Plugins continuam dependendo da sua instalação.
+
+47_slug_tape_cassette_insert_and_close_01_417/Data/downloadCommonCfg.cof
+6_Memes_Hehe_Boi_AISFX_05/Data/Memes-Hehe Boi - AISFX.mp3
+6_slug_anime_awkward_moment_518/Data/Anime Awkward Moment - AISFX.mp3
+file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Músicas/Pilotredsky - Polymer/Pilotredsky - Polymer (128kbit_AAC).m4a

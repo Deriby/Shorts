@@ -1,0 +1,6 @@
+As fontes abaixo mantêm os caminhos do seu projeto original. Se o Filmora pedir, localize o arquivo no seu PC. Plugins continuam dependendo da sua instalação.
+
+47_Memes_Vine_Boom_AISFX_05/Data/downloadCommonCfg.cof
+47_slug_tape_cassette_insert_and_close_01_417/Data/downloadCommonCfg.cof
+6_Memes_Oh_My_God_AISFX_05/Data/Memes-Oh My God - AISFX.mp3
+file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Músicas/bully-soundtrack-defender-of-the-castle-full-song-128-ytshorts.savetube.me.mp3

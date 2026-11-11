@@ -1,0 +1,1719 @@
+{
+  "source_sha256": "5a9d4617a2bc34416087e1125230764d5dea7980b5011c186ebe576648748fbc",
+  "source_preserved": true,
+  "projects": [
+    {
+      "character": "01-lady-dimitrescu",
+      "name": "Lady_Dimitrescu",
+      "source_frames_60fps": [
+        2161,
+        4463
+      ],
+      "boundary_transitions_removed": 2,
+      "adapted_video_clips": [
+        {
+          "track": 11,
+          "clip": 0,
+          "source_midpoint": 2.4833334,
+          "shot_id": 1,
+          "kind": "actor",
+          "scale_factor": 0.22,
+          "horizontal_factor": 0.2,
+          "vertical_factor": 0.32,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 1,
+          "source_midpoint": 8.15000005,
+          "shot_id": 3,
+          "kind": "game",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 2,
+          "source_midpoint": 12.31666675,
+          "shot_id": 5,
+          "kind": "actor",
+          "scale_factor": 0.22,
+          "horizontal_factor": 0.2,
+          "vertical_factor": 0.32,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 3,
+          "source_midpoint": 14.8833334,
+          "shot_id": 6,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 4,
+          "source_midpoint": 17.6333334,
+          "shot_id": 7,
+          "kind": "castle",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 5,
+          "source_midpoint": 19.6083334,
+          "shot_id": 8,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 6,
+          "source_midpoint": 22.0416667,
+          "shot_id": 9,
+          "kind": "actor",
+          "scale_factor": 0.22,
+          "horizontal_factor": 0.2,
+          "vertical_factor": 0.32,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 7,
+          "source_midpoint": 24.75000005,
+          "shot_id": 10,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 8,
+          "source_midpoint": 27.26666675,
+          "shot_id": 11,
+          "kind": "castle",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 9,
+          "source_midpoint": 29.4583334,
+          "shot_id": 12,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 10,
+          "source_midpoint": 31.0166667,
+          "shot_id": 13,
+          "kind": "actor",
+          "scale_factor": 0.22,
+          "horizontal_factor": 0.2,
+          "vertical_factor": 0.32,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 11,
+          "source_midpoint": 32.7666667,
+          "shot_id": 14,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 12,
+          "source_midpoint": 36.0416667,
+          "shot_id": 15,
+          "kind": "monitor",
+          "scale_factor": 0.08,
+          "horizontal_factor": 0.12,
+          "vertical_factor": 0.18,
+          "transform_count": 1
+        }
+      ],
+      "bundled_media": [
+        {
+          "name": "Lady_Dimitrescu_Personagens_que_a_internet_estragou_9x16.mp4",
+          "source": "01-lady-dimitrescu/output/Lady_Dimitrescu_Personagens_que_a_internet_estragou_9x16.mp4",
+          "sha256": "38870e6375bc2c2f5c244ab4c0520e800d2844730ae25942acf1b48dc8696716",
+          "role": "original portrait animation, no new render"
+        },
+        {
+          "name": "Voz - 1 Lady Dimitrescu.mp3",
+          "sha256": "d16736a4e451e4b1fec502aadd3a251af817b85f62aa65b53cbf12ba7906e8f7",
+          "role": "received source with exact original basename"
+        },
+        {
+          "name": "inicio_18_voz_original.mp3",
+          "sha256": "d16736a4e451e4b1fec502aadd3a251af817b85f62aa65b53cbf12ba7906e8f7",
+          "role": "received source with exact original basename"
+        }
+      ],
+      "original_external_sources": [
+        "47_slug_tape_cassette_insert_and_close_01_417/Data/downloadCommonCfg.cof",
+        "6_Memes_Hehe_Boi_AISFX_05/Data/Memes-Hehe Boi - AISFX.mp3",
+        "6_slug_anime_awkward_moment_518/Data/Anime Awkward Moment - AISFX.mp3",
+        "file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Músicas/Pilotredsky - Polymer/Pilotredsky - Polymer (128kbit_AAC).m4a"
+      ],
+      "portrait_wide_audio_packets_identical": true,
+      "nested_portrait_timelines_adapted": [],
+      "project": "01_Lady_Dimitrescu/01_Lady_Dimitrescu_Editado_9x16.wfp",
+      "duration_seconds": 38.3666666,
+      "sha256": "da783c61fab05f1438e2f7ce180213b97303c4f3579c3d59d0b978942ad63692",
+      "main_clips": 39,
+      "dependent_timelines": [
+        36
+      ],
+      "native_application_open_test": "not executed; requires Filmora",
+      "all_original_nested_timelines_and_plugin_caches_retained": true
+    },
+    {
+      "character": "02-tifa",
+      "name": "Tifa",
+      "source_frames_60fps": [
+        4711,
+        6396
+      ],
+      "boundary_transitions_removed": 2,
+      "adapted_video_clips": [
+        {
+          "track": 11,
+          "clip": 0,
+          "source_midpoint": 6.69166675,
+          "shot_id": 5,
+          "kind": "game",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 1,
+          "source_midpoint": 14.17500005,
+          "shot_id": 11,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 2,
+          "source_midpoint": 16.7333334,
+          "shot_id": 13,
+          "kind": "meeting",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 3,
+          "source_midpoint": 22.5583334,
+          "shot_id": 16,
+          "kind": "meeting",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        }
+      ],
+      "bundled_media": [
+        {
+          "name": "Tifa_Personagens_que_a_internet_estragou_9x16.mp4",
+          "source": "02-tifa/output/Tifa_Personagens_que_a_internet_estragou_9x16.mp4",
+          "sha256": "d733dc96c7abaedf3f31614274c66e4cc3b1d949e0651ce0d74cc29e5e99ef39",
+          "role": "original portrait animation, no new render"
+        }
+      ],
+      "original_external_sources": [
+        "",
+        "47_slug_tape_cassette_insert_and_close_01_417/Data/downloadCommonCfg.cof",
+        "6_Meme_Rizz_AISFX_03/Data/Meme-Rizz - AISFX.mp3",
+        "file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Memes/Imagens/59028b73bbf5a490325678eef2ce3cbe.jpg",
+        "file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Músicas/PilotRedSun - Cooped Up (Coop theme) Original Loop extended.mp3"
+      ],
+      "portrait_wide_audio_packets_identical": true,
+      "nested_portrait_timelines_adapted": [
+        39
+      ],
+      "project": "02_Tifa/02_Tifa_Editado_9x16.wfp",
+      "duration_seconds": 28.0833333,
+      "sha256": "94915d82d7792051521fc774dae205807841066e69511daa6d31b0139f2d3454",
+      "main_clips": 20,
+      "dependent_timelines": [
+        36,
+        39,
+        67,
+        68
+      ],
+      "native_application_open_test": "not executed; requires Filmora",
+      "all_original_nested_timelines_and_plugin_caches_retained": true
+    },
+    {
+      "character": "03-chun-li",
+      "name": "Chun_Li",
+      "source_frames_60fps": [
+        6644,
+        8978
+      ],
+      "boundary_transitions_removed": 2,
+      "adapted_video_clips": [
+        {
+          "track": 11,
+          "clip": 0,
+          "source_midpoint": 6.775,
+          "shot_id": 5,
+          "kind": "monitor",
+          "scale_factor": 0.08,
+          "horizontal_factor": 0.12,
+          "vertical_factor": 0.18,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 1,
+          "source_midpoint": 14.61666675,
+          "shot_id": 9,
+          "kind": "actor",
+          "scale_factor": 0.22,
+          "horizontal_factor": 0.2,
+          "vertical_factor": 0.32,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 2,
+          "source_midpoint": 16.1500001,
+          "shot_id": 10,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 3,
+          "source_midpoint": 17.5000001,
+          "shot_id": 11,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 4,
+          "source_midpoint": 18.69166675,
+          "shot_id": 12,
+          "kind": "actor",
+          "scale_factor": 0.22,
+          "horizontal_factor": 0.2,
+          "vertical_factor": 0.32,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 5,
+          "source_midpoint": 20.14166675,
+          "shot_id": 13,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 6,
+          "source_midpoint": 30.09166675,
+          "shot_id": 18,
+          "kind": "game",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        }
+      ],
+      "bundled_media": [
+        {
+          "name": "ChunLi_Personagens_que_a_internet_estragou_9x16.mp4",
+          "source": "03-chun-li/output/ChunLi_Personagens_que_a_internet_estragou_9x16.mp4",
+          "sha256": "57f9f89a016688ab6713aad3a753f3c27924af985e98ddccb221549f052a02fa",
+          "role": "original portrait animation, no new render"
+        }
+      ],
+      "original_external_sources": [
+        "47_11labs_aisfx_ui_success_ding_20260513/Data/downloadCommonCfg.cof",
+        "47_slug_tape_cassette_insert_and_close_01_417/Data/downloadCommonCfg.cof",
+        "6_Memes_Squirrel_Shout_AISFX_05/Data/Memes-Squirrel Shout - AISFX.mp3",
+        "file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Músicas/bully-ost-006-searching-128-ytshorts.savetube.me.mp3",
+        "file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/3- Chun-Li — Street Fighter/3527780-chun_li_double_bun_earrings_by_burrowers-d4su7pd[1].jpg",
+        "file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/3- Chun-Li — Street Fighter/d420ef4c1651a39a1188a70cc1b16c0c.jpg"
+      ],
+      "portrait_wide_audio_packets_identical": true,
+      "nested_portrait_timelines_adapted": [],
+      "project": "03_Chun_Li/03_Chun_Li_Editado_9x16.wfp",
+      "duration_seconds": 38.9,
+      "sha256": "f01224b2d55171073e0dd1953e54de7eb1de5b7586e76fb861563214c55bed6e",
+      "main_clips": 25,
+      "dependent_timelines": [
+        36
+      ],
+      "native_application_open_test": "not executed; requires Filmora",
+      "all_original_nested_timelines_and_plugin_caches_retained": true
+    },
+    {
+      "character": "04-ankha",
+      "name": "Ankha",
+      "source_frames_60fps": [
+        9226,
+        11837
+      ],
+      "boundary_transitions_removed": 2,
+      "adapted_video_clips": [
+        {
+          "track": 11,
+          "clip": 0,
+          "source_midpoint": 8.1083334,
+          "shot_id": 4,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 1,
+          "source_midpoint": 16.8166667,
+          "shot_id": 8,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 2,
+          "source_midpoint": 24.37500005,
+          "shot_id": 12,
+          "kind": "museum",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 3,
+          "source_midpoint": 37.425,
+          "shot_id": 19,
+          "kind": "actor",
+          "scale_factor": 0.22,
+          "horizontal_factor": 0.2,
+          "vertical_factor": 0.32,
+          "transform_count": 1
+        }
+      ],
+      "bundled_media": [
+        {
+          "name": "Ankha_Personagens_que_a_internet_estragou_9x16.mp4",
+          "source": "04-ankha/output/Ankha_Personagens_que_a_internet_estragou_9x16.mp4",
+          "sha256": "7a3568347260a2d3b7f46bb692662b789faec3ddb57834e5644af494c9cf8b7e",
+          "role": "original portrait animation, no new render"
+        }
+      ],
+      "original_external_sources": [
+        "47_slug_tape_cassette_insert_and_close_01_417/Data/downloadCommonCfg.cof",
+        "file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Músicas/crash-bandicoot-1-hog-wild-whole-hog-music-128-ytshorts.savetube.me.mp3"
+      ],
+      "portrait_wide_audio_packets_identical": true,
+      "nested_portrait_timelines_adapted": [],
+      "project": "04_Ankha/04_Ankha_Editado_9x16.wfp",
+      "duration_seconds": 43.5166666,
+      "sha256": "ed23810ee48953b9acf244715bf265e2b9158f62f2388a1e41703769f1744183",
+      "main_clips": 15,
+      "dependent_timelines": [
+        36
+      ],
+      "native_application_open_test": "not executed; requires Filmora",
+      "all_original_nested_timelines_and_plugin_caches_retained": true
+    },
+    {
+      "character": "05-vaporeon",
+      "name": "Vaporeon",
+      "source_frames_60fps": [
+        12085,
+        14904
+      ],
+      "boundary_transitions_removed": 2,
+      "adapted_video_clips": [
+        {
+          "track": 11,
+          "clip": 0,
+          "source_midpoint": 21.6083333,
+          "shot_id": 8,
+          "kind": "desk",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 1,
+          "source_midpoint": 43.8166666,
+          "shot_id": 18,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 2,
+          "source_midpoint": 45.69999995,
+          "shot_id": 19,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        }
+      ],
+      "bundled_media": [
+        {
+          "name": "Vaporeon_Personagens_que_a_internet_estragou_9x16.mp4",
+          "source": "05-vaporeon/output/Vaporeon_Personagens_que_a_internet_estragou_9x16.mp4",
+          "sha256": "b619522b8980c5a644a7f8108436800ebab06e19f8241bc6a65037eee996dd4c",
+          "role": "original portrait animation, no new render"
+        }
+      ],
+      "original_external_sources": [
+        "47_Memes_Vine_Boom_AISFX_05/Data/downloadCommonCfg.cof",
+        "47_slug_tape_cassette_insert_and_close_01_417/Data/downloadCommonCfg.cof",
+        "6_Memes_Oh_My_God_AISFX_05/Data/Memes-Oh My God - AISFX.mp3",
+        "file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Músicas/bully-soundtrack-defender-of-the-castle-full-song-128-ytshorts.savetube.me.mp3"
+      ],
+      "portrait_wide_audio_packets_identical": true,
+      "nested_portrait_timelines_adapted": [],
+      "project": "05_Vaporeon/05_Vaporeon_Editado_9x16.wfp",
+      "duration_seconds": 46.9833333,
+      "sha256": "8185f41ccf4b69a2503ddcb3f3076f5e98337919c308693d2866b60e8cfe930c",
+      "main_clips": 17,
+      "dependent_timelines": [
+        36
+      ],
+      "native_application_open_test": "not executed; requires Filmora",
+      "all_original_nested_timelines_and_plugin_caches_retained": true
+    },
+    {
+      "character": "06-2b",
+      "name": "2B",
+      "source_frames_60fps": [
+        15152,
+        17551
+      ],
+      "boundary_transitions_removed": 1,
+      "adapted_video_clips": [
+        {
+          "track": 11,
+          "clip": 0,
+          "source_midpoint": 4.19999995,
+          "shot_id": 2,
+          "kind": "game",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 1,
+          "source_midpoint": 9.6999999,
+          "shot_id": 5,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 2,
+          "source_midpoint": 12.10833325,
+          "shot_id": 6,
+          "kind": "actor",
+          "scale_factor": 0.22,
+          "horizontal_factor": 0.2,
+          "vertical_factor": 0.32,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 3,
+          "source_midpoint": 14.18333325,
+          "shot_id": 7,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 4,
+          "source_midpoint": 17.0666666,
+          "shot_id": 9,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 5,
+          "source_midpoint": 20.24166665,
+          "shot_id": 11,
+          "kind": "actor",
+          "scale_factor": 0.22,
+          "horizontal_factor": 0.2,
+          "vertical_factor": 0.32,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 6,
+          "source_midpoint": 25.54166665,
+          "shot_id": 13,
+          "kind": "actor",
+          "scale_factor": 0.22,
+          "horizontal_factor": 0.2,
+          "vertical_factor": 0.32,
+          "transform_count": 1
+        },
+        {
+          "track": 11,
+          "clip": 8,
+          "source_midpoint": 35.0416666,
+          "shot_id": 18,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 0,
+          "source_midpoint": 36.0249999,
+          "shot_id": 19,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        }
+      ],
+      "bundled_media": [
+        {
+          "name": "2B_Personagens_que_a_internet_estragou_9x16.mp4",
+          "source": "06-2b/output/2B_Personagens_que_a_internet_estragou_9x16.mp4",
+          "sha256": "3e9130f43bb1f58796759d3c828e211022cca4323a514f60b73a332260275335",
+          "role": "original portrait animation, no new render"
+        },
+        {
+          "name": "images.jpg",
+          "sha256": "3735d13a55473d1aa6aa352c4f354b616226040dae64e2d37fb69652b891ec1e",
+          "role": "received source with exact original basename"
+        },
+        {
+          "name": "07-tracer_logo.png",
+          "sha256": "43102663f48e9e15ed8cc667c3b6291fda367b95e688820b48337d2c886f08fe",
+          "role": "received source with exact original basename"
+        }
+      ],
+      "original_external_sources": [
+        "",
+        "47_slug_tape_cassette_insert_and_close_01_417/Data/downloadCommonCfg.cof",
+        "file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Músicas/sonic-unleashed-music-windmill-isle-suburbs-day-128-ytshorts.savetube.me.mp3",
+        "file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/6 - 2B Nier Automata/bkmjejqaz5wb1.jpg",
+        "file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/7 - Tracer — Overwatch/Tracer.png",
+        "file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/Seus_Projetos_e_Continuacao_Com_Midias/midias/07-tracer_vinheta.wav"
+      ],
+      "portrait_wide_audio_packets_identical": true,
+      "nested_portrait_timelines_adapted": [],
+      "project": "06_2B/06_2B_Editado_9x16.wfp",
+      "duration_seconds": 39.9833334,
+      "sha256": "ade80063cccab6e76bac590745c82ee7663b3af160ae178596734e0c08f6fe0e",
+      "main_clips": 33,
+      "dependent_timelines": [
+        36,
+        44,
+        87
+      ],
+      "native_application_open_test": "not executed; requires Filmora",
+      "all_original_nested_timelines_and_plugin_caches_retained": true
+    },
+    {
+      "character": "07-tracer",
+      "name": "Tracer",
+      "source_frames_60fps": [
+        17797,
+        19302
+      ],
+      "boundary_transitions_removed": 1,
+      "adapted_video_clips": [
+        {
+          "track": 13,
+          "clip": 0,
+          "source_midpoint": 0.5,
+          "shot_id": 0,
+          "kind": "monitor",
+          "scale_factor": 0.08,
+          "horizontal_factor": 0.12,
+          "vertical_factor": 0.18,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 1,
+          "source_midpoint": 1.70833335,
+          "shot_id": 1,
+          "kind": "actor",
+          "scale_factor": 0.22,
+          "horizontal_factor": 0.2,
+          "vertical_factor": 0.32,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 2,
+          "source_midpoint": 5.1416667,
+          "shot_id": 3,
+          "kind": "game",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 3,
+          "source_midpoint": 8.6416667,
+          "shot_id": 4,
+          "kind": "actor",
+          "scale_factor": 0.22,
+          "horizontal_factor": 0.2,
+          "vertical_factor": 0.32,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 4,
+          "source_midpoint": 10.9166667,
+          "shot_id": 5,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 5,
+          "source_midpoint": 12.7916667,
+          "shot_id": 7,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 6,
+          "source_midpoint": 13.5416667,
+          "shot_id": 8,
+          "kind": "actor",
+          "scale_factor": 0.22,
+          "horizontal_factor": 0.2,
+          "vertical_factor": 0.32,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 7,
+          "source_midpoint": 14.5666667,
+          "shot_id": 9,
+          "kind": "interview",
+          "scale_factor": 0.18,
+          "horizontal_factor": 0.22,
+          "vertical_factor": 0.3,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 8,
+          "source_midpoint": 15.85833335,
+          "shot_id": 10,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 9,
+          "source_midpoint": 17.15000005,
+          "shot_id": 11,
+          "kind": "interview",
+          "scale_factor": 0.18,
+          "horizontal_factor": 0.22,
+          "vertical_factor": 0.3,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 10,
+          "source_midpoint": 18.8583333,
+          "shot_id": 12,
+          "kind": "interview",
+          "scale_factor": 0.18,
+          "horizontal_factor": 0.22,
+          "vertical_factor": 0.3,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 11,
+          "source_midpoint": 20.20833335,
+          "shot_id": 13,
+          "kind": "interview",
+          "scale_factor": 0.18,
+          "horizontal_factor": 0.22,
+          "vertical_factor": 0.3,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 12,
+          "source_midpoint": 21.10833335,
+          "shot_id": 14,
+          "kind": "interview",
+          "scale_factor": 0.18,
+          "horizontal_factor": 0.22,
+          "vertical_factor": 0.3,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 13,
+          "source_midpoint": 23.4,
+          "shot_id": 15,
+          "kind": "interview",
+          "scale_factor": 0.18,
+          "horizontal_factor": 0.22,
+          "vertical_factor": 0.3,
+          "transform_count": 1
+        }
+      ],
+      "bundled_media": [
+        {
+          "name": "Tracer_Personagens_que_a_internet_estragou_9x16.mp4",
+          "source": "07-tracer/output/Tracer_Personagens_que_a_internet_estragou_9x16.mp4",
+          "sha256": "675b6a3107939247b7979a7010163b4f79d81b8c6b57b0158b0c489dd9737dd6",
+          "role": "original portrait animation, no new render"
+        },
+        {
+          "name": "07-tracer_voz.wav",
+          "sha256": "0dcf41f1da6c44e9b14524420f87d8df70c3a104b96a535876e8357c41bc55fd",
+          "role": "received source with exact original basename"
+        }
+      ],
+      "original_external_sources": [
+        "file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Músicas/order-of-the-stone-minecraft-story-mode-101-ost-128-ytshorts.savetube.me.mp3"
+      ],
+      "portrait_wide_audio_packets_identical": true,
+      "nested_portrait_timelines_adapted": [],
+      "project": "07_Tracer/07_Tracer_Editado_9x16.wfp",
+      "duration_seconds": 25.0833333,
+      "sha256": "8422cfc3fd64f9bbc7beef4464acc0430e8632c567e384485936b770c8b4acdb",
+      "main_clips": 25,
+      "dependent_timelines": [
+        36,
+        153,
+        154,
+        159,
+        195,
+        199
+      ],
+      "native_application_open_test": "not executed; requires Filmora",
+      "all_original_nested_timelines_and_plugin_caches_retained": true
+    },
+    {
+      "character": "08-dva",
+      "name": "DVa",
+      "source_frames_60fps": [
+        19550,
+        22060
+      ],
+      "boundary_transitions_removed": 1,
+      "adapted_video_clips": [
+        {
+          "track": 13,
+          "clip": 0,
+          "source_midpoint": 1.9,
+          "shot_id": 1,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 1,
+          "source_midpoint": 4.60833335,
+          "shot_id": 2,
+          "kind": "actor",
+          "scale_factor": 0.22,
+          "horizontal_factor": 0.2,
+          "vertical_factor": 0.32,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 2,
+          "source_midpoint": 9.70833335,
+          "shot_id": 5,
+          "kind": "game",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 3,
+          "source_midpoint": 15.1,
+          "shot_id": 9,
+          "kind": "actor",
+          "scale_factor": 0.22,
+          "horizontal_factor": 0.2,
+          "vertical_factor": 0.32,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 4,
+          "source_midpoint": 18.35,
+          "shot_id": 10,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 5,
+          "source_midpoint": 21.15,
+          "shot_id": 12,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 6,
+          "source_midpoint": 22.85833335,
+          "shot_id": 14,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 7,
+          "source_midpoint": 25.1416667,
+          "shot_id": 15,
+          "kind": "actor",
+          "scale_factor": 0.22,
+          "horizontal_factor": 0.2,
+          "vertical_factor": 0.32,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 8,
+          "source_midpoint": 30.725,
+          "shot_id": 18,
+          "kind": "cockpit",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 9,
+          "source_midpoint": 36.58333335,
+          "shot_id": 22,
+          "kind": "cockpit",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 10,
+          "source_midpoint": 38.7916667,
+          "shot_id": 23,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 11,
+          "source_midpoint": 40.66666665,
+          "shot_id": 24,
+          "kind": "cockpit",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        }
+      ],
+      "bundled_media": [
+        {
+          "name": "DVa_Personagens_que_a_internet_estragou_9x16.mp4",
+          "source": "08-dva/output/DVa_Personagens_que_a_internet_estragou_9x16.mp4",
+          "sha256": "230a1b9d8a7783f7e907aa1c2a67dc82e8ca3a92c0413f34876e78acfd3864b9",
+          "role": "original portrait animation, no new render"
+        },
+        {
+          "name": "08-dva_voz.wav",
+          "sha256": "aae4c81521ff44c38579565144e925d6bc19f3cd63b5e36ec4fe94f9204c1c02",
+          "role": "received source with exact original basename"
+        }
+      ],
+      "original_external_sources": [
+        "file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Músicas/sheep-raider-ost-track-7-cd-quality-128-ytshorts.savetube.me.mp3"
+      ],
+      "portrait_wide_audio_packets_identical": true,
+      "nested_portrait_timelines_adapted": [],
+      "project": "08_DVa/08_DVa_Editado_9x16.wfp",
+      "duration_seconds": 41.8333334,
+      "sha256": "de27df1850fbbbca3119219dfcd0f7cad42e8c52c20b20caa3452c40feb8ab48",
+      "main_clips": 18,
+      "dependent_timelines": [
+        36
+      ],
+      "native_application_open_test": "not executed; requires Filmora",
+      "all_original_nested_timelines_and_plugin_caches_retained": true
+    },
+    {
+      "character": "09-mercy",
+      "name": "Mercy",
+      "source_frames_60fps": [
+        22308,
+        24048
+      ],
+      "boundary_transitions_removed": 1,
+      "adapted_video_clips": [
+        {
+          "track": 13,
+          "clip": 0,
+          "source_midpoint": 0.65000005,
+          "shot_id": 0,
+          "kind": "monitor",
+          "scale_factor": 0.08,
+          "horizontal_factor": 0.12,
+          "vertical_factor": 0.18,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 1,
+          "source_midpoint": 2.15,
+          "shot_id": 1,
+          "kind": "actor",
+          "scale_factor": 0.22,
+          "horizontal_factor": 0.2,
+          "vertical_factor": 0.32,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 2,
+          "source_midpoint": 3.6083334,
+          "shot_id": 2,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 3,
+          "source_midpoint": 4.6750001,
+          "shot_id": 3,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 4,
+          "source_midpoint": 8.1666667,
+          "shot_id": 4,
+          "kind": "game",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 5,
+          "source_midpoint": 12.35,
+          "shot_id": 6,
+          "kind": "actor",
+          "scale_factor": 0.22,
+          "horizontal_factor": 0.2,
+          "vertical_factor": 0.32,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 6,
+          "source_midpoint": 14.3583334,
+          "shot_id": 7,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 7,
+          "source_midpoint": 15.8500001,
+          "shot_id": 8,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 8,
+          "source_midpoint": 18.3416667,
+          "shot_id": 10,
+          "kind": "triage",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 9,
+          "source_midpoint": 20.85,
+          "shot_id": 12,
+          "kind": "triage",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 10,
+          "source_midpoint": 23.83333335,
+          "shot_id": 14,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 11,
+          "source_midpoint": 27.58333335,
+          "shot_id": 16,
+          "kind": "triage",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        }
+      ],
+      "bundled_media": [
+        {
+          "name": "Mercy_Personagens_que_a_internet_estragou_9x16.mp4",
+          "source": "09-mercy/output/Mercy_Personagens_que_a_internet_estragou_9x16.mp4",
+          "sha256": "a477fa093d3c2f20c4f58b62c723e60db1739c828ae7b31ca9e5163db4d5f783",
+          "role": "original portrait animation, no new render"
+        },
+        {
+          "name": "09-mercy_voz.wav",
+          "sha256": "ba706a627dbe56524a801dd7503cc3495f0f0da3d996654b1d009b388c30d57a",
+          "role": "received source with exact original basename"
+        }
+      ],
+      "original_external_sources": [
+        "47_slug_angel_choir014/Data/downloadCommonCfg.cof",
+        "file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Músicas/bully-ost-035-shop-class-128-ytshorts.savetube.me.mp3"
+      ],
+      "portrait_wide_audio_packets_identical": true,
+      "nested_portrait_timelines_adapted": [],
+      "project": "09_Mercy/09_Mercy_Editado_9x16.wfp",
+      "duration_seconds": 29.0,
+      "sha256": "b7321dd8c25f01ecf82b729a6214af6aecae020362439d7736261085b9791736",
+      "main_clips": 19,
+      "dependent_timelines": [
+        36
+      ],
+      "native_application_open_test": "not executed; requires Filmora",
+      "all_original_nested_timelines_and_plugin_caches_retained": true
+    },
+    {
+      "character": "10-lara-croft",
+      "name": "Lara_Croft",
+      "source_frames_60fps": [
+        24296,
+        26536
+      ],
+      "boundary_transitions_removed": 1,
+      "adapted_video_clips": [
+        {
+          "track": 13,
+          "clip": 0,
+          "source_midpoint": 0.65,
+          "shot_id": 0,
+          "kind": "monitor",
+          "scale_factor": 0.08,
+          "horizontal_factor": 0.12,
+          "vertical_factor": 0.18,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 1,
+          "source_midpoint": 2.31666665,
+          "shot_id": 1,
+          "kind": "actor",
+          "scale_factor": 0.22,
+          "horizontal_factor": 0.2,
+          "vertical_factor": 0.32,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 2,
+          "source_midpoint": 4.3333334,
+          "shot_id": 2,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 3,
+          "source_midpoint": 8.26666655,
+          "shot_id": 3,
+          "kind": "game",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 4,
+          "source_midpoint": 12.225,
+          "shot_id": 6,
+          "kind": "actor",
+          "scale_factor": 0.22,
+          "horizontal_factor": 0.2,
+          "vertical_factor": 0.32,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 5,
+          "source_midpoint": 14.25,
+          "shot_id": 7,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 6,
+          "source_midpoint": 16.025,
+          "shot_id": 8,
+          "kind": "actor",
+          "scale_factor": 0.22,
+          "horizontal_factor": 0.2,
+          "vertical_factor": 0.32,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 7,
+          "source_midpoint": 18.0083333,
+          "shot_id": 9,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 8,
+          "source_midpoint": 20.3166666,
+          "shot_id": 10,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 9,
+          "source_midpoint": 24.85833325,
+          "shot_id": 12,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 10,
+          "source_midpoint": 28.89999995,
+          "shot_id": 15,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 11,
+          "source_midpoint": 30.25,
+          "shot_id": 16,
+          "kind": "ruins",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 12,
+          "source_midpoint": 32.75,
+          "shot_id": 18,
+          "kind": "ruins",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 13,
+          "source_midpoint": 35.91666665,
+          "shot_id": 19,
+          "kind": "ruins",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        }
+      ],
+      "bundled_media": [
+        {
+          "name": "Lara_Personagens_que_a_internet_estragou_9x16.mp4",
+          "source": "10-lara-croft/output/Lara_Personagens_que_a_internet_estragou_9x16.mp4",
+          "sha256": "4291e7351e0d2a2630e394ac292211de69f01640f28b761fbc8835613c324336",
+          "role": "original portrait animation, no new render"
+        },
+        {
+          "name": "10-lara-croft_voz.wav",
+          "sha256": "5716f46f902dea5d46b24fc227d5ded9a006eaa530987ff7eec563c83b174c60",
+          "role": "received source with exact original basename"
+        }
+      ],
+      "original_external_sources": [
+        "file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Músicas/bully-soundtrack-chasing-gary-128-ytshorts.savetube.me.mp3"
+      ],
+      "portrait_wide_audio_packets_identical": true,
+      "nested_portrait_timelines_adapted": [],
+      "project": "10_Lara_Croft/10_Lara_Croft_Editado_9x16.wfp",
+      "duration_seconds": 37.3333334,
+      "sha256": "3d75427747c811bdb89dd75aa34985520fb94e02645a25d5d5722ecab6386d8d",
+      "main_clips": 21,
+      "dependent_timelines": [
+        36
+      ],
+      "native_application_open_test": "not executed; requires Filmora",
+      "all_original_nested_timelines_and_plugin_caches_retained": true
+    },
+    {
+      "character": "11-peach",
+      "name": "Peach",
+      "source_frames_60fps": [
+        26784,
+        29019
+      ],
+      "boundary_transitions_removed": 1,
+      "adapted_video_clips": [
+        {
+          "track": 13,
+          "clip": 0,
+          "source_midpoint": 3.3333334,
+          "shot_id": 3,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 1,
+          "source_midpoint": 7.6666667,
+          "shot_id": 6,
+          "kind": "actor",
+          "scale_factor": 0.22,
+          "horizontal_factor": 0.2,
+          "vertical_factor": 0.32,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 2,
+          "source_midpoint": 9.33333335,
+          "shot_id": 7,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 3,
+          "source_midpoint": 11.2916667,
+          "shot_id": 8,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 4,
+          "source_midpoint": 13.2916666,
+          "shot_id": 9,
+          "kind": "actor",
+          "scale_factor": 0.22,
+          "horizontal_factor": 0.2,
+          "vertical_factor": 0.32,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 5,
+          "source_midpoint": 15.15,
+          "shot_id": 10,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 6,
+          "source_midpoint": 20.75,
+          "shot_id": 14,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 7,
+          "source_midpoint": 26.30833335,
+          "shot_id": 16,
+          "kind": "showcase",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 8,
+          "source_midpoint": 31.12500005,
+          "shot_id": 19,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 9,
+          "source_midpoint": 36.0416666,
+          "shot_id": 22,
+          "kind": "showcase",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        }
+      ],
+      "bundled_media": [
+        {
+          "name": "Peach_Personagens_que_a_internet_estragou_9x16.mp4",
+          "source": "11-peach/output/Peach_Personagens_que_a_internet_estragou_9x16.mp4",
+          "sha256": "37a2be0bf879f1f7ba876eea520209225de4b1c90cfc1a3b518d3ac5b96ce5e8",
+          "role": "original portrait animation, no new render"
+        },
+        {
+          "name": "11-peach_voz.wav",
+          "sha256": "dd9a96645af52f8a5525585f90748945154290e0f42cc160798956d8c286106f",
+          "role": "received source with exact original basename"
+        }
+      ],
+      "original_external_sources": [
+        "file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Músicas/donkey-kong-2-ost-stickerbrush-symphony-128-ytshorts.savetube.me.mp3"
+      ],
+      "portrait_wide_audio_packets_identical": true,
+      "nested_portrait_timelines_adapted": [],
+      "project": "11_Peach/11_Peach_Editado_9x16.wfp",
+      "duration_seconds": 37.25,
+      "sha256": "f880d31fc1331b904fa8fd3e61f09b786c8869b2b26dd8318d5c8a7b05df5757",
+      "main_clips": 16,
+      "dependent_timelines": [
+        36
+      ],
+      "native_application_open_test": "not executed; requires Filmora",
+      "all_original_nested_timelines_and_plugin_caches_retained": true
+    },
+    {
+      "character": "12-sonic",
+      "name": "Sonic",
+      "source_frames_60fps": [
+        29267,
+        31364
+      ],
+      "boundary_transitions_removed": 0,
+      "adapted_video_clips": [
+        {
+          "track": 13,
+          "clip": 0,
+          "source_midpoint": 3.6083333,
+          "shot_id": 2,
+          "kind": "game",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 1,
+          "source_midpoint": 8.14999995,
+          "shot_id": 4,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 2,
+          "source_midpoint": 9.89999995,
+          "shot_id": 5,
+          "kind": "game",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 3,
+          "source_midpoint": 11.5666666,
+          "shot_id": 6,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 4,
+          "source_midpoint": 13.25,
+          "shot_id": 7,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 5,
+          "source_midpoint": 15.1916666,
+          "shot_id": 8,
+          "kind": "actor",
+          "scale_factor": 0.22,
+          "horizontal_factor": 0.2,
+          "vertical_factor": 0.32,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 6,
+          "source_midpoint": 18.9416667,
+          "shot_id": 10,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 7,
+          "source_midpoint": 22.6416666,
+          "shot_id": 11,
+          "kind": "actor",
+          "scale_factor": 0.22,
+          "horizontal_factor": 0.2,
+          "vertical_factor": 0.32,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 8,
+          "source_midpoint": 28.45833335,
+          "shot_id": 14,
+          "kind": "photo",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        },
+        {
+          "track": 13,
+          "clip": 9,
+          "source_midpoint": 34.0833333,
+          "shot_id": 19,
+          "kind": "arcade",
+          "scale_factor": 0.28,
+          "horizontal_factor": 0.25,
+          "vertical_factor": 0.4,
+          "transform_count": 1
+        }
+      ],
+      "bundled_media": [
+        {
+          "name": "Sonic_Personagens_que_a_internet_estragou_9x16.mp4",
+          "source": "12-sonic/output/Sonic_Personagens_que_a_internet_estragou_9x16.mp4",
+          "sha256": "bfecadbd4262486d41cc42b5c7be9f3f7c103f871213c85b69bd3fc9d76c44e1",
+          "role": "original portrait animation, no new render"
+        },
+        {
+          "name": "12-sonic_voz.wav",
+          "sha256": "74747dddd54846fb361171c0b1b415d9febde42246ff8cc2e0643706cc85065b",
+          "role": "received source with exact original basename"
+        }
+      ],
+      "original_external_sources": [
+        "file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Músicas/action-suspense-minecraft-story-mode-101-ost-128-ytshorts.savetube.me.mp3",
+        "file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Músicas/crash-twinsanity-soundtrack-mecha-bandicoot-128-ytshorts.savetube.me.mp3"
+      ],
+      "portrait_wide_audio_packets_identical": true,
+      "nested_portrait_timelines_adapted": [],
+      "project": "12_Sonic/12_Sonic_Editado_9x16.wfp",
+      "duration_seconds": 34.95,
+      "sha256": "b21cf30e1b94fdf95d26e26a88cffd28ba58a8a32ec8b88b9db07ef623f8fa83",
+      "main_clips": 17,
+      "dependent_timelines": [
+        36
+      ],
+      "native_application_open_test": "not executed; requires Filmora",
+      "all_original_nested_timelines_and_plugin_caches_retained": true
+    }
+  ]
+}

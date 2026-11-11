@@ -1,0 +1,7 @@
+As fontes abaixo mantêm os caminhos do seu projeto original. Se o Filmora pedir, localize o arquivo no seu PC. Plugins continuam dependendo da sua instalação.
+
+
+47_slug_tape_cassette_insert_and_close_01_417/Data/downloadCommonCfg.cof
+6_Meme_Rizz_AISFX_03/Data/Meme-Rizz - AISFX.mp3
+file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Memes/Imagens/59028b73bbf5a490325678eef2ce3cbe.jpg
+file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Músicas/PilotRedSun - Cooped Up (Coop theme) Original Loop extended.mp3

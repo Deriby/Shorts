@@ -1,0 +1,137 @@
+{
+  "note": "Basic-transform layout check using actor shots in all 12 original portrait movies; not a Filmora plugin render. Rotation/transition preview is not reproduced.",
+  "samples": [
+    {
+      "character": "01-lady-dimitrescu",
+      "kind": "actor",
+      "source_time": 4.916666666666666,
+      "basic_transform": {
+        "Scale_x": 123.65338454594793,
+        "Scale_y": 123.65338454594793,
+        "Position_x": 0.5,
+        "Position_y": 0.5
+      }
+    },
+    {
+      "character": "02-tifa",
+      "kind": "actor",
+      "source_time": 11.916666666666668,
+      "basic_transform": {
+        "Scale_x": 127.39757575757578,
+        "Scale_y": 127.39757575757578,
+        "Position_x": 0.5,
+        "Position_y": 0.5
+      }
+    },
+    {
+      "character": "03-chun-li",
+      "kind": "actor",
+      "source_time": 27.625,
+      "basic_transform": {
+        "Scale_x": 136.4,
+        "Scale_y": 136.4,
+        "Position_x": 0.5,
+        "Position_y": 0.5
+      }
+    },
+    {
+      "character": "04-ankha",
+      "kind": "actor",
+      "source_time": 39.16666666666667,
+      "basic_transform": {
+        "Scale_x": 128.16,
+        "Scale_y": 128.16,
+        "Position_x": 0.5,
+        "Position_y": 0.5
+      }
+    },
+    {
+      "character": "05-vaporeon",
+      "kind": "actor",
+      "source_time": 10.291666666666668,
+      "basic_transform": {
+        "Scale_x": 122.90530225366881,
+        "Scale_y": 122.90530225366881,
+        "Position_x": 0.5,
+        "Position_y": 0.5
+      }
+    },
+    {
+      "character": "06-2b",
+      "kind": "actor",
+      "source_time": 21.458333333333332,
+      "basic_transform": {
+        "Scale_x": 114.0632450362484,
+        "Scale_y": 114.0632450362484,
+        "Position_x": 0.5,
+        "Position_y": 0.5
+      }
+    },
+    {
+      "character": "07-tracer",
+      "kind": "actor",
+      "source_time": 9.375,
+      "basic_transform": {
+        "Scale_x": 127.23205107387574,
+        "Scale_y": 127.23205107387574,
+        "Position_x": 0.5,
+        "Position_y": 0.5
+      }
+    },
+    {
+      "character": "08-dva",
+      "kind": "actor",
+      "source_time": 25.120833366666666,
+      "basic_transform": {
+        "Scale_x": 119.14,
+        "Scale_y": 119.14,
+        "Position_x": 0.5,
+        "Position_y": 0.491648
+      }
+    },
+    {
+      "character": "09-mercy",
+      "kind": "actor",
+      "source_time": 13.458333333333334,
+      "basic_transform": {
+        "Scale_x": 109.72065217391305,
+        "Scale_y": 109.72065217391305,
+        "Position_x": 0.5,
+        "Position_y": 0.5
+      }
+    },
+    {
+      "character": "10-lara-croft",
+      "kind": "actor",
+      "source_time": 12.208333333333334,
+      "basic_transform": {
+        "Scale_x": 119.14,
+        "Scale_y": 119.14,
+        "Position_x": 0.5,
+        "Position_y": 0.5
+      }
+    },
+    {
+      "character": "11-peach",
+      "kind": "actor",
+      "source_time": 13.270833283333335,
+      "basic_transform": {
+        "Scale_x": 119.14,
+        "Scale_y": 119.14,
+        "Position_x": 0.5,
+        "Position_y": 0.5
+      }
+    },
+    {
+      "character": "12-sonic",
+      "kind": "actor",
+      "source_time": 15.166666666666668,
+      "basic_transform": {
+        "Scale_x": 119.14,
+        "Scale_y": 119.14,
+        "Position_x": 0.5,
+        "Position_y": 0.5
+      }
+    }
+  ]
+}

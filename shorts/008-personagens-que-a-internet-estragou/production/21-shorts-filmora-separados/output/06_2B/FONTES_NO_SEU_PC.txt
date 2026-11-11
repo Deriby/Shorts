@@ -1,0 +1,8 @@
+As fontes abaixo mantêm os caminhos do seu projeto original. Se o Filmora pedir, localize o arquivo no seu PC. Plugins continuam dependendo da sua instalação.
+
+
+47_slug_tape_cassette_insert_and_close_01_417/Data/downloadCommonCfg.cof
+file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Músicas/sonic-unleashed-music-windmill-isle-suburbs-day-128-ytshorts.savetube.me.mp3
+file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/6 - 2B Nier Automata/bkmjejqaz5wb1.jpg
+file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/7 - Tracer — Overwatch/Tracer.png
+file:/F:/Deryk Siqueira/Z/MASSACOTE/Massacote Games/Vídeos/Personagens que a internet ESTRAGOU/Seus_Projetos_e_Continuacao_Com_Midias/midias/07-tracer_vinheta.wav
