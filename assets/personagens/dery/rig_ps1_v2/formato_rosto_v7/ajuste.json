@@ -1,0 +1,50 @@
+{
+  "source": "../texturas/camiseta_m_v6/Dery_Camiseta_M_v6.blend",
+  "source_sha256": "a1dc15dc6a3dc590e8bbeb78514a00f80ca4d3e9dc219bc8de3fb60808af9e81",
+  "source_unchanged": true,
+  "visual_reference": "Previously supplied selfies in the conversation; visual interpretation, no calibrated scan or automatic landmarks.",
+  "scope": "Lower-face silhouette: taper jaw below cheekbones and soften the flat chin base, without redrawing the texture.",
+  "method": "Reversible shape key; value 0 restores the prior silhouette.",
+  "shape_key": "DERY | contorno de mandíbula e queixo",
+  "changed_vertices": 1182,
+  "maximum_vertex_displacement_m": 0.009631761961236272,
+  "basis_vertices_uvs_images_materials_weights_preserved": true,
+  "rig_bones": 71,
+  "nose_eye_brow_mouth_texture_design_preserved": true,
+  "new_expressions": 0,
+  "approved_by_user": false,
+  "width_profile_z_scale": [
+    [
+      1.535,
+      1
+    ],
+    [
+      1.554,
+      0.9
+    ],
+    [
+      1.575,
+      0.84
+    ],
+    [
+      1.596,
+      0.87
+    ],
+    [
+      1.62,
+      0.92
+    ],
+    [
+      1.64,
+      0.97
+    ],
+    [
+      1.665,
+      0.995
+    ],
+    [
+      1.698,
+      1
+    ]
+  ]
+}

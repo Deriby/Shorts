@@ -8,6 +8,8 @@ Base recebida em `Dery Rig.zip`, em 11/11/2026. A etapa inicial simplificou a an
 
 **Adição solicitada em seguida:** [camiseta com M amarelo, v6](texturas/camiseta_m_v6/), sobre o acabamento v5. Aplica a logo original no centro do peito e mantém o restante do visual. O Blender e as prévias estão na pasta; as versões anteriores permanecem preservadas.
 
+**Proposta de contorno facial:** [v7](formato_rosto_v7/), após o usuário apontar que o formato do rosto também difere do seu. Testa mandíbula mais estreita e base do queixo menos reta por uma shape key reversível, mantendo as texturas da v6. O comparativo frontal e em três quartos acompanha o Blender; a semelhança aguarda avaliação.
+
 ## Arquivos
 
 - [Dery_Rig_PS1_Base.blend](Dery_Rig_PS1_Base.blend): nova base editável, com imagens originais incorporadas e o rig preservado.

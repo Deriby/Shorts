@@ -11,8 +11,8 @@
   "preview_head": "texturas/rosto_neutro_v3/Previa_Rosto.png",
   "preview_angles": "texturas/rosto_neutro_v3/previa_angulos/",
   "rejected_texture_variant": "texturas/estilo_ps1_v4/",
-  "candidate_version": "v6",
-  "candidate_model": "texturas/camiseta_m_v6/Dery_Camiseta_M_v6.blend",
-  "candidate_note": "Added the original yellow Massacote M to the existing v5 shirt as requested. Preserves all existing texture artwork, geometry, old UVs and rig; no expressions authorized.",
-  "candidate_parent": "v5"
+  "candidate_version": "v7",
+  "candidate_model": "formato_rosto_v7/Dery_Contorno_Rosto_v7.blend",
+  "candidate_note": "Reversible lower-face silhouette proposal following user feedback about facial shape; preserves the v6 materials, M print, UVs and rig. Likeness awaits user review; no expression production authorized.",
+  "candidate_parent": "v6"
 }

@@ -8,6 +8,8 @@ Modelo e texturas originais enviados pelo usuário para uso nos shorts.
 
 **Última adição ao novo modelo:** [M amarelo no peito — v6](rig_ps1_v2/texturas/camiseta_m_v6/), aplicado à camiseta da v5, com logo original e estampa pixelizada. Mantém rosto, franja, jeans e demais texturas.
 
+**Contorno facial em avaliação:** [v7](rig_ps1_v2/formato_rosto_v7/), ajuste reversível de mandíbula/queixo após o usuário apontar diferença no formato do rosto. Preserva o visual da v6 e apresenta comparação de frente e três quartos.
+
 **Roupa atual:** [camiseta preta com M amarelo do Massacote Games no peito](roupas/camiseta_preta/), mantendo o corte e a geometria originais. Aplicar a troca de material ao reutilizar cenas antigas.
 
 O mesmo procedimento inclui a limpeza das manchas na pele, da iluminação colorida antiga e das transições entre pele e mangas, preservando o rosto desenhado e a malha original.
