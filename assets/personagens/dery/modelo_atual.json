@@ -1,0 +1,15 @@
+{
+  "status": "active",
+  "selected_version": "Modelo original usado nos shorts",
+  "selected_model": "roupas/camiseta_preta/Dery_Camiseta_Preta.blend",
+  "sha256": "b0091d85f0e44f30d242ec78a9b191379e2af14d00c551d1fd8060dcdb5cce6a",
+  "selected_date": "2026-11-11",
+  "selection_reason": "User explicitly chose the Dery already used in the produced shorts, not an earlier version of the attempted replacement.",
+  "expression_library": "expressions_ps1/v2/",
+  "expression_count": 31,
+  "precision_setup": "ps1_precision.py",
+  "clothing": "Original shape, black shirt and approved yellow Massacote M",
+  "new_rig_experiment_status": "archived; do not use rig_ps1_v2 for upcoming production",
+  "model_modified_by_this_selection": false,
+  "new_renders": 0
+}

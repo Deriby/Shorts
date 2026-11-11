@@ -2,9 +2,9 @@
 
 Base recebida em `Dery Rig.zip`, em 11/11/2026. A etapa inicial simplificou a anatomia do rosto seguindo o exemplo de Silent Hill fornecido pelo usuário: nariz e contorno em geometria simples, com olhos e boca desenhados nas texturas.
 
-**Modelo mais recente em avaliação:** [rosto PSX e contorno frontal v12](pixel_psx_v12/), com grade facial equivalente a 64×64 e ajuste do rosto/pescoço pela nova marcação frontal vermelha do usuário. Mantém os PNGs, as dez expressões, os UVs e o rig. A alteração transversal conserva Y/Z do perfil marcado da v11 e preserva a abertura da base do pescoço para os ombros.
+**Experimento encerrado e arquivado.** O usuário escolheu manter [o modelo original usado nos shorts](../roupas/camiseta_preta/Dery_Camiseta_Preta.blend), com os 31 rostos anteriores. Nenhuma versão desta pasta é a base ativa de produção. Os detalhes abaixo são o histórico das tentativas; ver [seleção atual](../modelo_atual.json).
 
-**Materiais de origem: [versão v3](texturas/rosto_neutro_v3/).** O usuário rejeitou as texturas da v4 e preferiu esse conjunto. A v3 permanece intacta no histórico; os modelos posteriores incorporam os ajustes seguintes. O [registro de versões](versao_atual.json) identifica a base de contorno e a proposta mais recente. Não reaplicar pinturas ou paletas da v4. Usar o modelo mais recente indicado acima para continuar a revisão atual.
+**Materiais de origem: [versão v3](texturas/rosto_neutro_v3/).** O usuário rejeitou as texturas da v4 e preferiu esse conjunto. A v3 permanece intacta no histórico; os modelos posteriores incorporam os ajustes seguintes. O [registro de versões](versao_atual.json) identifica a base de contorno e a proposta mais recente. Não reaplicar pinturas ou paletas da v4. As revisões desta pasta estão arquivadas.
 
 **Nova proposta de acabamento:** [refino v5](texturas/refino_v3_v5/), solicitado para melhorar as texturas existentes, preservando a pintura e o jeans da v3. Os PNGs permanecem intactos; o ajuste ocorre na amostragem e no realce local dos materiais. A v3 continua como base selecionada até o retorno do usuário.
 

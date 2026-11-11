@@ -1,5 +1,7 @@
 # Produção de shorts
 
+- **MODELO ATIVO DO DERY:** o usuário encerrou a tentativa de substituição e esclareceu que quer manter o personagem que já usávamos nos shorts, NÃO uma revisão anterior do novo rig. Usar `assets/personagens/dery/roupas/camiseta_preta/Dery_Camiseta_Preta.blend`, biblioteca `expressions_ps1/v2/` com 31 rostos, camiseta preta com M e `ps1_precision.py`. Ver `assets/personagens/dery/modelo_atual.json`. Todo o experimento `rig_ps1_v2/`, inclusive v12–v15, fica arquivado e não deve ser aplicado em novas produções. A decisão não autoriza novos ajustes ou renders. Este registro supera as seleções históricas do novo rig abaixo.
+
 - O usuário pediu que os trabalhos sejam salvos continuamente neste repositório GitHub, com uma pasta diferente para cada short.
 - Use `shorts/NNN-assunto/`, mantendo o título exato informado pelo usuário no README do vídeo e no índice da raiz.
 - Para novos shorts, use somente 9:16. Planeje 16:9 e adaptação para vídeo longo apenas quando o usuário avisar que deseja esse aproveitamento.
