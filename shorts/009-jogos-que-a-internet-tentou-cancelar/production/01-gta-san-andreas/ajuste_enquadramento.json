@@ -1,0 +1,12 @@
+{
+  "changes": [
+    "Two-line archive heading fits central 9:16",
+    "US rating caption moved below the white card"
+  ],
+  "affected_kinds": [
+    "archive"
+  ],
+  "invalidated_frames": 126,
+  "other_frames_unchanged": true,
+  "rationale": "Only two emissive text objects moved/changed; both are outside all unaffected cameras."
+}

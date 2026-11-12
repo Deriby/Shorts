@@ -1,0 +1,71 @@
+{
+  "source": "https://drive.google.com/drive/folders/1glsyO1duK8KXN2UGLODYK3VDKXcw-LmM",
+  "package": "01 - GTA SAN ANDREAS.zip",
+  "files": [
+    {
+      "original": "1 - VOZ GTA SAN ANDREAS.mp3",
+      "file": "assets/voz/voz_original.mp3",
+      "bytes": 2126400,
+      "sha256": "7fc8f609ba61a060be53376080ff00312a61ebb77ef65d0c8a063dfbbd73ef5b"
+    },
+    {
+      "original": "how-to-complete-gta-san-andreas-in-5-minutes-speedrun-world-record-720-ytshorts.savetube.me.mp4",
+      "file": "assets/gameplay/gameplay_speedrun.mp4",
+      "bytes": 68430262,
+      "sha256": "cacb1599b28f9179a4d2e408e141e20a15908578d5c05c6fe37aaf6b9bb112f4"
+    },
+    {
+      "original": "sleekgraphics-modern-ps2-graphics-for-san-andreas-536-ytshorts.savetube.me.mp4",
+      "file": "assets/gameplay/cenarios_mod_grafico.mp4",
+      "bytes": 8447032,
+      "sha256": "cb13d9483e8e07b2482d0ea661de5d920d4c332a10405a829778559111a64e49"
+    },
+    {
+      "original": "GTA-San-Andreas-Dating-1.png",
+      "file": "assets/imagens/encontro_bar.png",
+      "bytes": 42841,
+      "sha256": "06fd1878a3c69daad8aadaecb1688e3a8eabdde78b36e99526620acf390f8572"
+    },
+    {
+      "original": "SanAndreas.png",
+      "file": "assets/imagens/encontro_rua.png",
+      "bytes": 44269,
+      "sha256": "75f1269c589bc91d2ce28b982346173bc6d0faac9d589463026895b37ca12d1c"
+    },
+    {
+      "original": "gta-hot-coffee-o-escandalo-que-quase-arruinou-a-rockstar.png",
+      "file": "assets/imagens/cj_classificacao.png",
+      "bytes": 76838,
+      "sha256": "24623d55c683e96a4cfca62fb304b0de46fc22079c6ca643fc7c960ab6bca232"
+    },
+    {
+      "original": "gtabug.jpg",
+      "file": "assets/imagens/cj_bug.jpg",
+      "bytes": 123487,
+      "sha256": "51209bed38f22986e83de12a73d434feb9a2604e4b76325189bfaca0bb7470b8"
+    },
+    {
+      "original": "imagem-2024-12-11-182555091.png",
+      "file": "assets/imagens/big_smoke.png",
+      "bytes": 56284,
+      "sha256": "95480abbe329c6dc1b5c66c5418cc01e69112d58ce7531d94e209f660d1e10bd"
+    },
+    {
+      "original": "images.jpg",
+      "file": "assets/imagens/cafe.jpg",
+      "bytes": 22560,
+      "sha256": "75b36ea2a5001224de176be184d0c6ce224ae713c79b8c730a32aeebce35f2e3"
+    },
+    {
+      "original": "meme2.png",
+      "file": "assets/imagens/cj_reacao.png",
+      "bytes": 440045,
+      "sha256": "1de67ac9bab02fe349c16fa34ce5bcff602ef50b276e5b916745fea94c2dbf96"
+    }
+  ],
+  "unused": [
+    "BLSKJBAOS5MADAM3Z3Z2BTXV2A.jpg",
+    "maxresdefault.jpg"
+  ],
+  "voice_original_unchanged": true
+}

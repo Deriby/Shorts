@@ -1,0 +1,25 @@
+{
+  "room_source": "assets/cenarios/quarto_gamer_banco_v2/Quarto_Gamer_Banco_PS1.blend",
+  "room_manifest": "assets/cenarios/quarto_gamer_banco_v2/fontes_e_montagem.json",
+  "room_notices": "assets/cenarios/quarto_gamer_banco_v2/creditos/",
+  "new_bank_import": {
+    "file": "assets/biblioteca_psx/originais/Banco 3D para vídeos/OFFICE/OFFICE/file_cabinets/file_cabinet_small_open.glb",
+    "sha256": "e9fe251c2a27497b0759f8146f983bac76c2005687d4195083138d922e7f8da4",
+    "usage": "Hidden-file cabinet vignette",
+    "import_verified": true
+  },
+  "reused_room_objects": [
+    "OFFICE desks",
+    "OFFICE bookcase",
+    "OFFICE mug",
+    "LowPolyAssetPack_Free game cases",
+    "Existing room textures and lighting"
+  ],
+  "font": {
+    "family": "Baloo 2",
+    "source": "https://github.com/google/fonts/tree/main/ofl/baloo2",
+    "license": "SIL Open Font License; assets/fontes/OFL.txt"
+  },
+  "bank_received_manifest": "assets/biblioteca_psx/recebimento.json",
+  "bank_raw_redistributed": false
+}

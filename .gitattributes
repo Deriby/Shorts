@@ -6,6 +6,7 @@
 *.wav filter=lfs diff=lfs merge=lfs -text
 
 *.wfp filter=lfs diff=lfs merge=lfs -text
+shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/GTA_San_Andreas_Projetos_Filmora.zip filter=lfs diff=lfs merge=lfs -text
 shorts/008-personagens-que-a-internet-estragou/production/21-shorts-filmora-separados/output/Projetos_Filmora_Lady_ao_Sonic_9x16.zip filter=lfs diff=lfs merge=lfs -text
 shorts/008-personagens-que-a-internet-estragou/production/15-teste-estilo-filmora/output/Teste_Tracer_Filmora_15s.zip filter=lfs diff=lfs merge=lfs -text
 shorts/008-personagens-que-a-internet-estragou/production/16-longo-estilo-aprovado/output/Restante_Estilo_Aprovado_Filmora.zip filter=lfs diff=lfs merge=lfs -text

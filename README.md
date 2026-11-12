@@ -14,6 +14,7 @@ Produção de shorts em 3D com estética PS1 / low poly, personagem Dery e narra
 | 006 | **Esse jogo destruiu seu criador** | [Short 9:16, voz, roteiros e Blender](shorts/006-mizzurna-falls/) |
 | 007 | **O verdadeiro chefe de Driver** | [Short 9:16, voz, gameplay, roteiros e Blender](shorts/007-verdadeiro-chefe-driver/) |
 | 008 | **Personagens que a internet estragou** | [12 shorts, longo 16:9 no estilo aprovado e pacote Filmora](shorts/008-personagens-que-a-internet-estragou/) |
+| 009 | **Jogos que a internet tentou cancelar** | [GTA San Andreas: short 9:16, capítulo 16:9 e projetos Filmora](shorts/009-jogos-que-a-internet-tentou-cancelar/) |
 
 ## Organização
 
@@ -21,7 +22,7 @@ Produção de shorts em 3D com estética PS1 / low poly, personagem Dery e narra
 - `assets/personagens/dery/`: modelo original e texturas reutilizáveis do personagem.
 - [`assets/biblioteca_psx/`](assets/biblioteca_psx/): fonte e registro do banco PSX enviado pelo usuário, com 26 conjuntos para reaproveitar nas animações. Os originais são um cache local obtido pelo Drive.
 - Cada produção mantém seus scripts, voz, expressões, projeto Blender e vídeos finais.
-- Quadros intermediários, backups do Blender e ZIPs de download ficam fora do Git.
+- Quadros intermediários, backups e ZIPs brutos ficam fora do Git. Pacotes de entrega solicitados pelo usuário podem ser versionados com Git LFS.
 
 Vídeos, áudio, modelos GLB e projetos Blender usam **Git LFS**. Para obter todos os arquivos depois de clonar:
 
