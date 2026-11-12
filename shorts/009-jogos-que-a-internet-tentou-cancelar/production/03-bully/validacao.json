@@ -1,0 +1,55 @@
+{
+  "videos": [
+    {
+      "file": "Bully_Cancelar_9x16.mp4",
+      "resolution": [
+        1080,
+        1920
+      ],
+      "fps": 30,
+      "frames": 1411,
+      "duration": 47.033333,
+      "sha256": "f36b1a4a4d97569215908aec50ee68bc0c4d11e786ece89b406e8f98a813c704"
+    },
+    {
+      "file": "Bully_Cancelar_16x9.mp4",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "fps": 30,
+      "frames": 1411,
+      "duration": 47.033333,
+      "sha256": "aaacf6531a948cc5d39752191a55f237ac8603c891d9acfef770ed3c6135696f"
+    }
+  ],
+  "projects": [
+    {
+      "file": "Bully_9x16.wfp",
+      "clips": 22,
+      "video_clips": 14,
+      "native_titles": 0,
+      "all_media_resolve": true,
+      "explicit_speed_1x": true
+    }
+  ],
+  "full_voice_pcm_preserved": true,
+  "voice_duration": 46.702834467120184,
+  "timeline_duration": 47.03333333333333,
+  "crt_unique_samples": 5,
+  "host_unique_samples": 6,
+  "composited_3d_frames": 749,
+  "held_graphic_frames": 152,
+  "actual_blender_frames": 597,
+  "zip_integrity": true,
+  "bundle_sha256": "6552596a3dd5fdae2e910f48457f87e493af0c54ebe152fdf63d069f7af1c410",
+  "filmora_native_open_test": false,
+  "whole_frame_shake": false,
+  "revision": 2,
+  "controlled_seated_face_pixel_changes": [
+    938,
+    907,
+    979,
+    1181
+  ]
+}

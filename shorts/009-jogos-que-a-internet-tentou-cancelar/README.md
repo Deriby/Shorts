@@ -1,6 +1,6 @@
 # Jogos que a internet tentou cancelar
 
-Série em produção para o Massacote Games. Os capítulos **GTA San Andreas / Hot Coffee** e **BMX XXX** usam a voz e as mídias enviadas pelo usuário. Os capítulos MP4 16:9 ficam preparados para a montagem futura; o projeto Filmora do longo será feito com todos os jogos apenas no final.
+Série em produção para o Massacote Games. Os capítulos **GTA San Andreas / Hot Coffee**, **BMX XXX** e **Bully** usam a voz e as mídias enviadas pelo usuário. Os capítulos MP4 16:9 ficam preparados para a montagem futura; o projeto Filmora do longo será feito com todos os jogos apenas no final.
 
 ## 01 — GTA San Andreas
 
@@ -26,6 +26,17 @@ Short com a voz integral, atuação PSX da R2 adaptada à nova fala, vinheta dos
 - [Roteiro de animação](production/02-bmx-xxx/roteiro_animacao.md), [Blender](production/02-bmx-xxx/output/Dery_BMX_XXX.blend) e [produção/verificações](production/02-bmx-xxx/).
 
 43,967 segundos, 30 fps. **Somente WFP 9:16 nesta entrega**, conforme a instrução mais recente. O Filmora não foi executado no Linux; recursos, duração, velocidade e integridade são verificados por código.
+
+## 03 — Bully
+
+Voz integral, tribunal com a piada do controle e vinheta do veto comercial brasileiro. Sem legendas ou títulos sobrepostos; o usuário legenda depois. Fotos/memes mantêm seus textos originais.
+
+- [Short 9:16 — download](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/Bully_Cancelar_9x16.mp4).
+- [Filmora 9:16 com mídias — download](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/Bully_Filmora.zip).
+- [Capítulo MP4 16:9 — download](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/Bully_Cancelar_16x9.mp4).
+- [Roteiro](production/03-bully/roteiro_animacao.md), [Blender](production/03-bully/output/Dery_Bully.blend) e [produção/verificações](production/03-bully/).
+
+47,033 segundos, 30 fps. Somente WFP 9:16 agora; o projeto do longo fica para o final. O Filmora nativo não foi executado neste ambiente.
 
 ## Edição e projetos do GTA
 

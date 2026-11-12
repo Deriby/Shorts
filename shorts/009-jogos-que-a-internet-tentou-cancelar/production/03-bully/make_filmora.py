@@ -65,7 +65,15 @@ def resource(path,prototype):
     r=copy.deepcopy(prototype);r.update(sourceUuid=uid(),filename='file:./midias/'+path.name,createDate=-1,modifyDate=0)
     d=json.loads(subprocess.check_output(['ffprobe','-v','error','-show_streams','-show_format','-of','json',str(path)]))
     videos=[s for s in d['streams']if s['codec_type']=='video'];audios=[s for s in d['streams']if s['codec_type']=='audio']
-    duration=float(d['format']['duration']);r.update(mediaLength=ticks(duration),videoStreamCount=len(videos),audioStreamCount=len(audios),bitRate=int(d['format'].get('bit_rate',0)))
+    # Use frame/sample counts, not the format's six-decimal duration string.
+    # Otherwise a 1411/30 second source loses three 100 ns ticks in its metadata.
+    duration=float(d['format']['duration'])
+    if path.suffix.lower()=='.wav':
+        with wave.open(str(path))as pcm:duration=pcm.getnframes()/pcm.getframerate()
+    elif videos:
+        v=videos[0];num,den=map(int,v['r_frame_rate'].split('/'))
+        duration=int(v['nb_frames'])*den/num
+    r.update(mediaLength=ticks(duration),videoStreamCount=len(videos),audioStreamCount=len(audios),bitRate=int(d['format'].get('bit_rate',0)))
     if videos:
         s=videos[0];v=copy.deepcopy(r['vidStreamInfo'][0]);num,den=map(int,s['r_frame_rate'].split('/'))
         v.update(vidStreamId=s['index'],width=s['width'],height=s['height'],xRatio=s['width']*1000,yRatio=s['height']*1000,

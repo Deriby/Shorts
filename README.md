@@ -14,7 +14,7 @@ Produção de shorts em 3D com estética PS1 / low poly, personagem Dery e narra
 | 006 | **Esse jogo destruiu seu criador** | [Short 9:16, voz, roteiros e Blender](shorts/006-mizzurna-falls/) |
 | 007 | **O verdadeiro chefe de Driver** | [Short 9:16, voz, gameplay, roteiros e Blender](shorts/007-verdadeiro-chefe-driver/) |
 | 008 | **Personagens que a internet estragou** | [12 shorts, longo 16:9 no estilo aprovado e pacote Filmora](shorts/008-personagens-que-a-internet-estragou/) |
-| 009 | **Jogos que a internet tentou cancelar** | [GTA San Andreas + BMX XXX: shorts, capítulos 16:9 e Filmora](shorts/009-jogos-que-a-internet-tentou-cancelar/) |
+| 009 | **Jogos que a internet tentou cancelar** | [GTA San Andreas + BMX XXX + Bully: shorts, capítulos 16:9 e Filmora](shorts/009-jogos-que-a-internet-tentou-cancelar/) |
 
 ## Organização
 
