@@ -1,5 +1,7 @@
 # Quarto gamer PS1 — montagem com o banco 3D
 
+**Teste posterior autorizado:** [cena de 6 segundos com o Dery original, voz e gameplay de Driver](teste_short/), para avaliar o uso em shorts. O cenário-base desta pasta continua intacto; a cópia animada está separada.
+
 Novo cenário montado a pedido do usuário, reaproveitando os modelos e texturas de `assets/biblioteca_psx/`. O quarto anterior, os vídeos e o personagem Dery permanecem preservados. Esta versão está pronta para avaliação visual e reutilização; não foi aplicada automaticamente aos shorts existentes.
 
 - [Prévia do quarto completo](Previa_Quarto_Completo.png).

@@ -1,0 +1,74 @@
+{
+  "saved_scene_reopened": true,
+  "camera_precision_uses_animated_camera": true,
+  "pc_video_resolves": true,
+  "pc_video_auto_refresh": true,
+  "faces_constant_and_native_driver_checked": true,
+  "original_sources_unchanged": true,
+  "physical_feet_min_z_sample_m": 0.010330915451049805,
+  "samples": [
+    {
+      "frame": 1,
+      "face": 12,
+      "lens": 37.0,
+      "wrist_error_m": {
+        "L": 0.00023307941164609072,
+        "R": 0.00019319870786436928
+      }
+    },
+    {
+      "frame": 18,
+      "face": 2,
+      "lens": 37.0,
+      "wrist_error_m": {
+        "L": 0.0002318669713342793,
+        "R": 0.00019043991820663937
+      }
+    },
+    {
+      "frame": 30,
+      "face": 2,
+      "lens": 41.0,
+      "wrist_error_m": {
+        "L": 0.00023147393004948998,
+        "R": 0.00023335059331056808
+      }
+    },
+    {
+      "frame": 44,
+      "face": 12,
+      "lens": 41.0,
+      "wrist_error_m": {
+        "L": 0.000262769981670317,
+        "R": 0.00019304919414390987
+      }
+    },
+    {
+      "frame": 61,
+      "face": 24,
+      "lens": 58.0,
+      "wrist_error_m": {
+        "L": 0.00026130924394440606,
+        "R": 0.00025785526653418207
+      }
+    },
+    {
+      "frame": 80,
+      "face": 6,
+      "lens": 58.0,
+      "wrist_error_m": {
+        "L": 0.00023293559998946255,
+        "R": 0.00019331019524244467
+      }
+    },
+    {
+      "frame": 96,
+      "face": 6,
+      "lens": 58.0,
+      "wrist_error_m": {
+        "L": 0.00023307941164609072,
+        "R": 0.00019319870786436928
+      }
+    }
+  ]
+}

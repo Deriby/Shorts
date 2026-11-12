@@ -1,0 +1,21 @@
+{
+  "video": "Previa_Dery_Quarto_6s_9x16.mp4",
+  "duration_seconds": 6.0,
+  "width": 1080,
+  "height": 1920,
+  "delivery_fps": 24,
+  "source_animation_fps": 16,
+  "rendered_blender_frames": 96,
+  "output_frames": 144,
+  "audio_codec": "aac",
+  "intro_frame_hashes": [
+    "b2762c9d5527c12e7f9a96a94467662c55b2b326db6ee44fc6eb3ead5f29a27d",
+    "5600fd3b808d6116deafdeaddacca540dcfab9f41e121962fccf2ae064eba6a8",
+    "7c08c3a76db441c3b947837740374da1a7894482dc696bc28b870fdf5e6f5026",
+    "b463e34f935cd12550394f90ab01b40bf2307038471715ec25e6a399545bfe52"
+  ],
+  "distinct_intro_frames": 4,
+  "new_tts_generated": false,
+  "subtitles": false,
+  "artificial_full_frame_shake": false
+}
