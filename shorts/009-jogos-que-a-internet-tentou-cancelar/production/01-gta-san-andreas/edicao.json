@@ -1,7 +1,7 @@
 {
   "duration": 53.4,
   "delivery_fps": 30,
-  "animation_fps": 15,
+  "animation_fps": 30,
   "voice_full": true,
   "voice_speed": 1,
   "voice_pitch_unchanged": true,

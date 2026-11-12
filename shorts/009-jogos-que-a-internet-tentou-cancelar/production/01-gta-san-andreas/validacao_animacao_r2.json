@@ -1,0 +1,46 @@
+{
+  "material_selector_matches_actor_property": true,
+  "ids": {
+    "DERY | animated character": [
+      52,
+      79,
+      76,
+      52,
+      52,
+      74,
+      66,
+      58,
+      35,
+      59,
+      48
+    ],
+    "GTA | Dery lojista": [
+      32,
+      59,
+      56,
+      32,
+      32,
+      59,
+      56,
+      68,
+      45,
+      64,
+      38
+    ]
+  },
+  "affine_interpolation_verified": true,
+  "snap_grid_max_error": 0.000335693359375,
+  "snap_grid": [
+    320,
+    180
+  ],
+  "face_keys_constant": true,
+  "body_fps": 30,
+  "controlled_face_renders": [
+    31,
+    32,
+    33,
+    35,
+    107
+  ]
+}

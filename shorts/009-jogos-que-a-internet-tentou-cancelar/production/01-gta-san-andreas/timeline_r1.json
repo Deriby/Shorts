@@ -1,0 +1,147 @@
+{
+  "title": "Jogos que a internet tentou cancelar",
+  "chapter": "GTA San Andreas",
+  "fps": 15,
+  "frames": 801,
+  "duration": 53.4,
+  "voice_duration": 53.09233560090703,
+  "voice_edited": false,
+  "render_size": [
+    768,
+    432
+  ],
+  "portrait_safe_crop": [
+    262.5,
+    0,
+    243,
+    432
+  ],
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 32,
+      "kind": "monitor",
+      "mood": "gancho",
+      "source": "gameplay_speedrun.mp4",
+      "source_start": 36
+    },
+    {
+      "id": 1,
+      "start": 33,
+      "end": 98,
+      "kind": "host",
+      "mood": "explica",
+      "source": "gameplay_speedrun.mp4",
+      "source_start": 38.1
+    },
+    {
+      "id": 2,
+      "start": 99,
+      "end": 138,
+      "kind": "close",
+      "mood": "cafeteria",
+      "source": "cafe.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 3,
+      "start": 139,
+      "end": 212,
+      "kind": "monitor",
+      "mood": "hot_coffee",
+      "source": "encontro_bar.png",
+      "source_start": 0
+    },
+    {
+      "id": 4,
+      "start": 213,
+      "end": 284,
+      "kind": "archive",
+      "mood": "mod",
+      "source": "gameplay_speedrun.mp4",
+      "source_start": 74
+    },
+    {
+      "id": 5,
+      "start": 285,
+      "end": 328,
+      "kind": "close",
+      "mood": "serio",
+      "source": "cj_classificacao.png",
+      "source_start": 0
+    },
+    {
+      "id": 6,
+      "start": 329,
+      "end": 518,
+      "kind": "shop",
+      "mood": "classificacao_e_lojas",
+      "source": "cj_classificacao.png",
+      "source_start": 0
+    },
+    {
+      "id": 7,
+      "start": 519,
+      "end": 572,
+      "kind": "archive",
+      "mood": "original",
+      "source": "encontro_rua.png",
+      "source_start": 0
+    },
+    {
+      "id": 8,
+      "start": 573,
+      "end": 605,
+      "kind": "game",
+      "mood": "carro",
+      "source": "gameplay_speedrun.mp4",
+      "source_start": 94
+    },
+    {
+      "id": 9,
+      "start": 606,
+      "end": 626,
+      "kind": "photo",
+      "mood": "atropelar",
+      "source": "cj_bug.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 10,
+      "start": 627,
+      "end": 651,
+      "kind": "game",
+      "mood": "gangues",
+      "source": "gameplay_speedrun.mp4",
+      "source_start": 139
+    },
+    {
+      "id": 11,
+      "start": 652,
+      "end": 725,
+      "kind": "close",
+      "mood": "contraste",
+      "source": "encontro_rua.png",
+      "source_start": 0
+    },
+    {
+      "id": 12,
+      "start": 726,
+      "end": 786,
+      "kind": "host",
+      "mood": "cafe_acompanhado",
+      "source": "encontro_rua.png",
+      "source_start": 0
+    },
+    {
+      "id": 13,
+      "start": 787,
+      "end": 801,
+      "kind": "photo",
+      "mood": "punch",
+      "source": "cj_reacao.png",
+      "source_start": 0
+    }
+  ]
+}

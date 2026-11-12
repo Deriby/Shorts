@@ -1,7 +1,7 @@
 {
   "videos": [
     {
-      "file": "GTA_San_Andreas_Cancelar_9x16.mp4",
+      "file": "GTA_San_Andreas_Cancelar_R2_9x16.mp4",
       "resolution": [
         1080,
         1920
@@ -9,10 +9,10 @@
       "fps": 30,
       "frames": 1602,
       "duration": 53.4,
-      "sha256": "591f078af69feea850a168ad41d8980563cfaf7ed43a95e6f1c8778c17f2392d"
+      "sha256": "416e735c6bc7a024984b9420d9aa27970aca1a1db2f719b025aecd6bc1c21ecd"
     },
     {
-      "file": "GTA_San_Andreas_Cancelar_16x9.mp4",
+      "file": "GTA_San_Andreas_Cancelar_R2_16x9.mp4",
       "resolution": [
         1920,
         1080
@@ -20,12 +20,12 @@
       "fps": 30,
       "frames": 1602,
       "duration": 53.4,
-      "sha256": "dbbc3c131056bced20863d74e4629e2112c72cb4ca30e0acdd2e02c8315fb9b4"
+      "sha256": "3c82416e2eb13c29a4350ce1ada0af9af8305d485ae83c6fb3f34841cf0f0445"
     }
   ],
   "projects": [
     {
-      "file": "GTA_San_Andreas_9x16.wfp",
+      "file": "GTA_San_Andreas_R2_9x16.wfp",
       "clips": 27,
       "video_clips": 14,
       "native_titles": 5,
@@ -33,7 +33,7 @@
       "explicit_speed_1x": true
     },
     {
-      "file": "GTA_San_Andreas_16x9.wfp",
+      "file": "GTA_San_Andreas_R2_16x9.wfp",
       "clips": 27,
       "video_clips": 14,
       "native_titles": 5,
@@ -46,9 +46,16 @@
   "timeline_duration": 53.4,
   "crt_unique_samples": 5,
   "host_unique_samples": 6,
-  "actual_blender_frames": 707,
+  "actual_blender_frames": 1414,
   "zip_integrity": true,
-  "bundle_sha256": "644087962b897deb516491e62d16534aa2627f91bfb55a4b5c709b15c41c63ac",
+  "bundle_sha256": "889203ad5b6832fb6b53133ca13604050d814f1bd3702f84efaffb5be661da7c",
   "filmora_native_open_test": false,
-  "whole_frame_shake": false
+  "whole_frame_shake": false,
+  "revision": 2,
+  "controlled_seated_face_pixel_changes": [
+    971,
+    964,
+    986,
+    1187
+  ]
 }

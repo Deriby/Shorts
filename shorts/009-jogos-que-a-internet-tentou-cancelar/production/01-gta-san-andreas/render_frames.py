@@ -2,9 +2,9 @@
 from pathlib import Path
 import bpy,sys,json,hashlib,time
 P=Path(__file__).resolve().parent
-C=Path('/workspace/attachments/jogos_cancelar/frames');C.mkdir(exist_ok=True)
 info=json.loads((P/'timeline.json').read_text());model=P/'output/Dery_GTA_San_Andreas.blend'
-generation=hashlib.sha256(model.read_bytes()+(P/'assets/monitor/monitor_completo.mp4').read_bytes()).hexdigest()
+C=Path(info.get('cache','/workspace/attachments/jogos_cancelar'))/'frames';C.mkdir(parents=True,exist_ok=True)
+generation=hashlib.sha256(model.read_bytes()+(P/info.get('monitor_file','assets/monitor/monitor_completo.mp4')).read_bytes()).hexdigest()
 stamp=C/'source.sha256'
 if stamp.exists():assert stamp.read_text().strip()==generation,'The scene changed: invalidate the old frame cache.'
 else:stamp.write_text(generation+'\n')
@@ -21,7 +21,13 @@ for frame in range(1+worker,info['frames']+1,total):
     dest=C/f'frame_{frame:04d}.png'
     if dest.exists():continue
     s.frame_set(frame);s.camera=bpy.data.objects[s['Production | camera']]
-    bpy.context.view_layer.update();s.render.filepath=str(dest);bpy.ops.render.render(write_still=True)
+    bpy.context.view_layer.update()
+    if info.get('revision',1)>=2:
+        for name in['DERY | animated character','GTA | Dery lojista']:
+            actor=bpy.data.objects[name]
+            selector=actor.data.materials[1].node_tree.nodes['PS1 | face ID'].outputs[0].default_value
+            assert abs(selector-int(actor['PS1_face_id']))<1e-5,(name,frame,selector,actor['PS1_face_id'])
+    s.render.filepath=str(dest);bpy.ops.render.render(write_still=True)
     done+=1
     if done%15==0:print('PROGRESS',worker,frame,done,round(time.monotonic()-start,1),flush=True)
 print('RENDER_WORKER_DONE',worker,done,round(time.monotonic()-start,1),flush=True)

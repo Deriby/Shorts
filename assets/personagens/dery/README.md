@@ -8,6 +8,7 @@
 - [100 novas expressões: 50 para fala, 25 reações e 25 caricatas](expressions_ps1/v3/).
 - [Biblioteca anterior de 31 PNGs, preservada](expressions_ps1/v2/).
 - [Precisão PS1 sem fissuras](ps1_precision.py).
+- [Projeção PSX com UV afim e chaves diretas de expressão em cenas animadas](psx_render.py).
 - [Aplicação e limpeza da roupa atual](roupas/camiseta_preta/).
 
 Preservar a geometria, proporções, rosto e rig desse modelo. A biblioteca v3 acrescenta os IDs 31–130 e mantém os IDs 0–30. Ao reutilizar uma cena dos episódios, atualizar o material pelo instalador v3, mantendo o personagem nela e os procedimentos de roupa/precisão já usados. Os episódios anteriores não foram alterados.

@@ -4,24 +4,24 @@
   "source_unchanged": true,
   "projects": [
     {
-      "project": "GTA_San_Andreas_9x16.wfp",
+      "project": "GTA_San_Andreas_R2_9x16.wfp",
       "format": "9x16",
       "video_clips": 14,
       "native_titles": 5,
       "audio_clips": 8,
       "duration": 53.4,
       "resources": 7,
-      "sha256": "12a2f64643d89c981b222eaecfcb24478c02cd77bd5515b788ebc095f939b461"
+      "sha256": "e0fe7a2ba8bd6b64456bede712693588d0e6068c078623e70d23a6d1bfba8bc7"
     },
     {
-      "project": "GTA_San_Andreas_16x9.wfp",
+      "project": "GTA_San_Andreas_R2_16x9.wfp",
       "format": "16x9",
       "video_clips": 14,
       "native_titles": 5,
       "audio_clips": 8,
       "duration": 53.4,
       "resources": 7,
-      "sha256": "059a778a3eb2c11c804d0bc2dda99361e6ca1033a1983418e761cdb8407cfde8"
+      "sha256": "2726f00f7e912a361f78eda40b677c106fdb5761636fd30bedd7a90bc188123b"
     }
   ],
   "all_media_bundled": true,

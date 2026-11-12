@@ -1,0 +1,59 @@
+{
+  "revision": 2,
+  "fps": 30,
+  "frames": 1602,
+  "duration": 53.4,
+  "source_model": "Dery_GTA_San_Andreas_R1.blend",
+  "source_sha256": "b0978d03eaf415d9d098e97825688561734345f5c57791655f0bef65bafb9a7b",
+  "source_meshes_unchanged": true,
+  "voice_changed": false,
+  "expression_fix": "Material values baked with Constant keys; no object-dependent driver.",
+  "faces": {
+    "DERY | animated character": {
+      "unique_ids": 46,
+      "changes": 548,
+      "material_baked": true
+    },
+    "GTA | Dery lojista": {
+      "unique_ids": 34,
+      "changes": 542,
+      "material_baked": true
+    }
+  },
+  "wrists": {
+    "Dery_Rig R": {
+      "max_wrist_distance": 0.3796765955538473,
+      "arm_length": 0.44119226932525635
+    },
+    "Dery_Rig L": {
+      "max_wrist_distance": 0.3774917251003359,
+      "arm_length": 0.4411969780921936
+    },
+    "GTA | Dery lojista rig R": {
+      "max_wrist_distance": 0.4100000288319287,
+      "arm_length": 0.44104015827178955
+    },
+    "GTA | Dery lojista rig L": {
+      "max_wrist_distance": 0.4100000208816145,
+      "arm_length": 0.4410398602485657
+    }
+  },
+  "projection": {
+    "grid": [
+      320,
+      180
+    ],
+    "uv_layers": [
+      "DeryFacePS1",
+      "DeryLogoChest",
+      "FaceProjection",
+      "UVMap"
+    ],
+    "affine_links": 58,
+    "face_snap_floor": 0.18,
+    "face_affine": 0.7,
+    "method": "perspective(UV*z) / perspective(z) = affine(UV)"
+  },
+  "camera_motion": "slow physical pushes, no shake",
+  "baked_helper_clone_independence_verified": true
+}

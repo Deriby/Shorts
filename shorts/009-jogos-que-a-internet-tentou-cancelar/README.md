@@ -4,10 +4,12 @@ Série em produção para o Massacote Games. O primeiro capítulo é **GTA San A
 
 ## 01 — GTA San Andreas
 
-- [Short 9:16 — download](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/GTA_San_Andreas_Cancelar_9x16.mp4).
-- [Capítulo 16:9 para o longo — download](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/GTA_San_Andreas_Cancelar_16x9.mp4).
-- [Projetos Filmora com mídias — download](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/GTA_San_Andreas_Projetos_Filmora.zip).
-- [Prévia vertical](production/01-gta-san-andreas/output/Previa_Cenas_9x16.jpg) e [prévia horizontal](production/01-gta-san-andreas/output/Previa_Cenas_16x9.jpg).
+**Revisão R2:** corrigida a expressão congelada do Dery sentado, atuação a 30 fps com trajetórias curvas de mãos e sobreposição de tronco/cabeça, texturas com mapeamento afim e vértices arredondados na grade de projeção. [Prévia de 4 segundos da atuação](production/01-gta-san-andreas/output/Previa_R2_Atuacao_4s.mp4).
+
+- [Short 9:16 — download](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/GTA_San_Andreas_Cancelar_R2_9x16.mp4).
+- [Capítulo 16:9 para o longo — download](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/GTA_San_Andreas_Cancelar_R2_16x9.mp4).
+- [Projetos Filmora com mídias — download](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/GTA_San_Andreas_Projetos_Filmora_R2.zip).
+- [Prévia vertical](production/01-gta-san-andreas/output/Previa_Cenas_R2_9x16.jpg) e [prévia horizontal](production/01-gta-san-andreas/output/Previa_Cenas_R2_16x9.jpg).
 - [Roteiro de animação sobre a voz](production/01-gta-san-andreas/roteiro_animacao.md).
 - [Blender editável](production/01-gta-san-andreas/output/Dery_GTA_San_Andreas.blend).
 - [Produção, fontes e verificações](production/01-gta-san-andreas/).
@@ -16,16 +18,20 @@ Os dois vídeos têm **53,4 segundos**, em 1080×1920 e 1920×1080, 30 fps. A gr
 
 ## Edição e projetos
 
-O pacote inclui **dois WFPs**, vertical e horizontal, as respectivas bases silenciosas, voz, trilha baixa e sons separados. Os cortes, zooms e títulos nativos ficam editáveis. Extraia tudo antes de abrir e mantenha `midias/` ao lado dos projetos. A fonte Baloo 2 com licença OFL acompanha o pacote.
+O pacote **R2** inclui **dois WFPs**, vertical e horizontal, as respectivas bases silenciosas, voz, trilha baixa e sons separados. Os cortes, zooms e títulos nativos ficam editáveis. Extraia tudo antes de abrir e mantenha `midias/` ao lado dos projetos. A fonte Baloo 2 com licença OFL acompanha o pacote.
 
 A referência de estilo é a edição concluída pelo usuário na produção 20 de “Personagens que a internet estragou”: títulos amarelos com contorno, enquadramentos pela fala, sons pontuais e Glow localizado nos títulos. Não há oscilação artificial da tela. A estrutura dos projetos é verificada por código; **o Filmora não foi executado no Linux**, portanto a abertura e a aparência dos plugins nativos devem ser conferidas na instalação do usuário. Os MP4s foram compostos/exportados neste ambiente, com aproximação dos elementos de edição; não são exports do renderizador proprietário do Filmora.
 
 ## Visual e atuação
 
-Foi reutilizado o Dery original, com camiseta preta/M e as 131 expressões PNG. As bocas mudam por troca seca de textura e respondem à energia da gravação; isso é animação estilizada, não alinhamento fonético automático. Os braços usam gestos assimétricos com pausa e retorno, e as caretas pontuam a piada. A estante, o balcão e o armário criam duas vinhetas fora do quarto, ligadas à história.
+Foi reutilizado o Dery original, com camiseta preta/M e as 131 expressões PNG. Na primeira versão, a propriedade do rosto mudava, mas o material do Dery sentado permanecia no índice neutro 31. Na R2, os índices são gravados diretamente na animação de cada material, com interpolação Constant e controle independente por personagem. Há verificação de igualdade entre índice pedido e aplicado, além de renders de boca fechada, A, E, O e careta com câmera/pose fixas. A validação anterior de movimento do quadro inteiro não detectava esse erro.
 
-O render 3D usa 768×432/15 fps e composição central planejada para o 9:16. A edição adapta os inserts, os zooms e os textos para cada formato. A ampliação Nearest, a paleta RGB555 com dithering fixo e a precisão geométrica de câmera mantêm a aparência PS1 nítida, sem filtro borrado ou glitch. Renders intermediários e ASR ficam fora do Git.
+As bocas mudam por troca seca de textura, usando energia e características espectrais da voz como guia; isso é animação estilizada, não alinhamento fonético automático. As formas da boca mantêm poses breves a 15 Hz, enquanto o corpo tem 30 quadros de movimento por segundo. Os braços usam arcos diferentes por frase, preparação, sustentação e retorno; pequenas mudanças de tronco, pescoço e cabeça se sobrepõem. O alcance dos punhos fica dentro do comprimento dos braços, sem esticar a malha. As pernas e a posição da cadeira permanecem preservadas. A estante, o balcão e o armário criam duas vinhetas fora do quarto, ligadas à história.
 
-O Blender tem as imagens incorporadas; o vídeo do CRT é uma dependência externa em `production/01-gta-san-andreas/assets/monitor/monitor_completo.mp4`. Para editar a cena, mantenha essa organização ou clone com Git LFS. O WFP utiliza os renders já compostos: alterar a atuação ou o conteúdo 3D do CRT exige retornar ao Blender.
+O render 3D usa 768×432/30 fps e composição central planejada para o 9:16. A edição adapta os inserts, os zooms e os textos para cada formato. A ampliação Nearest e a paleta RGB555 com dithering fixo mantêm a imagem nítida. A grade de projeção de 320×180 produz o vertex snapping; os vértices coincidentes recebem os mesmos pesos para preservar as junções. Há arredondamento mais suave no centro do rosto, conservando a leitura das expressões.
+
+O texture warping usa **interpolação afim de UV por triângulo**: a geometria guarda `UV × profundidade` e `profundidade` nos cantos e o material divide os valores interpolados. Isso remove a correção de perspectiva da textura, em vez de adicionar ruído/deslocamento aleatório de UV. O efeito tem intensidade menor no rosto. Leves aproximações físicas da câmera dão movimento aos vértices e às texturas; não há oscilação artificial da tela, filtro borrado ou glitch. A fórmula de interpolação e o alinhamento dos vértices à grade são verificados em `validacao_animacao_r2.json`. Renders intermediários e ASR ficam fora do Git.
+
+O Blender tem as imagens incorporadas; o vídeo do CRT é uma dependência externa em `production/01-gta-san-andreas/assets/monitor/monitor_completo_r2.mp4`. Para editar a cena, mantenha essa organização ou clone com Git LFS. O WFP utiliza os renders já compostos: alterar a atuação ou o conteúdo 3D do CRT exige retornar ao Blender. A base R1 está preservada em `Dery_GTA_San_Andreas_R1.blend` e `timeline_r1.json`; `revise_animation.py` gera a R2 a partir desses arquivos. A voz, os cortes e a duração de 53,4 s são mantidos.
 
 As fontes recebidas, seus nomes e hashes estão em `recebimento.json`. A música de fundo vem do áudio do showcase enviado, em volume baixo e com redução durante a fala. Os efeitos curtos de interface/reação foram sintetizados para esta edição. Não foram publicados o ZIP bruto, a referência pessoal de gestos ou imagens do minigame adulto.

@@ -4,18 +4,21 @@ import subprocess,json,argparse,math,hashlib
 import numpy as np
 from PIL import Image,ImageOps,ImageDraw,ImageFont
 
-P=Path(__file__).resolve().parent;C=Path('/workspace/attachments/jogos_cancelar');A=P/'assets'
+P=Path(__file__).resolve().parent;A=P/'assets'
 info=json.loads((P/'timeline.json').read_text());edit=json.loads((P/'edicao.json').read_text())
-FPS=info['fps'];W,H=768,432;OUT=P/'output';MEDIA=OUT/'Filmora/midias';MEDIA.mkdir(parents=True,exist_ok=True)
+C=Path(info.get('cache','/workspace/attachments/jogos_cancelar'))
+FPS=info['fps'];W,H=768,432;OUT=P/'output';TAG='_R2'if info.get('revision',1)>=2 else''
+MEDIA=OUT/('Filmora'+TAG)/'midias';MEDIA.mkdir(parents=True,exist_ok=True)
 parser=argparse.ArgumentParser();parser.add_argument('--wide',action='store_true');args=parser.parse_args()
 wide=args.wide;suffix='16x9'if wide else'9x16';NW,NH=(W,H)if wide else(243,432);OW,OH=(1920,1080)if wide else(1080,1920)
 frames=C/'frames';missing=[f for sh in info['shots']if sh['kind']not in['game','photo']for f in range(sh['start'],sh['end']+1)if not(frames/f'frame_{f:04d}.png').exists()]
 assert not missing,missing[:10]
-assert (frames/'source.sha256').read_text().strip()==hashlib.sha256((OUT/'Dery_GTA_San_Andreas.blend').read_bytes()+(A/'monitor/monitor_completo.mp4').read_bytes()).hexdigest()
+movie=P/info.get('monitor_file','assets/monitor/monitor_completo.mp4')
+assert (frames/'source.sha256').read_text().strip()==hashlib.sha256((OUT/'Dery_GTA_San_Andreas.blend').read_bytes()+movie.read_bytes()).hexdigest()
 
 # Decode the already selected/normalized monitor edit once. These source frames
 # also supply the two full-screen gameplay cuts, keeping the timing consistent.
-decoder=subprocess.Popen(['ffmpeg','-v','error','-threads','1','-i',str(A/'monitor/monitor_completo.mp4'),
+decoder=subprocess.Popen(['ffmpeg','-v','error','-threads','1','-i',str(movie),
                          '-f','rawvideo','-pix_fmt','rgb24','-threads','1','pipe:1'],stdout=subprocess.PIPE)
 read_size=480*270*3
 game_frames={}
@@ -26,7 +29,7 @@ for f in range(1,info['frames']+1):
     if sh['kind']=='game':game_frames[f]=Image.frombytes('RGB',(480,270),b)
 decoder.stdout.close();assert decoder.wait()==0
 
-basefile=MEDIA/f'GTA_base_{suffix}.mp4';finalfile=OUT/f'GTA_San_Andreas_Cancelar_{suffix}.mp4'
+basefile=MEDIA/f'GTA_base{TAG}_{suffix}.mp4';finalfile=OUT/f'GTA_San_Andreas_Cancelar{TAG}_{suffix}.mp4'
 base_cmd=['ffmpeg','-v','error','-y','-filter_threads','1','-f','rawvideo','-pix_fmt','rgb24','-s',f'{NW}x{NH}','-r',str(FPS),'-i','pipe:0',
           '-an','-vf',f'scale={OW}:{OH}:flags=neighbor,fps=30','-c:v','libx264','-threads','2','-preset','veryfast','-crf','18','-pix_fmt','yuv420p','-movflags','+faststart',str(basefile)]
 final_cmd=['ffmpeg','-v','error','-y','-filter_threads','1','-f','rawvideo','-pix_fmt','rgb24','-s',f'{OW}x{OH}','-r',str(FPS),'-i','pipe:0',

@@ -8,11 +8,12 @@ import json,zipfile,copy,uuid,base64,hashlib,subprocess,shutil,struct,wave
 from PIL import ImageFont
 
 P=Path(__file__).resolve().parent;REPO=next(p for p in P.parents if(p/'AGENTS.md').exists())
-OUT=P/'output/Filmora';MEDIA=OUT/'midias';MEDIA.mkdir(parents=True,exist_ok=True)
 SOURCE=REPO/'shorts/008-personagens-que-a-internet-estragou/production/20-edicao-final-usuario/Massacote_EDICAO_FINAL_USUARIO.wfp'
 EXPECTED='5a9d4617a2bc34416087e1125230764d5dea7980b5011c186ebe576648748fbc'
 ROOT='{204E72A3-B517-44d4-806F-9E9D84D5F904}';TL=f'ProjectFolder/Medias/{ROOT}/timeline.wesproj'
 info=json.loads((P/'timeline.json').read_text());ed=json.loads((P/'edicao.json').read_text());TICKS=10000000
+TAG='_R2'if info.get('revision',1)>=2 else''
+OUT=P/'output'/('Filmora'+TAG);MEDIA=OUT/'midias';MEDIA.mkdir(parents=True,exist_ok=True)
 def uid():return str(uuid.uuid4())
 def ticks(t):return round(t*TICKS)
 def dump(v):return json.dumps(v,ensure_ascii=False,separators=(',',':')).encode()
@@ -124,12 +125,12 @@ def title_clip(title,wide):
 
 manifest=[]
 for wide in [False,True]:
-    suffix='16x9'if wide else'9x16';project_name=f'GTA_San_Andreas_{suffix}'
+    suffix='16x9'if wide else'9x16';project_name=f'GTA_San_Andreas{TAG}_{suffix}'
     main=copy.deepcopy(source_main);main.update(resolutionWidth=1920 if wide else 1080,resolutionHeight=1080 if wide else 1920,
         aspectRatioX=16 if wide else 9,aspectRatioY=9 if wide else 16,frameRate={'num':60,'den':1})
     for track in main['trackInfos']:track['clipList']=[]
     resources=[]
-    take,total=resource(MEDIA/f'GTA_base_{suffix}.mp4',video_resource_proto);resources.append(take)
+    take,total=resource(MEDIA/f'GTA_base{TAG}_{suffix}.mp4',video_resource_proto);resources.append(take)
     for sh,edit in zip(info['shots'],ed['edits']):
         c=copy.deepcopy(video_proto)
         for key in ['postTransition','preTransition','stabilization','stabilizeAnalysisData','face_cluster','image_denoise']:c.pop(key,None)
@@ -198,7 +199,7 @@ proprietário do Filmora não foi executado no Linux. A abertura e a aparência
 nativa dos plugins devem ser conferidas na sua instalação do Filmora.
 '''
 (OUT/'LEIA_PRIMEIRO.txt').write_text(instructions)
-bundle=P/'output/GTA_San_Andreas_Projetos_Filmora.zip'
+bundle=P/f'output/GTA_San_Andreas_Projetos_Filmora{TAG}.zip'
 with zipfile.ZipFile(bundle,'w',zipfile.ZIP_DEFLATED,allowZip64=True)as z:
     for p in OUT.rglob('*'):
         if p.is_file():z.write(p,str(p.relative_to(OUT)),compress_type=zipfile.ZIP_STORED if p.suffix in['.mp4','.ttf']else zipfile.ZIP_DEFLATED)

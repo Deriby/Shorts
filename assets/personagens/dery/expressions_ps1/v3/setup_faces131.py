@@ -10,6 +10,15 @@ def install(avatar):
     if 'DeryFacePS1' not in mesh.uv_layers or any(n not in mesh.color_attributes for n in required):
         raise ValueError('Use the original Dery with the reviewed v2 face fitting. No mesh fitting is performed here.')
     source=mesh.materials[1]
+    if source.get('PSXFaceBaked'):
+        # Production scenes can bake the selector directly on the material.
+        # Do not silently add an object driver on top of that animation.
+        if source.users>1:
+            copied=source.copy();mesh.materials[1]=copied
+            if copied.node_tree.animation_data and copied.node_tree.animation_data.action:
+                copied.node_tree.animation_data.action=copied.node_tree.animation_data.action.copy()
+            return copied
+        return source
     if source.get('DeryExpressionVersion')==3:
         node=source.node_tree.nodes.get('PS1 | face ID')
         curve=node.outputs[0].driver_add('default_value')
@@ -83,6 +92,15 @@ def install(avatar):
 def set_face(avatar, face_id, frame=None):
     if not 0 <= int(face_id) <= 130: raise ValueError('Face ID must be 0–130')
     avatar['PS1_face_id']=int(face_id)
+    material=avatar.data.materials[1]
+    baked=bool(material and material.get('PSXFaceBaked'))
+    if baked:
+        socket=material.node_tree.nodes['PS1 | face ID'].outputs[0]
+        socket.default_value=int(face_id)
+        if frame is not None:
+            socket.keyframe_insert('default_value',frame=frame)
+            for curve in material.node_tree.animation_data.action.fcurves:
+                for key in curve.keyframe_points:key.interpolation='CONSTANT'
     avatar.update_tag()
     if frame is not None:
         avatar.keyframe_insert(data_path='["PS1_face_id"]',frame=frame)

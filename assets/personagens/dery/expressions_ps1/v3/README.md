@@ -40,6 +40,8 @@ set_face(avatar, 31, frame=5)  # insere chaves Constant
 
 O instalador copia o material revisado, mantém a pele/nariz e a iluminação limpa, retargeta o driver para o personagem selecionado e troca o atlas. Não refaz malha ou UVs e recusa uma base desconhecida. A limpeza antiga sob os olhos continua nos IDs originais; não apaga a parte inferior dos olhos grandes nem as lágrimas dos desenhos novos. Ao usar um novo enquadramento, configure `ps1_precision.py` com a câmera e a resolução da produção.
 
+Em cenas animadas que usam o modo `PSXFaceBaked`, o índice também é gravado diretamente no material, com chaves Constant, para evitar o caso de a propriedade mudar sem o rosto renderizado acompanhar. `set_face` atualiza o objeto e o material nesse modo; `install` conserva as chaves e separa ações quando o material é duplicado. O instalador padrão da biblioteca estática continua disponível. A produção 009 registra testes do índice efetivo e renders de boca com pose/câmera fixas. O módulo reutilizável fica em [`psx_render.py`](../../psx_render.py).
+
 ## Arte e verificação
 
 Quatro folhas novas foram desenhadas com `image_gen`, usando as expressões originais como referência. `prepare_library.py` apenas recorta as células uniformes, reduz para 128×128 com **Nearest**, registra os nomes e monta o atlas 16×9 de 2048×1152. Não suaviza os rostos nem redesenha os 31 PNGs antigos. As fontes ficam em `sources/`.

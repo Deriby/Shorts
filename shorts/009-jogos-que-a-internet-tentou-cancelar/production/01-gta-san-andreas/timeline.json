@@ -1,8 +1,8 @@
 {
   "title": "Jogos que a internet tentou cancelar",
   "chapter": "GTA San Andreas",
-  "fps": 15,
-  "frames": 801,
+  "fps": 30,
+  "frames": 1602,
   "duration": 53.4,
   "voice_duration": 53.09233560090703,
   "voice_edited": false,
@@ -20,7 +20,7 @@
     {
       "id": 0,
       "start": 1,
-      "end": 32,
+      "end": 64,
       "kind": "monitor",
       "mood": "gancho",
       "source": "gameplay_speedrun.mp4",
@@ -28,8 +28,8 @@
     },
     {
       "id": 1,
-      "start": 33,
-      "end": 98,
+      "start": 65,
+      "end": 196,
       "kind": "host",
       "mood": "explica",
       "source": "gameplay_speedrun.mp4",
@@ -37,8 +37,8 @@
     },
     {
       "id": 2,
-      "start": 99,
-      "end": 138,
+      "start": 197,
+      "end": 276,
       "kind": "close",
       "mood": "cafeteria",
       "source": "cafe.jpg",
@@ -46,8 +46,8 @@
     },
     {
       "id": 3,
-      "start": 139,
-      "end": 212,
+      "start": 277,
+      "end": 424,
       "kind": "monitor",
       "mood": "hot_coffee",
       "source": "encontro_bar.png",
@@ -55,8 +55,8 @@
     },
     {
       "id": 4,
-      "start": 213,
-      "end": 284,
+      "start": 425,
+      "end": 568,
       "kind": "archive",
       "mood": "mod",
       "source": "gameplay_speedrun.mp4",
@@ -64,8 +64,8 @@
     },
     {
       "id": 5,
-      "start": 285,
-      "end": 328,
+      "start": 569,
+      "end": 656,
       "kind": "close",
       "mood": "serio",
       "source": "cj_classificacao.png",
@@ -73,8 +73,8 @@
     },
     {
       "id": 6,
-      "start": 329,
-      "end": 518,
+      "start": 657,
+      "end": 1036,
       "kind": "shop",
       "mood": "classificacao_e_lojas",
       "source": "cj_classificacao.png",
@@ -82,8 +82,8 @@
     },
     {
       "id": 7,
-      "start": 519,
-      "end": 572,
+      "start": 1037,
+      "end": 1144,
       "kind": "archive",
       "mood": "original",
       "source": "encontro_rua.png",
@@ -91,8 +91,8 @@
     },
     {
       "id": 8,
-      "start": 573,
-      "end": 605,
+      "start": 1145,
+      "end": 1210,
       "kind": "game",
       "mood": "carro",
       "source": "gameplay_speedrun.mp4",
@@ -100,8 +100,8 @@
     },
     {
       "id": 9,
-      "start": 606,
-      "end": 626,
+      "start": 1211,
+      "end": 1252,
       "kind": "photo",
       "mood": "atropelar",
       "source": "cj_bug.jpg",
@@ -109,8 +109,8 @@
     },
     {
       "id": 10,
-      "start": 627,
-      "end": 651,
+      "start": 1253,
+      "end": 1302,
       "kind": "game",
       "mood": "gangues",
       "source": "gameplay_speedrun.mp4",
@@ -118,8 +118,8 @@
     },
     {
       "id": 11,
-      "start": 652,
-      "end": 725,
+      "start": 1303,
+      "end": 1450,
       "kind": "close",
       "mood": "contraste",
       "source": "encontro_rua.png",
@@ -127,8 +127,8 @@
     },
     {
       "id": 12,
-      "start": 726,
-      "end": 786,
+      "start": 1451,
+      "end": 1572,
       "kind": "host",
       "mood": "cafe_acompanhado",
       "source": "encontro_rua.png",
@@ -136,12 +136,15 @@
     },
     {
       "id": 13,
-      "start": 787,
-      "end": 801,
+      "start": 1573,
+      "end": 1602,
       "kind": "photo",
       "mood": "punch",
       "source": "cj_reacao.png",
       "source_start": 0
     }
-  ]
+  ],
+  "monitor_file": "assets/monitor/monitor_completo_r2.mp4",
+  "cache": "/workspace/attachments/jogos_cancelar_r2",
+  "revision": 2
 }
