@@ -1,6 +1,6 @@
 # Jogos que a internet tentou cancelar
 
-Série em produção para o Massacote Games. O primeiro capítulo é **GTA San Andreas / Hot Coffee**, com a voz e as mídias enviadas pelo usuário. Os outros jogos serão definidos depois; esta entrega não é o vídeo longo completo.
+Série em produção para o Massacote Games. Os capítulos **GTA San Andreas / Hot Coffee** e **BMX XXX** usam a voz e as mídias enviadas pelo usuário. Os capítulos MP4 16:9 ficam preparados para a montagem futura; o projeto Filmora do longo será feito com todos os jogos apenas no final.
 
 ## 01 — GTA San Andreas
 
@@ -16,7 +16,18 @@ Série em produção para o Massacote Games. O primeiro capítulo é **GTA San A
 
 Os dois vídeos têm **53,4 segundos**, em 1080×1920 e 1920×1080, 30 fps. A gravação inteira, de aproximadamente 53,09 segundos, foi preservada. Não foi criada outra voz, nem foram cortadas frases. O pequeno respiro final permite encaixar o capítulo seguinte.
 
-## Edição e projetos
+## 02 — BMX XXX
+
+Short com a voz integral, atuação PSX da R2 adaptada à nova fala, vinheta dos três X, recusa das lojas, cartões dos consoles e duas rodas escapando no final.
+
+- [Short 9:16 — download](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/BMX_XXX_Cancelar_9x16.mp4).
+- [Projeto Filmora 9:16 com mídias — download](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/BMX_XXX_Filmora.zip).
+- [Capítulo MP4 16:9 — download](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/BMX_XXX_Cancelar_16x9.mp4).
+- [Roteiro de animação](production/02-bmx-xxx/roteiro_animacao.md), [Blender](production/02-bmx-xxx/output/Dery_BMX_XXX.blend) e [produção/verificações](production/02-bmx-xxx/).
+
+43,967 segundos, 30 fps. **Somente WFP 9:16 nesta entrega**, conforme a instrução mais recente. O Filmora não foi executado no Linux; recursos, duração, velocidade e integridade são verificados por código.
+
+## Edição e projetos do GTA
 
 O pacote **R2** inclui **dois WFPs**, vertical e horizontal, as respectivas bases silenciosas, voz, trilha baixa e sons separados. Os cortes, zooms e títulos nativos ficam editáveis. Extraia tudo antes de abrir e mantenha `midias/` ao lado dos projetos. A fonte Baloo 2 com licença OFL acompanha o pacote.
 

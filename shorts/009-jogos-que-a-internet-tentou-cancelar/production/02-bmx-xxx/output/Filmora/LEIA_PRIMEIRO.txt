@@ -1,0 +1,17 @@
+BMX XXX — JOGOS QUE A INTERNET TENTOU CANCELAR
+
+Extraia o ZIP inteiro antes de abrir. Há somente o projeto 9:16, com mídias em
+midias/. Se o Filmora pedir uma fonte de vídeo/áudio, localize-a nessa pasta.
+O projeto do vídeo longo 16:9 será montado ao final com todos os jogos. A fonte Baloo 2 e a licença estão
+em fontes/; ela já aparece no seu estilo anterior.
+
+Cortes, zooms com keyframes, títulos nativos, voz, trilha e efeitos sonoros
+ficam separados e editáveis. O vídeo-base está sem áudio; a voz inteira está
+na faixa própria. A animação e o conteúdo dentro do CRT foram renderizados
+no Blender; para alterar essa atuação use o projeto Blender da produção.
+
+O estilo usa como fonte seu projeto de edição concluído: tipografia, contorno,
+Glow nos títulos e reenquadramentos pela fala. Não há tremido global.
+Os MP4s entregues são composições exportadas neste ambiente; o renderizador
+proprietário do Filmora não foi executado no Linux. A abertura e a aparência
+nativa dos plugins devem ser conferidas na sua instalação do Filmora.

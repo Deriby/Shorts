@@ -16,7 +16,7 @@
 
 ## Atuação e visual
 
-Dery original com camiseta preta e M amarelo, sem mudar malha, UVs, proporções ou posição na cadeira. Foram usadas 47 expressões ao longo da gravação, com bocas classificadas pela energia/espectro do áudio e poses breves a 15 Hz. É uma atuação estilizada guiada pela voz, não um alinhamento fonético manual. O corpo tem movimento a 30 fps: arcos de mãos independentes, alcance limitado, preparação, pausa e retorno, com pequenas sobreposições de tronco e cabeça. As mãos preservam o rig original.
+Dery original com camiseta preta e M amarelo, sem mudar malha, UVs, proporções ou posição na cadeira. Os canais de rosto usam 47 IDs ao longo da gravação, com bocas classificadas pela energia/espectro do áudio e poses breves a 15 Hz. É uma atuação estilizada guiada pela voz, não um alinhamento fonético manual. O corpo tem movimento a 30 fps: arcos de mãos independentes, alcance limitado, preparação, pausa e retorno, com pequenas sobreposições de tronco e cabeça. As mãos preservam o rig original.
 
 O quarto, balcão e estante vêm do banco já montado e aprovado no capítulo do GTA. A câmera e o mesmo grupo de projeção PSX foram preservados: UV afim por triângulo, vertex snapping em grade 320×180, texturas Closest e intensidade menor no centro do rosto. A saída usa paleta RGB555/dithering fixo e ampliação Nearest. Sem borrão, glitch ou oscilação global da tela. As expressões são gravadas diretamente no material com chaves Constant, conferindo o seletor realmente aplicado.
 

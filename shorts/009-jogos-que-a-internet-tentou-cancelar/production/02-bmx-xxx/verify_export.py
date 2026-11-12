@@ -92,8 +92,10 @@ for suffix in ['9x16','16x9']:
     sheet.save(OUT/f'Previa_Cenas{TAG}_{suffix}.jpg',quality=94)
 record=dict(videos=videos,projects=projects,full_voice_pcm_preserved=True,voice_duration=source_frames/sr,
             timeline_duration=info['duration'],crt_unique_samples=len(set(crt)),host_unique_samples=len(set(host)),
-            actual_blender_frames=len(list(frames.glob('frame_*.png'))),zip_integrity=True,bundle_sha256=sha(bundle),
+            composited_3d_frames=len(list(frames.glob('frame_*.png'))),
+            held_graphic_frames=sum(1 for sh in info['shots']if sh['kind']=='archive'for f in range(sh['start'],sh['end']+1)if(f-sh['start'])%3),
+            actual_blender_frames=sum(1 for sh in info['shots']if sh['kind']not in['photo','game']for f in range(sh['start'],sh['end']+1)if sh['kind']!='archive'or(f-sh['start'])%3==0),zip_integrity=True,bundle_sha256=sha(bundle),
             filmora_native_open_test=False,whole_frame_shake=False,revision=info.get('revision',1),
             controlled_seated_face_pixel_changes=face_changes)
 (P/'validacao.json').write_text(json.dumps(record,ensure_ascii=False,indent=2)+'\n')
-print('GTA_DELIVERY_VALIDATED',json.dumps(record,ensure_ascii=False),flush=True)
+print('BMX_DELIVERY_VALIDATED',json.dumps(record,ensure_ascii=False),flush=True)
