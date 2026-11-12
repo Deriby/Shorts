@@ -1,0 +1,31 @@
+{
+  "source": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/Dery_GTA_San_Andreas.blend",
+  "source_sha256": "5f7cc12abe2e0cfe3c94acbcb89597b4554f63dc5ddfc5aa6afba2024a564031",
+  "source_unchanged": true,
+  "meshes_unchanged": true,
+  "fps": 30,
+  "frames": 1319,
+  "faces": {
+    "DERY | animated character": {
+      "unique_ids": 47,
+      "changes": 413,
+      "material_baked": true
+    },
+    "GTA | Dery lojista": {
+      "unique_ids": 47,
+      "changes": 413,
+      "material_baked": true
+    }
+  },
+  "max_wrist_reach": {
+    "Dery_Rig R": 0.3774917311139744,
+    "Dery_Rig L": 0.3774917251003359,
+    "GTA | Dery lojista rig R": 0.4100000254246512,
+    "GTA | Dery lojista rig L": 0.4100000140670594
+  },
+  "psx_group": "PSX | snapped vertices + affine UVs",
+  "filmora_formats": [
+    "9:16"
+  ],
+  "long_project_deferred": true
+}

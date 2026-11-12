@@ -1,0 +1,105 @@
+{
+  "title": "Jogos que a internet tentou cancelar",
+  "chapter": "BMX XXX",
+  "fps": 30,
+  "frames": 1319,
+  "duration": 43.96666666666667,
+  "voice_duration": 43.64972789115646,
+  "voice_edited": false,
+  "revision": 2,
+  "monitor_file": "assets/monitor/monitor_completo.mp4",
+  "cache": "/workspace/attachments/bmx_xxx",
+  "render_size": [
+    768,
+    432
+  ],
+  "portrait_safe_crop": [
+    262.5,
+    0,
+    243,
+    432
+  ],
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 85,
+      "kind": "monitor",
+      "mood": "gancho",
+      "source": "bmx_gameplay.mp4",
+      "source_start": 6
+    },
+    {
+      "id": 1,
+      "start": 86,
+      "end": 224,
+      "kind": "host",
+      "mood": "apresentacao",
+      "source": "bmx_gameplay.mp4",
+      "source_start": 9
+    },
+    {
+      "id": 2,
+      "start": 225,
+      "end": 344,
+      "kind": "game",
+      "mood": "manobras",
+      "source": "bmx_gameplay.mp4",
+      "source_start": 53
+    },
+    {
+      "id": 3,
+      "start": 345,
+      "end": 438,
+      "kind": "shop",
+      "mood": "ideia_genial",
+      "source": "bmx_gameplay.mp4",
+      "source_start": 26
+    },
+    {
+      "id": 4,
+      "start": 439,
+      "end": 583,
+      "kind": "photo",
+      "mood": "mudanca_de_tom",
+      "source": "censurado.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 5,
+      "start": 584,
+      "end": 782,
+      "kind": "shop",
+      "mood": "recusa_das_lojas",
+      "source": "capa.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 6,
+      "start": 783,
+      "end": 1036,
+      "kind": "archive",
+      "mood": "plataformas",
+      "source": "capa.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 7,
+      "start": 1037,
+      "end": 1187,
+      "kind": "game",
+      "mood": "duas_rodas",
+      "source": "bmx_gameplay.mp4",
+      "source_start": 74
+    },
+    {
+      "id": 8,
+      "start": 1188,
+      "end": 1319,
+      "kind": "shop",
+      "mood": "punch",
+      "source": "bmx_gameplay.mp4",
+      "source_start": 80
+    }
+  ]
+}

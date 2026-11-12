@@ -1,0 +1,180 @@
+{
+  "duration": 43.96666666666667,
+  "delivery_fps": 30,
+  "animation_fps": 30,
+  "voice_full": true,
+  "voice_speed": 1,
+  "voice_pitch_unchanged": true,
+  "mix_gain": 1,
+  "music_source": "Original quiet retro synth notes; narration ducking",
+  "sfx": [
+    {
+      "start": 12.8,
+      "file": "ui_desbloqueio.wav"
+    },
+    {
+      "start": 14.0,
+      "file": "plop_comico.wav"
+    },
+    {
+      "start": 20.2,
+      "file": "selo_ao.wav"
+    },
+    {
+      "start": 22.8,
+      "file": "caixas.wav"
+    },
+    {
+      "start": 28.1,
+      "file": "ui_desbloqueio.wav"
+    },
+    {
+      "start": 42.2,
+      "file": "plop_comico.wav"
+    }
+  ],
+  "titles": [
+    {
+      "start": 0,
+      "end": 2.84,
+      "text": "BMX XXX",
+      "y": 0.84
+    },
+    {
+      "start": 3.7,
+      "end": 5.7,
+      "text": "2002",
+      "y": 0.84
+    },
+    {
+      "start": 11.6,
+      "end": 14.6,
+      "text": "IDEIA “GENIAL”",
+      "y": 0.84
+    },
+    {
+      "start": 19.5,
+      "end": 21.2,
+      "text": "DEU RUIM...",
+      "y": 0.84
+    },
+    {
+      "start": 42.0,
+      "end": 43.96666666666667,
+      "text": "DUAS RODAS...",
+      "y": 0.85
+    }
+  ],
+  "edits": [
+    {
+      "shot": 0,
+      "start": 0.0,
+      "end": 2.8333333333333335,
+      "zoom_start": 1.0,
+      "zoom_end": 1.0,
+      "portrait_zoom_end": 1.0,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 1,
+      "start": 2.8333333333333335,
+      "end": 7.466666666666667,
+      "zoom_start": 1.0,
+      "zoom_end": 1.07,
+      "portrait_zoom_end": 1.045,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 2,
+      "start": 7.466666666666667,
+      "end": 11.466666666666667,
+      "zoom_start": 1.0,
+      "zoom_end": 1.035,
+      "portrait_zoom_end": 1.035,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 3,
+      "start": 11.466666666666667,
+      "end": 14.6,
+      "zoom_start": 1.0,
+      "zoom_end": 1.05,
+      "portrait_zoom_end": 1.045,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 4,
+      "start": 14.6,
+      "end": 19.433333333333334,
+      "zoom_start": 1.0,
+      "zoom_end": 1.08,
+      "portrait_zoom_end": 1.045,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 5,
+      "start": 19.433333333333334,
+      "end": 26.066666666666666,
+      "zoom_start": 1.0,
+      "zoom_end": 1.05,
+      "portrait_zoom_end": 1.045,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 6,
+      "start": 26.066666666666666,
+      "end": 34.53333333333333,
+      "zoom_start": 1.0,
+      "zoom_end": 1.045,
+      "portrait_zoom_end": 1.045,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 7,
+      "start": 34.53333333333333,
+      "end": 39.56666666666667,
+      "zoom_start": 1.0,
+      "zoom_end": 1.035,
+      "portrait_zoom_end": 1.035,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 8,
+      "start": 39.56666666666667,
+      "end": 43.96666666666667,
+      "zoom_start": 1.0,
+      "zoom_end": 1.05,
+      "portrait_zoom_end": 1.045,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    }
+  ],
+  "whole_frame_shake": false,
+  "subtitles": false
+}
