@@ -1,0 +1,62 @@
+{
+  "neutra": {
+    "fechada_mbp": 31,
+    "aberta_a": 32,
+    "larga_e": 33,
+    "estreita_i": 34,
+    "redonda_o": 35,
+    "pequena_u": 56,
+    "labio_fv": 57,
+    "lingua_l": 58,
+    "entreaberta_dtn": 59,
+    "bico_ch": 60
+  },
+  "alegre": {
+    "fechada_mbp": 36,
+    "aberta_a": 37,
+    "larga_e": 38,
+    "estreita_i": 39,
+    "redonda_o": 40,
+    "pequena_u": 61,
+    "labio_fv": 62,
+    "lingua_l": 63,
+    "entreaberta_dtn": 64,
+    "bico_ch": 65
+  },
+  "irritada": {
+    "fechada_mbp": 41,
+    "aberta_a": 42,
+    "larga_e": 43,
+    "estreita_i": 44,
+    "redonda_o": 45,
+    "pequena_u": 66,
+    "labio_fv": 67,
+    "lingua_l": 68,
+    "entreaberta_dtn": 69,
+    "bico_ch": 70
+  },
+  "sarcastica": {
+    "fechada_mbp": 46,
+    "aberta_a": 47,
+    "larga_e": 48,
+    "estreita_i": 49,
+    "redonda_o": 50,
+    "pequena_u": 71,
+    "labio_fv": 72,
+    "lingua_l": 73,
+    "entreaberta_dtn": 74,
+    "bico_ch": 75
+  },
+  "empolgada": {
+    "fechada_mbp": 51,
+    "aberta_a": 52,
+    "larga_e": 53,
+    "estreita_i": 54,
+    "redonda_o": 55,
+    "pequena_u": 76,
+    "labio_fv": 77,
+    "lingua_l": 78,
+    "entreaberta_dtn": 79,
+    "bico_ch": 80
+  }
+}

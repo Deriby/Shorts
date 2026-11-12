@@ -2,13 +2,15 @@
 
 **Modelo ativo: o mesmo Dery usado nos shorts já produzidos.** O usuário encerrou a tentativa de substituição e escolheu continuar com esse personagem.
 
-- [Blender com rig, camiseta preta e M amarelo](roupas/camiseta_preta/Dery_Camiseta_Preta.blend).
+- [Blender original com as 131 expressões instaladas](expressions_ps1/v3/Dery_131_Expressoes_PS1.blend).
+- [Arquivo original anterior, preservado](roupas/camiseta_preta/Dery_Camiseta_Preta.blend).
 - [Registro da seleção atual](modelo_atual.json).
-- [31 expressões PNG com troca seca](expressions_ps1/v2/).
+- [100 novas expressões: 50 para fala, 25 reações e 25 caricatas](expressions_ps1/v3/).
+- [Biblioteca anterior de 31 PNGs, preservada](expressions_ps1/v2/).
 - [Precisão PS1 sem fissuras](ps1_precision.py).
 - [Aplicação e limpeza da roupa atual](roupas/camiseta_preta/).
 
-Preservar a geometria, proporções, rosto, expressões e rig desse modelo. Ao reutilizar uma cena dos episódios, manter o personagem nela e os procedimentos de faces/roupa/precisão já usados. A escolha não solicita novas alterações ou renderizações.
+Preservar a geometria, proporções, rosto e rig desse modelo. A biblioteca v3 acrescenta os IDs 31–130 e mantém os IDs 0–30. Ao reutilizar uma cena dos episódios, atualizar o material pelo instalador v3, mantendo o personagem nela e os procedimentos de roupa/precisão já usados. Os episódios anteriores não foram alterados.
 
 O experimento de substituição em `rig_ps1_v2/` fica arquivado. Suas versões de cabeça, pescoço, texturas e dez expressões não são a base dos próximos vídeos. Não confundir “modelo antigo” com uma versão anterior desse experimento.
 

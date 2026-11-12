@@ -1,15 +1,21 @@
 {
   "status": "active",
-  "selected_version": "Modelo original usado nos shorts",
-  "selected_model": "roupas/camiseta_preta/Dery_Camiseta_Preta.blend",
-  "sha256": "b0091d85f0e44f30d242ec78a9b191379e2af14d00c551d1fd8060dcdb5cce6a",
+  "selected_version": "Modelo original usado nos shorts — 131 expressões PNG",
+  "selected_model": "expressions_ps1/v3/Dery_131_Expressoes_PS1.blend",
+  "sha256": "8adac8e5cd058ddc987714ad6f52af4c500f0ff15e8308b1fc46740f7e3fb11c",
   "selected_date": "2026-11-11",
   "selection_reason": "User explicitly chose the Dery already used in the produced shorts, not an earlier version of the attempted replacement.",
-  "expression_library": "expressions_ps1/v2/",
-  "expression_count": 31,
+  "expression_library": "expressions_ps1/v3/",
+  "expression_count": 131,
   "precision_setup": "ps1_precision.py",
   "clothing": "Original shape, black shirt and approved yellow Massacote M",
   "new_rig_experiment_status": "archived; do not use rig_ps1_v2 for upcoming production",
-  "model_modified_by_this_selection": false,
-  "new_renders": 0
+  "model_modified_by_this_selection": true,
+  "source_model": "roupas/camiseta_preta/Dery_Camiseta_Preta.blend",
+  "source_sha256": "b0091d85f0e44f30d242ec78a9b191379e2af14d00c551d1fd8060dcdb5cce6a",
+  "expression_new_count": 100,
+  "expression_preserved_count": 31,
+  "expression_library_updated_at": "2026-11-12T02:54:33.491138+00:00",
+  "modification": "Face material extended only; original geometry, UVs, rig, clothing and source file preserved",
+  "geometry_modified": false
 }
