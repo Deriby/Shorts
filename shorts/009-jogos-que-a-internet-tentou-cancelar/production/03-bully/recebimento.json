@@ -1,0 +1,56 @@
+{
+  "folder": "1glsyO1duK8KXN2UGLODYK3VDKXcw-LmM",
+  "archive": "1rXU1I2y3nTk7SIObfnccxCGZsC7KETlA",
+  "archive_sha256": "fc16ffc96d1820013f9152cf22a3de1e144c0dc6087f16f90b8065f9cf06ba64",
+  "selected": [
+    {
+      "original": "3 - VOZ BULLY.mp3",
+      "path": "assets/voz/voz_original.mp3",
+      "bytes": 1870122,
+      "sha256": "64990a1d29ccfb075b146549a427fd3aa482f779b458025dc56d9343fb5fc073"
+    },
+    {
+      "original": "funniest-bully-moments-720-ytshorts.savetube.me.mp4",
+      "path": "assets/gameplay/bully_gameplay.mp4",
+      "bytes": 98573308,
+      "sha256": "2832ee3615f1b63171f9cef74e6c63173f736846b6f0f40a5f86dde3269d2651"
+    },
+    {
+      "original": "jack thompson.png",
+      "path": "assets/imagens/jack_thompson.png",
+      "bytes": 208494,
+      "sha256": "e8877144dc44574fab51c96ae03f28af02622a204a47d81e3c845e94b52d1c34"
+    },
+    {
+      "original": "meme.png",
+      "path": "assets/imagens/meme.png",
+      "bytes": 518919,
+      "sha256": "818ad295c49eaa15717aadef97a5c2fb1ced4e1bfab4c7d818f500da656af2d3"
+    },
+    {
+      "original": "meme2.png",
+      "path": "assets/imagens/meme2.png",
+      "bytes": 710913,
+      "sha256": "2150331a69d2263d31f7580e228a6649fa8391aadffa3c1956c7d08d7d8bc310"
+    },
+    {
+      "original": "meme3.jpg",
+      "path": "assets/imagens/meme3.jpg",
+      "bytes": 257248,
+      "sha256": "02b49ee6c4fcc491cbdff676322cefece08249ef439f290131ffe4da9ec62efd"
+    },
+    {
+      "original": "barraquinhadoseuze1.jpg",
+      "path": "assets/imagens/barraquinha.jpg",
+      "bytes": 33250,
+      "sha256": "12e9389783e230092c716ec87f129202b2bb514a2d33faef18680928b225e87e"
+    },
+    {
+      "original": "barraquinhadoseuze2.jpg",
+      "path": "assets/imagens/dvds.jpg",
+      "bytes": 379211,
+      "sha256": "c1e87843d88b28df6e2945e9b3708e039e548fc4bab65458ad73edbeb8eca200"
+    }
+  ],
+  "voice_full": true
+}

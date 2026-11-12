@@ -1,0 +1,209 @@
+{
+  "duration": 47.03333333333333,
+  "delivery_fps": 30,
+  "animation_fps": 30,
+  "voice_full": true,
+  "voice_speed": 1,
+  "voice_pitch_unchanged": true,
+  "mix_gain": 1,
+  "music_source": "Original quiet retro synth notes; narration ducking",
+  "sfx": [
+    {
+      "start": 20.3,
+      "file": "caixas.wav"
+    },
+    {
+      "start": 25.5,
+      "file": "selo_ao.wav"
+    },
+    {
+      "start": 27.05,
+      "file": "ui_desbloqueio.wav"
+    },
+    {
+      "start": 33.1,
+      "file": "caixas.wav"
+    },
+    {
+      "start": 39.2,
+      "file": "plop_comico.wav"
+    },
+    {
+      "start": 45.4,
+      "file": "plop_comico.wav"
+    }
+  ],
+  "titles": [],
+  "edits": [
+    {
+      "shot": 0,
+      "start": 0.0,
+      "end": 2.9,
+      "zoom_start": 1.0,
+      "zoom_end": 1.0,
+      "portrait_zoom_end": 1.0,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 1,
+      "start": 2.9,
+      "end": 7.0,
+      "zoom_start": 1.0,
+      "zoom_end": 1.07,
+      "portrait_zoom_end": 1.045,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 2,
+      "start": 7.0,
+      "end": 12.9,
+      "zoom_start": 1.0,
+      "zoom_end": 1.035,
+      "portrait_zoom_end": 1.035,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 3,
+      "start": 12.9,
+      "end": 14.0,
+      "zoom_start": 1.0,
+      "zoom_end": 1.08,
+      "portrait_zoom_end": 1.045,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 4,
+      "start": 14.0,
+      "end": 19.966666666666665,
+      "zoom_start": 1.0,
+      "zoom_end": 1.08,
+      "portrait_zoom_end": 1.045,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 5,
+      "start": 19.966666666666665,
+      "end": 23.8,
+      "zoom_start": 1.0,
+      "zoom_end": 1.05,
+      "portrait_zoom_end": 1.045,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 6,
+      "start": 23.8,
+      "end": 26.966666666666665,
+      "zoom_start": 1.0,
+      "zoom_end": 1.035,
+      "portrait_zoom_end": 1.035,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 7,
+      "start": 26.966666666666665,
+      "end": 29.933333333333334,
+      "zoom_start": 1.0,
+      "zoom_end": 1.05,
+      "portrait_zoom_end": 1.045,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 8,
+      "start": 29.933333333333334,
+      "end": 37.53333333333333,
+      "zoom_start": 1.0,
+      "zoom_end": 1.045,
+      "portrait_zoom_end": 1.045,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 9,
+      "start": 37.53333333333333,
+      "end": 39.166666666666664,
+      "zoom_start": 1.0,
+      "zoom_end": 1.07,
+      "portrait_zoom_end": 1.045,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 10,
+      "start": 39.166666666666664,
+      "end": 40.6,
+      "zoom_start": 1.0,
+      "zoom_end": 1.08,
+      "portrait_zoom_end": 1.045,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 11,
+      "start": 40.6,
+      "end": 42.2,
+      "zoom_start": 1.0,
+      "zoom_end": 1.08,
+      "portrait_zoom_end": 1.045,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 12,
+      "start": 42.2,
+      "end": 45.1,
+      "zoom_start": 1.0,
+      "zoom_end": 1.035,
+      "portrait_zoom_end": 1.035,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 13,
+      "start": 45.1,
+      "end": 47.03333333333333,
+      "zoom_start": 1.0,
+      "zoom_end": 1.035,
+      "portrait_zoom_end": 1.035,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    }
+  ],
+  "whole_frame_shake": false,
+  "subtitles": false
+}
