@@ -19,7 +19,7 @@ if args.legacy:
  slug,model,old_folder,base_name,wide_name,wfp_name=legacy[P.name];OUT=P/'output/R3_Midias_Limpas';C=Path('/workspace/attachments/clean_media')/P.name
  base_source=P/'output'/old_folder/'midias'/base_name;wide_source=P/'output'/wide_name
 else:
- slug='Saints_Row_IV';model='Dery_Saints_Row_IV.blend';OUT=P/'output';C=Path(info['cache']);base_name=slug+'_base_9x16.mp4'
+ slug=info.get('slug','Saints_Row_IV');model=info.get('model','Dery_Saints_Row_IV.blend');OUT=P/'output';C=Path(info['cache']);base_name=slug+'_base_9x16.mp4'
 OUT.mkdir(parents=True,exist_ok=True);MEDIA=OUT/'Filmora/midias';MEDIA.mkdir(parents=True,exist_ok=True)
 projection=json.loads((C/'screen_projection.json').read_text());assert projection['model_sha256']==hashlib.sha256((P/'output'/model).read_bytes()).hexdigest()
 class Reader:

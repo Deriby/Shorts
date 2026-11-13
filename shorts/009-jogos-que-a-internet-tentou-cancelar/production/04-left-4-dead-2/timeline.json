@@ -1,0 +1,137 @@
+{
+  "title": "Jogos que a internet tentou cancelar",
+  "chapter": "Left 4 Dead 2",
+  "chapter_order": 4,
+  "slug": "Left_4_Dead_2",
+  "model": "Dery_Left_4_Dead_2.blend",
+  "fps": 30,
+  "frames": 1236,
+  "duration": 41.2,
+  "voice_duration": 40.94283446712018,
+  "voice_edited": false,
+  "revision": 5,
+  "clean_media": true,
+  "standing_dery": false,
+  "monitor_file": "assets/monitor/monitor_completo.mp4",
+  "cache": "/workspace/attachments/left4dead",
+  "render_size": [
+    768,
+    432
+  ],
+  "portrait_safe_crop": [
+    263,
+    0,
+    243,
+    432
+  ],
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 90,
+      "kind": "monitor",
+      "mood": "gancho",
+      "source": "l4d2_gameplay.mp4",
+      "source_start": 59
+    },
+    {
+      "id": 1,
+      "start": 91,
+      "end": 174,
+      "kind": "host",
+      "mood": "rapido_demais",
+      "source": "l4d2_gameplay.mp4",
+      "source_start": 62
+    },
+    {
+      "id": 2,
+      "start": 175,
+      "end": 255,
+      "kind": "game",
+      "mood": "primeiro_2008",
+      "source": "l4d_beta.mp4",
+      "source_start": 25
+    },
+    {
+      "id": 3,
+      "start": 256,
+      "end": 342,
+      "kind": "game",
+      "mood": "continuacao",
+      "source": "l4d2_gameplay.mp4",
+      "source_start": 63
+    },
+    {
+      "id": 4,
+      "start": 343,
+      "end": 420,
+      "kind": "close",
+      "mood": "revolta",
+      "source": "l4d2_gameplay.mp4",
+      "source_start": 66
+    },
+    {
+      "id": 5,
+      "start": 421,
+      "end": 578,
+      "kind": "monitor",
+      "mood": "abandono",
+      "source": "l4d_beta.mp4",
+      "source_start": 64
+    },
+    {
+      "id": 6,
+      "start": 579,
+      "end": 643,
+      "kind": "host",
+      "mood": "atualizacao",
+      "source": "l4d2_gameplay.mp4",
+      "source_start": 68
+    },
+    {
+      "id": 7,
+      "start": 644,
+      "end": 840,
+      "kind": "photo",
+      "mood": "grupo",
+      "source": "group.png",
+      "source_start": 0
+    },
+    {
+      "id": 8,
+      "start": 841,
+      "end": 994,
+      "kind": "monitor",
+      "mood": "conversa_valve",
+      "source": "l4d2_gameplay.mp4",
+      "source_start": 238
+    },
+    {
+      "id": 9,
+      "start": 995,
+      "end": 1084,
+      "kind": "photo",
+      "mood": "fim_do_boicote",
+      "source": "group.png",
+      "source_start": 0
+    },
+    {
+      "id": 10,
+      "start": 1085,
+      "end": 1216,
+      "kind": "close",
+      "mood": "punch",
+      "source": "l4d2_gameplay.mp4",
+      "source_start": 246
+    },
+    {
+      "id": 11,
+      "start": 1217,
+      "end": 1236,
+      "kind": "photo",
+      "mood": "respiro",
+      "source": "maxresdefault.jpg",
+      "source_start": 0
+    }
+  ]
+}

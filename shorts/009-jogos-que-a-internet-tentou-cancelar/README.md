@@ -7,7 +7,7 @@ Série em produção para o Massacote Games. Os capítulos **GTA San Andreas / H
 1. GTA San Andreas
 2. BMX XXX
 3. Bully
-4. [Left 4 Dead 2 — materiais recebidos](production/04-left-4-dead-2/README.md)
+4. [Left 4 Dead 2](production/04-left-4-dead-2/README.md)
 5. Saints Row IV
 
 A posição editorial do Saints Row IV é a quinta. As entregas existentes mantêm seus links. A ordem está registrada em [ordem_capitulos.json](ordem_capitulos.json).
@@ -62,7 +62,7 @@ Voz integral, tribunal com a piada do controle e vinheta do veto comercial brasi
 
 ## 04 — Left 4 Dead 2
 
-[Materiais recebidos, inventário e direção](production/04-left-4-dead-2/README.md).
+[Short 9:16, capítulo 16:9 e Filmora 9:16 com mídias](production/04-left-4-dead-2/README.md).
 
 ## 05 — Saints Row IV
 
