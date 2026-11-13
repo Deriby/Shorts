@@ -1,0 +1,56 @@
+{
+  "folder": "1glsyO1duK8KXN2UGLODYK3VDKXcw-LmM",
+  "archive": "1xYgKD0vzwUdhpoUTPkrUJRx1O-bcTND4",
+  "sha256": "414375a0a7690b170ec8f19a7841d5d06f64e20a5052f46c12879e67f7b9db4d",
+  "selected": [
+    {
+      "original": "09 - VOZ SAINTS ROW IV.wav",
+      "path": "assets/voz/voz_original.wav",
+      "bytes": 7809324,
+      "sha256": "b0cb6687331ce0fd03dc2c9055a50565c8c306e073a11f6040c749bddf83f236"
+    },
+    {
+      "original": "saints-row-iv-re-elected-xbox-series-x-free-roam-gameplay-720-ytshorts.savetube.me.mp4",
+      "path": "assets/gameplay/free_roam.mp4",
+      "bytes": 215337565,
+      "sha256": "1d0b4943c9fa5eed08d1f40f329a6888b16553da2ce7bd3107b62c7130fcf67e"
+    },
+    {
+      "original": "saints-row-iv-funny-walking-720-ytshorts.savetube.me.mp4",
+      "path": "assets/gameplay/funny_walk.mp4",
+      "bytes": 6399513,
+      "sha256": "95c6678b4ae37d85aefa17f87a3cfe92c138d95117965a43574caf3d1b5ef9f3"
+    },
+    {
+      "original": "saints-row-4-anal-probe-weapon-the-rectifier-720-ytshorts.savetube.me.mp4",
+      "path": "assets/gameplay/weapon.mp4",
+      "bytes": 3445481,
+      "sha256": "90ede89fb0fe444d879cd385c5c7d265a3bbb69bb820d07c8d57c125088b8a32"
+    },
+    {
+      "original": "Weapon_-_Melee_-_Rectifier_Probe_-_Main.png",
+      "path": "assets/imagens/weapon_menu.png",
+      "bytes": 85054,
+      "sha256": "f681a26342ae851f7aa888bcf425292aa87c0b930240c6239440522bdeab9820"
+    },
+    {
+      "original": "probe gun.png",
+      "path": "assets/imagens/weapon.png",
+      "bytes": 15002,
+      "sha256": "a3f95bcfc48e9d9d905f639c8b66ce0ea7fe47dacc6435675648fc59453b6ca3"
+    },
+    {
+      "original": "meme.png",
+      "path": "assets/imagens/meme.png",
+      "bytes": 166918,
+      "sha256": "39ff7ad964ea16789010688048f148c9e93e262aa03f24dd41a680fe05365d28"
+    },
+    {
+      "original": "Saints_Row_--_DX12_9_7_2022_2_36_59_PM.png",
+      "path": "assets/imagens/mapa_reboot_2022.png",
+      "bytes": 440100,
+      "sha256": "15d6fbfe93ea93aa221d394ea7e3ac1fd228f87af4984ac46fa578dbd659ef17"
+    }
+  ],
+  "unused_map": "2022 reboot map is not used as evidence of a 2013 mission."
+}

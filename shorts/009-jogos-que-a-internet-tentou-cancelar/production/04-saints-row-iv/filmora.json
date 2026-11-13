@@ -1,0 +1,24 @@
+{
+  "reference": "shorts/008-personagens-que-a-internet-estragou/production/20-edicao-final-usuario/Massacote_EDICAO_FINAL_USUARIO.wfp",
+  "reference_sha256": "5a9d4617a2bc34416087e1125230764d5dea7980b5011c186ebe576648748fbc",
+  "source_unchanged": true,
+  "projects": [
+    {
+      "project": "Saints_Row_IV_9x16.wfp",
+      "format": "9x16",
+      "video_clips": 11,
+      "native_titles": 0,
+      "audio_clips": 8,
+      "duration": 41.0,
+      "resources": 7,
+      "sha256": "3d2aab8f925b964e5c993618f1d370d9187927c70118aedcb63b88fe3badd72e"
+    }
+  ],
+  "all_media_bundled": true,
+  "original_voice_full": true,
+  "native_titles": false,
+  "paid_glow_on_titles_only": false,
+  "whole_frame_shake": false,
+  "filmora_executed": false,
+  "native_open_test": "Not available in the Linux environment; structural checks are separate."
+}

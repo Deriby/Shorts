@@ -14,3 +14,7 @@ shorts/008-personagens-que-a-internet-estragou/production/16-longo-estilo-aprova
 shorts/008-personagens-que-a-internet-estragou/production/17-pacote-projetos-unificados/output/Seus_Projetos_e_Continuacao_Com_Midias.zip filter=lfs diff=lfs merge=lfs -text
 shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/BMX_XXX_Filmora.zip filter=lfs diff=lfs merge=lfs -text
 shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/Bully_Filmora.zip filter=lfs diff=lfs merge=lfs -text
+shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/Saints_Row_IV_Filmora.zip filter=lfs diff=lfs merge=lfs -text
+shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R3_Midias_Limpas/GTA_San_Andreas_Filmora_Midias_Limpas.zip filter=lfs diff=lfs merge=lfs -text
+shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R3_Midias_Limpas/BMX_XXX_Filmora_Midias_Limpas.zip filter=lfs diff=lfs merge=lfs -text
+shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R3_Midias_Limpas/Bully_Filmora_Midias_Limpas.zip filter=lfs diff=lfs merge=lfs -text
