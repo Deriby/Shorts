@@ -1,0 +1,32 @@
+{
+  "outputs": [
+    {
+      "file": "Bully_R4_9x16.mp4",
+      "frames": 1411,
+      "sha256": "1f98d88f6b1b24bca2a078295e2498b6a75d654fe90f1928550d6e52e45c2f02"
+    },
+    {
+      "file": "Bully_R4_16x9.mp4",
+      "frames": 1411,
+      "sha256": "5b9b8d28c35819a57540cde3bb7d74637d0ed2c906060a8cbb5d1bc8339b58c2"
+    },
+    {
+      "file": "Bully_base_9x16.mp4",
+      "frames": 1411,
+      "sha256": "9a7ede3ecc4653c568bac505df08723e5aa5cb3b6bcf408840f2419c6ad95e42"
+    }
+  ],
+  "standing_dery": false,
+  "extra_sets": false,
+  "all_rejected_ranges_replaced": true,
+  "monitor_clean_media_preserved_psnr": 46.37901971440129,
+  "voice_file_bit_identical": true,
+  "full_mix_correlation": 0.9998746767897435,
+  "gameplay_patch_motion_mse": 549.9837646484375,
+  "project_clips": 15,
+  "speed_1x": true,
+  "all_resources_resolve": true,
+  "zip_integrity": true,
+  "no_new_subtitles": true,
+  "filmora_native_open": false
+}

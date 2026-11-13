@@ -1,0 +1,32 @@
+{
+  "outputs": [
+    {
+      "file": "BMX_XXX_R4_9x16.mp4",
+      "frames": 1319,
+      "sha256": "9eb6406b24ad0093bd5b9489ce03c9b6a6734413c9b8207d0a26872dc7cbad6f"
+    },
+    {
+      "file": "BMX_XXX_R4_16x9.mp4",
+      "frames": 1319,
+      "sha256": "eb0a66f1da9cb6b5769503bbae5fafe7128d0ab4ce3d583039264bc849ef87d9"
+    },
+    {
+      "file": "BMX_base_9x16.mp4",
+      "frames": 1319,
+      "sha256": "e0fa8da5f3f23b7d0a774a0ec7fc90d1f67a4511a6f566438f9fb4cb21b20c1b"
+    }
+  ],
+  "standing_dery": false,
+  "extra_sets": false,
+  "all_rejected_ranges_replaced": true,
+  "monitor_clean_media_preserved_psnr": 46.308287892184396,
+  "voice_file_bit_identical": true,
+  "full_mix_correlation": 0.9998812148041547,
+  "gameplay_patch_motion_mse": 2136.013671875,
+  "project_clips": 12,
+  "speed_1x": true,
+  "all_resources_resolve": true,
+  "zip_integrity": true,
+  "no_new_subtitles": true,
+  "filmora_native_open": false
+}

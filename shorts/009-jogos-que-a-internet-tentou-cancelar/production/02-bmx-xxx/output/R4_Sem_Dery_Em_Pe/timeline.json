@@ -1,0 +1,165 @@
+{
+  "title": "Jogos que a internet tentou cancelar",
+  "chapter": "BMX XXX",
+  "fps": 30,
+  "frames": 1319,
+  "duration": 43.96666666666667,
+  "voice_duration": 43.64972789115646,
+  "voice_edited": false,
+  "revision": 4,
+  "monitor_file": "assets/monitor/monitor_completo.mp4",
+  "cache": "/workspace/attachments/bmx_xxx",
+  "render_size": [
+    768,
+    432
+  ],
+  "portrait_safe_crop": [
+    262.5,
+    0,
+    243,
+    432
+  ],
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 85,
+      "kind": "monitor",
+      "mood": "gancho",
+      "source": "bmx_gameplay.mp4",
+      "source_start": 6,
+      "patch": false,
+      "original_shot": 0,
+      "label": "gancho"
+    },
+    {
+      "id": 1,
+      "start": 86,
+      "end": 224,
+      "kind": "host",
+      "mood": "apresentacao",
+      "source": "bmx_gameplay.mp4",
+      "source_start": 9,
+      "patch": false,
+      "original_shot": 1,
+      "label": "apresentacao"
+    },
+    {
+      "id": 2,
+      "start": 225,
+      "end": 344,
+      "kind": "game",
+      "mood": "manobras",
+      "source": "bmx_gameplay.mp4",
+      "source_start": 53,
+      "patch": false,
+      "original_shot": 2,
+      "label": "manobras"
+    },
+    {
+      "start": 345,
+      "end": 438,
+      "kind": "game",
+      "source": "bmx_gameplay.mp4",
+      "source_start": 26,
+      "label": "ideia",
+      "patch": true,
+      "original_shot": 3,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "start": 439,
+      "end": 583,
+      "kind": "photo",
+      "mood": "mudanca_de_tom",
+      "source": "censurado.jpg",
+      "source_start": 0,
+      "patch": false,
+      "original_shot": 4,
+      "label": "mudanca_de_tom"
+    },
+    {
+      "start": 584,
+      "end": 675,
+      "kind": "photo",
+      "source": "caixa.jpg",
+      "source_start": 0,
+      "label": "caixa_retail",
+      "patch": true,
+      "original_shot": 5,
+      "id": 5
+    },
+    {
+      "start": 676,
+      "end": 782,
+      "kind": "seated",
+      "source": "",
+      "source_start": 0,
+      "label": "recusa_das_lojas",
+      "patch": true,
+      "original_shot": 5,
+      "id": 6
+    },
+    {
+      "start": 783,
+      "end": 912,
+      "kind": "game",
+      "source": "bmx_gameplay.mp4",
+      "source_start": 62,
+      "label": "versoes",
+      "patch": true,
+      "original_shot": 6,
+      "id": 7
+    },
+    {
+      "start": 913,
+      "end": 1036,
+      "kind": "photo",
+      "source": "capa.jpg",
+      "source_start": 0,
+      "label": "outras_plataformas",
+      "patch": true,
+      "original_shot": 6,
+      "id": 8
+    },
+    {
+      "id": 9,
+      "start": 1037,
+      "end": 1187,
+      "kind": "game",
+      "mood": "duas_rodas",
+      "source": "bmx_gameplay.mp4",
+      "source_start": 74,
+      "patch": false,
+      "original_shot": 7,
+      "label": "duas_rodas"
+    },
+    {
+      "start": 1188,
+      "end": 1244,
+      "kind": "game",
+      "source": "bmx_gameplay.mp4",
+      "source_start": 80,
+      "label": "duas_rodas",
+      "patch": true,
+      "original_shot": 8,
+      "id": 10
+    },
+    {
+      "start": 1245,
+      "end": 1319,
+      "kind": "seated",
+      "source": "",
+      "source_start": 0,
+      "label": "punch",
+      "patch": true,
+      "original_shot": 8,
+      "id": 11
+    }
+  ],
+  "slug": "BMX_XXX",
+  "episode": "02-bmx-xxx",
+  "standing_dery": false,
+  "extra_sets": false
+}

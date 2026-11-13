@@ -1,0 +1,32 @@
+{
+  "outputs": [
+    {
+      "file": "Saints_Row_IV_R4_9x16.mp4",
+      "frames": 1230,
+      "sha256": "57533a2d59c93894787be29a357043902255c3da3eace52c1168c15750d6e97d"
+    },
+    {
+      "file": "Saints_Row_IV_R4_16x9.mp4",
+      "frames": 1230,
+      "sha256": "bbaff2b8e57022af9268771151613274774d0b02f8ca2246e4277abffc85f22c"
+    },
+    {
+      "file": "Saints_Row_IV_base_9x16.mp4",
+      "frames": 1230,
+      "sha256": "76801f9ef9d1fd269c39da7db34c5682a0234545aefd3a66e03852b470e2e1db"
+    }
+  ],
+  "standing_dery": false,
+  "extra_sets": false,
+  "all_rejected_ranges_replaced": true,
+  "monitor_clean_media_preserved_psnr": 44.246919656152286,
+  "voice_file_bit_identical": true,
+  "full_mix_correlation": 0.999857772631755,
+  "gameplay_patch_motion_mse": 794.0847778320312,
+  "project_clips": 13,
+  "speed_1x": true,
+  "all_resources_resolve": true,
+  "zip_integrity": true,
+  "no_new_subtitles": true,
+  "filmora_native_open": false
+}

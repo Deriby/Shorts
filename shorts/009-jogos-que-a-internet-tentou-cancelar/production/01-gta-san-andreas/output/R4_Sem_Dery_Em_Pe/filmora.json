@@ -1,0 +1,16 @@
+{
+  "source_project": "/workspace/Shorts/shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R3_Midias_Limpas/Filmora/GTA_San_Andreas_Midias_Limpas_9x16.wfp",
+  "source_unchanged": true,
+  "project": "GTA_San_Andreas_R4_9x16.wfp",
+  "video_clips": 18,
+  "removed_prop_sfx": [
+    "file:./midias/ui_desbloqueio.wav",
+    "file:./midias/selo_ao.wav",
+    "file:./midias/caixas.wav",
+    "file:./midias/ui_desbloqueio.wav"
+  ],
+  "resources": 7,
+  "all_media_bundled": true,
+  "only_9x16": true,
+  "filmora_native_open": false
+}

@@ -1,0 +1,32 @@
+{
+  "voice_full": true,
+  "original_voice_file_unchanged": true,
+  "sfx": [
+    {
+      "start": 40.38,
+      "file": "plop_comico.wav"
+    },
+    {
+      "start": 52.4,
+      "file": "plop_comico.wav"
+    }
+  ],
+  "removed_prop_sfx": [
+    {
+      "start": 16.65,
+      "file": "ui_desbloqueio.wav"
+    },
+    {
+      "start": 24.2,
+      "file": "selo_ao.wav"
+    },
+    {
+      "start": 28.15,
+      "file": "caixas.wav"
+    },
+    {
+      "start": 30.85,
+      "file": "ui_desbloqueio.wav"
+    }
+  ]
+}

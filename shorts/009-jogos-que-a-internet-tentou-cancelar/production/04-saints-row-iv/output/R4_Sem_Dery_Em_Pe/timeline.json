@@ -1,0 +1,180 @@
+{
+  "title": "Jogos que a internet tentou cancelar",
+  "chapter": "Saints Row IV",
+  "fps": 30,
+  "frames": 1230,
+  "duration": 41.0,
+  "voice_duration": 40.67281179138322,
+  "voice_edited": false,
+  "revision": 4,
+  "clean_media": true,
+  "monitor_file": "assets/monitor/monitor_completo.mp4",
+  "cache": "/workspace/attachments/saints_row_iv",
+  "render_size": [
+    768,
+    432
+  ],
+  "portrait_safe_crop": [
+    262.5,
+    0,
+    243,
+    432
+  ],
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 96,
+      "kind": "monitor",
+      "mood": "gancho",
+      "source": "free_roam.mp4",
+      "source_start": 12,
+      "patch": false,
+      "original_shot": 0,
+      "label": "gancho"
+    },
+    {
+      "id": 1,
+      "start": 97,
+      "end": 191,
+      "kind": "close",
+      "mood": "sol_nao_bate",
+      "source": "free_roam.mp4",
+      "source_start": 80,
+      "patch": false,
+      "original_shot": 1,
+      "label": "sol_nao_bate"
+    },
+    {
+      "id": 2,
+      "start": 192,
+      "end": 348,
+      "kind": "photo",
+      "mood": "arma",
+      "source": "weapon_menu.png",
+      "source_start": 0,
+      "patch": false,
+      "original_shot": 2,
+      "label": "arma"
+    },
+    {
+      "id": 3,
+      "start": 349,
+      "end": 444,
+      "kind": "host",
+      "mood": "pelo_nome",
+      "source": "weapon.png",
+      "source_start": 0,
+      "patch": false,
+      "original_shot": 3,
+      "label": "pelo_nome"
+    },
+    {
+      "id": 4,
+      "start": 445,
+      "end": 567,
+      "kind": "game",
+      "mood": "arma_em_jogo",
+      "source": "weapon.mp4",
+      "source_start": 9.5,
+      "patch": false,
+      "original_shot": 4,
+      "label": "arma_em_jogo"
+    },
+    {
+      "id": 5,
+      "start": 568,
+      "end": 600,
+      "kind": "photo",
+      "mood": "reacao",
+      "source": "meme.png",
+      "source_start": 0,
+      "patch": false,
+      "original_shot": 5,
+      "label": "reacao"
+    },
+    {
+      "start": 601,
+      "end": 720,
+      "kind": "seated",
+      "source": "",
+      "source_start": 0,
+      "label": "classificacao",
+      "patch": true,
+      "original_shot": 6,
+      "id": 6
+    },
+    {
+      "start": 721,
+      "end": 801,
+      "kind": "game",
+      "source": "weapon.mp4",
+      "source_start": 14,
+      "label": "contexto_da_recusa",
+      "patch": true,
+      "original_shot": 6,
+      "id": 7
+    },
+    {
+      "start": 802,
+      "end": 891,
+      "kind": "photo",
+      "source": "weapon_menu.png",
+      "source_start": 0,
+      "label": "arma_questionada",
+      "patch": true,
+      "original_shot": 7,
+      "id": 8
+    },
+    {
+      "start": 892,
+      "end": 942,
+      "kind": "game",
+      "source": "free_roam.mp4",
+      "source_start": 558.3,
+      "label": "jogo_ilustrativo",
+      "patch": true,
+      "original_shot": 7,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "start": 943,
+      "end": 1038,
+      "kind": "game",
+      "mood": "gameplay_ilustrativa",
+      "source": "free_roam.mp4",
+      "source_start": 560,
+      "patch": false,
+      "original_shot": 8,
+      "label": "gameplay_ilustrativa"
+    },
+    {
+      "start": 1039,
+      "end": 1152,
+      "kind": "game",
+      "source": "free_roam.mp4",
+      "source_start": 563.2,
+      "label": "versao_modificada",
+      "patch": true,
+      "original_shot": 9,
+      "id": 11
+    },
+    {
+      "id": 12,
+      "start": 1153,
+      "end": 1230,
+      "kind": "game",
+      "mood": "punch",
+      "source": "funny_walk.mp4",
+      "source_start": 13,
+      "patch": false,
+      "original_shot": 10,
+      "label": "punch"
+    }
+  ],
+  "slug": "Saints_Row_IV",
+  "episode": "04-saints-row-iv",
+  "standing_dery": false,
+  "extra_sets": false
+}

@@ -1,0 +1,16 @@
+REVISÃO R4 — SEM DERY EM PÉ
+
+Extraia o ZIP inteiro e abra o projeto 9:16. As mídias ficam em midias/.
+Todos os apresentadores em pé e os sets extras longos foram removidos.
+A fala inteira permanece na faixa de voz; trilha e plops ficam separados.
+Sons de caixas, carimbos e botões dos cenários retirados foram removidos.
+O PSX fica no Dery/cenário. Gameplay, fotos e memes permanecem limpos.
+Os títulos editáveis antigos de GTA/BMX foram preservados; não há legendas novas.
+
+Se você já legendou/editou o seu WFP, substitua somente o vídeo-base de mesmo
+nome em midias/ e remova os antigos SFX de caixas/carimbos/botões. Os pontos da
+voz e a duração são iguais. Para os novos cortes/zooms, use este novo projeto.
+O projeto 16:9 completo continua reservado ao fim da série.
+
+Filmora não foi executado no Linux. Estrutura, recursos, velocidade e duração
+foram conferidos; a abertura nativa fica na instalação do usuário.

@@ -1,0 +1,32 @@
+{
+  "outputs": [
+    {
+      "file": "GTA_San_Andreas_R4_9x16.mp4",
+      "frames": 1602,
+      "sha256": "89b6180b5db313d3ca44ff1e4c3052929205487a985d7017f4020c14dbb8b307"
+    },
+    {
+      "file": "GTA_San_Andreas_R4_16x9.mp4",
+      "frames": 1602,
+      "sha256": "a40cccf3ab61121983202003dbf90050cf4f367fb679f476ca1321476af95540"
+    },
+    {
+      "file": "GTA_base_R2_9x16.mp4",
+      "frames": 1602,
+      "sha256": "fa5dd34e9d1e6584c9eec7bffe0700822e715fa5baf13036a47674f00743b695"
+    }
+  ],
+  "standing_dery": false,
+  "extra_sets": false,
+  "all_rejected_ranges_replaced": true,
+  "monitor_clean_media_preserved_psnr": 44.85892441536912,
+  "voice_file_bit_identical": true,
+  "full_mix_correlation": 0.9998140541953952,
+  "gameplay_patch_motion_mse": 2545.1923828125,
+  "project_clips": 18,
+  "speed_1x": true,
+  "all_resources_resolve": true,
+  "zip_integrity": true,
+  "no_new_subtitles": true,
+  "filmora_native_open": false
+}
