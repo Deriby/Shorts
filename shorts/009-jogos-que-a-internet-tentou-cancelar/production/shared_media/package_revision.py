@@ -9,7 +9,7 @@ plans={
 slug,source_folder,source_name=plans[P.name];OUT=P/'output/R3_Midias_Limpas';DEST=OUT/'Filmora';MEDIA=DEST/'midias';MEDIA.mkdir(parents=True,exist_ok=True)
 source=P/'output'/source_folder/source_name;source_sha=hashlib.sha256(source.read_bytes()).hexdigest()
 with zipfile.ZipFile(source)as z:files={n:z.read(n)for n in z.namelist()}
-tl=next(n for n in files if n.endswith('timeline.wesproj'));data=json.loads(files[tl]);info=json.loads((P/'timeline.json').read_text());video_resources=[]
+tl=next(n for n in files if n.endswith('timeline.wesproj'));data=json.loads(files[tl]);info=json.loads((P/'timeline.json').read_text());video_resources=[];video_durations={}
 for r in data['resources']:
  name=Path(r['filename']).name;dst=MEDIA/name
  if name.lower().endswith('.mp4'):
@@ -18,7 +18,7 @@ for r in data['resources']:
   vr=r['vidStreamInfo'][0];vr.update(width=v['width'],height=v['height'],frameRate={'num':num,'den':den},maxFrameRate={'num':num,'den':den},totalFrames=int(v['nb_frames']),streamLength=length,bitRate=int(v.get('bit_rate',0)))
   for key in['fileSize','fileLength']:
    if key in r:r[key]=dst.stat().st_size
-  video_resources.append(r['sourceUuid'])
+  video_resources.append(r['sourceUuid']);video_durations[r['sourceUuid']]=duration
  else:
   choices=[P/'assets/voz'/name,P/'assets/audio'/name,P/'output'/source_folder/'midias'/name]
   src=next((p for p in choices if p.is_file()and p.stat().st_size>200),None);assert src,name;shutil.copyfile(src,dst)
@@ -26,6 +26,15 @@ for r in data['resources']:
  mid='{'+r['sourceUuid'].upper()+'}';path=f'ProjectFolder/Medias/{mid}/media.json'
  if path in files:
   media=json.loads(files[path]);media['sourceInfo']={'basicInfo':{k:r[k]for k in['streamType','fourCC','mediaLength','videoStreamCount','audioStreamCount','bitRate']if k in r},'vidStreamInfos':r.get('vidStreamInfo',[]),'audStreamInfos':r.get('audStreamInfo',[])};files[path]=json.dumps(media,separators=(',',':')).encode()
+for timeline in data['timelineInfos']:
+ for track in timeline['trackInfos']:
+  for clip in track['clipList']:
+   if clip.get('sourceUuid')in video_durations:
+    duration=video_durations[clip['sourceUuid']];speed=clip['speed'];params=json.loads(speed['speedParam'])
+    assert all(k['_value']==1 for k in params['keyframeSets'])
+    params['_totalTime']=duration
+    if params['keyframeSets']:params['keyframeSets'][-1]['_time']=duration
+    speed.update(offset=clip['inPoint']/1e7,offsetEnd=clip['outPoint']/1e7,speedParam=json.dumps(params,separators=(',',':')))
 assert len(video_resources)==1
 project_name=slug+'_Midias_Limpas_9x16';data['projectName']=project_name;files[tl]=json.dumps(data,ensure_ascii=False,separators=(',',':')).encode()
 meta=json.loads(files['ProjectFolder/project_info.json']);meta.update(project_file_name=project_name,proj_zip_save_path=project_name+'.wfp');files['ProjectFolder/project_info.json']=json.dumps(meta,separators=(',',':')).encode()

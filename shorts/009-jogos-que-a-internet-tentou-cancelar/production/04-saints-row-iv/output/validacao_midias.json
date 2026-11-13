@@ -1,0 +1,35 @@
+{
+  "videos": [
+    {
+      "file": "output/Saints_Row_IV_Cancelar_9x16.mp4",
+      "bytes": 21881317,
+      "frames": 1230,
+      "sha256": "039657b42b1d8c38507ccab219ecbb109a9b4e469281e17fe303224840341a28"
+    },
+    {
+      "file": "output/Saints_Row_IV_Cancelar_16x9.mp4",
+      "bytes": 28995779,
+      "frames": 1230,
+      "sha256": "3cdd654687a617b52a81fdacb6eee766f7f209dd1f15fe0fa62ed87c02b674da"
+    },
+    {
+      "file": "output/Filmora/midias/Saints_Row_IV_base_9x16.mp4",
+      "bytes": 17581212,
+      "frames": 1230,
+      "sha256": "09f07aaa1fa2b56919ed6ae8d390254684e164c2083e47803036ece217a0fe18"
+    }
+  ],
+  "clips": 19,
+  "filmora_resources_resolve": true,
+  "speed_1x": true,
+  "zip_integrity": true,
+  "media_quality": {
+    "photo": "weapon_menu.png",
+    "time": 7.033333333333333,
+    "new_mse": 1.4443116188049316,
+    "new_psnr": 46.53419455912132
+  },
+  "media_psx_filter": false,
+  "animation_psx": true,
+  "filmora_native_open": false
+}

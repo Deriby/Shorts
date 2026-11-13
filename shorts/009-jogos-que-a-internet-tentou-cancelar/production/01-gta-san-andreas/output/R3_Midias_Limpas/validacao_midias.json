@@ -1,0 +1,38 @@
+{
+  "videos": [
+    {
+      "file": "output/R3_Midias_Limpas/GTA_San_Andreas_R3_Midias_Limpas_9x16.mp4",
+      "bytes": 26035891,
+      "frames": 1602,
+      "sha256": "17189a1cdc80123c1368a955bc785c44269807e2d50b7a83db4ba36e7e0bf0dd"
+    },
+    {
+      "file": "output/R3_Midias_Limpas/GTA_San_Andreas_R3_Midias_Limpas_16x9.mp4",
+      "bytes": 32159327,
+      "frames": 1602,
+      "sha256": "3a184ae9d067440c4c2000f24a39c09342e98f4a9284f089c3483c5017da9a36"
+    },
+    {
+      "file": "output/R3_Midias_Limpas/Filmora/midias/GTA_base_R2_9x16.mp4",
+      "bytes": 17288950,
+      "frames": 1602,
+      "sha256": "cc7052d5656aa86c765596ba71e300ccfa0b572633db99a7162e1209c5e07bb4"
+    }
+  ],
+  "clips": 27,
+  "filmora_resources_resolve": true,
+  "speed_1x": true,
+  "zip_integrity": true,
+  "media_quality": {
+    "photo": "cj_bug.jpg",
+    "time": 41.0,
+    "new_mse": 3.406102180480957,
+    "new_psnr": 42.80822688540975,
+    "old_mse": 389.2322998046875,
+    "error_ratio": 0.008750820993504655,
+    "animation_psnr": 42.72924793434864
+  },
+  "media_psx_filter": false,
+  "animation_psx": true,
+  "filmora_native_open": false
+}

@@ -1,0 +1,34 @@
+{
+  "chapter": "Saints Row IV",
+  "frames": 1230,
+  "media_original_resolution": true,
+  "media_rgb555": false,
+  "media_dither": false,
+  "media_nearest": false,
+  "media_affine_warp": false,
+  "crt_perspective": true,
+  "crt_occlusion_mask": true,
+  "crt_aspect_preserved": true,
+  "psx_animation_preserved": true,
+  "legacy_animation_reused": false,
+  "source_sizes": {
+    "free_roam.mp4": [
+      1280,
+      720
+    ],
+    "weapon.mp4": [
+      1280,
+      720
+    ],
+    "funny_walk.mp4": [
+      1280,
+      720
+    ]
+  },
+  "outputs": [
+    "output/Saints_Row_IV_Cancelar_9x16.mp4",
+    "output/Saints_Row_IV_Cancelar_16x9.mp4",
+    "output/Filmora/midias/Saints_Row_IV_base_9x16.mp4"
+  ],
+  "projection_sha256": "9678f57776b85f3aaf46c76035712d9b4072dc2baf3808fee4220e8482fc7051"
+}

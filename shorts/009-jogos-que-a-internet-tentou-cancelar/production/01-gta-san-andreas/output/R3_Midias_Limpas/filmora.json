@@ -1,0 +1,15 @@
+{
+  "source_project": "output/Filmora_R2/GTA_San_Andreas_R2_9x16.wfp",
+  "source_sha256": "e0fe7a2ba8bd6b64456bede712693588d0e6068c078623e70d23a6d1bfba8bc7",
+  "source_unchanged": true,
+  "project": "Filmora/GTA_San_Andreas_Midias_Limpas_9x16.wfp",
+  "resources": 7,
+  "editing_preserved": true,
+  "video_base_replaced": true,
+  "formats": [
+    "9:16"
+  ],
+  "all_media_bundled": true,
+  "native_open_test": false,
+  "bundle": "GTA_San_Andreas_Filmora_Midias_Limpas.zip"
+}

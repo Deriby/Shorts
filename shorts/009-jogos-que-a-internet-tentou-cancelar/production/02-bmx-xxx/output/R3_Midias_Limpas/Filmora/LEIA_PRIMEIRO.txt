@@ -1,0 +1,14 @@
+REVISÃO — MÍDIAS LIMPAS
+
+Extraia o ZIP inteiro e abra o WFP 9:16. Todas as suas mídias estão em midias/.
+Esta revisão preserva a edição anterior e troca apenas o vídeo-base para manter
+fotos, memes e gameplay limpos, inclusive dentro do CRT. O visual PSX fica na animação.
+Os títulos editáveis das entregas antigas continuam nas faixas originais; não
+foram acrescentadas legendas novas. A voz, trilha e sons permanecem separados.
+
+Se você já editou/legendou seu projeto, preserve esse WFP e substitua somente
+o vídeo-base pelo arquivo de mesmo nome em midias/. Assim mantém suas alterações.
+Os projetos anteriores e a animação original não foram sobrescritos.
+
+Filmora não foi executado neste ambiente. Estrutura, recursos, duração e velocidade
+são verificados por código; confira abertura/reprodução na sua instalação.

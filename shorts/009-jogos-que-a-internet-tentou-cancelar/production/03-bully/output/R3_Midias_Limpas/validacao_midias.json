@@ -1,0 +1,38 @@
+{
+  "videos": [
+    {
+      "file": "output/R3_Midias_Limpas/Bully_R3_Midias_Limpas_9x16.mp4",
+      "bytes": 24128171,
+      "frames": 1411,
+      "sha256": "5665ea4b425fec3216a552e93ed5eabbce6a2456d9f09af65ed995cc291456a8"
+    },
+    {
+      "file": "output/R3_Midias_Limpas/Bully_R3_Midias_Limpas_16x9.mp4",
+      "bytes": 31855432,
+      "frames": 1411,
+      "sha256": "5628fc8da3ce06e71a992e43313f915417ffa5a708bfccb1006b1ee917976ed4"
+    },
+    {
+      "file": "output/R3_Midias_Limpas/Filmora/midias/Bully_base_9x16.mp4",
+      "bytes": 17508491,
+      "frames": 1411,
+      "sha256": "7aa4ef10d650dddf74984861dafef815fab5f6aba072e4d07c61877ad12bbe0f"
+    }
+  ],
+  "clips": 22,
+  "filmora_resources_resolve": true,
+  "speed_1x": true,
+  "zip_integrity": true,
+  "media_quality": {
+    "photo": "jack_thompson.png",
+    "time": 14.666666666666666,
+    "new_mse": 2.1507558822631836,
+    "new_psnr": 44.80489241509065,
+    "old_mse": 303.6315002441406,
+    "error_ratio": 0.007083441212567957,
+    "animation_psnr": 42.95872445700439
+  },
+  "media_psx_filter": false,
+  "animation_psx": true,
+  "filmora_native_open": false
+}

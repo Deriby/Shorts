@@ -1,0 +1,15 @@
+{
+  "source_project": "output/Filmora/BMX_XXX_9x16.wfp",
+  "source_sha256": "70762d8ac6f2ff50f42746025716e7b946c0ecbe53d48e0ae2f167f40df48d83",
+  "source_unchanged": true,
+  "project": "Filmora/BMX_XXX_Midias_Limpas_9x16.wfp",
+  "resources": 7,
+  "editing_preserved": true,
+  "video_base_replaced": true,
+  "formats": [
+    "9:16"
+  ],
+  "all_media_bundled": true,
+  "native_open_test": false,
+  "bundle": "BMX_XXX_Filmora_Midias_Limpas.zip"
+}

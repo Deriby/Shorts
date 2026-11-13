@@ -1,6 +1,14 @@
 # Jogos que a internet tentou cancelar
 
-Série em produção para o Massacote Games. Os capítulos **GTA San Andreas / Hot Coffee**, **BMX XXX** e **Bully** usam a voz e as mídias enviadas pelo usuário. Os capítulos MP4 16:9 ficam preparados para a montagem futura; o projeto Filmora do longo será feito com todos os jogos apenas no final.
+Série em produção para o Massacote Games. Os capítulos **GTA San Andreas / Hot Coffee**, **BMX XXX**, **Bully** e **Saints Row IV** usam a voz e as mídias enviadas pelo usuário. Os capítulos MP4 16:9 ficam preparados para a montagem futura; o projeto Filmora do longo será feito com todos os jogos apenas no final.
+
+## Downloads atuais — mídias limpas
+
+A revisão R3 remove o tratamento PSX de gameplay, fotos e memes, inclusive no CRT. O Dery e a animação mantêm o estilo retrô.
+
+**[Baixar GTA, BMX e Bully corrigidos — MP4s e Filmora 9:16](production/shared_media/README.md#downloads-corrigidos).** Os links abaixo das entregas anteriores ficam como histórico. Se você já editou/legendou um projeto, substitua somente o vídeo-base pelo arquivo de mesmo nome do novo pacote para manter suas alterações.
+
+Saints Row IV já usa essa composição desde a primeira entrega. A voz é integral, sem legendas/títulos novos. O WFP do longo fica para o final.
 
 ## 01 — GTA San Andreas
 
@@ -37,6 +45,17 @@ Voz integral, tribunal com a piada do controle e vinheta do veto comercial brasi
 - [Roteiro](production/03-bully/roteiro_animacao.md), [Blender](production/03-bully/output/Dery_Bully.blend) e [produção/verificações](production/03-bully/).
 
 47,033 segundos, 30 fps. Somente WFP 9:16 agora; o projeto do longo fica para o final. O Filmora nativo não foi executado neste ambiente.
+
+## 04 — Saints Row IV
+
+Voz completa de 40,673 s; entrega de **41 s**, 30 fps. Mídias limpas, PSX na animação e vinheta de classificação australiana com a versão modificada.
+
+- [Short 9:16 — download](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/Saints_Row_IV_Cancelar_9x16.mp4).
+- [Filmora 9:16 com mídias — download](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/Saints_Row_IV_Filmora.zip).
+- [Capítulo MP4 16:9 — download](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/Saints_Row_IV_Cancelar_16x9.mp4).
+- [Roteiro](production/04-saints-row-iv/roteiro_animacao.md), [Blender](production/04-saints-row-iv/output/Dery_Saints_Row_IV.blend) e [verificações](production/04-saints-row-iv/).
+
+Sem legendas/callouts novos. O projeto Filmora é somente 9:16 nesta etapa; o longo será organizado com todos os jogos no final. O Filmora nativo não foi executado neste ambiente.
 
 ## Edição e projetos do GTA
 

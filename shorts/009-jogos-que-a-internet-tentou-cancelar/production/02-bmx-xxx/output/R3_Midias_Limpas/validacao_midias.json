@@ -1,0 +1,38 @@
+{
+  "videos": [
+    {
+      "file": "output/R3_Midias_Limpas/BMX_XXX_R3_Midias_Limpas_9x16.mp4",
+      "bytes": 23948241,
+      "frames": 1319,
+      "sha256": "c4997470cc2cffeb5d8396cbc8495c2d4a2170d9ef0b5810879d48c82a046b3c"
+    },
+    {
+      "file": "output/R3_Midias_Limpas/BMX_XXX_R3_Midias_Limpas_16x9.mp4",
+      "bytes": 28987588,
+      "frames": 1319,
+      "sha256": "feb5f7eecd0b4965a268ac1b84bca53efeeb0dcdb58777bc28a5498d3cf4e700"
+    },
+    {
+      "file": "output/R3_Midias_Limpas/Filmora/midias/BMX_base_9x16.mp4",
+      "bytes": 17341296,
+      "frames": 1319,
+      "sha256": "8718e655ae06a88b5f80e52d4e93ab222268d8042cc21533ac29a60135a13d8f"
+    }
+  ],
+  "clips": 22,
+  "filmora_resources_resolve": true,
+  "speed_1x": true,
+  "zip_integrity": true,
+  "media_quality": {
+    "photo": "censurado.jpg",
+    "time": 15.266666666666667,
+    "new_mse": 2.547781229019165,
+    "new_psnr": 44.06918227278706,
+    "old_mse": 104.83878326416016,
+    "error_ratio": 0.024301896203808206,
+    "animation_psnr": 42.796267779213544
+  },
+  "media_psx_filter": false,
+  "animation_psx": true,
+  "filmora_native_open": false
+}

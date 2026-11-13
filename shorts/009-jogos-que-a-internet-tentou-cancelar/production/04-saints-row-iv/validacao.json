@@ -1,0 +1,55 @@
+{
+  "videos": [
+    {
+      "file": "Saints_Row_IV_Cancelar_9x16.mp4",
+      "resolution": [
+        1080,
+        1920
+      ],
+      "fps": 30,
+      "frames": 1230,
+      "duration": 41.0,
+      "sha256": "039657b42b1d8c38507ccab219ecbb109a9b4e469281e17fe303224840341a28"
+    },
+    {
+      "file": "Saints_Row_IV_Cancelar_16x9.mp4",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "fps": 30,
+      "frames": 1230,
+      "duration": 41.0,
+      "sha256": "3cdd654687a617b52a81fdacb6eee766f7f209dd1f15fe0fa62ed87c02b674da"
+    }
+  ],
+  "projects": [
+    {
+      "file": "Saints_Row_IV_9x16.wfp",
+      "clips": 19,
+      "video_clips": 11,
+      "native_titles": 0,
+      "all_media_resolve": true,
+      "explicit_speed_1x": true
+    }
+  ],
+  "full_voice_pcm_preserved": true,
+  "voice_duration": 40.67281179138322,
+  "timeline_duration": 41.0,
+  "crt_unique_samples": 5,
+  "host_unique_samples": 6,
+  "composited_3d_frames": 743,
+  "held_graphic_frames": 94,
+  "actual_blender_frames": 649,
+  "zip_integrity": true,
+  "bundle_sha256": "795c61b83f046f79ae00767a32dfecb02866b038386a0b5f21b283c52b9c960f",
+  "filmora_native_open_test": false,
+  "whole_frame_shake": false,
+  "revision": 2,
+  "controlled_seated_face_pixel_changes": [
+    1976,
+    2025,
+    2052,
+    2472
+  ]
+}

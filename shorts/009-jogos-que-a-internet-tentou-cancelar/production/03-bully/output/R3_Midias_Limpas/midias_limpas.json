@@ -1,0 +1,26 @@
+{
+  "chapter": "Bully",
+  "frames": 1411,
+  "media_original_resolution": true,
+  "media_rgb555": false,
+  "media_dither": false,
+  "media_nearest": false,
+  "media_affine_warp": false,
+  "crt_perspective": true,
+  "crt_occlusion_mask": true,
+  "crt_aspect_preserved": true,
+  "psx_animation_preserved": true,
+  "legacy_animation_reused": true,
+  "source_sizes": {
+    "bully_gameplay.mp4": [
+      1280,
+      720
+    ]
+  },
+  "outputs": [
+    "output/R3_Midias_Limpas/Bully_R3_Midias_Limpas_9x16.mp4",
+    "output/R3_Midias_Limpas/Bully_R3_Midias_Limpas_16x9.mp4",
+    "output/R3_Midias_Limpas/Filmora/midias/Bully_base_9x16.mp4"
+  ],
+  "projection_sha256": "9ae3a3ac06effa36f0c21c2e8fb11699654d803ab02df9a0fe11caab154b8ec4"
+}
