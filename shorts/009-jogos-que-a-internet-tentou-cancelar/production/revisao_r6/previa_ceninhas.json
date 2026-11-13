@@ -1,0 +1,175 @@
+{
+  "duration": 29.033333333333335,
+  "frames": 871,
+  "fps": 30,
+  "scenes": 17,
+  "titles_only_in_preview": true,
+  "original_deliveries_unchanged": true,
+  "new_3d_render": false,
+  "source_sha256": {
+    "shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R6_Cenas_Curtas/GTA_San_Andreas_R6_9x16.mp4": "4d61d8e4fd5cbc97fbea24953b4a538eb9d409711a22c942ac6386732ed33c92",
+    "shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R6_Cenas_Curtas/BMX_XXX_R6_9x16.mp4": "44b4ade0a0567faf23aff74ccb89035ab7b0f6a72c8cb0d235626dfa093a1990",
+    "shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R6_Cenas_Curtas/Bully_R6_9x16.mp4": "e235cd7190332f9036ae6bd5d950eea23bd78e06bfc3984ac501b4accb6a7b67",
+    "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-left-4-dead-2/output/R6_Cenas_Curtas/Left_4_Dead_2_R6_9x16.mp4": "06a518c6b0b818bbb3148187480dec6b80ab32906d135f9306dff6586f4b9f8f",
+    "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/R6_Cenas_Curtas/Saints_Row_IV_R6_9x16.mp4": "ce9107fb7ccc2746ef095dd1fc3fdb7f63fa67b570219c4ada0f7ad4c871db67",
+    "shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/output/R6_Cenas_Curtas/GTA_V_R6_9x16.mp4": "3ce27076c7482ba8a9a9fe478241fa4738df0c5fdfc9379a311da36ee7480d60",
+    "shorts/009-jogos-que-a-internet-tentou-cancelar/production/07-pokemon-sword-shield/output/R6_Cenas_Curtas/Pokemon_Sword_Shield_R6_9x16.mp4": "d717a9fc6b3c9602fb10c06053f8c7c776ad8881aa703a3ef2addce3652a1c11",
+    "shorts/009-jogos-que-a-internet-tentou-cancelar/production/08-night-trap/output/R6_Cenas_Curtas/Night_Trap_R6_9x16.mp4": "b5c4fee887fef6e13e428570e1c02987d04b6a5a8e16e7a586e32778ad39c1ae"
+  },
+  "scenes_timeline": [
+    {
+      "game": "GTA San Andreas",
+      "scene": "arquivos_cafe",
+      "action": "Uma caixa de arquivos abre e revela uma miniatura da caneca de café.",
+      "preview_start": 0.5,
+      "preview_end": 1.9,
+      "source_start": 17.2,
+      "source_end": 18.6
+    },
+    {
+      "game": "GTA San Andreas",
+      "scene": "estrelas_cafe",
+      "action": "A caneca recebe cinco estrelas de procurado, como se o café fosse o crime.",
+      "preview_start": 1.9,
+      "preview_end": 3.3,
+      "source_start": 45.0,
+      "source_end": 46.4
+    },
+    {
+      "game": "GTA San Andreas",
+      "scene": "principal",
+      "action": "A própria caneca de café recebe uma tarja de censura.",
+      "preview_start": 3.3,
+      "preview_end": 4.633333333333334,
+      "source_start": 49.2,
+      "source_end": 50.53333333333333
+    },
+    {
+      "game": "BMX XXX",
+      "scene": "bike_x",
+      "action": "Três X caem sobre uma bicicletinha, fazendo o quadro ceder.",
+      "preview_start": 5.133333333333334,
+      "preview_end": 6.733333333333333,
+      "source_start": 12.1,
+      "source_end": 13.7
+    },
+    {
+      "game": "BMX XXX",
+      "scene": "principal",
+      "action": "Duas rodas do BMX rolam para lados opostos sobre a mesa.",
+      "preview_start": 6.733333333333333,
+      "preview_end": 8.433333333333334,
+      "source_start": 41.1,
+      "source_end": 42.8
+    },
+    {
+      "game": "Bully",
+      "scene": "principal",
+      "action": "O controle de videogame desliza e empurra o martelinho para o lado.",
+      "preview_start": 8.933333333333334,
+      "preview_end": 10.533333333333333,
+      "source_start": 27.9,
+      "source_end": 29.5
+    },
+    {
+      "game": "Bully",
+      "scene": "disco_grade",
+      "action": "O disco de Bully vira de lado e passa entre as barras de uma grade de brinquedo.",
+      "preview_start": 10.533333333333333,
+      "preview_end": 11.7,
+      "source_start": 38.0,
+      "source_end": 39.166666666666664
+    },
+    {
+      "game": "Left 4 Dead 2",
+      "scene": "principal",
+      "action": "A caixa do primeiro jogo acaba de pousar; a do segundo já chega empurrando a primeira.",
+      "preview_start": 12.2,
+      "preview_end": 13.8,
+      "source_start": 9.8,
+      "source_end": 11.4
+    },
+    {
+      "game": "Left 4 Dead 2",
+      "scene": "amor_sequencia",
+      "action": "O coração sobre o primeiro jogo dá lugar a uma careta de irritação quando chega o segundo.",
+      "preview_start": 13.8,
+      "preview_end": 15.3,
+      "source_start": 37.0,
+      "source_end": 38.5
+    },
+    {
+      "game": "Saints Row IV",
+      "scene": "principal",
+      "action": "Dery e sua cadeira dão um recuo curto de susto, preservando o apoio entre corpo e cadeira.",
+      "preview_start": 15.8,
+      "preview_end": 17.233333333333334,
+      "source_start": 4.6,
+      "source_end": 6.033333333333333
+    },
+    {
+      "game": "Saints Row IV",
+      "scene": "sem_graca",
+      "action": "Dery começa com uma risada e corta para uma expressão seca, sem graça.",
+      "preview_start": 17.233333333333334,
+      "preview_end": 18.433333333333334,
+      "source_start": 23.2,
+      "source_end": 24.4
+    },
+    {
+      "game": "GTA V",
+      "scene": "peticao",
+      "action": "Uma petição de brinquedo desenrola pela mesa e continua descendo pela borda.",
+      "preview_start": 18.933333333333334,
+      "preview_end": 20.433333333333334,
+      "source_start": 14.5,
+      "source_end": 16.0
+    },
+    {
+      "game": "GTA V",
+      "scene": "principal",
+      "action": "Uma tecla personalizada de cocô afunda e retorna no teclado do quarto.",
+      "preview_start": 20.433333333333334,
+      "preview_end": 21.833333333333332,
+      "source_start": 34.4,
+      "source_end": 35.8
+    },
+    {
+      "game": "Pokémon Sword and Shield",
+      "scene": "viagem",
+      "action": "Uma Pokébola segue toda confiante com uma malinha, preparando a rejeição no monitor.",
+      "preview_start": 22.333333333333332,
+      "preview_end": 23.933333333333334,
+      "source_start": 30.5,
+      "source_end": 32.1
+    },
+    {
+      "game": "Pokémon Sword and Shield",
+      "scene": "principal",
+      "action": "Uma Pokébola bate no vidro do monitor com Galar e ricocheteia.",
+      "preview_start": 23.933333333333334,
+      "preview_end": 25.433333333333334,
+      "source_start": 43.93333333333333,
+      "source_end": 45.43333333333333
+    },
+    {
+      "game": "Night Trap",
+      "scene": "principal",
+      "action": "A caixinha-vampiro do Night Trap recua quando um alho entra deslizando na mesa.",
+      "preview_start": 25.933333333333334,
+      "preview_end": 27.633333333333333,
+      "source_start": 1.7,
+      "source_end": 3.4
+    },
+    {
+      "game": "Night Trap",
+      "scene": "surto",
+      "action": "Close no Dery: susto, olhos saltados e uma negativa curta com a cabeça.",
+      "preview_start": 27.633333333333333,
+      "preview_end": 29.033333333333335,
+      "source_start": 24.0,
+      "source_end": 25.4
+    }
+  ],
+  "preview_sha256": "31a473f4cc63437b010829b410e8c59cd50fb96fd43d9a2da2bdc348e9a9aa1e"
+}

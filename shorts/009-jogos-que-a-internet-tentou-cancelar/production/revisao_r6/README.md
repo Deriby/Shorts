@@ -1,5 +1,9 @@
 # R6 — ceninhas curtas nos oito capítulos
 
+**[Assistir às 17 ceninhas — prévia de 29 segundos](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/revisao_r6/Previa_17_Ceninhas_9x16.mp4).**
+
+Os novos trechos estão reunidos por jogo, com o áudio correspondente. As cartelas de identificação pertencem apenas à prévia.
+
 Revisão concluída com **17 ceninhas**: três no GTA San Andreas e duas em cada outro capítulo. Os inserts têm cerca de 1,2–1,7 s e entram nas falas/piadas marcadas. Foram renderizados apenas esses trechos; a montagem anterior foi reaproveitada.
 
 | Capítulo | Cenas | Short 9:16 | Capítulo 16:9 | Filmora 9:16 com mídias |
