@@ -2,7 +2,11 @@
 
 Série em produção para o Massacote Games. Os capítulos **GTA San Andreas / Hot Coffee**, **BMX XXX**, **Bully** e **Saints Row IV** usam a voz e as mídias enviadas pelo usuário. Os capítulos MP4 16:9 ficam preparados para a montagem futura; o projeto Filmora do longo será feito com todos os jogos apenas no final.
 
-## Downloads atuais — mídias limpas
+## Downloads atuais — sem Dery em pé
+
+**[Baixar os quatro capítulos R4 — MP4 9:16, MP4 16:9 e Filmora 9:16](production/revisao_r4/README.md).** Cenas em pé e sets extras longos removidos; gameplay no PC e voz integral preservadas. Os links abaixo ficam como histórico.
+
+## Revisão anterior — mídias limpas
 
 A revisão R3 remove o tratamento PSX de gameplay, fotos e memes, inclusive no CRT. O Dery e a animação mantêm o estilo retrô.
 

@@ -1,0 +1,20 @@
+# Revisão R4 — Dery sentado, gameplay e memes
+
+Retirados todos os planos de apresentador em pé e os sets extras longos dos quatro capítulos. Os planos de gameplay no monitor do quarto permanecem. A fala inteira e a duração de cada capítulo foram preservadas.
+
+| Capítulo | Short 9:16 | Capítulo 16:9 | Filmora 9:16 com mídias |
+|---|---|---|---|
+| GTA San Andreas | [MP4](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R4_Sem_Dery_Em_Pe/GTA_San_Andreas_R4_9x16.mp4) | [MP4](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R4_Sem_Dery_Em_Pe/GTA_San_Andreas_R4_16x9.mp4) | [ZIP](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R4_Sem_Dery_Em_Pe/GTA_San_Andreas_R4_Filmora.zip) |
+| BMX XXX | [MP4](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R4_Sem_Dery_Em_Pe/BMX_XXX_R4_9x16.mp4) | [MP4](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R4_Sem_Dery_Em_Pe/BMX_XXX_R4_16x9.mp4) | [ZIP](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R4_Sem_Dery_Em_Pe/BMX_XXX_R4_Filmora.zip) |
+| Bully | [MP4](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R4_Sem_Dery_Em_Pe/Bully_R4_9x16.mp4) | [MP4](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R4_Sem_Dery_Em_Pe/Bully_R4_16x9.mp4) | [ZIP](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R4_Sem_Dery_Em_Pe/Bully_R4_Filmora.zip) |
+| Saints Row IV | [MP4](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/R4_Sem_Dery_Em_Pe/Saints_Row_IV_R4_9x16.mp4) | [MP4](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/R4_Sem_Dery_Em_Pe/Saints_Row_IV_R4_16x9.mp4) | [ZIP](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/R4_Sem_Dery_Em_Pe/Saints_Row_IV_R4_Filmora.zip) |
+
+Extraia cada ZIP inteiro antes de abrir. O WFP contém cortes e zooms editáveis, voz, trilha e plops separados. As bases silenciosas mantêm os nomes anteriores para permitir substituição em um projeto já legendado pelo usuário; nesse caso, remover também os SFX antigos de caixas/carimbos/botões. Os novos pontos de corte estão no WFP R4.
+
+Os títulos editáveis antigos de GTA/BMX permanecem; não há legendas novas. Bully e Saints Row continuam sem títulos sobrepostos. Mídias continuam limpas, inclusive dentro do PC. A animação mantém PSX sem borrão ou oscilação global.
+
+`preparar.py` define os cortes. `montar_sentado.py` lê a biblioteca aprovada e os seletores faciais de cada capítulo. `renderizar.py` rende somente os inserts novos. `exportar.py` monta as duas proporções e a base do WFP por FFmpeg; `empacotar.py` preserva a estrutura nativa da edição e atualiza os cortes. `verificar.py` confere recursos/velocidade/duração, voz, movimento, quadros e ZIP.
+
+Os novos Blenders contêm somente a cena sentada, sem o apresentador em pé. Os planos anteriores que continuam na montagem são reutilizados. A revisão não refaz toda a atuação dos capítulos. O cache em `/workspace/attachments/revisao_r4/` não é versionado. Os arquivos e entregas anteriores ficam preservados.
+
+**Filmora não foi executado neste Linux.** A verificação nativa de abertura/reprodução fica na instalação do usuário.
