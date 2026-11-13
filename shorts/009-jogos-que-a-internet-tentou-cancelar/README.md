@@ -1,6 +1,6 @@
 # Jogos que a internet tentou cancelar
 
-Série em produção para o Massacote Games. Os capítulos **GTA San Andreas / Hot Coffee**, **BMX XXX**, **Bully**, **Left 4 Dead 2**, **Saints Row IV** e **GTA V** usam a voz e as mídias enviadas pelo usuário. Os capítulos MP4 16:9 ficam preparados para a montagem futura; o projeto Filmora do longo será feito com todos os jogos apenas no final.
+Série em produção para o Massacote Games. Os capítulos **GTA San Andreas / Hot Coffee**, **BMX XXX**, **Bully**, **Left 4 Dead 2**, **Saints Row IV**, **GTA V** e **Pokémon Sword and Shield** usam a voz e as mídias enviadas pelo usuário. Os capítulos MP4 16:9 ficam preparados para a montagem futura; o projeto Filmora do longo será feito com todos os jogos apenas no final.
 
 ## Ordem dos capítulos
 
@@ -10,10 +10,13 @@ Série em produção para o Massacote Games. Os capítulos **GTA San Andreas / H
 4. [Left 4 Dead 2](production/04-left-4-dead-2/README.md)
 5. Saints Row IV
 6. [GTA V](production/06-gta-v/README.md)
+7. [Pokémon Sword and Shield](production/07-pokemon-sword-shield/README.md)
 
 A posição editorial do Saints Row IV é a quinta. As entregas existentes mantêm seus links. A ordem está registrada em [ordem_capitulos.json](ordem_capitulos.json).
 
 ## Downloads atuais — sem Dery em pé
+
+**[Pokémon Sword and Shield — sétimo capítulo: short, 16:9 e Filmora](production/07-pokemon-sword-shield/README.md).**
 
 **[GTA V — sexto capítulo: short, 16:9 e Filmora](production/06-gta-v/README.md).**
 

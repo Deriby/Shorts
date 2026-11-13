@@ -1,0 +1,30 @@
+{
+  "chapter": "Pokémon Sword and Shield",
+  "frames": 1390,
+  "media_original_resolution": true,
+  "media_rgb555": false,
+  "media_dither": false,
+  "media_nearest": false,
+  "media_affine_warp": false,
+  "crt_perspective": true,
+  "crt_occlusion_mask": true,
+  "crt_aspect_preserved": true,
+  "psx_animation_preserved": true,
+  "legacy_animation_reused": false,
+  "source_sizes": {
+    "overview.mp4": [
+      1280,
+      720
+    ],
+    "pikachu_reacao.mp4": [
+      220,
+      220
+    ]
+  },
+  "outputs": [
+    "output/Pokemon_Sword_Shield_Cancelar_9x16.mp4",
+    "output/Pokemon_Sword_Shield_Cancelar_16x9.mp4",
+    "output/Filmora/midias/Pokemon_Sword_Shield_base_9x16.mp4"
+  ],
+  "projection_sha256": "7eee7705cf7c87984fcee71b1d1fa9389754610aa444a2dbcda586c042041972"
+}

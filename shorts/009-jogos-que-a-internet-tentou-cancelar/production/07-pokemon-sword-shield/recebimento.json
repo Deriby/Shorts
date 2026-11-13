@@ -1,0 +1,128 @@
+{
+  "drive_file": "1On6aUlecONE7_w1V7-Te0T14SD9Zdu4g",
+  "drive_folder": "1glsyO1duK8KXN2UGLODYK3VDKXcw-LmM",
+  "archive": "07 - POKEMON SWORD AND SHIELD.zip",
+  "archive_sha256": "b4bf964906923981e4ba38f6669c8e76781af44c95477a72467987ba05636e6c",
+  "files": [
+    {
+      "name": "07 - POKEMON SWORD AND SHIELD/",
+      "bytes": 0
+    },
+    {
+      "name": "07 - POKEMON SWORD AND SHIELD/6 - VOZ POKEMON SWORD AND SHIELD.mp3",
+      "bytes": 1845162
+    },
+    {
+      "name": "07 - POKEMON SWORD AND SHIELD/fb8f7f05e0e9304ea64977b0f3b9daea.jpg",
+      "bytes": 15491
+    },
+    {
+      "name": "07 - POKEMON SWORD AND SHIELD/gamefreak.jpg",
+      "bytes": 4697
+    },
+    {
+      "name": "07 - POKEMON SWORD AND SHIELD/meme.png",
+      "bytes": 519194
+    },
+    {
+      "name": "07 - POKEMON SWORD AND SHIELD/pikachu-surprise.gif",
+      "bytes": 311612
+    },
+    {
+      "name": "07 - POKEMON SWORD AND SHIELD/pokemon-sword-pokemon-shield-overview-trailer-nintendo-switch-720-ytshorts.savetube.me.mp4",
+      "bytes": 42658866
+    },
+    {
+      "name": "07 - POKEMON SWORD AND SHIELD/polemica.png",
+      "bytes": 47065
+    },
+    {
+      "name": "07 - POKEMON SWORD AND SHIELD/RmRbcJhp_400x400.jpg",
+      "bytes": 19689
+    }
+  ],
+  "selected_files": [
+    {
+      "original": "6 - VOZ POKEMON SWORD AND SHIELD.mp3",
+      "path": "assets/voz/voz_original.mp3",
+      "bytes": 1845162,
+      "sha256": "0c8847722c3809695706f6e5cf750d22aab71b3495a5486ac8be8297d722bc95",
+      "duration": 46.104,
+      "streams": [
+        {
+          "codec_type": "audio",
+          "r_frame_rate": "0/0",
+          "sample_rate": "48000",
+          "channels": 1
+        }
+      ]
+    },
+    {
+      "original": "pokemon-sword-pokemon-shield-overview-trailer-nintendo-switch-720-ytshorts.savetube.me.mp4",
+      "path": "assets/gameplay/overview.mp4",
+      "bytes": 42658866,
+      "sha256": "07cff1f651ced3750f6fa6e073dee926b3d478cc9a9f0e9d5d2e52090b8da016",
+      "duration": 324.754286,
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "r_frame_rate": "30000/1001"
+        },
+        {
+          "codec_type": "audio",
+          "r_frame_rate": "0/0",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "original": "fb8f7f05e0e9304ea64977b0f3b9daea.jpg",
+      "path": "assets/imagens/imagem_01.jpg",
+      "bytes": 15491,
+      "sha256": "229322b90c3ab628e37edfb603364e75cb9dd758c183d7e614a6d26c5fe56af8"
+    },
+    {
+      "original": "gamefreak.jpg",
+      "path": "assets/imagens/gamefreak.jpg",
+      "bytes": 4697,
+      "sha256": "422ae7c78401fb90eac049a2f163815ac08d2597e875911871ae3d1a011e2e5a"
+    },
+    {
+      "original": "meme.png",
+      "path": "assets/imagens/meme.png",
+      "bytes": 519194,
+      "sha256": "b5d43681dcf7a91c9d5e39984903fee1c8a087abebab4b0c4716b0fbd7be953f"
+    },
+    {
+      "original": "pikachu-surprise.gif",
+      "path": "assets/imagens/pikachu_surprise.gif",
+      "bytes": 311612,
+      "sha256": "e87ff58f3bf1511ad6e7001f203b8e3dde88efb6603509d5d675494e996ff1ff"
+    },
+    {
+      "original": "polemica.png",
+      "path": "assets/imagens/polemica.png",
+      "bytes": 47065,
+      "sha256": "df5b31e19415bd4f59623f1fbbbc53685c951195b3ccc615b2febe26d6e5c48d"
+    },
+    {
+      "original": "RmRbcJhp_400x400.jpg",
+      "path": "assets/imagens/imagem_02.jpg",
+      "bytes": 19689,
+      "sha256": "7ff35c0cdd176992131ae676da388aa51b124367ced0699bdbd5d435d7ab4cb2"
+    }
+  ],
+  "derived_media": [
+    {
+      "path": "assets/gameplay/pikachu_reacao.mp4",
+      "source": "assets/imagens/pikachu_surprise.gif",
+      "original_frames": 31,
+      "original_cycle_seconds": 3.1,
+      "derived_duration": 6,
+      "animated": true
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "videos": [
+    {
+      "file": "Pokemon_Sword_Shield_Cancelar_9x16.mp4",
+      "frames": 1390,
+      "sha256": "7d9e6802091f67fb2365e5ffe0858021f1abcc9a554b4365039ca80db849ea14"
+    },
+    {
+      "file": "Pokemon_Sword_Shield_Cancelar_16x9.mp4",
+      "frames": 1390,
+      "sha256": "d60b947cb082dd6b41b7033f9307e788b72dac5816e156634221f8948008ddb3"
+    },
+    {
+      "file": "Pokemon_Sword_Shield_base_9x16.mp4",
+      "frames": 1390,
+      "sha256": "798f0a42e7d2de30f5773472d7b1d05ff38e6b0a6e77f9db49bb11d4aac54d20"
+    }
+  ],
+  "chapter_order": 7,
+  "voice_duration": 46.069002267573694,
+  "full_voice_pcm_preserved": true,
+  "voice_in_package_bit_identical": true,
+  "full_audio_correlation": 0.9999033160066585,
+  "crt_motion_mse": [
+    14.771409034729004,
+    8.257628440856934,
+    9.83511734008789
+  ],
+  "pikachu_motion_mse": 89.19701385498047,
+  "meme_clean_psnr": 45.30829088370648,
+  "standing_dery": false,
+  "new_props": false,
+  "native_titles": 0,
+  "face_ids": 43,
+  "animation_fps": 30,
+  "media_psx": false,
+  "psx_animation": true,
+  "filmora_clips": 17,
+  "resources_resolve": true,
+  "speed_1x": true,
+  "zip_integrity": true,
+  "filmora_native_open": false,
+  "gameplay_entire_frame_psnr": 46.05012702503678
+}

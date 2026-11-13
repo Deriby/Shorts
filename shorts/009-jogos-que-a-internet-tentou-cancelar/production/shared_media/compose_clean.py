@@ -71,9 +71,9 @@ def overlay(canvas,source,frame,wide=False,zoom=1):
  alpha=cv2.erode(alpha,np.ones((3,3),np.uint8),iterations=1).astype(np.float32)[:,:,None]/255
  arr=np.array(canvas);old=arr[y0:y1,x0:x1].astype(np.float32);arr[y0:y1,x0:x1]=np.uint8(np.clip(old*(1-alpha)+warped.astype(np.float32)*alpha,0,255));return Image.fromarray(arr)
 
-def media_canvas(source,kind,wide,zoom=1):
+def media_canvas(source,kind,wide,zoom=1,portrait_fit='crop'):
  size=(1920,1080)if wide else(1080,1920)
- if kind=='game':im=ImageOps.fit(source,size,Image.Resampling.LANCZOS,centering=(.5,.5))
+ if kind=='game'and(wide or portrait_fit!='contain'):im=ImageOps.fit(source,size,Image.Resampling.LANCZOS,centering=(.5,.5))
  else:
   im=Image.new('RGB',size,(31,30,39));bounds=size if wide else(1080,round(340/432*1920));fit=ImageOps.contain(source,bounds,Image.Resampling.LANCZOS);im.paste(fit,((size[0]-fit.width)//2,(size[1]-fit.height)//2))
  if zoom!=1:im=im.crop(cropbox(*size,zoom)).resize(size,Image.Resampling.LANCZOS)
@@ -124,7 +124,7 @@ for sh in info['shots']:
   source=reader.read()if reader else photo
   if oldp:bp=oldp.read();wide_background=oldw.read()
   if sh['kind']in['game','photo']:
-   bp=media_canvas(source,sh['kind'],False);fp=media_canvas(source,sh['kind'],False,zp);fw=media_canvas(source,sh['kind'],True,zw)
+   framing=sh.get('portrait_fit','crop');bp=media_canvas(source,sh['kind'],False,portrait_fit=framing);fp=media_canvas(source,sh['kind'],False,zp,framing);fw=media_canvas(source,sh['kind'],True,zw)
    if args.legacy:fp=legacy_titles(fp,t,False);fw=legacy_titles(fw,t,True)
   else:
    if args.legacy:

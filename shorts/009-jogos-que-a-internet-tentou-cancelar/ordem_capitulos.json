@@ -47,6 +47,17 @@
         "chapter_16x9": "production/06-gta-v/output/GTA_V_Cancelar_16x9.mp4",
         "filmora_9x16": "production/06-gta-v/output/GTA_V_Filmora.zip"
       }
+    },
+    {
+      "order": 7,
+      "game": "Pokémon Sword and Shield",
+      "production_path": "production/07-pokemon-sword-shield",
+      "status": "produzido",
+      "deliveries": {
+        "short": "production/07-pokemon-sword-shield/output/Pokemon_Sword_Shield_Cancelar_9x16.mp4",
+        "chapter_16x9": "production/07-pokemon-sword-shield/output/Pokemon_Sword_Shield_Cancelar_16x9.mp4",
+        "filmora_9x16": "production/07-pokemon-sword-shield/output/Pokemon_Sword_Shield_Filmora.zip"
+      }
     }
   ]
 }

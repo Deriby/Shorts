@@ -1,0 +1,148 @@
+{
+  "title": "Jogos que a internet tentou cancelar",
+  "chapter": "Pokémon Sword and Shield",
+  "chapter_order": 7,
+  "slug": "Pokemon_Sword_Shield",
+  "model": "Dery_Pokemon_Sword_Shield.blend",
+  "fps": 30,
+  "frames": 1390,
+  "duration": 46.333333333333336,
+  "voice_duration": 46.069002267573694,
+  "voice_edited": false,
+  "revision": 5,
+  "clean_media": true,
+  "standing_dery": false,
+  "monitor_file": "assets/monitor/monitor_completo.mp4",
+  "cache": "/workspace/attachments/pokemon_swsh",
+  "render_size": [
+    768,
+    432
+  ],
+  "portrait_safe_crop": [
+    263,
+    0,
+    243,
+    432
+  ],
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 90,
+      "kind": "monitor",
+      "mood": "gancho",
+      "source": "overview.mp4",
+      "source_start": 62
+    },
+    {
+      "id": 1,
+      "start": 91,
+      "end": 179,
+      "kind": "host",
+      "mood": "corte_pokedex",
+      "source": "overview.mp4",
+      "source_start": 65
+    },
+    {
+      "id": 2,
+      "start": 180,
+      "end": 264,
+      "kind": "photo",
+      "mood": "game_freak",
+      "source": "gamefreak.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 3,
+      "start": 265,
+      "end": 386,
+      "kind": "game",
+      "mood": "transferencia",
+      "source": "overview.mp4",
+      "source_start": 166,
+      "portrait_fit": "contain"
+    },
+    {
+      "id": 4,
+      "start": 387,
+      "end": 471,
+      "kind": "close",
+      "mood": "revolta",
+      "source": "overview.mp4",
+      "source_start": 170
+    },
+    {
+      "id": 5,
+      "start": 472,
+      "end": 611,
+      "kind": "monitor",
+      "mood": "hashtag",
+      "source": "overview.mp4",
+      "source_start": 162
+    },
+    {
+      "id": 6,
+      "start": 612,
+      "end": 730,
+      "kind": "photo",
+      "mood": "criticas_memes",
+      "source": "meme.png",
+      "source_start": 0
+    },
+    {
+      "id": 7,
+      "start": 731,
+      "end": 849,
+      "kind": "game",
+      "mood": "capturando",
+      "source": "overview.mp4",
+      "source_start": 62,
+      "portrait_fit": "contain"
+    },
+    {
+      "id": 8,
+      "start": 850,
+      "end": 974,
+      "kind": "monitor",
+      "mood": "pokedex",
+      "source": "overview.mp4",
+      "source_start": 187
+    },
+    {
+      "id": 9,
+      "start": 975,
+      "end": 1099,
+      "kind": "close",
+      "mood": "galar",
+      "source": "overview.mp4",
+      "source_start": 192
+    },
+    {
+      "id": 10,
+      "start": 1100,
+      "end": 1214,
+      "kind": "game",
+      "mood": "limitacao",
+      "source": "overview.mp4",
+      "source_start": 35
+    },
+    {
+      "id": 11,
+      "start": 1215,
+      "end": 1318,
+      "kind": "host",
+      "mood": "europa",
+      "source": "overview.mp4",
+      "source_start": 39
+    },
+    {
+      "id": 12,
+      "start": 1319,
+      "end": 1390,
+      "kind": "photo",
+      "mood": "pikachu_reacao",
+      "source": "pikachu_reacao.mp4",
+      "source_start": 0
+    }
+  ]
+}
