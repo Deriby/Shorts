@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "start": 12.868,
+      "duration": 0.36,
+      "file": "ceninha_01.wav",
+      "gag_id": "bike_x",
+      "kind": "bike_x"
+    },
+    {
+      "start": 41.61,
+      "duration": 0.36,
+      "file": "ceninha_02.wav",
+      "gag_id": "principal",
+      "kind": "rodas"
+    }
+  ],
+  "original_mix_unchanged_outside_effects": true,
+  "voice_file_unchanged": true
+}

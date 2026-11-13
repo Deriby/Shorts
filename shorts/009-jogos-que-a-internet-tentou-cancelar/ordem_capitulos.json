@@ -5,19 +5,40 @@
       "order": 1,
       "game": "GTA San Andreas",
       "production_path": "production/01-gta-san-andreas",
-      "status": "produzido"
+      "status": "produzido",
+      "deliveries": {
+        "short": "production/01-gta-san-andreas/output/R6_Cenas_Curtas/GTA_San_Andreas_R6_9x16.mp4",
+        "chapter_16x9": "production/01-gta-san-andreas/output/R6_Cenas_Curtas/GTA_San_Andreas_R6_16x9.mp4",
+        "filmora_9x16": "production/01-gta-san-andreas/output/R6_Cenas_Curtas/GTA_San_Andreas_R6_Filmora.zip"
+      },
+      "revision": "R6_Cenas_Curtas",
+      "gag_count": 3
     },
     {
       "order": 2,
       "game": "BMX XXX",
       "production_path": "production/02-bmx-xxx",
-      "status": "produzido"
+      "status": "produzido",
+      "deliveries": {
+        "short": "production/02-bmx-xxx/output/R6_Cenas_Curtas/BMX_XXX_R6_9x16.mp4",
+        "chapter_16x9": "production/02-bmx-xxx/output/R6_Cenas_Curtas/BMX_XXX_R6_16x9.mp4",
+        "filmora_9x16": "production/02-bmx-xxx/output/R6_Cenas_Curtas/BMX_XXX_R6_Filmora.zip"
+      },
+      "revision": "R6_Cenas_Curtas",
+      "gag_count": 2
     },
     {
       "order": 3,
       "game": "Bully",
       "production_path": "production/03-bully",
-      "status": "produzido"
+      "status": "produzido",
+      "deliveries": {
+        "short": "production/03-bully/output/R6_Cenas_Curtas/Bully_R6_9x16.mp4",
+        "chapter_16x9": "production/03-bully/output/R6_Cenas_Curtas/Bully_R6_16x9.mp4",
+        "filmora_9x16": "production/03-bully/output/R6_Cenas_Curtas/Bully_R6_Filmora.zip"
+      },
+      "revision": "R6_Cenas_Curtas",
+      "gag_count": 2
     },
     {
       "order": 4,
@@ -25,17 +46,31 @@
       "production_path": "production/04-left-4-dead-2",
       "status": "produzido",
       "deliveries": {
+        "short": "production/04-left-4-dead-2/output/R6_Cenas_Curtas/Left_4_Dead_2_R6_9x16.mp4",
+        "chapter_16x9": "production/04-left-4-dead-2/output/R6_Cenas_Curtas/Left_4_Dead_2_R6_16x9.mp4",
+        "filmora_9x16": "production/04-left-4-dead-2/output/R6_Cenas_Curtas/Left_4_Dead_2_R6_Filmora.zip"
+      },
+      "previous_deliveries": {
         "short": "production/04-left-4-dead-2/output/Left_4_Dead_2_Cancelar_9x16.mp4",
         "chapter_16x9": "production/04-left-4-dead-2/output/Left_4_Dead_2_Cancelar_16x9.mp4",
         "filmora_9x16": "production/04-left-4-dead-2/output/Left_4_Dead_2_Filmora.zip"
-      }
+      },
+      "revision": "R6_Cenas_Curtas",
+      "gag_count": 2
     },
     {
       "order": 5,
       "game": "Saints Row IV",
       "production_path": "production/04-saints-row-iv",
       "status": "produzido",
-      "path_note": "Caminho histórico preservado para manter entregas e referências existentes; a posição editorial é 5."
+      "path_note": "Caminho histórico preservado para manter entregas e referências existentes; a posição editorial é 5.",
+      "deliveries": {
+        "short": "production/04-saints-row-iv/output/R6_Cenas_Curtas/Saints_Row_IV_R6_9x16.mp4",
+        "chapter_16x9": "production/04-saints-row-iv/output/R6_Cenas_Curtas/Saints_Row_IV_R6_16x9.mp4",
+        "filmora_9x16": "production/04-saints-row-iv/output/R6_Cenas_Curtas/Saints_Row_IV_R6_Filmora.zip"
+      },
+      "revision": "R6_Cenas_Curtas",
+      "gag_count": 2
     },
     {
       "order": 6,
@@ -43,10 +78,17 @@
       "production_path": "production/06-gta-v",
       "status": "produzido",
       "deliveries": {
+        "short": "production/06-gta-v/output/R6_Cenas_Curtas/GTA_V_R6_9x16.mp4",
+        "chapter_16x9": "production/06-gta-v/output/R6_Cenas_Curtas/GTA_V_R6_16x9.mp4",
+        "filmora_9x16": "production/06-gta-v/output/R6_Cenas_Curtas/GTA_V_R6_Filmora.zip"
+      },
+      "previous_deliveries": {
         "short": "production/06-gta-v/output/GTA_V_Cancelar_9x16.mp4",
         "chapter_16x9": "production/06-gta-v/output/GTA_V_Cancelar_16x9.mp4",
         "filmora_9x16": "production/06-gta-v/output/GTA_V_Filmora.zip"
-      }
+      },
+      "revision": "R6_Cenas_Curtas",
+      "gag_count": 2
     },
     {
       "order": 7,
@@ -54,10 +96,17 @@
       "production_path": "production/07-pokemon-sword-shield",
       "status": "produzido",
       "deliveries": {
+        "short": "production/07-pokemon-sword-shield/output/R6_Cenas_Curtas/Pokemon_Sword_Shield_R6_9x16.mp4",
+        "chapter_16x9": "production/07-pokemon-sword-shield/output/R6_Cenas_Curtas/Pokemon_Sword_Shield_R6_16x9.mp4",
+        "filmora_9x16": "production/07-pokemon-sword-shield/output/R6_Cenas_Curtas/Pokemon_Sword_Shield_R6_Filmora.zip"
+      },
+      "previous_deliveries": {
         "short": "production/07-pokemon-sword-shield/output/Pokemon_Sword_Shield_Cancelar_9x16.mp4",
         "chapter_16x9": "production/07-pokemon-sword-shield/output/Pokemon_Sword_Shield_Cancelar_16x9.mp4",
         "filmora_9x16": "production/07-pokemon-sword-shield/output/Pokemon_Sword_Shield_Filmora.zip"
-      }
+      },
+      "revision": "R6_Cenas_Curtas",
+      "gag_count": 2
     },
     {
       "order": 8,
@@ -65,10 +114,17 @@
       "production_path": "production/08-night-trap",
       "status": "produzido",
       "deliveries": {
+        "short": "production/08-night-trap/output/R6_Cenas_Curtas/Night_Trap_R6_9x16.mp4",
+        "chapter_16x9": "production/08-night-trap/output/R6_Cenas_Curtas/Night_Trap_R6_16x9.mp4",
+        "filmora_9x16": "production/08-night-trap/output/R6_Cenas_Curtas/Night_Trap_R6_Filmora.zip"
+      },
+      "previous_deliveries": {
         "short": "production/08-night-trap/output/Night_Trap_Cancelar_9x16.mp4",
         "chapter_16x9": "production/08-night-trap/output/Night_Trap_Cancelar_16x9.mp4",
         "filmora_9x16": "production/08-night-trap/output/Night_Trap_Filmora.zip"
-      }
+      },
+      "revision": "R6_Cenas_Curtas",
+      "gag_count": 2
     }
   ]
 }

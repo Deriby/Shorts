@@ -1,0 +1,26 @@
+{
+  "source_project": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/output/Filmora/GTA_V_9x16.wfp",
+  "source_project_unchanged": true,
+  "project": "GTA_V_R6_9x16.wfp",
+  "video_clips": 15,
+  "gag_count": 2,
+  "each_gag_continuous": true,
+  "gag_ranges_ticks": [
+    [
+      145000000,
+      160000000
+    ],
+    [
+      344000000,
+      358000000
+    ]
+  ],
+  "new_subtitles": 0,
+  "new_sound_files": [
+    "ceninha_01.wav",
+    "ceninha_02.wav"
+  ],
+  "all_media_bundled": true,
+  "only_9x16": true,
+  "filmora_native_open": false
+}

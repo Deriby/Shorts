@@ -1,0 +1,57 @@
+{
+  "episode": "06-gta-v",
+  "outputs": [
+    {
+      "file": "GTA_V_R6_9x16.mp4",
+      "frames": 1119,
+      "sha256": "3ce27076c7482ba8a9a9fe478241fa4738df0c5fdfc9379a311da36ee7480d60"
+    },
+    {
+      "file": "GTA_V_R6_16x9.mp4",
+      "frames": 1119,
+      "sha256": "6063a00b84a39ba1b1f579eb86313b0f2d85ae05b24fc52d92cb4ee1a9e94b7f"
+    },
+    {
+      "file": "GTA_V_base_9x16.mp4",
+      "frames": 1119,
+      "sha256": "ae5a1053594618ee0be61a78c40f0a3084f724bd552ab6163cc80e0ea8fe8ea6"
+    }
+  ],
+  "gag_count": 2,
+  "gags": [
+    {
+      "id": "peticao",
+      "kind": "peticao",
+      "duration": 1.5,
+      "motion_mse": [
+        1881.796875,
+        3331.7783203125
+      ],
+      "difference_from_old": 5081.92333984375
+    },
+    {
+      "id": "principal",
+      "kind": "tecla",
+      "duration": 1.4,
+      "motion_mse": [
+        213.7887725830078,
+        213.7157745361328
+      ],
+      "difference_from_old": 12171.1513671875
+    }
+  ],
+  "source_files_unchanged": true,
+  "monitor_preserved_psnr": 47.79978364411126,
+  "photo_preserved_psnr": 54.10498371172842,
+  "full_audio_correlation": 0.9998413835804357,
+  "voice_file_bit_identical": true,
+  "original_mix_unchanged_outside_effects": true,
+  "standing_dery": false,
+  "new_subtitles": 0,
+  "video_clips": 15,
+  "each_gag_continuous": true,
+  "speed_1x": true,
+  "all_resources_resolve": true,
+  "zip_integrity": true,
+  "filmora_native_open": false
+}

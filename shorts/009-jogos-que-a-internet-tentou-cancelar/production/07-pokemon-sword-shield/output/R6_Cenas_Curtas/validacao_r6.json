@@ -1,0 +1,57 @@
+{
+  "episode": "07-pokemon-sword-shield",
+  "outputs": [
+    {
+      "file": "Pokemon_Sword_Shield_R6_9x16.mp4",
+      "frames": 1390,
+      "sha256": "d717a9fc6b3c9602fb10c06053f8c7c776ad8881aa703a3ef2addce3652a1c11"
+    },
+    {
+      "file": "Pokemon_Sword_Shield_R6_16x9.mp4",
+      "frames": 1390,
+      "sha256": "aa2bd71e45daae40e5a8ae09a024a9ac48e237c19eedb888ad020240a12c18dd"
+    },
+    {
+      "file": "Pokemon_Sword_Shield_base_9x16.mp4",
+      "frames": 1390,
+      "sha256": "2836f48f649da98d9748f09fdc8804ca717cea56e7881c0f3e2e14fb122fd933"
+    }
+  ],
+  "gag_count": 2,
+  "gags": [
+    {
+      "id": "viagem",
+      "kind": "viagem",
+      "duration": 1.6,
+      "motion_mse": [
+        610.87841796875,
+        1069.7593994140625
+      ],
+      "difference_from_old": 3886.94921875
+    },
+    {
+      "id": "principal",
+      "kind": "pokebola",
+      "duration": 1.5,
+      "motion_mse": [
+        489.9687805175781,
+        3298.96728515625
+      ],
+      "difference_from_old": 7341.64697265625
+    }
+  ],
+  "source_files_unchanged": true,
+  "monitor_preserved_psnr": 48.433970696811784,
+  "photo_preserved_psnr": 60.3511300342301,
+  "full_audio_correlation": 0.9999028942530658,
+  "voice_file_bit_identical": true,
+  "original_mix_unchanged_outside_effects": true,
+  "standing_dery": false,
+  "new_subtitles": 0,
+  "video_clips": 16,
+  "each_gag_continuous": true,
+  "speed_1x": true,
+  "all_resources_resolve": true,
+  "zip_integrity": true,
+  "filmora_native_open": false
+}

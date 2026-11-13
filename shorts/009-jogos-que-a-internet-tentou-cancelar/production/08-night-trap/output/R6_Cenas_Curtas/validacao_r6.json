@@ -1,0 +1,57 @@
+{
+  "episode": "08-night-trap",
+  "outputs": [
+    {
+      "file": "Night_Trap_R6_9x16.mp4",
+      "frames": 1299,
+      "sha256": "b5c4fee887fef6e13e428570e1c02987d04b6a5a8e16e7a586e32778ad39c1ae"
+    },
+    {
+      "file": "Night_Trap_R6_16x9.mp4",
+      "frames": 1299,
+      "sha256": "a2122fb39273562f22bef240c44388a0aa83e1cda0e1e0dc4c6923f33032ddc4"
+    },
+    {
+      "file": "Night_Trap_base_9x16.mp4",
+      "frames": 1299,
+      "sha256": "d723d97265f15bd485c8f7b41b25bda0477935602664e1f4fa45a845ad7ab16b"
+    }
+  ],
+  "gag_count": 2,
+  "gags": [
+    {
+      "id": "principal",
+      "kind": "vampiro",
+      "duration": 1.7,
+      "motion_mse": [
+        338.533203125,
+        610.8264770507812
+      ],
+      "difference_from_old": 3248.54052734375
+    },
+    {
+      "id": "surto",
+      "kind": "surto",
+      "duration": 1.4,
+      "motion_mse": [
+        397.4110412597656,
+        416.63970947265625
+      ],
+      "difference_from_old": 5811.45166015625
+    }
+  ],
+  "source_files_unchanged": true,
+  "monitor_preserved_psnr": 46.45143358946772,
+  "photo_preserved_psnr": 55.36756441769832,
+  "full_audio_correlation": 0.99983237907025,
+  "voice_file_bit_identical": true,
+  "original_mix_unchanged_outside_effects": true,
+  "standing_dery": false,
+  "new_subtitles": 0,
+  "video_clips": 13,
+  "each_gag_continuous": true,
+  "speed_1x": true,
+  "all_resources_resolve": true,
+  "zip_integrity": true,
+  "filmora_native_open": false
+}

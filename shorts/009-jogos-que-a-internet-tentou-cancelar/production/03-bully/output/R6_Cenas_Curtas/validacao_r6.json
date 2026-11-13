@@ -1,0 +1,57 @@
+{
+  "episode": "03-bully",
+  "outputs": [
+    {
+      "file": "Bully_R6_9x16.mp4",
+      "frames": 1411,
+      "sha256": "e235cd7190332f9036ae6bd5d950eea23bd78e06bfc3984ac501b4accb6a7b67"
+    },
+    {
+      "file": "Bully_R6_16x9.mp4",
+      "frames": 1411,
+      "sha256": "30f18fb6a8c0d9cd0819a09e090ccf0aceae9c21108eb231254f391d418a5772"
+    },
+    {
+      "file": "Bully_base_9x16.mp4",
+      "frames": 1411,
+      "sha256": "b4f706201a3f0788b2787f733b797a251bcc4fbc4d56a782b693c58179f6a74b"
+    }
+  ],
+  "gag_count": 2,
+  "gags": [
+    {
+      "id": "principal",
+      "kind": "juiz",
+      "duration": 1.6,
+      "motion_mse": [
+        603.5375366210938,
+        793.2123413085938
+      ],
+      "difference_from_old": 3544.149169921875
+    },
+    {
+      "id": "disco_grade",
+      "kind": "disco_grade",
+      "duration": 1.1666666666666667,
+      "motion_mse": [
+        929.094970703125,
+        567.3746948242188
+      ],
+      "difference_from_old": 3019.521240234375
+    }
+  ],
+  "source_files_unchanged": true,
+  "monitor_preserved_psnr": 49.799674644828556,
+  "photo_preserved_psnr": 56.97462596819118,
+  "full_audio_correlation": 0.9998898132344554,
+  "voice_file_bit_identical": true,
+  "original_mix_unchanged_outside_effects": true,
+  "standing_dery": false,
+  "new_subtitles": 0,
+  "video_clips": 18,
+  "each_gag_continuous": true,
+  "speed_1x": true,
+  "all_resources_resolve": true,
+  "zip_integrity": true,
+  "filmora_native_open": false
+}

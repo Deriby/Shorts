@@ -1,5 +1,7 @@
 # BMX XXX — Jogos que a internet tentou cancelar
 
+**[Entrega atual R6 — 2 ceninhas curtas, MP4s e Filmora](output/R6_Cenas_Curtas/README.md).**
+
 Segundo capítulo, com a voz e as mídias do pacote enviado pelo usuário. O roteiro da animação acompanha a gravação integral; não foi criada outra voz. [Plano por trechos](roteiro_animacao.md) e [fontes](fontes.md).
 
 ## Entregas

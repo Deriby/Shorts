@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "start": 2.584,
+      "duration": 0.36,
+      "file": "ceninha_01.wav",
+      "gag_id": "principal",
+      "kind": "vampiro"
+    },
+    {
+      "start": 24.504,
+      "duration": 0.36,
+      "file": "ceninha_02.wav",
+      "gag_id": "surto",
+      "kind": "surto"
+    }
+  ],
+  "original_mix_unchanged_outside_effects": true,
+  "voice_file_unchanged": true
+}

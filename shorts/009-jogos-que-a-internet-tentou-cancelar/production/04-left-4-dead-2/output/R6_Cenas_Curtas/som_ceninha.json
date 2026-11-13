@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "start": 10.776000000000002,
+      "duration": 0.36,
+      "file": "ceninha_01.wav",
+      "gag_id": "principal",
+      "kind": "sequencia"
+    },
+    {
+      "start": 37.945,
+      "duration": 0.36,
+      "file": "ceninha_02.wav",
+      "gag_id": "amor_sequencia",
+      "kind": "amor_sequencia"
+    }
+  ],
+  "original_mix_unchanged_outside_effects": true,
+  "voice_file_unchanged": true
+}

@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "start": 4.958333333333333,
+      "duration": 0.36,
+      "file": "ceninha_01.wav",
+      "gag_id": "principal",
+      "kind": "recuo"
+    },
+    {
+      "start": 23.548,
+      "duration": 0.36,
+      "file": "ceninha_02.wav",
+      "gag_id": "sem_graca",
+      "kind": "sem_graca"
+    }
+  ],
+  "original_mix_unchanged_outside_effects": true,
+  "voice_file_unchanged": true
+}

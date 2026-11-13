@@ -1,0 +1,67 @@
+{
+  "episode": "01-gta-san-andreas",
+  "outputs": [
+    {
+      "file": "GTA_San_Andreas_R6_9x16.mp4",
+      "frames": 1602,
+      "sha256": "4d61d8e4fd5cbc97fbea24953b4a538eb9d409711a22c942ac6386732ed33c92"
+    },
+    {
+      "file": "GTA_San_Andreas_R6_16x9.mp4",
+      "frames": 1602,
+      "sha256": "6887f14a2b684f9c3aa5887551aece256bd60028fadecf4651cc746fce40c53f"
+    },
+    {
+      "file": "GTA_base_R2_9x16.mp4",
+      "frames": 1602,
+      "sha256": "088163f25ddcdec6aaff5da7a925d031157487e0cb0751ddab3ff06f9a272207"
+    }
+  ],
+  "gag_count": 3,
+  "gags": [
+    {
+      "id": "arquivos_cafe",
+      "kind": "arquivos_cafe",
+      "duration": 1.4,
+      "motion_mse": [
+        554.2645263671875,
+        188.52647399902344
+      ],
+      "difference_from_old": 4829.7314453125
+    },
+    {
+      "id": "estrelas_cafe",
+      "kind": "estrelas_cafe",
+      "duration": 1.4,
+      "motion_mse": [
+        102.05686950683594,
+        45.35607147216797
+      ],
+      "difference_from_old": 5034.52099609375
+    },
+    {
+      "id": "principal",
+      "kind": "cafe",
+      "duration": 1.3333333333333333,
+      "motion_mse": [
+        3507.591064453125,
+        0.009855484589934349
+      ],
+      "difference_from_old": 3935.8310546875
+    }
+  ],
+  "source_files_unchanged": true,
+  "monitor_preserved_psnr": 46.60146818264841,
+  "photo_preserved_psnr": 50.80376159023122,
+  "full_audio_correlation": 0.999820870226247,
+  "voice_file_bit_identical": true,
+  "original_mix_unchanged_outside_effects": true,
+  "standing_dery": false,
+  "new_subtitles": 0,
+  "video_clips": 24,
+  "each_gag_continuous": true,
+  "speed_1x": true,
+  "all_resources_resolve": true,
+  "zip_integrity": true,
+  "filmora_native_open": false
+}

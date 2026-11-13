@@ -1,5 +1,7 @@
 # 08 — Night Trap
 
+**[Entrega atual R6 — 2 ceninhas curtas, MP4s e Filmora](output/R6_Cenas_Curtas/README.md).**
+
 Oitavo capítulo de “Jogos que a internet tentou cancelar”, com a gravação inteira enviada pelo usuário.
 
 - [Short 9:16](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/08-night-trap/output/Night_Trap_Cancelar_9x16.mp4).

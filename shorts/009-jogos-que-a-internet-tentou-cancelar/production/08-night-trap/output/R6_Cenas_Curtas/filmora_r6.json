@@ -1,0 +1,26 @@
+{
+  "source_project": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/08-night-trap/output/Filmora/Night_Trap_9x16.wfp",
+  "source_project_unchanged": true,
+  "project": "Night_Trap_R6_9x16.wfp",
+  "video_clips": 13,
+  "gag_count": 2,
+  "each_gag_continuous": true,
+  "gag_ranges_ticks": [
+    [
+      17000000,
+      34000000
+    ],
+    [
+      240000000,
+      254000000
+    ]
+  ],
+  "new_subtitles": 0,
+  "new_sound_files": [
+    "ceninha_01.wav",
+    "ceninha_02.wav"
+  ],
+  "all_media_bundled": true,
+  "only_9x16": true,
+  "filmora_native_open": false
+}

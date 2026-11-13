@@ -1,0 +1,57 @@
+{
+  "episode": "04-left-4-dead-2",
+  "outputs": [
+    {
+      "file": "Left_4_Dead_2_R6_9x16.mp4",
+      "frames": 1236,
+      "sha256": "06a518c6b0b818bbb3148187480dec6b80ab32906d135f9306dff6586f4b9f8f"
+    },
+    {
+      "file": "Left_4_Dead_2_R6_16x9.mp4",
+      "frames": 1236,
+      "sha256": "d09334cb87eb34d01327ba4a6935a69b3c9248ae896d8e28581ec66a4b5d79ac"
+    },
+    {
+      "file": "Left_4_Dead_2_base_9x16.mp4",
+      "frames": 1236,
+      "sha256": "7bbed31442e88559c5eed44f81170cc0d9b639043cb1ea73ca29a9c939239b87"
+    }
+  ],
+  "gag_count": 2,
+  "gags": [
+    {
+      "id": "principal",
+      "kind": "sequencia",
+      "duration": 1.6,
+      "motion_mse": [
+        624.241943359375,
+        869.1802368164062
+      ],
+      "difference_from_old": 4270.302734375
+    },
+    {
+      "id": "amor_sequencia",
+      "kind": "amor_sequencia",
+      "duration": 1.5,
+      "motion_mse": [
+        600.8440551757812,
+        569.6714477539062
+      ],
+      "difference_from_old": 3501.889404296875
+    }
+  ],
+  "source_files_unchanged": true,
+  "monitor_preserved_psnr": 47.2700383034504,
+  "photo_preserved_psnr": 57.285358011141724,
+  "full_audio_correlation": 0.9999429982384931,
+  "voice_file_bit_identical": true,
+  "original_mix_unchanged_outside_effects": true,
+  "standing_dery": false,
+  "new_subtitles": 0,
+  "video_clips": 15,
+  "each_gag_continuous": true,
+  "speed_1x": true,
+  "all_resources_resolve": true,
+  "zip_integrity": true,
+  "filmora_native_open": false
+}

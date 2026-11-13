@@ -1,0 +1,15 @@
+REVISÃO R6 — CENINHAS CURTAS LIGADAS ÀS FALAS
+
+Extraia o ZIP inteiro. Projeto somente 9:16, com mídias em midias/.
+Voz, trilha, sons anteriores e sons discretos das novas cenas ficam separados.
+A base de vídeo é silenciosa. Os inserts curtos entram nas falas indicadas;
+o restante da montagem, o jogo no PC e a duração continuam preservados.
+Dery fica sentado; o PSX é da animação. Gameplay/fotos/memes ficam limpos.
+Nenhuma legenda foi acrescentada. Os títulos nativos antigos de GTA/BMX
+continuam editáveis, como no projeto recebido.
+
+O nome da base foi mantido para facilitar a troca num projeto já legendado.
+Para os novos cortes e o efeito sonoro separado, abra este WFP R6.
+O projeto Filmora do longo 16:9 continua reservado ao final da série.
+Os MP4s são composições do ambiente; Filmora não foi executado no Linux.
+Estrutura/recursos conferidos não substituem a abertura no aplicativo.

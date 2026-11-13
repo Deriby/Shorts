@@ -1,5 +1,7 @@
 # 06 — GTA V
 
+**[Entrega atual R6 — 2 ceninhas curtas, MP4s e Filmora](output/R6_Cenas_Curtas/README.md).**
+
 Sexto capítulo de “Jogos que a internet tentou cancelar”, depois de Saints Row IV.
 
 - [Short 9:16](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/output/GTA_V_Cancelar_9x16.mp4).

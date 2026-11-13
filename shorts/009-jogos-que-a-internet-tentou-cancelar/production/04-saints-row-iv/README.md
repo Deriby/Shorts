@@ -1,5 +1,7 @@
 # 05 — Saints Row IV — Jogos que a internet tentou cancelar
 
+**[Entrega atual R6 — 2 ceninhas curtas, MP4s e Filmora](output/R6_Cenas_Curtas/README.md).**
+
 Voz completa de 40,673 s; vídeos de **41 s**, 30 fps. [Roteiro da animação](roteiro_animacao.md), [fontes](fontes.md) e [recebimento](recebimento.json).
 
 - `output/Saints_Row_IV_Cancelar_9x16.mp4`: short 1080×1920.

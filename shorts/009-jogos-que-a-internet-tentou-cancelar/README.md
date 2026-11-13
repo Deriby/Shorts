@@ -15,7 +15,11 @@ Série em produção para o Massacote Games. Os capítulos **GTA San Andreas / H
 
 A posição editorial do Saints Row IV é a quinta. As entregas existentes mantêm seus links. A ordem está registrada em [ordem_capitulos.json](ordem_capitulos.json).
 
-## Downloads atuais — sem Dery em pé
+## Downloads atuais — R6
+
+**[Oito capítulos revisados: 17 ceninhas, MP4s 9:16/16:9 e Filmora 9:16](production/revisao_r6/README.md).**
+
+## Entregas anteriores — sem Dery em pé
 
 **[Night Trap — oitavo capítulo: short, 16:9 e Filmora](production/08-night-trap/README.md).**
 

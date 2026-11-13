@@ -1,5 +1,7 @@
 # 04 — Left 4 Dead 2
 
+**[Entrega atual R6 — 2 ceninhas curtas, MP4s e Filmora](output/R6_Cenas_Curtas/README.md).**
+
 Quarto jogo de “Jogos que a internet tentou cancelar”. Saints Row IV é o quinto.
 
 - [Short 9:16](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-left-4-dead-2/output/Left_4_Dead_2_Cancelar_9x16.mp4).

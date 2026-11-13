@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "start": 28.939999999999998,
+      "duration": 0.36,
+      "file": "ceninha_01.wav",
+      "gag_id": "principal",
+      "kind": "juiz"
+    },
+    {
+      "start": 38.583333333333336,
+      "duration": 0.36,
+      "file": "ceninha_02.wav",
+      "gag_id": "disco_grade",
+      "kind": "disco_grade"
+    }
+  ],
+  "original_mix_unchanged_outside_effects": true,
+  "voice_file_unchanged": true
+}

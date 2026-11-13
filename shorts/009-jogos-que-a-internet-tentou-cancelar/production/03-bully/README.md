@@ -1,5 +1,7 @@
 # Bully — Jogos que a internet tentou cancelar
 
+**[Entrega atual R6 — 2 ceninhas curtas, MP4s e Filmora](output/R6_Cenas_Curtas/README.md).**
+
 Terceiro capítulo, a partir da voz, gameplay e imagens do pacote enviado pelo usuário. [Roteiro da animação](roteiro_animacao.md) e [fontes](fontes.md). A gravação original inteira, de 46,703 s, foi preservada; entrega de 47,033 s com pequeno respiro final.
 
 ## Entregas

@@ -1,0 +1,18 @@
+{
+  "chapters": 8,
+  "gags": 17,
+  "outputs": 24,
+  "all_sources_unchanged": true,
+  "all_voices_identical": true,
+  "native_filmora_executed": false,
+  "reports": [
+    "shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R6_Cenas_Curtas/validacao_r6.json",
+    "shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R6_Cenas_Curtas/validacao_r6.json",
+    "shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R6_Cenas_Curtas/validacao_r6.json",
+    "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-left-4-dead-2/output/R6_Cenas_Curtas/validacao_r6.json",
+    "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/R6_Cenas_Curtas/validacao_r6.json",
+    "shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/output/R6_Cenas_Curtas/validacao_r6.json",
+    "shorts/009-jogos-que-a-internet-tentou-cancelar/production/07-pokemon-sword-shield/output/R6_Cenas_Curtas/validacao_r6.json",
+    "shorts/009-jogos-que-a-internet-tentou-cancelar/production/08-night-trap/output/R6_Cenas_Curtas/validacao_r6.json"
+  ]
+}

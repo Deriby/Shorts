@@ -1,0 +1,57 @@
+{
+  "episode": "02-bmx-xxx",
+  "outputs": [
+    {
+      "file": "BMX_XXX_R6_9x16.mp4",
+      "frames": 1319,
+      "sha256": "44b4ade0a0567faf23aff74ccb89035ab7b0f6a72c8cb0d235626dfa093a1990"
+    },
+    {
+      "file": "BMX_XXX_R6_16x9.mp4",
+      "frames": 1319,
+      "sha256": "842d7c33abf34ab07941be64ef73a6581cf5bc118f690ab7670d6dc0dddb6f1b"
+    },
+    {
+      "file": "BMX_base_9x16.mp4",
+      "frames": 1319,
+      "sha256": "6d28980800afbecc67e75e066ff290cfa19a812adda6973e7f1dcb03adff6b84"
+    }
+  ],
+  "gag_count": 2,
+  "gags": [
+    {
+      "id": "bike_x",
+      "kind": "bike_x",
+      "duration": 1.6,
+      "motion_mse": [
+        281.1094055175781,
+        322.8756103515625
+      ],
+      "difference_from_old": 2496.642578125
+    },
+    {
+      "id": "principal",
+      "kind": "rodas",
+      "duration": 1.7,
+      "motion_mse": [
+        477.3512878417969,
+        199.77000427246094
+      ],
+      "difference_from_old": 3739.7197265625
+    }
+  ],
+  "source_files_unchanged": true,
+  "monitor_preserved_psnr": 48.60308516039893,
+  "photo_preserved_psnr": 56.88895731768427,
+  "full_audio_correlation": 0.9998806602164957,
+  "voice_file_bit_identical": true,
+  "original_mix_unchanged_outside_effects": true,
+  "standing_dery": false,
+  "new_subtitles": 0,
+  "video_clips": 15,
+  "each_gag_continuous": true,
+  "speed_1x": true,
+  "all_resources_resolve": true,
+  "zip_integrity": true,
+  "filmora_native_open": false
+}

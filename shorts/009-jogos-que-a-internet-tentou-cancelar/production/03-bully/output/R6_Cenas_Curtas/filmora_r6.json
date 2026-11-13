@@ -1,0 +1,26 @@
+{
+  "source_project": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R4_Sem_Dery_Em_Pe/Filmora/Bully_R4_9x16.wfp",
+  "source_project_unchanged": true,
+  "project": "Bully_R6_9x16.wfp",
+  "video_clips": 18,
+  "gag_count": 2,
+  "each_gag_continuous": true,
+  "gag_ranges_ticks": [
+    [
+      279000000,
+      295000000
+    ],
+    [
+      380000000,
+      391666667
+    ]
+  ],
+  "new_subtitles": 0,
+  "new_sound_files": [
+    "ceninha_01.wav",
+    "ceninha_02.wav"
+  ],
+  "all_media_bundled": true,
+  "only_9x16": true,
+  "filmora_native_open": false
+}

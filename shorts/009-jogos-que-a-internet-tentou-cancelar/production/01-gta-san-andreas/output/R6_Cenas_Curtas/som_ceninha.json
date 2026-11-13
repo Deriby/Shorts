@@ -1,0 +1,27 @@
+{
+  "events": [
+    {
+      "start": 17.732,
+      "duration": 0.36,
+      "file": "ceninha_01.wav",
+      "gag_id": "arquivos_cafe",
+      "kind": "arquivos_cafe"
+    },
+    {
+      "start": 45.504,
+      "duration": 0.36,
+      "file": "ceninha_02.wav",
+      "gag_id": "estrelas_cafe",
+      "kind": "estrelas_cafe"
+    },
+    {
+      "start": 49.62666666666667,
+      "duration": 0.36,
+      "file": "ceninha_03.wav",
+      "gag_id": "principal",
+      "kind": "cafe"
+    }
+  ],
+  "original_mix_unchanged_outside_effects": true,
+  "voice_file_unchanged": true
+}

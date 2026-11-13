@@ -1,5 +1,7 @@
 # 07 — Pokémon Sword and Shield
 
+**[Entrega atual R6 — 2 ceninhas curtas, MP4s e Filmora](output/R6_Cenas_Curtas/README.md).**
+
 Sétimo capítulo de “Jogos que a internet tentou cancelar”.
 
 - [Short 9:16](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/07-pokemon-sword-shield/output/Pokemon_Sword_Shield_Cancelar_9x16.mp4).

@@ -1,0 +1,57 @@
+{
+  "episode": "04-saints-row-iv",
+  "outputs": [
+    {
+      "file": "Saints_Row_IV_R6_9x16.mp4",
+      "frames": 1230,
+      "sha256": "ce9107fb7ccc2746ef095dd1fc3fdb7f63fa67b570219c4ada0f7ad4c871db67"
+    },
+    {
+      "file": "Saints_Row_IV_R6_16x9.mp4",
+      "frames": 1230,
+      "sha256": "550c50188de9c235d7ed28e99bc83208885436fd92bbcaa58ae4145c70642629"
+    },
+    {
+      "file": "Saints_Row_IV_base_9x16.mp4",
+      "frames": 1230,
+      "sha256": "397b6c8ec019b3d17dd99acd5a625f3aa326587d350dc14bb28c9d27ec61d7ab"
+    }
+  ],
+  "gag_count": 2,
+  "gags": [
+    {
+      "id": "principal",
+      "kind": "recuo",
+      "duration": 1.4333333333333333,
+      "motion_mse": [
+        5081.50439453125,
+        5111.84521484375
+      ],
+      "difference_from_old": 5310.12353515625
+    },
+    {
+      "id": "sem_graca",
+      "kind": "sem_graca",
+      "duration": 1.2,
+      "motion_mse": [
+        345.944580078125,
+        317.8977966308594
+      ],
+      "difference_from_old": 6027.77294921875
+    }
+  ],
+  "source_files_unchanged": true,
+  "monitor_preserved_psnr": 47.320899043265136,
+  "photo_preserved_psnr": 62.51810448816669,
+  "full_audio_correlation": 0.9998555005110571,
+  "voice_file_bit_identical": true,
+  "original_mix_unchanged_outside_effects": true,
+  "standing_dery": false,
+  "new_subtitles": 0,
+  "video_clips": 16,
+  "each_gag_continuous": true,
+  "speed_1x": true,
+  "all_resources_resolve": true,
+  "zip_integrity": true,
+  "filmora_native_open": false
+}
