@@ -1,0 +1,145 @@
+{
+  "duration": 43.3,
+  "delivery_fps": 30,
+  "animation_fps": 30,
+  "voice_full": true,
+  "voice_speed": 1,
+  "voice_pitch_unchanged": true,
+  "mix_gain": 0.9702089170568468,
+  "music_source": "Original quiet retro synth notes; narration ducking",
+  "sfx": [
+    {
+      "start": 6.8,
+      "file": "plop_comico.wav"
+    },
+    {
+      "start": 25.5,
+      "file": "plop_comico.wav"
+    }
+  ],
+  "titles": [],
+  "edits": [
+    {
+      "shot": 0,
+      "start": 0.0,
+      "end": 3.4,
+      "zoom_start": 1.0,
+      "zoom_end": 1.0,
+      "portrait_zoom_end": 1.0,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 1,
+      "start": 3.4,
+      "end": 7.266666666666667,
+      "zoom_start": 1.0,
+      "zoom_end": 1.035,
+      "portrait_zoom_end": 1.035,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 2,
+      "start": 7.266666666666667,
+      "end": 11.5,
+      "zoom_start": 1.0,
+      "zoom_end": 1.08,
+      "portrait_zoom_end": 1.045,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 3,
+      "start": 11.5,
+      "end": 15.333333333333334,
+      "zoom_start": 1.0,
+      "zoom_end": 1.0,
+      "portrait_zoom_end": 1.0,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 4,
+      "start": 15.333333333333334,
+      "end": 19.0,
+      "zoom_start": 1.0,
+      "zoom_end": 1.0,
+      "portrait_zoom_end": 1.0,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 5,
+      "start": 19.0,
+      "end": 23.3,
+      "zoom_start": 1.0,
+      "zoom_end": 1.0,
+      "portrait_zoom_end": 1.0,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 6,
+      "start": 23.3,
+      "end": 27.9,
+      "zoom_start": 1.0,
+      "zoom_end": 1.07,
+      "portrait_zoom_end": 1.045,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 7,
+      "start": 27.9,
+      "end": 33.6,
+      "zoom_start": 1.0,
+      "zoom_end": 1.035,
+      "portrait_zoom_end": 1.035,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 8,
+      "start": 33.6,
+      "end": 38.7,
+      "zoom_start": 1.0,
+      "zoom_end": 1.08,
+      "portrait_zoom_end": 1.045,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 9,
+      "start": 38.7,
+      "end": 43.3,
+      "zoom_start": 1.0,
+      "zoom_end": 1.07,
+      "portrait_zoom_end": 1.045,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    }
+  ],
+  "whole_frame_shake": false,
+  "subtitles": false
+}

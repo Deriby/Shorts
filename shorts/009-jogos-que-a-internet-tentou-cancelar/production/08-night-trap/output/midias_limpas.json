@@ -1,0 +1,32 @@
+{
+  "chapter": "Night Trap",
+  "frames": 1299,
+  "media_original_resolution": true,
+  "media_rgb555": false,
+  "media_dither": false,
+  "media_nearest": false,
+  "media_affine_warp": false,
+  "crt_perspective": true,
+  "crt_occlusion_mask": true,
+  "crt_aspect_preserved": true,
+  "psx_animation_preserved": true,
+  "legacy_animation_reused": false,
+  "source_sizes": {
+    "ending.mp4": [
+      640,
+      480
+    ],
+    "megan.mp4": [
+      640,
+      480
+    ]
+  },
+  "outputs": [
+    "output/Night_Trap_Cancelar_9x16.mp4",
+    "output/Night_Trap_Cancelar_16x9.mp4",
+    "output/Filmora/midias/Night_Trap_base_9x16.mp4"
+  ],
+  "projection_sha256": "159eb13b201d59a10e3de64e329e29fa89561e38876251ffe1b66d57d967d40e",
+  "wide_gameplay_fit": "contain",
+  "wide_ui_intact": true
+}

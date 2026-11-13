@@ -1,0 +1,71 @@
+{
+  "chapter": "Night Trap",
+  "chapter_order": 8,
+  "drive_file_id": "1SdzwnXLG0rNUFBG1syNUvcFNGZIa79sT",
+  "package": "pacote.zip",
+  "package_sha256": "3a4ffa30bd1238a507e180f8b74b0a6a4c83528da0abc2a2969974da262e62c2",
+  "assets": [
+    {
+      "original": "08 - VOZ Night Trap.wav",
+      "asset": "assets/voz/voz_original.wav",
+      "bytes": 8263532,
+      "sha256": "2aa86c3bb4c17d6cdf74daffe93c52aceb21dda25ce2345eb290da46a6519ca9"
+    },
+    {
+      "original": "night-trap-sega-cd-ending-480-ytshorts.savetube.me.mp4",
+      "asset": "assets/gameplay/ending.mp4",
+      "bytes": 9944388,
+      "sha256": "714ef6bb4f576fd5ff86b772d870d267de4ee6256a478810170585f986ac9543"
+    },
+    {
+      "original": "night-trap-sega-cd-megan-is-dead-480-ytshorts.savetube.me.mp4",
+      "asset": "assets/gameplay/megan.mp4",
+      "bytes": 3319052,
+      "sha256": "da130a90579d36f3e9efa9cedc3ed98f218b00f4dae50e9c0689fe1ad46b70e3"
+    },
+    {
+      "original": "images.jpg",
+      "asset": "assets/imagens/capa_mega_cd.jpg",
+      "bytes": 49624,
+      "sha256": "6de8ffaeff3852c3125a9b6361ab662a89e7c10527074d19f09b311fdcb6910e"
+    },
+    {
+      "original": "NT.png",
+      "asset": "assets/imagens/arte_night_trap.png",
+      "bytes": 1146408,
+      "sha256": "a6b90b066ce86b51d2e9b635f66393ad04569f51be110881e818c39357c89be3"
+    },
+    {
+      "original": "night-trap.jpg",
+      "asset": "assets/imagens/arte_reedicao.jpg",
+      "bytes": 688585,
+      "sha256": "b8c68f3283ba0ca2fa704b090388489fe959047d18f1810cb3dcba2f6eb0c769"
+    },
+    {
+      "original": "maxresdefault.jpg",
+      "asset": "assets/imagens/elenco.jpg",
+      "bytes": 99209,
+      "sha256": "02dbf5572fd0a7ee146c977773705c9d7efa45614e425ccc250288d29dd29043"
+    },
+    {
+      "original": "MV5BZTBmNjRiZDctZmVhMS00NDAzLTlmNzUtNTYxNTE4OGI0NGI0XkEyXkFqcGc@._V1_.jpg",
+      "asset": "assets/imagens/tela_banheiro.jpg",
+      "bytes": 114708,
+      "sha256": "429f5ee2aedb7efa49632e562e20a1ba1d9cf1ee497442132c97b8f858f92fa2"
+    }
+  ],
+  "selected_assets": [
+    "voz/voz_original.wav",
+    "gameplay/ending.mp4",
+    "gameplay/megan.mp4",
+    "imagens/arte_night_trap.png",
+    "imagens/capa_mega_cd.jpg"
+  ],
+  "notes": [
+    "Imagens e filmagens enviadas pelo usuário; sem novos vídeos externos.",
+    "As gravações mostram o jogo, não as audiências do Senado ou a retirada comercial.",
+    "A arte de reedição com classificação Mature não é usada como embalagem histórica de 1992.",
+    "Voz original integral, sem cortes ou fala nova."
+  ],
+  "internal_directory": "08 - Night Trap"
+}

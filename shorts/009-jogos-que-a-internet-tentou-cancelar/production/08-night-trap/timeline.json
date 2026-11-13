@@ -1,0 +1,121 @@
+{
+  "title": "Jogos que a internet tentou cancelar",
+  "chapter": "Night Trap",
+  "chapter_order": 8,
+  "slug": "Night_Trap",
+  "model": "Dery_Night_Trap.blend",
+  "fps": 30,
+  "frames": 1299,
+  "duration": 43.3,
+  "voice_duration": 43.038480725623586,
+  "voice_edited": false,
+  "revision": 5,
+  "clean_media": true,
+  "standing_dery": false,
+  "monitor_file": "assets/monitor/monitor_completo.mp4",
+  "cache": "/workspace/attachments/night_trap",
+  "render_size": [
+    768,
+    432
+  ],
+  "portrait_safe_crop": [
+    263,
+    0,
+    243,
+    432
+  ],
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 102,
+      "kind": "monitor",
+      "mood": "gancho",
+      "source": "ending.mp4",
+      "source_start": 20.6
+    },
+    {
+      "id": 1,
+      "start": 103,
+      "end": 218,
+      "kind": "close",
+      "mood": "escandalo",
+      "source": "ending.mp4",
+      "source_start": 24
+    },
+    {
+      "id": 2,
+      "start": 219,
+      "end": 345,
+      "kind": "photo",
+      "mood": "identidade",
+      "source": "arte_night_trap.png",
+      "source_start": 0
+    },
+    {
+      "id": 3,
+      "start": 346,
+      "end": 460,
+      "kind": "game",
+      "mood": "atores_reais",
+      "source": "ending.mp4",
+      "source_start": 13,
+      "portrait_fit": "contain"
+    },
+    {
+      "id": 4,
+      "start": 461,
+      "end": 570,
+      "kind": "monitor",
+      "mood": "proteger",
+      "source": "megan.mp4",
+      "source_start": 5.4
+    },
+    {
+      "id": 5,
+      "start": 571,
+      "end": 699,
+      "kind": "game",
+      "mood": "invasores",
+      "source": "megan.mp4",
+      "source_start": 17,
+      "portrait_fit": "contain"
+    },
+    {
+      "id": 6,
+      "start": 700,
+      "end": 837,
+      "kind": "host",
+      "mood": "surto",
+      "source": "megan.mp4",
+      "source_start": 21
+    },
+    {
+      "id": 7,
+      "start": 838,
+      "end": 1008,
+      "kind": "close",
+      "mood": "audiencia",
+      "source": "ending.mp4",
+      "source_start": 40
+    },
+    {
+      "id": 8,
+      "start": 1009,
+      "end": 1161,
+      "kind": "photo",
+      "mood": "prateleiras",
+      "source": "capa_mega_cd.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 9,
+      "start": 1162,
+      "end": 1299,
+      "kind": "host",
+      "mood": "retirada",
+      "source": "ending.mp4",
+      "source_start": 60
+    }
+  ]
+}

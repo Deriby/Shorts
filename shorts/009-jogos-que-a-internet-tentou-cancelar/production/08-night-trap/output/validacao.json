@@ -1,0 +1,44 @@
+{
+  "videos": [
+    {
+      "file": "Night_Trap_Cancelar_9x16.mp4",
+      "frames": 1299,
+      "sha256": "0b583973c9efcee180eaf268899e018b4c2f3d4845b8b25e88b75df45419b008"
+    },
+    {
+      "file": "Night_Trap_Cancelar_16x9.mp4",
+      "frames": 1299,
+      "sha256": "7045ca34aa1bc86b6db2cf3720b3520bbe0b01d464dbb63a02924a668782a228"
+    },
+    {
+      "file": "Night_Trap_base_9x16.mp4",
+      "frames": 1299,
+      "sha256": "706bf7c5f167073a0b1e8257ae7c4ce7c51430befc21911861750025b8724cba"
+    }
+  ],
+  "chapter_order": 8,
+  "voice_duration": 43.038480725623586,
+  "full_voice_pcm_preserved": true,
+  "voice_in_package_bit_identical": true,
+  "full_audio_correlation": 0.999842777439321,
+  "crt_motion_mse": [
+    55.347511291503906,
+    67.92404174804688,
+    43.57582473754883
+  ],
+  "cover_clean_psnr": 39.13287815664808,
+  "standing_dery": false,
+  "new_props": false,
+  "native_titles": 0,
+  "face_ids": 35,
+  "animation_fps": 30,
+  "media_psx": false,
+  "psx_animation": true,
+  "filmora_clips": 14,
+  "resources_resolve": true,
+  "speed_1x": true,
+  "zip_integrity": true,
+  "filmora_native_open": false,
+  "gameplay_entire_frame_psnr": 42.642512032717065,
+  "wide_gameplay_entire_frame_psnr": 40.1254385476087
+}

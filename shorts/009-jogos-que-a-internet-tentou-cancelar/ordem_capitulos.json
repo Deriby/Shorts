@@ -58,6 +58,17 @@
         "chapter_16x9": "production/07-pokemon-sword-shield/output/Pokemon_Sword_Shield_Cancelar_16x9.mp4",
         "filmora_9x16": "production/07-pokemon-sword-shield/output/Pokemon_Sword_Shield_Filmora.zip"
       }
+    },
+    {
+      "order": 8,
+      "game": "Night Trap",
+      "production_path": "production/08-night-trap",
+      "status": "produzido",
+      "deliveries": {
+        "short": "production/08-night-trap/output/Night_Trap_Cancelar_9x16.mp4",
+        "chapter_16x9": "production/08-night-trap/output/Night_Trap_Cancelar_16x9.mp4",
+        "filmora_9x16": "production/08-night-trap/output/Night_Trap_Filmora.zip"
+      }
     }
   ]
 }
