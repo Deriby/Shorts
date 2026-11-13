@@ -2,7 +2,7 @@
 
 **Revisão atual: apoio real nas coxas.** [Ver o teste de 8 s](https://github.com/Deriby/Shorts/raw/refs/heads/main/assets/personagens/dery/atuacao_sentada_teste_v1/output/Teste_Apoio_Real_8s_9x16.mp4) · [Quadros](output/Quadros_Apoio_Real.jpg) · [Blender](output/Dery_Atuacao_Apoio_Real.blend)
 
-A pose de descanso foi refeita: cada mão repousa sobre a respectiva coxa, a direita sobe para o gesto e retorna à superfície. A cadeira e os demais objetos permanecem originais. Só os braços/antebraços/mãos recebem novas curvas. O ritmo do gesto, a voz, as expressões, o corpo/cabeça, a câmera e o PSX permanecem os mesmos. Não há apoio novo nem descanso suspenso. A avaliação estética da correção continua com o usuário.
+A pose de descanso foi refeita: cada mão repousa sobre a respectiva coxa, a direita sobe para o gesto e retorna à superfície. A cadeira e os demais objetos permanecem originais. Só os braços/antebraços/mãos recebem novas curvas. O ritmo do gesto, a voz, as expressões, o corpo/cabeça, a câmera e o PSX permanecem os mesmos. Não há apoio novo nem descanso suspenso. **Aprovado pelo usuário: “Aí po ficou perfeito”.** Esta revisão é a referência de atuação sentada para os próximos conteúdos autorizados, com gestos adaptados a cada fala.
 
 `corrigir_apoio_real.py` encontra as superfícies reais das calças pela malha avaliada e confere a pele das mãos em descanso, incluindo o retorno e a antecipação. `validacao_apoio_real.json` registra os intervalos de contato antes do snapping de tela e a preservação das curvas dos demais ossos. A pose não é calculada pela altura isolada do punho. O ápice do gesto é preservado; as transições são refeitas para conectar a nova posição de repouso.
 
