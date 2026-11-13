@@ -1,0 +1,36 @@
+{
+  "title": "Jogos que a internet tentou cancelar",
+  "chapters": [
+    {
+      "order": 1,
+      "game": "GTA San Andreas",
+      "production_path": "production/01-gta-san-andreas",
+      "status": "produzido"
+    },
+    {
+      "order": 2,
+      "game": "BMX XXX",
+      "production_path": "production/02-bmx-xxx",
+      "status": "produzido"
+    },
+    {
+      "order": 3,
+      "game": "Bully",
+      "production_path": "production/03-bully",
+      "status": "produzido"
+    },
+    {
+      "order": 4,
+      "game": "Left 4 Dead 2",
+      "production_path": "production/04-left-4-dead-2",
+      "status": "materiais_recebidos"
+    },
+    {
+      "order": 5,
+      "game": "Saints Row IV",
+      "production_path": "production/04-saints-row-iv",
+      "status": "produzido",
+      "path_note": "Caminho histórico preservado para manter entregas e referências existentes; a posição editorial é 5."
+    }
+  ]
+}

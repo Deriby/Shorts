@@ -1,7 +1,7 @@
 from pathlib import Path
 import bpy,sys,json,hashlib,time
 P=Path(__file__).resolve().parent;worker,total=map(int,sys.argv[sys.argv.index('--')+1:][:2]);start=time.monotonic()
-for project in sorted(P.parent.glob('0[1-4]-*')):
+for project in [P.parent/name for name in ['01-gta-san-andreas','02-bmx-xxx','03-bully','04-saints-row-iv']]:
  out=project/'output/R4_Sem_Dery_Em_Pe';info=json.loads((out/'timeline.json').read_text());data=json.loads((out/'animacao_revisada.json').read_text());model=out/(info['slug']+'_R4_Dery_Sentado.blend');C=Path('/workspace/attachments/revisao_r4')/project.name/'frames';C.mkdir(parents=True,exist_ok=True);stamp=C/'source.sha256';digest=hashlib.sha256(model.read_bytes()).hexdigest()
  if stamp.exists():assert stamp.read_text().strip()==digest
  else:stamp.write_text(digest+'\n')

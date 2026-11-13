@@ -2,7 +2,7 @@
 from pathlib import Path
 import json,sys,zipfile,copy,uuid,shutil,hashlib,subprocess
 P=Path(__file__).resolve().parent;ROOT=P.parent
-for project in ([ROOT/name for name in sys.argv[1:]] if len(sys.argv)>1 else sorted(ROOT.glob('0[1-4]-*'))):
+for project in ([ROOT/name for name in sys.argv[1:]] if len(sys.argv)>1 else [ROOT/name for name in ['01-gta-san-andreas','02-bmx-xxx','03-bully','04-saints-row-iv']]):
  out=project/'output/R4_Sem_Dery_Em_Pe';info=json.loads((out/'timeline.json').read_text());slug=info['slug'];oldout=project/'output'/(''if project.name.startswith('04-')else'R3_Midias_Limpas');srcdir=oldout/'Filmora';dest=out/'Filmora';media=dest/'midias';source=next(srcdir.glob('*.wfp'));source_sha=hashlib.sha256(source.read_bytes()).hexdigest()
  with zipfile.ZipFile(source)as z:files={n:z.read(n)for n in z.namelist()}
  tl=next(n for n in files if n.endswith('timeline.wesproj'));data=json.loads(files[tl]);main=data['timelineInfos'][0];video_track=next(tr for tr in main['trackInfos']if any(c.get('filename','').endswith('.mp4')for c in tr['clipList']));oldclips=video_track['clipList'];newclips=[]

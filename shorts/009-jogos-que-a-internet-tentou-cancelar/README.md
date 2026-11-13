@@ -1,6 +1,16 @@
 # Jogos que a internet tentou cancelar
 
-Série em produção para o Massacote Games. Os capítulos **GTA San Andreas / Hot Coffee**, **BMX XXX**, **Bully** e **Saints Row IV** usam a voz e as mídias enviadas pelo usuário. Os capítulos MP4 16:9 ficam preparados para a montagem futura; o projeto Filmora do longo será feito com todos os jogos apenas no final.
+Série em produção para o Massacote Games. Os capítulos **GTA San Andreas / Hot Coffee**, **BMX XXX**, **Bully**, **Left 4 Dead 2** e **Saints Row IV** usam a voz e as mídias enviadas pelo usuário. Os capítulos MP4 16:9 ficam preparados para a montagem futura; o projeto Filmora do longo será feito com todos os jogos apenas no final.
+
+## Ordem dos capítulos
+
+1. GTA San Andreas
+2. BMX XXX
+3. Bully
+4. [Left 4 Dead 2 — materiais recebidos](production/04-left-4-dead-2/README.md)
+5. Saints Row IV
+
+A posição editorial do Saints Row IV é a quinta. As entregas existentes mantêm seus links. A ordem está registrada em [ordem_capitulos.json](ordem_capitulos.json).
 
 ## Downloads atuais — sem Dery em pé
 
@@ -50,7 +60,11 @@ Voz integral, tribunal com a piada do controle e vinheta do veto comercial brasi
 
 47,033 segundos, 30 fps. Somente WFP 9:16 agora; o projeto do longo fica para o final. O Filmora nativo não foi executado neste ambiente.
 
-## 04 — Saints Row IV
+## 04 — Left 4 Dead 2
+
+[Materiais recebidos, inventário e direção](production/04-left-4-dead-2/README.md).
+
+## 05 — Saints Row IV
 
 Voz completa de 40,673 s; entrega de **41 s**, 30 fps. Mídias limpas, PSX na animação e vinheta de classificação australiana com a versão modificada.
 

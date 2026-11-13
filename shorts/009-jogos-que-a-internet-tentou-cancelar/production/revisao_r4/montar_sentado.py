@@ -5,7 +5,7 @@ from mathutils import Vector,Matrix,Quaternion
 P=Path(__file__).resolve().parent;ROOT=P.parent;REPO=next(p for p in P.parents if(p/'AGENTS.md').exists());sys.path.insert(0,str(REPO/'assets/personagens/dery'))
 from psx_render import bake_faces
 APPROVED=REPO/'assets/personagens/dery/atuacao_sentada_teste_v1/output/Dery_Atuacao_Apoio_Real.blend'
-for project in sorted(ROOT.glob('0[1-4]-*')):
+for project in [ROOT/name for name in ['01-gta-san-andreas','02-bmx-xxx','03-bully','04-saints-row-iv']]:
  out=project/'output/R4_Sem_Dery_Em_Pe';info=json.loads((out/'timeline.json').read_text());slug=info['slug'];N=info['frames'];C=Path('/workspace/attachments/revisao_r4')/project.name;C.mkdir(parents=True,exist_ok=True)
  original=next((project/'output').glob('Dery_*.blend'));source_sha=hashlib.sha256(original.read_bytes()).hexdigest();bpy.ops.wm.open_mainfile(filepath=str(original));actor=bpy.data.objects['DERY | animated character'];fc=actor.animation_data.action.fcurves.find('["PS1_face_id"]');assert fc
  facekeys=[(f,int(round(fc.evaluate(f))))for f in range(1,N+1)]

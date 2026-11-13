@@ -1,0 +1,126 @@
+{
+  "source": "https://drive.google.com/file/d/17DsD7EeOGo6wf5n3hm6wkIDQnUfuJvkB/view",
+  "sha256": "459da851b200425d883d7226b5e9e28020663b0c6e38fd8197ad486811110aba",
+  "files": [
+    {
+      "name": "04 - LEFT 4 DEAD 2/",
+      "bytes": 0
+    },
+    {
+      "name": "04 - LEFT 4 DEAD 2/4 - VOZ LEFT FOUR DEAD.mp3",
+      "bytes": 1639722
+    },
+    {
+      "name": "04 - LEFT 4 DEAD 2/6-minutes-of-left-4-dead-beta-480-ytshorts.savetube.me.mp4",
+      "bytes": 31477890
+    },
+    {
+      "name": "04 - LEFT 4 DEAD 2/group.png",
+      "bytes": 392175
+    },
+    {
+      "name": "04 - LEFT 4 DEAD 2/left-4-dead-2-in-5-min-720-ytshorts.savetube.me.mp4",
+      "bytes": 79669950
+    },
+    {
+      "name": "04 - LEFT 4 DEAD 2/maxresdefault.jpg",
+      "bytes": 89079
+    },
+    {
+      "name": "04 - LEFT 4 DEAD 2/meme.png",
+      "bytes": 570253
+    },
+    {
+      "name": "04 - LEFT 4 DEAD 2/noticia.png",
+      "bytes": 43452
+    }
+  ],
+  "selected_files": [
+    {
+      "original": "4 - VOZ LEFT FOUR DEAD.mp3",
+      "path": "assets/voz/voz_original.mp3",
+      "bytes": 1639722,
+      "sha256": "f2fd4a09da04b24fcc468caad9a74cfd63c3acf9eb50139ebcc75a116f43c9b9",
+      "duration": 40.968,
+      "streams": [
+        {
+          "codec_type": "audio",
+          "codec_name": "mp3",
+          "r_frame_rate": "0/0",
+          "sample_rate": "48000",
+          "channels": 1
+        }
+      ]
+    },
+    {
+      "original": "6-minutes-of-left-4-dead-beta-480-ytshorts.savetube.me.mp4",
+      "path": "assets/gameplay/l4d_beta.mp4",
+      "bytes": 31477890,
+      "sha256": "1bcfeba694a235dee1228b2d2510b40a964b786ae0074fc6b6aee6fcfc78ebc4",
+      "duration": 363.74059,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "av1",
+          "width": 850,
+          "height": 480,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "r_frame_rate": "0/0",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "original": "left-4-dead-2-in-5-min-720-ytshorts.savetube.me.mp4",
+      "path": "assets/gameplay/l4d2_gameplay.mp4",
+      "bytes": 79669950,
+      "sha256": "6ea363e5ed4c200a8fb240965ef7312a4aea4960e08a28a2e0fe33b61c58680b",
+      "duration": 299.792834,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1280,
+          "height": 720,
+          "r_frame_rate": "30000/1001"
+        },
+        {
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "r_frame_rate": "0/0",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "original": "group.png",
+      "path": "assets/imagens/group.png",
+      "bytes": 392175,
+      "sha256": "3da913d71a344a6b785ba647fb46818311f0a7ea1f635165e615d727c22c7cb8"
+    },
+    {
+      "original": "maxresdefault.jpg",
+      "path": "assets/imagens/maxresdefault.jpg",
+      "bytes": 89079,
+      "sha256": "ae3b4ea90db1d0142906ad0fc22eefb42a89fe306bce620a1fee386331faef9c"
+    },
+    {
+      "original": "meme.png",
+      "path": "assets/imagens/meme.png",
+      "bytes": 570253,
+      "sha256": "b899177bbb726d09d815f03bab5bd12af5d37706c2a35841cf2ee221a9b578c2"
+    },
+    {
+      "original": "noticia.png",
+      "path": "assets/imagens/noticia.png",
+      "bytes": 43452,
+      "sha256": "4e742b40d843d51646a76d228e0bb6fe0a96dc95ea2c6b54f675ffbbe25ef7a0"
+    }
+  ]
+}

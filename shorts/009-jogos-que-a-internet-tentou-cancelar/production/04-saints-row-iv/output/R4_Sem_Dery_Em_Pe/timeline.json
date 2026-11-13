@@ -176,5 +176,6 @@
   "slug": "Saints_Row_IV",
   "episode": "04-saints-row-iv",
   "standing_dery": false,
-  "extra_sets": false
+  "extra_sets": false,
+  "chapter_order": 5
 }
