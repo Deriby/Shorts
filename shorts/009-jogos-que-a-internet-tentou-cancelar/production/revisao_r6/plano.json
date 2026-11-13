@@ -1,0 +1,485 @@
+[
+  {
+    "episode": "01-gta-san-andreas",
+    "slug": "GTA_San_Andreas",
+    "chapter": "GTA San Andreas",
+    "frames": 1602,
+    "fps": 30,
+    "duration": 53.4,
+    "start": 1477,
+    "end": 1516,
+    "count": 40,
+    "kind": "cafe",
+    "action": "A própria caneca de café recebe uma tarja de censura.",
+    "phrase": "Café acompanhado",
+    "source": {
+      "short": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R4_Sem_Dery_Em_Pe/GTA_San_Andreas_R4_9x16.mp4",
+      "wide": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R4_Sem_Dery_Em_Pe/GTA_San_Andreas_R4_16x9.mp4",
+      "base": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R4_Sem_Dery_Em_Pe/Filmora/midias/GTA_base_R2_9x16.mp4",
+      "wfp": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R4_Sem_Dery_Em_Pe/Filmora/GTA_San_Andreas_R4_9x16.wfp",
+      "mix": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R4_Sem_Dery_Em_Pe/mix_revisado.wav"
+    },
+    "source_sha256": {
+      "short": "89b6180b5db313d3ca44ff1e4c3052929205487a985d7017f4020c14dbb8b307",
+      "wide": "a40cccf3ab61121983202003dbf90050cf4f367fb679f476ca1321476af95540",
+      "base": "fa5dd34e9d1e6584c9eec7bffe0700822e715fa5baf13036a47674f00743b695",
+      "wfp": "937c3191667e40c9b120bb8d6d289bb63f3eec8f3f4b6e968362524b27a22f28",
+      "mix": "8196d41ce7b994e5da093d89e6c018e6c1f084ac71587f1013542ca45d47ad77"
+    },
+    "source_filmora": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R4_Sem_Dery_Em_Pe/Filmora",
+    "source_info": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R4_Sem_Dery_Em_Pe/timeline.json",
+    "output": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R6_Cenas_Curtas",
+    "cache": "/workspace/attachments/revisao_r6/01-gta-san-andreas",
+    "source_base_name": "GTA_base_R2_9x16.mp4",
+    "standing_dery": false,
+    "new_subtitles": false,
+    "gags": [
+      {
+        "id": "arquivos_cafe",
+        "start": 517,
+        "end": 558,
+        "count": 42,
+        "kind": "arquivos_cafe",
+        "action": "Uma caixa de arquivos abre e revela uma miniatura da caneca de café.",
+        "phrase": "O mod desbloqueando o conteúdo",
+        "cache": "/workspace/attachments/revisao_r6/01-gta-san-andreas/arquivos_cafe",
+        "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R6_Cenas_Curtas/GTA_San_Andreas_R6_02_Cena_Curta.blend"
+      },
+      {
+        "id": "estrelas_cafe",
+        "start": 1351,
+        "end": 1392,
+        "count": 42,
+        "kind": "estrelas_cafe",
+        "action": "A caneca recebe cinco estrelas de procurado, como se o café fosse o crime.",
+        "phrase": "Contraste entre a violência e o café",
+        "cache": "/workspace/attachments/revisao_r6/01-gta-san-andreas/estrelas_cafe",
+        "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R6_Cenas_Curtas/GTA_San_Andreas_R6_03_Cena_Curta.blend"
+      },
+      {
+        "start": 1477,
+        "end": 1516,
+        "count": 40,
+        "kind": "cafe",
+        "action": "A própria caneca de café recebe uma tarja de censura.",
+        "phrase": "Café acompanhado",
+        "cache": "/workspace/attachments/revisao_r6/01-gta-san-andreas",
+        "id": "principal",
+        "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R6_Cenas_Curtas/GTA_San_Andreas_R6_Cena_Curta.blend"
+      }
+    ]
+  },
+  {
+    "episode": "02-bmx-xxx",
+    "slug": "BMX_XXX",
+    "chapter": "BMX XXX",
+    "frames": 1319,
+    "fps": 30,
+    "duration": 43.96666666666667,
+    "start": 1234,
+    "end": 1284,
+    "count": 51,
+    "kind": "rodas",
+    "action": "Duas rodas do BMX rolam para lados opostos sobre a mesa.",
+    "phrase": "Mais do que duas rodas",
+    "source": {
+      "short": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R4_Sem_Dery_Em_Pe/BMX_XXX_R4_9x16.mp4",
+      "wide": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R4_Sem_Dery_Em_Pe/BMX_XXX_R4_16x9.mp4",
+      "base": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R4_Sem_Dery_Em_Pe/Filmora/midias/BMX_base_9x16.mp4",
+      "wfp": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R4_Sem_Dery_Em_Pe/Filmora/BMX_XXX_R4_9x16.wfp",
+      "mix": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R4_Sem_Dery_Em_Pe/mix_revisado.wav"
+    },
+    "source_sha256": {
+      "short": "9eb6406b24ad0093bd5b9489ce03c9b6a6734413c9b8207d0a26872dc7cbad6f",
+      "wide": "eb0a66f1da9cb6b5769503bbae5fafe7128d0ab4ce3d583039264bc849ef87d9",
+      "base": "e0fa8da5f3f23b7d0a774a0ec7fc90d1f67a4511a6f566438f9fb4cb21b20c1b",
+      "wfp": "680c4f20d20074dae765a21def4f1ac4dcd0d152cdae3ee2bd660778e4300146",
+      "mix": "98238a433f2e883cd0971017b70936c4236cfb6c925cc04f2bec8f087a047177"
+    },
+    "source_filmora": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R4_Sem_Dery_Em_Pe/Filmora",
+    "source_info": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R4_Sem_Dery_Em_Pe/timeline.json",
+    "output": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R6_Cenas_Curtas",
+    "cache": "/workspace/attachments/revisao_r6/02-bmx-xxx",
+    "source_base_name": "BMX_base_9x16.mp4",
+    "standing_dery": false,
+    "new_subtitles": false,
+    "gags": [
+      {
+        "id": "bike_x",
+        "start": 364,
+        "end": 411,
+        "count": 48,
+        "kind": "bike_x",
+        "action": "Três X caem sobre uma bicicletinha, fazendo o quadro ceder.",
+        "phrase": "A ideia dos desenvolvedores",
+        "cache": "/workspace/attachments/revisao_r6/02-bmx-xxx/bike_x",
+        "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R6_Cenas_Curtas/BMX_XXX_R6_02_Cena_Curta.blend"
+      },
+      {
+        "start": 1234,
+        "end": 1284,
+        "count": 51,
+        "kind": "rodas",
+        "action": "Duas rodas do BMX rolam para lados opostos sobre a mesa.",
+        "phrase": "Mais do que duas rodas",
+        "cache": "/workspace/attachments/revisao_r6/02-bmx-xxx",
+        "id": "principal",
+        "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R6_Cenas_Curtas/BMX_XXX_R6_Cena_Curta.blend"
+      }
+    ]
+  },
+  {
+    "episode": "03-bully",
+    "slug": "Bully",
+    "chapter": "Bully",
+    "frames": 1411,
+    "fps": 30,
+    "duration": 47.03333333333333,
+    "start": 838,
+    "end": 885,
+    "count": 48,
+    "kind": "juiz",
+    "action": "O controle de videogame desliza e empurra o martelinho para o lado.",
+    "phrase": "Juiz gamer",
+    "source": {
+      "short": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R4_Sem_Dery_Em_Pe/Bully_R4_9x16.mp4",
+      "wide": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R4_Sem_Dery_Em_Pe/Bully_R4_16x9.mp4",
+      "base": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R4_Sem_Dery_Em_Pe/Filmora/midias/Bully_base_9x16.mp4",
+      "wfp": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R4_Sem_Dery_Em_Pe/Filmora/Bully_R4_9x16.wfp",
+      "mix": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R4_Sem_Dery_Em_Pe/mix_revisado.wav"
+    },
+    "source_sha256": {
+      "short": "1f98d88f6b1b24bca2a078295e2498b6a75d654fe90f1928550d6e52e45c2f02",
+      "wide": "5b9b8d28c35819a57540cde3bb7d74637d0ed2c906060a8cbb5d1bc8339b58c2",
+      "base": "9a7ede3ecc4653c568bac505df08723e5aa5cb3b6bcf408840f2419c6ad95e42",
+      "wfp": "1da4a0b3b75c5bf16495201bceb08c077f8555091f1e9ee74f3f0a19d4279267",
+      "mix": "38f67ed676a819720319dcac03ddb324ec88203c1282752cba7897c4f9ee30a4"
+    },
+    "source_filmora": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R4_Sem_Dery_Em_Pe/Filmora",
+    "source_info": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R4_Sem_Dery_Em_Pe/timeline.json",
+    "output": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R6_Cenas_Curtas",
+    "cache": "/workspace/attachments/revisao_r6/03-bully",
+    "source_base_name": "Bully_base_9x16.mp4",
+    "standing_dery": false,
+    "new_subtitles": false,
+    "gags": [
+      {
+        "start": 838,
+        "end": 885,
+        "count": 48,
+        "kind": "juiz",
+        "action": "O controle de videogame desliza e empurra o martelinho para o lado.",
+        "phrase": "Juiz gamer",
+        "cache": "/workspace/attachments/revisao_r6/03-bully",
+        "id": "principal",
+        "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R6_Cenas_Curtas/Bully_R6_Cena_Curta.blend"
+      },
+      {
+        "id": "disco_grade",
+        "start": 1141,
+        "end": 1175,
+        "count": 35,
+        "kind": "disco_grade",
+        "action": "O disco de Bully vira de lado e passa entre as barras de uma grade de brinquedo.",
+        "phrase": "A proibição e o acesso nas barraquinhas",
+        "cache": "/workspace/attachments/revisao_r6/03-bully/disco_grade",
+        "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R6_Cenas_Curtas/Bully_R6_02_Cena_Curta.blend"
+      }
+    ]
+  },
+  {
+    "episode": "04-left-4-dead-2",
+    "slug": "Left_4_Dead_2",
+    "chapter": "Left 4 Dead 2",
+    "frames": 1236,
+    "fps": 30,
+    "duration": 41.2,
+    "start": 295,
+    "end": 342,
+    "count": 48,
+    "kind": "sequencia",
+    "action": "A caixa do primeiro jogo acaba de pousar; a do segundo já chega empurrando a primeira.",
+    "phrase": "Apenas um ano depois",
+    "source": {
+      "short": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-left-4-dead-2/output/Left_4_Dead_2_Cancelar_9x16.mp4",
+      "wide": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-left-4-dead-2/output/Left_4_Dead_2_Cancelar_16x9.mp4",
+      "base": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-left-4-dead-2/output/Filmora/midias/Left_4_Dead_2_base_9x16.mp4",
+      "wfp": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-left-4-dead-2/output/Filmora/Left_4_Dead_2_9x16.wfp",
+      "mix": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-left-4-dead-2/assets/audio/mix_final.wav"
+    },
+    "source_sha256": {
+      "short": "ed19892554cac2a672ce9d1f25ccf75cb3a53e21ed949b743063c129f648f8f1",
+      "wide": "fd6a1b2e32c793f68a94a4d04b0a2af4ad12ab0c442f3ebe6249ae1753ec76e4",
+      "base": "139020dd16974bdb07f6084b153f8f6468fd85113dd7fcd49905a2c2ff7c881b",
+      "wfp": "0c095aea90a43fa0f81c580e2fd219d03d0a186c6ee52828ee6fffb744b14228",
+      "mix": "e9c3b08a38263dcb5b820737f26e13e6a88cea230de0dbbe0bac5d0a549d43b4"
+    },
+    "source_filmora": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-left-4-dead-2/output/Filmora",
+    "source_info": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-left-4-dead-2/timeline.json",
+    "output": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-left-4-dead-2/output/R6_Cenas_Curtas",
+    "cache": "/workspace/attachments/revisao_r6/04-left-4-dead-2",
+    "source_base_name": "Left_4_Dead_2_base_9x16.mp4",
+    "standing_dery": false,
+    "new_subtitles": false,
+    "gags": [
+      {
+        "start": 295,
+        "end": 342,
+        "count": 48,
+        "kind": "sequencia",
+        "action": "A caixa do primeiro jogo acaba de pousar; a do segundo já chega empurrando a primeira.",
+        "phrase": "Apenas um ano depois",
+        "cache": "/workspace/attachments/revisao_r6/04-left-4-dead-2",
+        "id": "principal",
+        "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-left-4-dead-2/output/R6_Cenas_Curtas/Left_4_Dead_2_R6_Cena_Curta.blend"
+      },
+      {
+        "id": "amor_sequencia",
+        "start": 1111,
+        "end": 1155,
+        "count": 45,
+        "kind": "amor_sequencia",
+        "action": "O coração sobre o primeiro jogo dá lugar a uma careta de irritação quando chega o segundo.",
+        "phrase": "Gostaram tanto do primeiro que ficaram bravos com outro",
+        "cache": "/workspace/attachments/revisao_r6/04-left-4-dead-2/amor_sequencia",
+        "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-left-4-dead-2/output/R6_Cenas_Curtas/Left_4_Dead_2_R6_02_Cena_Curta.blend"
+      }
+    ]
+  },
+  {
+    "episode": "04-saints-row-iv",
+    "slug": "Saints_Row_IV",
+    "chapter": "Saints Row IV",
+    "frames": 1230,
+    "fps": 30,
+    "duration": 41.0,
+    "start": 139,
+    "end": 181,
+    "count": 43,
+    "kind": "recuo",
+    "action": "Dery e sua cadeira dão um recuo curto de susto, preservando o apoio entre corpo e cadeira.",
+    "phrase": "Lugar onde o sol não bate",
+    "source": {
+      "short": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/R4_Sem_Dery_Em_Pe/Saints_Row_IV_R4_9x16.mp4",
+      "wide": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/R4_Sem_Dery_Em_Pe/Saints_Row_IV_R4_16x9.mp4",
+      "base": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/R4_Sem_Dery_Em_Pe/Filmora/midias/Saints_Row_IV_base_9x16.mp4",
+      "wfp": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/R4_Sem_Dery_Em_Pe/Filmora/Saints_Row_IV_R4_9x16.wfp",
+      "mix": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/R4_Sem_Dery_Em_Pe/mix_revisado.wav"
+    },
+    "source_sha256": {
+      "short": "57533a2d59c93894787be29a357043902255c3da3eace52c1168c15750d6e97d",
+      "wide": "bbaff2b8e57022af9268771151613274774d0b02f8ca2246e4277abffc85f22c",
+      "base": "76801f9ef9d1fd269c39da7db34c5682a0234545aefd3a66e03852b470e2e1db",
+      "wfp": "de540e46519bdf386efeac56e66da7f5d46f71d9c6d418e00eacd3f8be96436f",
+      "mix": "c7ed4d06926400eab6c60a713b9da46df05029c0c7ee0361bf0219df78f7cfe1"
+    },
+    "source_filmora": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/R4_Sem_Dery_Em_Pe/Filmora",
+    "source_info": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/R4_Sem_Dery_Em_Pe/timeline.json",
+    "output": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/R6_Cenas_Curtas",
+    "cache": "/workspace/attachments/revisao_r6/04-saints-row-iv",
+    "source_base_name": "Saints_Row_IV_base_9x16.mp4",
+    "standing_dery": false,
+    "new_subtitles": false,
+    "gags": [
+      {
+        "start": 139,
+        "end": 181,
+        "count": 43,
+        "kind": "recuo",
+        "action": "Dery e sua cadeira dão um recuo curto de susto, preservando o apoio entre corpo e cadeira.",
+        "phrase": "Lugar onde o sol não bate",
+        "cache": "/workspace/attachments/revisao_r6/04-saints-row-iv",
+        "id": "principal",
+        "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/R6_Cenas_Curtas/Saints_Row_IV_R6_Cena_Curta.blend"
+      },
+      {
+        "id": "sem_graca",
+        "start": 697,
+        "end": 732,
+        "count": 36,
+        "kind": "sem_graca",
+        "action": "Dery começa com uma risada e corta para uma expressão seca, sem graça.",
+        "phrase": "O órgão de classificação não achou graça",
+        "cache": "/workspace/attachments/revisao_r6/04-saints-row-iv/sem_graca",
+        "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/R6_Cenas_Curtas/Saints_Row_IV_R6_02_Cena_Curta.blend"
+      }
+    ]
+  },
+  {
+    "episode": "06-gta-v",
+    "slug": "GTA_V",
+    "chapter": "GTA V",
+    "frames": 1119,
+    "fps": 30,
+    "duration": 37.3,
+    "start": 1033,
+    "end": 1074,
+    "count": 42,
+    "kind": "tecla",
+    "action": "Uma tecla personalizada de cocô afunda e retorna no teclado do quarto.",
+    "phrase": "Piada do GTA VI e South Park",
+    "source": {
+      "short": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/output/GTA_V_Cancelar_9x16.mp4",
+      "wide": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/output/GTA_V_Cancelar_16x9.mp4",
+      "base": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/output/Filmora/midias/GTA_V_base_9x16.mp4",
+      "wfp": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/output/Filmora/GTA_V_9x16.wfp",
+      "mix": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/assets/audio/mix_final.wav"
+    },
+    "source_sha256": {
+      "short": "ce0986b519bcc0378aafe99e7b5cbdde385c2ce390219de63a2099e3da3e3541",
+      "wide": "d7d8ffd8c1dfb9861b1c7b57b824d24cf148f387a5837c0cbb497c6fe18fe03b",
+      "base": "c65bbd51a741d32a71bb7195f6613d522085f3047277e43816fa271a6c691c00",
+      "wfp": "ca378c0973803aa9d5be8cc557ddec4b5316749b435372f5968a3e8a3818e72e",
+      "mix": "681583fe7ab0531aa90965a2a8da9b66e8bb9632d12d3a67771e04b24363f08f"
+    },
+    "source_filmora": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/output/Filmora",
+    "source_info": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/timeline.json",
+    "output": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/output/R6_Cenas_Curtas",
+    "cache": "/workspace/attachments/revisao_r6/06-gta-v",
+    "source_base_name": "GTA_V_base_9x16.mp4",
+    "standing_dery": false,
+    "new_subtitles": false,
+    "gags": [
+      {
+        "id": "peticao",
+        "start": 436,
+        "end": 480,
+        "count": 45,
+        "kind": "peticao",
+        "action": "Uma petição de brinquedo desenrola pela mesa e continua descendo pela borda.",
+        "phrase": "Dezenas de milhares de assinaturas",
+        "cache": "/workspace/attachments/revisao_r6/06-gta-v/peticao",
+        "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/output/R6_Cenas_Curtas/GTA_V_R6_02_Cena_Curta.blend"
+      },
+      {
+        "start": 1033,
+        "end": 1074,
+        "count": 42,
+        "kind": "tecla",
+        "action": "Uma tecla personalizada de cocô afunda e retorna no teclado do quarto.",
+        "phrase": "Piada do GTA VI e South Park",
+        "cache": "/workspace/attachments/revisao_r6/06-gta-v",
+        "id": "principal",
+        "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/output/R6_Cenas_Curtas/GTA_V_R6_Cena_Curta.blend"
+      }
+    ]
+  },
+  {
+    "episode": "07-pokemon-sword-shield",
+    "slug": "Pokemon_Sword_Shield",
+    "chapter": "Pokémon Sword and Shield",
+    "frames": 1390,
+    "fps": 30,
+    "duration": 46.333333333333336,
+    "start": 1319,
+    "end": 1363,
+    "count": 45,
+    "kind": "pokebola",
+    "action": "Uma Pokébola bate no vidro do monitor com Galar e ricocheteia.",
+    "phrase": "Barrado na imigração",
+    "source": {
+      "short": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/07-pokemon-sword-shield/output/Pokemon_Sword_Shield_Cancelar_9x16.mp4",
+      "wide": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/07-pokemon-sword-shield/output/Pokemon_Sword_Shield_Cancelar_16x9.mp4",
+      "base": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/07-pokemon-sword-shield/output/Filmora/midias/Pokemon_Sword_Shield_base_9x16.mp4",
+      "wfp": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/07-pokemon-sword-shield/output/Filmora/Pokemon_Sword_Shield_9x16.wfp",
+      "mix": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/07-pokemon-sword-shield/assets/audio/mix_final.wav"
+    },
+    "source_sha256": {
+      "short": "7d9e6802091f67fb2365e5ffe0858021f1abcc9a554b4365039ca80db849ea14",
+      "wide": "d60b947cb082dd6b41b7033f9307e788b72dac5816e156634221f8948008ddb3",
+      "base": "798f0a42e7d2de30f5773472d7b1d05ff38e6b0a6e77f9db49bb11d4aac54d20",
+      "wfp": "234675e39b5e7d4d55d9621c8f15f708e369b201d840204df699e07adc6fe25d",
+      "mix": "6b09bb50ace50b511fec0375e0bb27e069516f154f869a44e116451abdee3915"
+    },
+    "source_filmora": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/07-pokemon-sword-shield/output/Filmora",
+    "source_info": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/07-pokemon-sword-shield/timeline.json",
+    "output": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/07-pokemon-sword-shield/output/R6_Cenas_Curtas",
+    "cache": "/workspace/attachments/revisao_r6/07-pokemon-sword-shield",
+    "source_base_name": "Pokemon_Sword_Shield_base_9x16.mp4",
+    "standing_dery": false,
+    "new_subtitles": false,
+    "gags": [
+      {
+        "id": "viagem",
+        "start": 916,
+        "end": 963,
+        "count": 48,
+        "kind": "viagem",
+        "action": "Uma Pokébola segue toda confiante com uma malinha, preparando a rejeição no monitor.",
+        "phrase": "Transferir os Pokémon de um jogo para outro",
+        "cache": "/workspace/attachments/revisao_r6/07-pokemon-sword-shield/viagem",
+        "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/07-pokemon-sword-shield/output/R6_Cenas_Curtas/Pokemon_Sword_Shield_R6_02_Cena_Curta.blend"
+      },
+      {
+        "start": 1319,
+        "end": 1363,
+        "count": 45,
+        "kind": "pokebola",
+        "action": "Uma Pokébola bate no vidro do monitor com Galar e ricocheteia.",
+        "phrase": "Barrado na imigração",
+        "cache": "/workspace/attachments/revisao_r6/07-pokemon-sword-shield",
+        "id": "principal",
+        "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/07-pokemon-sword-shield/output/R6_Cenas_Curtas/Pokemon_Sword_Shield_R6_Cena_Curta.blend"
+      }
+    ]
+  },
+  {
+    "episode": "08-night-trap",
+    "slug": "Night_Trap",
+    "chapter": "Night Trap",
+    "frames": 1299,
+    "fps": 30,
+    "duration": 43.3,
+    "start": 52,
+    "end": 102,
+    "count": 51,
+    "kind": "vampiro",
+    "action": "A caixinha-vampiro do Night Trap recua quando um alho entra deslizando na mesa.",
+    "phrase": "Garotas de camisola e vampiros",
+    "source": {
+      "short": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/08-night-trap/output/Night_Trap_Cancelar_9x16.mp4",
+      "wide": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/08-night-trap/output/Night_Trap_Cancelar_16x9.mp4",
+      "base": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/08-night-trap/output/Filmora/midias/Night_Trap_base_9x16.mp4",
+      "wfp": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/08-night-trap/output/Filmora/Night_Trap_9x16.wfp",
+      "mix": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/08-night-trap/assets/audio/mix_final.wav"
+    },
+    "source_sha256": {
+      "short": "0b583973c9efcee180eaf268899e018b4c2f3d4845b8b25e88b75df45419b008",
+      "wide": "7045ca34aa1bc86b6db2cf3720b3520bbe0b01d464dbb63a02924a668782a228",
+      "base": "706bf7c5f167073a0b1e8257ae7c4ce7c51430befc21911861750025b8724cba",
+      "wfp": "8a96562253b587a81366512340788ea90de5067131fbbc303c9912b6c33684cf",
+      "mix": "3319cd2f4ef029445fecf5c88c45e6c726a016d64c80a6790b57d11bb9b5ea53"
+    },
+    "source_filmora": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/08-night-trap/output/Filmora",
+    "source_info": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/08-night-trap/timeline.json",
+    "output": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/08-night-trap/output/R6_Cenas_Curtas",
+    "cache": "/workspace/attachments/revisao_r6/08-night-trap",
+    "source_base_name": "Night_Trap_base_9x16.mp4",
+    "standing_dery": false,
+    "new_subtitles": false,
+    "gags": [
+      {
+        "start": 52,
+        "end": 102,
+        "count": 51,
+        "kind": "vampiro",
+        "action": "A caixinha-vampiro do Night Trap recua quando um alho entra deslizando na mesa.",
+        "phrase": "Garotas de camisola e vampiros",
+        "cache": "/workspace/attachments/revisao_r6/08-night-trap",
+        "id": "principal",
+        "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/08-night-trap/output/R6_Cenas_Curtas/Night_Trap_R6_Cena_Curta.blend"
+      },
+      {
+        "id": "surto",
+        "start": 721,
+        "end": 762,
+        "count": 42,
+        "kind": "surto",
+        "action": "Close no Dery: susto, olhos saltados e uma negativa curta com a cabeça.",
+        "phrase": "Políticos americanos surtaram",
+        "cache": "/workspace/attachments/revisao_r6/08-night-trap/surto",
+        "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/08-night-trap/output/R6_Cenas_Curtas/Night_Trap_R6_02_Cena_Curta.blend"
+      }
+    ]
+  }
+]

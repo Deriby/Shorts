@@ -1,0 +1,59 @@
+{
+  "episode": "07-pokemon-sword-shield",
+  "slug": "Pokemon_Sword_Shield",
+  "chapter": "Pokémon Sword and Shield",
+  "frames": 1390,
+  "fps": 30,
+  "duration": 46.333333333333336,
+  "start": 1319,
+  "end": 1363,
+  "count": 45,
+  "kind": "pokebola",
+  "action": "Uma Pokébola bate no vidro do monitor com Galar e ricocheteia.",
+  "phrase": "Barrado na imigração",
+  "source": {
+    "short": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/07-pokemon-sword-shield/output/Pokemon_Sword_Shield_Cancelar_9x16.mp4",
+    "wide": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/07-pokemon-sword-shield/output/Pokemon_Sword_Shield_Cancelar_16x9.mp4",
+    "base": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/07-pokemon-sword-shield/output/Filmora/midias/Pokemon_Sword_Shield_base_9x16.mp4",
+    "wfp": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/07-pokemon-sword-shield/output/Filmora/Pokemon_Sword_Shield_9x16.wfp",
+    "mix": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/07-pokemon-sword-shield/assets/audio/mix_final.wav"
+  },
+  "source_sha256": {
+    "short": "7d9e6802091f67fb2365e5ffe0858021f1abcc9a554b4365039ca80db849ea14",
+    "wide": "d60b947cb082dd6b41b7033f9307e788b72dac5816e156634221f8948008ddb3",
+    "base": "798f0a42e7d2de30f5773472d7b1d05ff38e6b0a6e77f9db49bb11d4aac54d20",
+    "wfp": "234675e39b5e7d4d55d9621c8f15f708e369b201d840204df699e07adc6fe25d",
+    "mix": "6b09bb50ace50b511fec0375e0bb27e069516f154f869a44e116451abdee3915"
+  },
+  "source_filmora": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/07-pokemon-sword-shield/output/Filmora",
+  "source_info": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/07-pokemon-sword-shield/timeline.json",
+  "output": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/07-pokemon-sword-shield/output/R6_Cenas_Curtas",
+  "cache": "/workspace/attachments/revisao_r6/07-pokemon-sword-shield",
+  "source_base_name": "Pokemon_Sword_Shield_base_9x16.mp4",
+  "standing_dery": false,
+  "new_subtitles": false,
+  "gags": [
+    {
+      "id": "viagem",
+      "start": 916,
+      "end": 963,
+      "count": 48,
+      "kind": "viagem",
+      "action": "Uma Pokébola segue toda confiante com uma malinha, preparando a rejeição no monitor.",
+      "phrase": "Transferir os Pokémon de um jogo para outro",
+      "cache": "/workspace/attachments/revisao_r6/07-pokemon-sword-shield/viagem",
+      "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/07-pokemon-sword-shield/output/R6_Cenas_Curtas/Pokemon_Sword_Shield_R6_02_Cena_Curta.blend"
+    },
+    {
+      "start": 1319,
+      "end": 1363,
+      "count": 45,
+      "kind": "pokebola",
+      "action": "Uma Pokébola bate no vidro do monitor com Galar e ricocheteia.",
+      "phrase": "Barrado na imigração",
+      "cache": "/workspace/attachments/revisao_r6/07-pokemon-sword-shield",
+      "id": "principal",
+      "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/07-pokemon-sword-shield/output/R6_Cenas_Curtas/Pokemon_Sword_Shield_R6_Cena_Curta.blend"
+    }
+  ]
+}

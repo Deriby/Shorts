@@ -1,0 +1,70 @@
+{
+  "episode": "01-gta-san-andreas",
+  "slug": "GTA_San_Andreas",
+  "chapter": "GTA San Andreas",
+  "frames": 1602,
+  "fps": 30,
+  "duration": 53.4,
+  "start": 1477,
+  "end": 1516,
+  "count": 40,
+  "kind": "cafe",
+  "action": "A própria caneca de café recebe uma tarja de censura.",
+  "phrase": "Café acompanhado",
+  "source": {
+    "short": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R4_Sem_Dery_Em_Pe/GTA_San_Andreas_R4_9x16.mp4",
+    "wide": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R4_Sem_Dery_Em_Pe/GTA_San_Andreas_R4_16x9.mp4",
+    "base": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R4_Sem_Dery_Em_Pe/Filmora/midias/GTA_base_R2_9x16.mp4",
+    "wfp": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R4_Sem_Dery_Em_Pe/Filmora/GTA_San_Andreas_R4_9x16.wfp",
+    "mix": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R4_Sem_Dery_Em_Pe/mix_revisado.wav"
+  },
+  "source_sha256": {
+    "short": "89b6180b5db313d3ca44ff1e4c3052929205487a985d7017f4020c14dbb8b307",
+    "wide": "a40cccf3ab61121983202003dbf90050cf4f367fb679f476ca1321476af95540",
+    "base": "fa5dd34e9d1e6584c9eec7bffe0700822e715fa5baf13036a47674f00743b695",
+    "wfp": "937c3191667e40c9b120bb8d6d289bb63f3eec8f3f4b6e968362524b27a22f28",
+    "mix": "8196d41ce7b994e5da093d89e6c018e6c1f084ac71587f1013542ca45d47ad77"
+  },
+  "source_filmora": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R4_Sem_Dery_Em_Pe/Filmora",
+  "source_info": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R4_Sem_Dery_Em_Pe/timeline.json",
+  "output": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R6_Cenas_Curtas",
+  "cache": "/workspace/attachments/revisao_r6/01-gta-san-andreas",
+  "source_base_name": "GTA_base_R2_9x16.mp4",
+  "standing_dery": false,
+  "new_subtitles": false,
+  "gags": [
+    {
+      "id": "arquivos_cafe",
+      "start": 517,
+      "end": 558,
+      "count": 42,
+      "kind": "arquivos_cafe",
+      "action": "Uma caixa de arquivos abre e revela uma miniatura da caneca de café.",
+      "phrase": "O mod desbloqueando o conteúdo",
+      "cache": "/workspace/attachments/revisao_r6/01-gta-san-andreas/arquivos_cafe",
+      "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R6_Cenas_Curtas/GTA_San_Andreas_R6_02_Cena_Curta.blend"
+    },
+    {
+      "id": "estrelas_cafe",
+      "start": 1351,
+      "end": 1392,
+      "count": 42,
+      "kind": "estrelas_cafe",
+      "action": "A caneca recebe cinco estrelas de procurado, como se o café fosse o crime.",
+      "phrase": "Contraste entre a violência e o café",
+      "cache": "/workspace/attachments/revisao_r6/01-gta-san-andreas/estrelas_cafe",
+      "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R6_Cenas_Curtas/GTA_San_Andreas_R6_03_Cena_Curta.blend"
+    },
+    {
+      "start": 1477,
+      "end": 1516,
+      "count": 40,
+      "kind": "cafe",
+      "action": "A própria caneca de café recebe uma tarja de censura.",
+      "phrase": "Café acompanhado",
+      "cache": "/workspace/attachments/revisao_r6/01-gta-san-andreas",
+      "id": "principal",
+      "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R6_Cenas_Curtas/GTA_San_Andreas_R6_Cena_Curta.blend"
+    }
+  ]
+}

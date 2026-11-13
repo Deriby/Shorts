@@ -1,0 +1,59 @@
+{
+  "episode": "04-saints-row-iv",
+  "slug": "Saints_Row_IV",
+  "chapter": "Saints Row IV",
+  "frames": 1230,
+  "fps": 30,
+  "duration": 41.0,
+  "start": 139,
+  "end": 181,
+  "count": 43,
+  "kind": "recuo",
+  "action": "Dery e sua cadeira dão um recuo curto de susto, preservando o apoio entre corpo e cadeira.",
+  "phrase": "Lugar onde o sol não bate",
+  "source": {
+    "short": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/R4_Sem_Dery_Em_Pe/Saints_Row_IV_R4_9x16.mp4",
+    "wide": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/R4_Sem_Dery_Em_Pe/Saints_Row_IV_R4_16x9.mp4",
+    "base": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/R4_Sem_Dery_Em_Pe/Filmora/midias/Saints_Row_IV_base_9x16.mp4",
+    "wfp": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/R4_Sem_Dery_Em_Pe/Filmora/Saints_Row_IV_R4_9x16.wfp",
+    "mix": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/R4_Sem_Dery_Em_Pe/mix_revisado.wav"
+  },
+  "source_sha256": {
+    "short": "57533a2d59c93894787be29a357043902255c3da3eace52c1168c15750d6e97d",
+    "wide": "bbaff2b8e57022af9268771151613274774d0b02f8ca2246e4277abffc85f22c",
+    "base": "76801f9ef9d1fd269c39da7db34c5682a0234545aefd3a66e03852b470e2e1db",
+    "wfp": "de540e46519bdf386efeac56e66da7f5d46f71d9c6d418e00eacd3f8be96436f",
+    "mix": "c7ed4d06926400eab6c60a713b9da46df05029c0c7ee0361bf0219df78f7cfe1"
+  },
+  "source_filmora": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/R4_Sem_Dery_Em_Pe/Filmora",
+  "source_info": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/R4_Sem_Dery_Em_Pe/timeline.json",
+  "output": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/R6_Cenas_Curtas",
+  "cache": "/workspace/attachments/revisao_r6/04-saints-row-iv",
+  "source_base_name": "Saints_Row_IV_base_9x16.mp4",
+  "standing_dery": false,
+  "new_subtitles": false,
+  "gags": [
+    {
+      "start": 139,
+      "end": 181,
+      "count": 43,
+      "kind": "recuo",
+      "action": "Dery e sua cadeira dão um recuo curto de susto, preservando o apoio entre corpo e cadeira.",
+      "phrase": "Lugar onde o sol não bate",
+      "cache": "/workspace/attachments/revisao_r6/04-saints-row-iv",
+      "id": "principal",
+      "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/R6_Cenas_Curtas/Saints_Row_IV_R6_Cena_Curta.blend"
+    },
+    {
+      "id": "sem_graca",
+      "start": 697,
+      "end": 732,
+      "count": 36,
+      "kind": "sem_graca",
+      "action": "Dery começa com uma risada e corta para uma expressão seca, sem graça.",
+      "phrase": "O órgão de classificação não achou graça",
+      "cache": "/workspace/attachments/revisao_r6/04-saints-row-iv/sem_graca",
+      "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/R6_Cenas_Curtas/Saints_Row_IV_R6_02_Cena_Curta.blend"
+    }
+  ]
+}

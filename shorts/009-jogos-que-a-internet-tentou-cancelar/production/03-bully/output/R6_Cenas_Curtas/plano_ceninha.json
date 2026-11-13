@@ -1,0 +1,59 @@
+{
+  "episode": "03-bully",
+  "slug": "Bully",
+  "chapter": "Bully",
+  "frames": 1411,
+  "fps": 30,
+  "duration": 47.03333333333333,
+  "start": 838,
+  "end": 885,
+  "count": 48,
+  "kind": "juiz",
+  "action": "O controle de videogame desliza e empurra o martelinho para o lado.",
+  "phrase": "Juiz gamer",
+  "source": {
+    "short": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R4_Sem_Dery_Em_Pe/Bully_R4_9x16.mp4",
+    "wide": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R4_Sem_Dery_Em_Pe/Bully_R4_16x9.mp4",
+    "base": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R4_Sem_Dery_Em_Pe/Filmora/midias/Bully_base_9x16.mp4",
+    "wfp": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R4_Sem_Dery_Em_Pe/Filmora/Bully_R4_9x16.wfp",
+    "mix": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R4_Sem_Dery_Em_Pe/mix_revisado.wav"
+  },
+  "source_sha256": {
+    "short": "1f98d88f6b1b24bca2a078295e2498b6a75d654fe90f1928550d6e52e45c2f02",
+    "wide": "5b9b8d28c35819a57540cde3bb7d74637d0ed2c906060a8cbb5d1bc8339b58c2",
+    "base": "9a7ede3ecc4653c568bac505df08723e5aa5cb3b6bcf408840f2419c6ad95e42",
+    "wfp": "1da4a0b3b75c5bf16495201bceb08c077f8555091f1e9ee74f3f0a19d4279267",
+    "mix": "38f67ed676a819720319dcac03ddb324ec88203c1282752cba7897c4f9ee30a4"
+  },
+  "source_filmora": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R4_Sem_Dery_Em_Pe/Filmora",
+  "source_info": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R4_Sem_Dery_Em_Pe/timeline.json",
+  "output": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R6_Cenas_Curtas",
+  "cache": "/workspace/attachments/revisao_r6/03-bully",
+  "source_base_name": "Bully_base_9x16.mp4",
+  "standing_dery": false,
+  "new_subtitles": false,
+  "gags": [
+    {
+      "start": 838,
+      "end": 885,
+      "count": 48,
+      "kind": "juiz",
+      "action": "O controle de videogame desliza e empurra o martelinho para o lado.",
+      "phrase": "Juiz gamer",
+      "cache": "/workspace/attachments/revisao_r6/03-bully",
+      "id": "principal",
+      "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R6_Cenas_Curtas/Bully_R6_Cena_Curta.blend"
+    },
+    {
+      "id": "disco_grade",
+      "start": 1141,
+      "end": 1175,
+      "count": 35,
+      "kind": "disco_grade",
+      "action": "O disco de Bully vira de lado e passa entre as barras de uma grade de brinquedo.",
+      "phrase": "A proibição e o acesso nas barraquinhas",
+      "cache": "/workspace/attachments/revisao_r6/03-bully/disco_grade",
+      "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R6_Cenas_Curtas/Bully_R6_02_Cena_Curta.blend"
+    }
+  ]
+}

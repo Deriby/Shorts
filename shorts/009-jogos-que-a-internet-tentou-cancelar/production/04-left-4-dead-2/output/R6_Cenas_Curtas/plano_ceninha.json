@@ -1,0 +1,59 @@
+{
+  "episode": "04-left-4-dead-2",
+  "slug": "Left_4_Dead_2",
+  "chapter": "Left 4 Dead 2",
+  "frames": 1236,
+  "fps": 30,
+  "duration": 41.2,
+  "start": 295,
+  "end": 342,
+  "count": 48,
+  "kind": "sequencia",
+  "action": "A caixa do primeiro jogo acaba de pousar; a do segundo já chega empurrando a primeira.",
+  "phrase": "Apenas um ano depois",
+  "source": {
+    "short": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-left-4-dead-2/output/Left_4_Dead_2_Cancelar_9x16.mp4",
+    "wide": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-left-4-dead-2/output/Left_4_Dead_2_Cancelar_16x9.mp4",
+    "base": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-left-4-dead-2/output/Filmora/midias/Left_4_Dead_2_base_9x16.mp4",
+    "wfp": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-left-4-dead-2/output/Filmora/Left_4_Dead_2_9x16.wfp",
+    "mix": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-left-4-dead-2/assets/audio/mix_final.wav"
+  },
+  "source_sha256": {
+    "short": "ed19892554cac2a672ce9d1f25ccf75cb3a53e21ed949b743063c129f648f8f1",
+    "wide": "fd6a1b2e32c793f68a94a4d04b0a2af4ad12ab0c442f3ebe6249ae1753ec76e4",
+    "base": "139020dd16974bdb07f6084b153f8f6468fd85113dd7fcd49905a2c2ff7c881b",
+    "wfp": "0c095aea90a43fa0f81c580e2fd219d03d0a186c6ee52828ee6fffb744b14228",
+    "mix": "e9c3b08a38263dcb5b820737f26e13e6a88cea230de0dbbe0bac5d0a549d43b4"
+  },
+  "source_filmora": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-left-4-dead-2/output/Filmora",
+  "source_info": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-left-4-dead-2/timeline.json",
+  "output": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-left-4-dead-2/output/R6_Cenas_Curtas",
+  "cache": "/workspace/attachments/revisao_r6/04-left-4-dead-2",
+  "source_base_name": "Left_4_Dead_2_base_9x16.mp4",
+  "standing_dery": false,
+  "new_subtitles": false,
+  "gags": [
+    {
+      "start": 295,
+      "end": 342,
+      "count": 48,
+      "kind": "sequencia",
+      "action": "A caixa do primeiro jogo acaba de pousar; a do segundo já chega empurrando a primeira.",
+      "phrase": "Apenas um ano depois",
+      "cache": "/workspace/attachments/revisao_r6/04-left-4-dead-2",
+      "id": "principal",
+      "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-left-4-dead-2/output/R6_Cenas_Curtas/Left_4_Dead_2_R6_Cena_Curta.blend"
+    },
+    {
+      "id": "amor_sequencia",
+      "start": 1111,
+      "end": 1155,
+      "count": 45,
+      "kind": "amor_sequencia",
+      "action": "O coração sobre o primeiro jogo dá lugar a uma careta de irritação quando chega o segundo.",
+      "phrase": "Gostaram tanto do primeiro que ficaram bravos com outro",
+      "cache": "/workspace/attachments/revisao_r6/04-left-4-dead-2/amor_sequencia",
+      "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-left-4-dead-2/output/R6_Cenas_Curtas/Left_4_Dead_2_R6_02_Cena_Curta.blend"
+    }
+  ]
+}

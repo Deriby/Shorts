@@ -1,0 +1,59 @@
+{
+  "episode": "06-gta-v",
+  "slug": "GTA_V",
+  "chapter": "GTA V",
+  "frames": 1119,
+  "fps": 30,
+  "duration": 37.3,
+  "start": 1033,
+  "end": 1074,
+  "count": 42,
+  "kind": "tecla",
+  "action": "Uma tecla personalizada de cocô afunda e retorna no teclado do quarto.",
+  "phrase": "Piada do GTA VI e South Park",
+  "source": {
+    "short": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/output/GTA_V_Cancelar_9x16.mp4",
+    "wide": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/output/GTA_V_Cancelar_16x9.mp4",
+    "base": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/output/Filmora/midias/GTA_V_base_9x16.mp4",
+    "wfp": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/output/Filmora/GTA_V_9x16.wfp",
+    "mix": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/assets/audio/mix_final.wav"
+  },
+  "source_sha256": {
+    "short": "ce0986b519bcc0378aafe99e7b5cbdde385c2ce390219de63a2099e3da3e3541",
+    "wide": "d7d8ffd8c1dfb9861b1c7b57b824d24cf148f387a5837c0cbb497c6fe18fe03b",
+    "base": "c65bbd51a741d32a71bb7195f6613d522085f3047277e43816fa271a6c691c00",
+    "wfp": "ca378c0973803aa9d5be8cc557ddec4b5316749b435372f5968a3e8a3818e72e",
+    "mix": "681583fe7ab0531aa90965a2a8da9b66e8bb9632d12d3a67771e04b24363f08f"
+  },
+  "source_filmora": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/output/Filmora",
+  "source_info": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/timeline.json",
+  "output": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/output/R6_Cenas_Curtas",
+  "cache": "/workspace/attachments/revisao_r6/06-gta-v",
+  "source_base_name": "GTA_V_base_9x16.mp4",
+  "standing_dery": false,
+  "new_subtitles": false,
+  "gags": [
+    {
+      "id": "peticao",
+      "start": 436,
+      "end": 480,
+      "count": 45,
+      "kind": "peticao",
+      "action": "Uma petição de brinquedo desenrola pela mesa e continua descendo pela borda.",
+      "phrase": "Dezenas de milhares de assinaturas",
+      "cache": "/workspace/attachments/revisao_r6/06-gta-v/peticao",
+      "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/output/R6_Cenas_Curtas/GTA_V_R6_02_Cena_Curta.blend"
+    },
+    {
+      "start": 1033,
+      "end": 1074,
+      "count": 42,
+      "kind": "tecla",
+      "action": "Uma tecla personalizada de cocô afunda e retorna no teclado do quarto.",
+      "phrase": "Piada do GTA VI e South Park",
+      "cache": "/workspace/attachments/revisao_r6/06-gta-v",
+      "id": "principal",
+      "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/output/R6_Cenas_Curtas/GTA_V_R6_Cena_Curta.blend"
+    }
+  ]
+}

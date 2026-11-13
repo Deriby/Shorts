@@ -28,3 +28,12 @@ shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/output/GTA_V
 shorts/009-jogos-que-a-internet-tentou-cancelar/production/07-pokemon-sword-shield/output/Pokemon_Sword_Shield_Filmora.zip filter=lfs diff=lfs merge=lfs -text
 
 shorts/009-jogos-que-a-internet-tentou-cancelar/production/08-night-trap/output/Night_Trap_Filmora.zip filter=lfs diff=lfs merge=lfs -text
+
+shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R6_Cenas_Curtas/GTA_San_Andreas_R6_Filmora.zip filter=lfs diff=lfs merge=lfs -text
+shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R6_Cenas_Curtas/BMX_XXX_R6_Filmora.zip filter=lfs diff=lfs merge=lfs -text
+shorts/009-jogos-que-a-internet-tentou-cancelar/production/03-bully/output/R6_Cenas_Curtas/Bully_R6_Filmora.zip filter=lfs diff=lfs merge=lfs -text
+shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-left-4-dead-2/output/R6_Cenas_Curtas/Left_4_Dead_2_R6_Filmora.zip filter=lfs diff=lfs merge=lfs -text
+shorts/009-jogos-que-a-internet-tentou-cancelar/production/04-saints-row-iv/output/R6_Cenas_Curtas/Saints_Row_IV_R6_Filmora.zip filter=lfs diff=lfs merge=lfs -text
+shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/output/R6_Cenas_Curtas/GTA_V_R6_Filmora.zip filter=lfs diff=lfs merge=lfs -text
+shorts/009-jogos-que-a-internet-tentou-cancelar/production/07-pokemon-sword-shield/output/R6_Cenas_Curtas/Pokemon_Sword_Shield_R6_Filmora.zip filter=lfs diff=lfs merge=lfs -text
+shorts/009-jogos-que-a-internet-tentou-cancelar/production/08-night-trap/output/R6_Cenas_Curtas/Night_Trap_R6_Filmora.zip filter=lfs diff=lfs merge=lfs -text

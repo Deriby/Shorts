@@ -1,0 +1,59 @@
+{
+  "episode": "02-bmx-xxx",
+  "slug": "BMX_XXX",
+  "chapter": "BMX XXX",
+  "frames": 1319,
+  "fps": 30,
+  "duration": 43.96666666666667,
+  "start": 1234,
+  "end": 1284,
+  "count": 51,
+  "kind": "rodas",
+  "action": "Duas rodas do BMX rolam para lados opostos sobre a mesa.",
+  "phrase": "Mais do que duas rodas",
+  "source": {
+    "short": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R4_Sem_Dery_Em_Pe/BMX_XXX_R4_9x16.mp4",
+    "wide": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R4_Sem_Dery_Em_Pe/BMX_XXX_R4_16x9.mp4",
+    "base": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R4_Sem_Dery_Em_Pe/Filmora/midias/BMX_base_9x16.mp4",
+    "wfp": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R4_Sem_Dery_Em_Pe/Filmora/BMX_XXX_R4_9x16.wfp",
+    "mix": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R4_Sem_Dery_Em_Pe/mix_revisado.wav"
+  },
+  "source_sha256": {
+    "short": "9eb6406b24ad0093bd5b9489ce03c9b6a6734413c9b8207d0a26872dc7cbad6f",
+    "wide": "eb0a66f1da9cb6b5769503bbae5fafe7128d0ab4ce3d583039264bc849ef87d9",
+    "base": "e0fa8da5f3f23b7d0a774a0ec7fc90d1f67a4511a6f566438f9fb4cb21b20c1b",
+    "wfp": "680c4f20d20074dae765a21def4f1ac4dcd0d152cdae3ee2bd660778e4300146",
+    "mix": "98238a433f2e883cd0971017b70936c4236cfb6c925cc04f2bec8f087a047177"
+  },
+  "source_filmora": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R4_Sem_Dery_Em_Pe/Filmora",
+  "source_info": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R4_Sem_Dery_Em_Pe/timeline.json",
+  "output": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R6_Cenas_Curtas",
+  "cache": "/workspace/attachments/revisao_r6/02-bmx-xxx",
+  "source_base_name": "BMX_base_9x16.mp4",
+  "standing_dery": false,
+  "new_subtitles": false,
+  "gags": [
+    {
+      "id": "bike_x",
+      "start": 364,
+      "end": 411,
+      "count": 48,
+      "kind": "bike_x",
+      "action": "Três X caem sobre uma bicicletinha, fazendo o quadro ceder.",
+      "phrase": "A ideia dos desenvolvedores",
+      "cache": "/workspace/attachments/revisao_r6/02-bmx-xxx/bike_x",
+      "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R6_Cenas_Curtas/BMX_XXX_R6_02_Cena_Curta.blend"
+    },
+    {
+      "start": 1234,
+      "end": 1284,
+      "count": 51,
+      "kind": "rodas",
+      "action": "Duas rodas do BMX rolam para lados opostos sobre a mesa.",
+      "phrase": "Mais do que duas rodas",
+      "cache": "/workspace/attachments/revisao_r6/02-bmx-xxx",
+      "id": "principal",
+      "model": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R6_Cenas_Curtas/BMX_XXX_R6_Cena_Curta.blend"
+    }
+  ]
+}
