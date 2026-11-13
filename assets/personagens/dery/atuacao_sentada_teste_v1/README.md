@@ -1,8 +1,18 @@
 # Teste — atuação sentada do Dery
 
-**Revisão atual: cadeira original.** [Assistir ao teste corrigido de 8 s](https://github.com/Deriby/Shorts/raw/refs/heads/main/assets/personagens/dery/atuacao_sentada_teste_v1/output/Teste_Cadeira_Original_8s_9x16.mp4) · [Quadros](output/Quadros_Cadeira_Original.jpg) · [Blender](output/Dery_Atuacao_Cadeira_Original.blend)
+**Revisão atual: apoio real nas coxas.** [Ver o teste de 8 s](https://github.com/Deriby/Shorts/raw/refs/heads/main/assets/personagens/dery/atuacao_sentada_teste_v1/output/Teste_Apoio_Real_8s_9x16.mp4) · [Quadros](output/Quadros_Apoio_Real.jpg) · [Blender](output/Dery_Atuacao_Apoio_Real.blend)
 
-O usuário aprovou a animação do estudo e rejeitou os apoios altos que tinham sido inventados para a cadeira. Esta revisão remove os seis objetos acrescentados e restaura a malha e os UVs originais da cadeira. Todos os keyframes do personagem, rosto e câmera permanecem exatamente iguais. A voz, duração e tratamento PSX são os mesmos. As mãos mantêm a posição de conversa sobre o colo; não foram reposicionadas para criar novos contatos. A revisão da cadeira ainda aguarda avaliação visual.
+A pose de descanso foi refeita: cada mão repousa sobre a respectiva coxa, a direita sobe para o gesto e retorna à superfície. A cadeira e os demais objetos permanecem originais. Só os braços/antebraços/mãos recebem novas curvas. O ritmo do gesto, a voz, as expressões, o corpo/cabeça, a câmera e o PSX permanecem os mesmos. Não há apoio novo nem descanso suspenso. A avaliação estética da correção continua com o usuário.
+
+`corrigir_apoio_real.py` encontra as superfícies reais das calças pela malha avaliada e confere a pele das mãos em descanso, incluindo o retorno e a antecipação. `validacao_apoio_real.json` registra os intervalos de contato antes do snapping de tela e a preservação das curvas dos demais ossos. A pose não é calculada pela altura isolada do punho. O ápice do gesto é preservado; as transições são refeitas para conectar a nova posição de repouso.
+
+Reprodução: `blender -b -t 2 --python corrigir_apoio_real.py`, depois `render_apoio_real.py -- 0 2` / `-- 1 2`, e `python export_apoio_real.py`. Cache em `/workspace/attachments/atuacao_sentada_v3/`.
+
+## Histórico das correções
+
+**Versão anterior rejeitada: cadeira original com braços ainda flutuando.** [Assistir ao teste corrigido de 8 s](https://github.com/Deriby/Shorts/raw/refs/heads/main/assets/personagens/dery/atuacao_sentada_teste_v1/output/Teste_Cadeira_Original_8s_9x16.mp4) · [Quadros](output/Quadros_Cadeira_Original.jpg) · [Blender](output/Dery_Atuacao_Cadeira_Original.blend)
+
+O usuário gostou do estilo de movimento, mas rejeitou os apoios altos e depois esta revisão, que mantinha os braços parados no ar. A interpretação de que todas as poses estavam aprovadas foi incorreta. Esta revisão remove os seis objetos acrescentados e restaura a malha e os UVs originais da cadeira. Todos os keyframes do personagem, rosto e câmera permanecem exatamente iguais. A voz, duração e tratamento PSX são os mesmos. As mãos mantêm a posição de conversa sobre o colo; não foram reposicionadas para criar novos contatos. A revisão foi rejeitada porque não corrigia a pose de descanso.
 
 `validacao_cadeira_original.json` registra a assinatura das curvas antes/depois e a conferência da cadeira. Scripts: `restaurar_cadeira.py`, `render_cadeira_original.py` (dois workers, `-- 0 2`/`-- 1 2`) e `export_cadeira_original.py`. Cache separado em `/workspace/attachments/atuacao_sentada_v2/`.
 
@@ -10,7 +20,7 @@ O usuário aprovou a animação do estudo e rejeitou os apoios altos que tinham 
 
 [Assistir ao teste de 8 segundos](https://github.com/Deriby/Shorts/raw/refs/heads/main/assets/personagens/dery/atuacao_sentada_teste_v1/output/Teste_Atuacao_Sentada_8s_9x16.mp4) · [Quadros](output/Quadros_Atuacao.jpg) · [Blender](output/Dery_Atuacao_Sentada_Teste.blend)
 
-Estudo solicitado após o usuário rejeitar a naturalidade dos gestos e as vinhetas de apresentador em pé. **Somente este teste foi produzido. A animação foi aprovada; a alteração dos apoios da cadeira foi rejeitada e substituída pela revisão acima.** Os shorts entregues permanecem preservados.
+Estudo solicitado após o usuário rejeitar a naturalidade dos gestos e as vinhetas de apresentador em pé. **Somente este teste foi produzido. O estilo de movimento agradou; as poses de apoio e a alteração da cadeira foram rejeitadas e substituídas pela revisão atual.** Os shorts entregues permanecem preservados.
 
 ## Proposta
 
