@@ -1,0 +1,86 @@
+{
+  "face_material_matches_selector": true,
+  "face_ids_sampled": [
+    31,
+    35,
+    59,
+    56,
+    32,
+    35,
+    33,
+    47,
+    81,
+    84
+  ],
+  "left_wrist_drift_m": 5.280984981855556e-07,
+  "right_returns_to_rest_m": 1.737759081973225e-07,
+  "legs_frozen": true,
+  "no_curve_cycles_or_noise": true,
+  "actual_skin_contact": {
+    "R": [
+      {
+        "frame": 1,
+        "lowest_gap_m": -0.0010076098442077623
+      },
+      {
+        "frame": 20,
+        "lowest_gap_m": -0.0010073714256286607
+      },
+      {
+        "frame": 145,
+        "lowest_gap_m": -0.00100725221633911
+      },
+      {
+        "frame": 211,
+        "lowest_gap_m": -0.0010064177513122545
+      },
+      {
+        "frame": 240,
+        "lowest_gap_m": -0.0010060601234436022
+      }
+    ],
+    "L": [
+      {
+        "frame": 1,
+        "lowest_gap_m": -0.0009696416854858385
+      },
+      {
+        "frame": 20,
+        "lowest_gap_m": -0.0009696416854858385
+      },
+      {
+        "frame": 46,
+        "lowest_gap_m": -0.0009732179641723619
+      },
+      {
+        "frame": 91,
+        "lowest_gap_m": -0.0010033779144287096
+      },
+      {
+        "frame": 116,
+        "lowest_gap_m": -0.0009931259155273424
+      },
+      {
+        "frame": 139,
+        "lowest_gap_m": -0.00096988010406494
+      },
+      {
+        "frame": 145,
+        "lowest_gap_m": -0.00096988010406494
+      },
+      {
+        "frame": 180,
+        "lowest_gap_m": -0.00096988010406494
+      },
+      {
+        "frame": 211,
+        "lowest_gap_m": -0.00096988010406494
+      },
+      {
+        "frame": 240,
+        "lowest_gap_m": -0.00096988010406494
+      }
+    ]
+  },
+  "source_unchanged": true
+}
