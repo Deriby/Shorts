@@ -41,7 +41,12 @@
       "order": 6,
       "game": "GTA V",
       "production_path": "production/06-gta-v",
-      "status": "em_producao"
+      "status": "produzido",
+      "deliveries": {
+        "short": "production/06-gta-v/output/GTA_V_Cancelar_9x16.mp4",
+        "chapter_16x9": "production/06-gta-v/output/GTA_V_Cancelar_16x9.mp4",
+        "filmora_9x16": "production/06-gta-v/output/GTA_V_Filmora.zip"
+      }
     }
   ]
 }

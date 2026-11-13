@@ -1,0 +1,42 @@
+{
+  "videos": [
+    {
+      "file": "GTA_V_Cancelar_9x16.mp4",
+      "frames": 1119,
+      "sha256": "ce0986b519bcc0378aafe99e7b5cbdde385c2ce390219de63a2099e3da3e3541"
+    },
+    {
+      "file": "GTA_V_Cancelar_16x9.mp4",
+      "frames": 1119,
+      "sha256": "d7d8ffd8c1dfb9861b1c7b57b824d24cf148f387a5837c0cbb497c6fe18fe03b"
+    },
+    {
+      "file": "GTA_V_base_9x16.mp4",
+      "frames": 1119,
+      "sha256": "c65bbd51a741d32a71bb7195f6613d522085f3047277e43816fa271a6c691c00"
+    }
+  ],
+  "chapter_order": 6,
+  "voice_duration": 37.04557823129252,
+  "full_voice_pcm_preserved": true,
+  "voice_in_package_bit_identical": true,
+  "full_audio_correlation": 0.9998290587767797,
+  "crt_motion_mse": [
+    955.1856079101562,
+    206.0172882080078,
+    193.82798767089844
+  ],
+  "retail_photo_clean_psnr": 38.86865396931246,
+  "standing_dery": false,
+  "new_props": false,
+  "native_titles": 0,
+  "face_ids": 22,
+  "animation_fps": 30,
+  "media_psx": false,
+  "psx_animation": true,
+  "filmora_clips": 15,
+  "resources_resolve": true,
+  "speed_1x": true,
+  "zip_integrity": true,
+  "filmora_native_open": false
+}

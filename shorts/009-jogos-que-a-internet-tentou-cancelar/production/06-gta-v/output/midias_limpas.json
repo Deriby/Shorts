@@ -1,0 +1,38 @@
+{
+  "chapter": "GTA V",
+  "frames": 1119,
+  "media_original_resolution": true,
+  "media_rgb555": false,
+  "media_dither": false,
+  "media_nearest": false,
+  "media_affine_warp": false,
+  "crt_perspective": true,
+  "crt_occlusion_mask": true,
+  "crt_aspect_preserved": true,
+  "psx_animation_preserved": true,
+  "legacy_animation_reused": false,
+  "source_sizes": {
+    "franklin.mp4": [
+      1280,
+      720
+    ],
+    "michael.mp4": [
+      1280,
+      720
+    ],
+    "gta6_enviado.mp4": [
+      1280,
+      720
+    ],
+    "south_park.mp4": [
+      1280,
+      720
+    ]
+  },
+  "outputs": [
+    "output/GTA_V_Cancelar_9x16.mp4",
+    "output/GTA_V_Cancelar_16x9.mp4",
+    "output/Filmora/midias/GTA_V_base_9x16.mp4"
+  ],
+  "projection_sha256": "0ba9ce79147a7b79ccdba362675a35e98c363ab9fcbcded007731e802da85e9b"
+}
