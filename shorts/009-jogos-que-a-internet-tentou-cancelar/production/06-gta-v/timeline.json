@@ -1,0 +1,128 @@
+{
+  "title": "Jogos que a internet tentou cancelar",
+  "chapter": "GTA V",
+  "chapter_order": 6,
+  "slug": "GTA_V",
+  "model": "Dery_GTA_V.blend",
+  "fps": 30,
+  "frames": 1119,
+  "duration": 37.3,
+  "voice_duration": 37.04557823129252,
+  "voice_edited": false,
+  "revision": 5,
+  "clean_media": true,
+  "standing_dery": false,
+  "monitor_file": "assets/monitor/monitor_completo.mp4",
+  "cache": "/workspace/attachments/gta_v",
+  "render_size": [
+    768,
+    432
+  ],
+  "portrait_safe_crop": [
+    263,
+    0,
+    243,
+    432
+  ],
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 90,
+      "kind": "monitor",
+      "mood": "gancho",
+      "source": "franklin.mp4",
+      "source_start": 9
+    },
+    {
+      "id": 1,
+      "start": 91,
+      "end": 214,
+      "kind": "host",
+      "mood": "peticao",
+      "source": "franklin.mp4",
+      "source_start": 12
+    },
+    {
+      "id": 2,
+      "start": 215,
+      "end": 346,
+      "kind": "game",
+      "mood": "campanha_2014",
+      "source": "michael.mp4",
+      "source_start": 33
+    },
+    {
+      "id": 3,
+      "start": 347,
+      "end": 414,
+      "kind": "close",
+      "mood": "contexto",
+      "source": "franklin.mp4",
+      "source_start": 17
+    },
+    {
+      "id": 4,
+      "start": 415,
+      "end": 514,
+      "kind": "monitor",
+      "mood": "assinaturas",
+      "source": "franklin.mp4",
+      "source_start": 18
+    },
+    {
+      "id": 5,
+      "start": 515,
+      "end": 573,
+      "kind": "photo",
+      "mood": "target",
+      "source": "target.png",
+      "source_start": 0
+    },
+    {
+      "id": 6,
+      "start": 574,
+      "end": 657,
+      "kind": "photo",
+      "mood": "kmart",
+      "source": "kmart.png",
+      "source_start": 0
+    },
+    {
+      "id": 7,
+      "start": 658,
+      "end": 780,
+      "kind": "monitor",
+      "mood": "retirada_das_redes",
+      "source": "michael.mp4",
+      "source_start": 35
+    },
+    {
+      "id": 8,
+      "start": 781,
+      "end": 856,
+      "kind": "host",
+      "mood": "calma",
+      "source": "michael.mp4",
+      "source_start": 39
+    },
+    {
+      "id": 9,
+      "start": 857,
+      "end": 992,
+      "kind": "game",
+      "mood": "gta6",
+      "source": "gta6_enviado.mp4",
+      "source_start": 39
+    },
+    {
+      "id": 10,
+      "start": 993,
+      "end": 1119,
+      "kind": "game",
+      "mood": "parodia_south_park",
+      "source": "south_park.mp4",
+      "source_start": 28
+    }
+  ]
+}

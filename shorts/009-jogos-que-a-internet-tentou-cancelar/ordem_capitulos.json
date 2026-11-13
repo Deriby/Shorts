@@ -36,6 +36,12 @@
       "production_path": "production/04-saints-row-iv",
       "status": "produzido",
       "path_note": "Caminho histórico preservado para manter entregas e referências existentes; a posição editorial é 5."
+    },
+    {
+      "order": 6,
+      "game": "GTA V",
+      "production_path": "production/06-gta-v",
+      "status": "em_producao"
     }
   ]
 }

@@ -1,0 +1,173 @@
+{
+  "drive_folder": "1glsyO1duK8KXN2UGLODYK3VDKXcw-LmM",
+  "drive_file": "1729QmQttyTAlFaLpzMAvlXFRPniwZHWC",
+  "archive": "06 - GTA 5.zip",
+  "archive_sha256": "12bdc2b4cfd30812c08f2e101cb60dd8f59cae54273be84b87fd2d45254c208b",
+  "files": [
+    {
+      "name": "06 - GTA 5/",
+      "bytes": 0
+    },
+    {
+      "name": "06 - GTA 5/2 - VOZ GTA 5.mp3",
+      "bytes": 1484202
+    },
+    {
+      "name": "06 - GTA 5/grand-theft-auto-v-franklin-720-ytshorts.savetube.me.mp4",
+      "bytes": 7157083
+    },
+    {
+      "name": "06 - GTA 5/grand-theft-auto-v-michael-720-ytshorts.savetube.me.mp4",
+      "bytes": 7530344
+    },
+    {
+      "name": "06 - GTA 5/grand-theft-auto-vi-launch-trailer-720-ytshorts.savetube.me.mp4",
+      "bytes": 8835904
+    },
+    {
+      "name": "06 - GTA 5/gta-6-gameplay-in-south-park-episode-gameplay-southpark-rockstar-gta6-videogames-720-ytshorts.savetube.me.mp4",
+      "bytes": 12361257
+    },
+    {
+      "name": "06 - GTA 5/Kmart-store-Ontario-Ore.png",
+      "bytes": 99262
+    },
+    {
+      "name": "06 - GTA 5/New-Stores_Header_Target.png",
+      "bytes": 971598
+    },
+    {
+      "name": "06 - GTA 5/qeh2nm96xwj91.jpg",
+      "bytes": 121010
+    },
+    {
+      "name": "06 - GTA 5/Screenshot_1.png",
+      "bytes": 555655
+    }
+  ],
+  "selected_files": [
+    {
+      "original": "2 - VOZ GTA 5.mp3",
+      "path": "assets/voz/voz_original.mp3",
+      "bytes": 1484202,
+      "sha256": "9466e6b99984b38a79ded50e6d2c38e7be9171d346c85a10b8185588fa53eaa2",
+      "duration": 37.08,
+      "streams": [
+        {
+          "codec_type": "audio",
+          "r_frame_rate": "0/0",
+          "sample_rate": "48000",
+          "channels": 1
+        }
+      ]
+    },
+    {
+      "original": "grand-theft-auto-v-franklin-720-ytshorts.savetube.me.mp4",
+      "path": "assets/gameplay/franklin.mp4",
+      "bytes": 7157083,
+      "sha256": "c3c1c9d8b39ef199aa8f8484e67c38817db4624c1d6b888ab2535cbcb5f89bc1",
+      "duration": 63.553016,
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "r_frame_rate": "30000/1001"
+        },
+        {
+          "codec_type": "audio",
+          "r_frame_rate": "0/0",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "original": "grand-theft-auto-v-michael-720-ytshorts.savetube.me.mp4",
+      "path": "assets/gameplay/michael.mp4",
+      "bytes": 7530344,
+      "sha256": "3423bd43c2a45db91c0b8150c0a8010f425098b32af49bbaf14cc6b378adf711",
+      "duration": 77.624308,
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "r_frame_rate": "30000/1001"
+        },
+        {
+          "codec_type": "audio",
+          "r_frame_rate": "0/0",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "original": "grand-theft-auto-vi-launch-trailer-720-ytshorts.savetube.me.mp4",
+      "path": "assets/gameplay/gta6_enviado.mp4",
+      "bytes": 8835904,
+      "sha256": "ad1374aa805e19465fc6864a8e80faf02baedc80268145960632fe24970f89b5",
+      "duration": 90.046984,
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_type": "audio",
+          "r_frame_rate": "0/0",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "original": "gta-6-gameplay-in-south-park-episode-gameplay-southpark-rockstar-gta6-videogames-720-ytshorts.savetube.me.mp4",
+      "path": "assets/gameplay/south_park.mp4",
+      "bytes": 12361257,
+      "sha256": "87ddb455bd128c0eddff0477b7f0d6fc358e93c872075a5f364496156962563c",
+      "duration": 43.653515,
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "r_frame_rate": "60000/1001"
+        },
+        {
+          "codec_type": "audio",
+          "r_frame_rate": "0/0",
+          "sample_rate": "44100",
+          "channels": 2
+        }
+      ]
+    },
+    {
+      "original": "Kmart-store-Ontario-Ore.png",
+      "path": "assets/imagens/kmart.png",
+      "bytes": 99262,
+      "sha256": "7867c1ae8d77e98c7667d06e7047b12a2c1ac50b115ba86ba8f6a44427920194"
+    },
+    {
+      "original": "New-Stores_Header_Target.png",
+      "path": "assets/imagens/target.png",
+      "bytes": 971598,
+      "sha256": "f27587984f27d4d29424e0d582a08e934a42056978973748beb5dedb731913e3"
+    },
+    {
+      "original": "qeh2nm96xwj91.jpg",
+      "path": "assets/imagens/meme.jpg",
+      "bytes": 121010,
+      "sha256": "eb326eacb6a23d80963cb8e74be29cbc9448dee76f61ef3cd4acb0490b1f62c2"
+    },
+    {
+      "original": "Screenshot_1.png",
+      "path": "assets/imagens/trevor_meme.png",
+      "bytes": 555655,
+      "sha256": "6cf9decc7ca8533cc864ea31a0ddba859b5c377160de79bff01a0a33544f594e"
+    }
+  ]
+}

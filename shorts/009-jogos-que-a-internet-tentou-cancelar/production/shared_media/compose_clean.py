@@ -132,7 +132,7 @@ for sh in info['shots']:
    else:
     raw=quantize(Image.open(C/'frames'/f'frame_{f:04d}.png').convert('RGB'));bp=animation_canvas(raw,False);fp=animation_canvas(raw,False,zp);fw=animation_canvas(raw,True,zw)
    if source is not None:
-    bp=overlay(bp,source,f,False,1);fp=overlay(fp,source,f,False,zp);fw=overlay(fw,source,f,True,zw)
+    bp=overlay(bp,source,f,False,1);fp=bp if abs(zp-1)<1e-9 else overlay(fp,source,f,False,zp);fw=overlay(fw,source,f,True,zw)
    if args.legacy:fp=legacy_titles(fp,t,False)
   base_writer.write(bp);wp.write(fp);ww.write(fw);processed+=1
   if f in previews:
