@@ -1,8 +1,16 @@
 # Teste — atuação sentada do Dery
 
+**Revisão atual: cadeira original.** [Assistir ao teste corrigido de 8 s](https://github.com/Deriby/Shorts/raw/refs/heads/main/assets/personagens/dery/atuacao_sentada_teste_v1/output/Teste_Cadeira_Original_8s_9x16.mp4) · [Quadros](output/Quadros_Cadeira_Original.jpg) · [Blender](output/Dery_Atuacao_Cadeira_Original.blend)
+
+O usuário aprovou a animação do estudo e rejeitou os apoios altos que tinham sido inventados para a cadeira. Esta revisão remove os seis objetos acrescentados e restaura a malha e os UVs originais da cadeira. Todos os keyframes do personagem, rosto e câmera permanecem exatamente iguais. A voz, duração e tratamento PSX são os mesmos. As mãos mantêm a posição de conversa sobre o colo; não foram reposicionadas para criar novos contatos. A revisão da cadeira ainda aguarda avaliação visual.
+
+`validacao_cadeira_original.json` registra a assinatura das curvas antes/depois e a conferência da cadeira. Scripts: `restaurar_cadeira.py`, `render_cadeira_original.py` (dois workers, `-- 0 2`/`-- 1 2`) e `export_cadeira_original.py`. Cache separado em `/workspace/attachments/atuacao_sentada_v2/`.
+
+## Estudo anterior (apoios rejeitados)
+
 [Assistir ao teste de 8 segundos](https://github.com/Deriby/Shorts/raw/refs/heads/main/assets/personagens/dery/atuacao_sentada_teste_v1/output/Teste_Atuacao_Sentada_8s_9x16.mp4) · [Quadros](output/Quadros_Atuacao.jpg) · [Blender](output/Dery_Atuacao_Sentada_Teste.blend)
 
-Estudo solicitado após o usuário rejeitar a naturalidade dos gestos e as vinhetas de apresentador em pé. **Somente este teste foi produzido. A avaliação estética ainda depende do usuário.** Os shorts entregues permanecem preservados.
+Estudo solicitado após o usuário rejeitar a naturalidade dos gestos e as vinhetas de apresentador em pé. **Somente este teste foi produzido. A animação foi aprovada; a alteração dos apoios da cadeira foi rejeitada e substituída pela revisão acima.** Os shorts entregues permanecem preservados.
 
 ## Proposta
 
@@ -22,7 +30,7 @@ O áudio é o gancho original de Saints Row IV: **0–6,40 s**, encerrando no in
 
 As poses foram construídas com pontos de apoio no mundo e solução geométrica de dois ossos. O braço não recebe um alvo que deriva continuamente com o ombro. A mão esquerda mantém sua posição quando o tronco acompanha o gesto; a direita retorna ao mesmo ponto. A orientação da mão usa a geometria da pele, em vez de assumir que a cauda arbitrária do osso indica a direção dos dedos. O modelo original não tem controles individuais de dedos; este teste não acrescenta articulações de dedos.
 
-A cadeira foi ajustada **apenas nesta cópia**: substituição das partes baixas/largas dos apoios por apoios que atendem à nova pose. A malha, UVs, pesos e estrutura dos ossos do Dery não foram alterados. A pose das pernas permanece fixa, preservando o encaixe no assento. Há conferência do contato na pele avaliada, não só da posição dos controles dos punhos.
+**Alteração rejeitada pelo usuário e removida na revisão atual.** Na primeira versão, a cadeira foi ajustada apenas nesta cópia: substituição das partes baixas/largas dos apoios por apoios que atendem à nova pose. A malha, UVs, pesos e estrutura dos ossos do Dery não foram alterados. A pose das pernas permanece fixa, preservando o encaixe no assento. Há conferência do contato na pele avaliada, não só da posição dos controles dos punhos.
 
 A referência disponível são as observações já registradas em `shorts/007-verdadeiro-chefe-driver/production/gesture_reference.json`, extraídas anteriormente do vídeo pessoal fornecido pelo usuário. O arquivo privado antigo não estava acessível nesta sessão; **não houve nova análise daquele vídeo nem captura automática de movimento**. As poses e os tempos deste estudo foram dirigidos manualmente. O vídeo privado não é publicado.
 

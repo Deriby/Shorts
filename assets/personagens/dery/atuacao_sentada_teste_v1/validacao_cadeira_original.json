@@ -1,0 +1,21 @@
+{
+  "original_test_unchanged": true,
+  "approved_animation_preserved_exactly": true,
+  "animation_signature": "478b481f6091cfccde47abe705a9e7a926fd54bdf5e1b5e5917b62f55d148d71",
+  "chair_mesh_uvs_match_original": true,
+  "chair_transform_unchanged": true,
+  "chair_mesh_sha256": "2b4dd153a39b4fc154f5e8a209e30658aae300df863b9f025ac43dbe6b49e725",
+  "removed_objects": [
+    "Test | fitted armrest R",
+    "Test | armrest post R",
+    "Test | armrest post R.001",
+    "Test | fitted armrest L",
+    "Test | armrest post L",
+    "Test | armrest post L.001"
+  ],
+  "avatar_mesh_changed": false,
+  "hand_pose_changed": false,
+  "duration": 8,
+  "frames": 240,
+  "fps": 30
+}
