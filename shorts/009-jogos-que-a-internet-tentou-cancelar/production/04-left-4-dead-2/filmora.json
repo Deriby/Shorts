@@ -1,0 +1,24 @@
+{
+  "reference": "shorts/008-personagens-que-a-internet-estragou/production/20-edicao-final-usuario/Massacote_EDICAO_FINAL_USUARIO.wfp",
+  "reference_sha256": "5a9d4617a2bc34416087e1125230764d5dea7980b5011c186ebe576648748fbc",
+  "source_unchanged": true,
+  "projects": [
+    {
+      "project": "Left_4_Dead_2_9x16.wfp",
+      "format": "9x16",
+      "video_clips": 12,
+      "native_titles": 0,
+      "audio_clips": 5,
+      "duration": 41.2,
+      "resources": 4,
+      "sha256": "0c095aea90a43fa0f81c580e2fd219d03d0a186c6ee52828ee6fffb744b14228"
+    }
+  ],
+  "all_media_bundled": true,
+  "original_voice_full": true,
+  "native_titles": false,
+  "paid_glow_on_titles_only": false,
+  "whole_frame_shake": false,
+  "filmora_executed": false,
+  "native_open_test": "Not available in the Linux environment; structural checks are separate."
+}

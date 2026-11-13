@@ -1,0 +1,42 @@
+{
+  "videos": [
+    {
+      "file": "Left_4_Dead_2_Cancelar_9x16.mp4",
+      "frames": 1236,
+      "sha256": "ed19892554cac2a672ce9d1f25ccf75cb3a53e21ed949b743063c129f648f8f1"
+    },
+    {
+      "file": "Left_4_Dead_2_Cancelar_16x9.mp4",
+      "frames": 1236,
+      "sha256": "fd6a1b2e32c793f68a94a4d04b0a2af4ad12ab0c442f3ebe6249ae1753ec76e4"
+    },
+    {
+      "file": "Left_4_Dead_2_base_9x16.mp4",
+      "frames": 1236,
+      "sha256": "139020dd16974bdb07f6084b153f8f6468fd85113dd7fcd49905a2c2ff7c881b"
+    }
+  ],
+  "chapter_order": 4,
+  "voice_duration": 40.94283446712018,
+  "full_voice_pcm_preserved": true,
+  "voice_in_package_bit_identical": true,
+  "full_audio_correlation": 0.9999496201313947,
+  "crt_motion_mse": [
+    277.7986145019531,
+    19.890031814575195,
+    435.12908935546875
+  ],
+  "steam_group_clean_psnr": 44.591872657211205,
+  "standing_dery": false,
+  "new_props": false,
+  "native_titles": 0,
+  "face_ids": 43,
+  "animation_fps": 30,
+  "media_psx": false,
+  "psx_animation": true,
+  "filmora_clips": 17,
+  "resources_resolve": true,
+  "speed_1x": true,
+  "zip_integrity": true,
+  "filmora_native_open": false
+}

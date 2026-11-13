@@ -23,7 +23,12 @@
       "order": 4,
       "game": "Left 4 Dead 2",
       "production_path": "production/04-left-4-dead-2",
-      "status": "materiais_recebidos"
+      "status": "produzido",
+      "deliveries": {
+        "short": "production/04-left-4-dead-2/output/Left_4_Dead_2_Cancelar_9x16.mp4",
+        "chapter_16x9": "production/04-left-4-dead-2/output/Left_4_Dead_2_Cancelar_16x9.mp4",
+        "filmora_9x16": "production/04-left-4-dead-2/output/Left_4_Dead_2_Filmora.zip"
+      }
     },
     {
       "order": 5,

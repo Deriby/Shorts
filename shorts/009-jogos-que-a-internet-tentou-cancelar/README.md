@@ -14,6 +14,8 @@ A posição editorial do Saints Row IV é a quinta. As entregas existentes mant�
 
 ## Downloads atuais — sem Dery em pé
 
+**[Left 4 Dead 2 — novo quarto capítulo: short, 16:9 e Filmora](production/04-left-4-dead-2/README.md).**
+
 **[Baixar os quatro capítulos R4 — MP4 9:16, MP4 16:9 e Filmora 9:16](production/revisao_r4/README.md).** Cenas em pé e sets extras longos removidos; gameplay no PC e voz integral preservadas. Os links abaixo ficam como histórico.
 
 ## Revisão anterior — mídias limpas

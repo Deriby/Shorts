@@ -1,0 +1,30 @@
+{
+  "chapter": "Left 4 Dead 2",
+  "frames": 1236,
+  "media_original_resolution": true,
+  "media_rgb555": false,
+  "media_dither": false,
+  "media_nearest": false,
+  "media_affine_warp": false,
+  "crt_perspective": true,
+  "crt_occlusion_mask": true,
+  "crt_aspect_preserved": true,
+  "psx_animation_preserved": true,
+  "legacy_animation_reused": false,
+  "source_sizes": {
+    "l4d2_gameplay.mp4": [
+      1280,
+      720
+    ],
+    "l4d_beta.mp4": [
+      850,
+      480
+    ]
+  },
+  "outputs": [
+    "output/Left_4_Dead_2_Cancelar_9x16.mp4",
+    "output/Left_4_Dead_2_Cancelar_16x9.mp4",
+    "output/Filmora/midias/Left_4_Dead_2_base_9x16.mp4"
+  ],
+  "projection_sha256": "99cfe609143aa82c90eab1a051d3cc26be796db765267268e1ffbc28034ad337"
+}
