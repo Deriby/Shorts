@@ -138,6 +138,52 @@
         "chapter_16x9": "production/09-dead-or-alive-xtreme-3/output/Dead_or_Alive_Xtreme_3_Cancelar_16x9.mp4",
         "filmora_9x16": "production/09-dead-or-alive-xtreme-3/output/Dead_or_Alive_Xtreme_3_Filmora.zip"
       }
+    },
+    {
+      "order": 11,
+      "game": "Minecraft",
+      "production_path": "production/11-minecraft",
+      "status": "produzido",
+      "gag_count": 2,
+      "deliveries": {
+        "short": "production/11-minecraft/output/Minecraft_Cancelar_9x16.mp4",
+        "chapter_16x9": "production/11-minecraft/output/Minecraft_Cancelar_16x9.mp4",
+        "filmora_9x16": "production/11-minecraft/output/Minecraft_Filmora.zip"
+      }
+    },
+    {
+      "order": 12,
+      "game": "House Party",
+      "production_path": "production/12-house-party",
+      "status": "produzido",
+      "gag_count": 3,
+      "deliveries": {
+        "short": "production/12-house-party/output/House_Party_Cancelar_9x16.mp4",
+        "chapter_16x9": "production/12-house-party/output/House_Party_Cancelar_16x9.mp4",
+        "filmora_9x16": "production/12-house-party/output/House_Party_Filmora.zip"
+      }
+    }
+  ],
+  "omitted_chapters": [
+    {
+      "order": 10,
+      "reason": "Jogo descartado pelo usuário; manter numeração dos pacotes 11 e 12."
+    }
+  ],
+  "long_segments": [
+    {
+      "role": "intro",
+      "production_path": "production/00-intro",
+      "video": "production/00-intro/output/Intro_Cancelar_16x9.mp4",
+      "filmora": "production/00-intro/output/Intro_Cancelar_Filmora.zip",
+      "format": "16:9"
+    },
+    {
+      "role": "outro",
+      "production_path": "production/13-outro",
+      "video": "production/13-outro/output/Outro_Cancelar_16x9.mp4",
+      "filmora": "production/13-outro/output/Outro_Cancelar_Filmora.zip",
+      "format": "16:9"
     }
   ]
 }

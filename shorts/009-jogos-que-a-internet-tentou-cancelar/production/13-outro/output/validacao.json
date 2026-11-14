@@ -1,0 +1,40 @@
+{
+  "videos": [
+    {
+      "file": "Outro_Cancelar_16x9.mp4",
+      "frames": 741,
+      "sha256": "a59e7c585c6a941e9ed60e94bcade63c3b734d0c3d94e9078568885ca1e349de"
+    },
+    {
+      "file": "Outro_Cancelar_base_16x9.mp4",
+      "frames": 741,
+      "sha256": "dd1f81f3be71dfdd1da2b69845bb0240efe98c227bdbe94b35e779d2a3af9932"
+    }
+  ],
+  "chapter_order": 13,
+  "voice_duration": 24.4381179138322,
+  "full_voice_pcm_preserved": true,
+  "voice_in_package_bit_identical": true,
+  "original_uploads_unchanged": true,
+  "full_audio_correlation": 0.9998636651636851,
+  "crt_motion_mse": {},
+  "clean_media_psnr": {
+    "logo_16x9.png": 43.736789193473626
+  },
+  "moving_gags_and_gif_mse": {},
+  "delivery_formats": [
+    "16x9"
+  ],
+  "standing_dery": false,
+  "gag_count": 0,
+  "native_titles": 0,
+  "face_ids": 33,
+  "animation_fps": 30,
+  "media_psx": false,
+  "psx_animation": true,
+  "filmora_clips": 7,
+  "resources_resolve": true,
+  "speed_1x": true,
+  "zip_integrity": true,
+  "filmora_native_open": false
+}

@@ -16,6 +16,12 @@ Série em produção para o Massacote Games. Os capítulos **GTA San Andreas / H
 
 A posição editorial do Saints Row IV é a quinta. As entregas existentes mantêm seus links. A ordem está registrada em [ordem_capitulos.json](ordem_capitulos.json).
 
+## Lote atual — Minecraft, House Party, intro e outro
+
+**[Downloads dos dois jogos e da intro/outro 16:9](production/lote_11_12_intro_outro/README.md).**
+
+Pacotes **11 — Minecraft** e **12 — House Party**. O jogo 10 foi descartado pelo usuário; os demais números foram preservados. Intro e outro são exclusivamente 16:9.
+
 ## Downloads atuais
 
 **[Dead or Alive Xtreme 3 — nono capítulo, duas ceninhas, MP4s e Filmora](production/09-dead-or-alive-xtreme-3/README.md).**

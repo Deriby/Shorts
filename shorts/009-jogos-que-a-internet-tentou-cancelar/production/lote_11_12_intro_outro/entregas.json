@@ -1,0 +1,74 @@
+[
+  {
+    "number": 11,
+    "title": "Minecraft",
+    "folder": "11-minecraft",
+    "outputs": {
+      "landscape": "Minecraft_Cancelar_16x9.mp4",
+      "filmora": "Minecraft_Filmora.zip",
+      "portrait": "Minecraft_Cancelar_9x16.mp4"
+    },
+    "formats": [
+      "9x16",
+      "16x9"
+    ],
+    "gags": 2,
+    "reused_gags": 0,
+    "duration": 43.93333333333333,
+    "frames": 1318,
+    "filmora_native_open": false
+  },
+  {
+    "number": 12,
+    "title": "House Party",
+    "folder": "12-house-party",
+    "outputs": {
+      "landscape": "House_Party_Cancelar_16x9.mp4",
+      "filmora": "House_Party_Filmora.zip",
+      "portrait": "House_Party_Cancelar_9x16.mp4"
+    },
+    "formats": [
+      "9x16",
+      "16x9"
+    ],
+    "gags": 3,
+    "reused_gags": 0,
+    "duration": 47.733333333333334,
+    "frames": 1432,
+    "filmora_native_open": false
+  },
+  {
+    "number": 0,
+    "title": "Intro",
+    "folder": "00-intro",
+    "outputs": {
+      "landscape": "Intro_Cancelar_16x9.mp4",
+      "filmora": "Intro_Cancelar_Filmora.zip"
+    },
+    "formats": [
+      "16x9"
+    ],
+    "gags": 0,
+    "reused_gags": 2,
+    "duration": 28.233333333333334,
+    "frames": 847,
+    "filmora_native_open": false
+  },
+  {
+    "number": 13,
+    "title": "Outro",
+    "folder": "13-outro",
+    "outputs": {
+      "landscape": "Outro_Cancelar_16x9.mp4",
+      "filmora": "Outro_Cancelar_Filmora.zip"
+    },
+    "formats": [
+      "16x9"
+    ],
+    "gags": 0,
+    "reused_gags": 0,
+    "duration": 24.7,
+    "frames": 741,
+    "filmora_native_open": false
+  }
+]

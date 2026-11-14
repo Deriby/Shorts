@@ -38,3 +38,11 @@ shorts/009-jogos-que-a-internet-tentou-cancelar/production/06-gta-v/output/R6_Ce
 shorts/009-jogos-que-a-internet-tentou-cancelar/production/07-pokemon-sword-shield/output/R6_Cenas_Curtas/Pokemon_Sword_Shield_R6_Filmora.zip filter=lfs diff=lfs merge=lfs -text
 shorts/009-jogos-que-a-internet-tentou-cancelar/production/08-night-trap/output/R6_Cenas_Curtas/Night_Trap_R6_Filmora.zip filter=lfs diff=lfs merge=lfs -text
 shorts/009-jogos-que-a-internet-tentou-cancelar/production/09-dead-or-alive-xtreme-3/output/Dead_or_Alive_Xtreme_3_Filmora.zip filter=lfs diff=lfs merge=lfs -text
+
+shorts/009-jogos-que-a-internet-tentou-cancelar/production/11-minecraft/output/Minecraft_Filmora.zip filter=lfs diff=lfs merge=lfs -text
+
+shorts/009-jogos-que-a-internet-tentou-cancelar/production/12-house-party/output/House_Party_Filmora.zip filter=lfs diff=lfs merge=lfs -text
+
+shorts/009-jogos-que-a-internet-tentou-cancelar/production/00-intro/output/Intro_Cancelar_Filmora.zip filter=lfs diff=lfs merge=lfs -text
+
+shorts/009-jogos-que-a-internet-tentou-cancelar/production/13-outro/output/Outro_Cancelar_Filmora.zip filter=lfs diff=lfs merge=lfs -text

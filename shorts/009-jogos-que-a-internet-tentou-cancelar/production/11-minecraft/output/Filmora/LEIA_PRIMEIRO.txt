@@ -1,0 +1,17 @@
+Minecraft — JOGOS QUE A INTERNET TENTOU CANCELAR
+
+Extraia o ZIP inteiro antes de abrir. Há somente o projeto 9:16, com mídias em
+midias/. Se o Filmora pedir uma fonte de vídeo/áudio, localize-a nessa pasta.
+O projeto do vídeo longo 16:9 será montado ao final com todos os jogos.
+
+Cortes, zooms com keyframes, voz, trilha e efeitos sonoros
+ficam separados e editáveis. O vídeo-base está sem áudio; a voz inteira está
+na faixa própria. A animação vem do Blender; o conteúdo do CRT é composto
+depois para preservar a mídia limpa. Para alterar a atuação, use o Blender
+da produção e gere uma nova base.
+
+O estilo usa como fonte seu projeto de edição concluído: reenquadramentos pela fala e mixagem. Não foram acrescentadas legendas ou títulos;
+o usuário faz a legendagem manualmente depois. O efeito PSX fica na animação; mídias são compostas limpas em resolução de entrega. Não há tremido global.
+Os MP4s entregues são composições exportadas neste ambiente; o renderizador
+proprietário do Filmora não foi executado no Linux. A abertura e a aparência
+nativa dos plugins devem ser conferidas na sua instalação do Filmora.

@@ -1,0 +1,15 @@
+{
+  "frames": 847,
+  "delivery_formats": [
+    "16x9"
+  ],
+  "media_psx": false,
+  "crt_clean": true,
+  "crt_aspect_preserved": true,
+  "voice_full": true,
+  "no_vertical_outputs": true,
+  "outputs": [
+    "output/Intro_Cancelar_16x9.mp4",
+    "output/Filmora/midias/Intro_Cancelar_base_16x9.mp4"
+  ]
+}

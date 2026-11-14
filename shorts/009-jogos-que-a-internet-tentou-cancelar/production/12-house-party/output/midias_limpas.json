@@ -1,0 +1,26 @@
+{
+  "chapter": "House Party",
+  "frames": 1432,
+  "media_original_resolution": true,
+  "media_rgb555": false,
+  "media_dither": false,
+  "media_nearest": false,
+  "media_affine_warp": false,
+  "crt_perspective": true,
+  "crt_occlusion_mask": true,
+  "crt_aspect_preserved": true,
+  "psx_animation_preserved": true,
+  "legacy_animation_reused": false,
+  "source_sizes": {
+    "frank.mp4": [
+      1280,
+      720
+    ]
+  },
+  "outputs": [
+    "output/House_Party_Cancelar_9x16.mp4",
+    "output/House_Party_Cancelar_16x9.mp4",
+    "output/Filmora/midias/House_Party_base_9x16.mp4"
+  ],
+  "projection_sha256": "75c179346fa2683272041c7a7c1b6844e7c5b51a73cf7d85db63eb8bb51fa583"
+}

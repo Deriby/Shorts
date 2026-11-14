@@ -1,0 +1,24 @@
+{
+  "reference": "shorts/008-personagens-que-a-internet-estragou/production/20-edicao-final-usuario/Massacote_EDICAO_FINAL_USUARIO.wfp",
+  "reference_sha256": "5a9d4617a2bc34416087e1125230764d5dea7980b5011c186ebe576648748fbc",
+  "source_unchanged": true,
+  "projects": [
+    {
+      "project": "Outro_Cancelar_16x9.wfp",
+      "format": "16x9",
+      "video_clips": 5,
+      "native_titles": 0,
+      "audio_clips": 2,
+      "duration": 24.7,
+      "resources": 3,
+      "sha256": "f57377fa9432e37f82869779193f0dcf5522e52961a9185b0652f71c7df0fe42"
+    }
+  ],
+  "all_media_bundled": true,
+  "original_voice_full": true,
+  "native_titles": false,
+  "paid_glow_on_titles_only": false,
+  "whole_frame_shake": false,
+  "filmora_executed": false,
+  "native_open_test": "Not available in the Linux environment; structural checks are separate."
+}

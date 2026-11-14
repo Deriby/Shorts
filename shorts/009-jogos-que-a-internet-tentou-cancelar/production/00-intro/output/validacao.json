@@ -1,0 +1,59 @@
+{
+  "videos": [
+    {
+      "file": "Intro_Cancelar_16x9.mp4",
+      "frames": 847,
+      "sha256": "421aca2f787fa5d91f05a23ebeb46ac566ccd4aad251e7804c83df0a8f0c1f5e"
+    },
+    {
+      "file": "Intro_Cancelar_base_16x9.mp4",
+      "frames": 847,
+      "sha256": "e1a95611d880e3278014d7fbabcbbfae53d7f5f5751a58991bd3ec63a2172240"
+    }
+  ],
+  "chapter_order": 0,
+  "voice_duration": 27.9618820861678,
+  "full_voice_pcm_preserved": true,
+  "voice_in_package_bit_identical": true,
+  "original_uploads_unchanged": true,
+  "full_audio_correlation": 0.9997863091902789,
+  "crt_motion_mse": {
+    "bicicleta": [
+      131.14266967773438,
+      120.75020599365234
+    ],
+    "arma_alienigena": [
+      8.069695472717285,
+      7.495386600494385
+    ]
+  },
+  "clean_media_psnr": {
+    "cafezinho": 43.68149795105823,
+    "rodas": 43.462968107262405
+  },
+  "moving_gags_and_gif_mse": {
+    "cafezinho": [
+      1099.22998046875,
+      0.032637763768434525
+    ],
+    "rodas": [
+      162.29083251953125,
+      150.97344970703125
+    ]
+  },
+  "delivery_formats": [
+    "16x9"
+  ],
+  "standing_dery": false,
+  "gag_count": 0,
+  "native_titles": 0,
+  "face_ids": 42,
+  "animation_fps": 30,
+  "media_psx": false,
+  "psx_animation": true,
+  "filmora_clips": 11,
+  "resources_resolve": true,
+  "speed_1x": true,
+  "zip_integrity": true,
+  "filmora_native_open": false
+}

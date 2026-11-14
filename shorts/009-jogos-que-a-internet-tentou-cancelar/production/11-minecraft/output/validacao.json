@@ -1,0 +1,67 @@
+{
+  "videos": [
+    {
+      "file": "Minecraft_Cancelar_9x16.mp4",
+      "frames": 1318,
+      "sha256": "9229a50716396267dadc3e25348e5ae3a2a3960c392bf02ae372e1542f48bba7"
+    },
+    {
+      "file": "Minecraft_Cancelar_16x9.mp4",
+      "frames": 1318,
+      "sha256": "3b7d25ac8ffb57b1b76703e60457c55268de4f597957fc8a14b351e58a78c691"
+    },
+    {
+      "file": "Minecraft_base_9x16.mp4",
+      "frames": 1318,
+      "sha256": "794dfc15189b42e66d37a59dc03248702ccf320977deb645a5141ec9032dd284"
+    }
+  ],
+  "chapter_order": 11,
+  "voice_duration": 43.681065759637185,
+  "full_voice_pcm_preserved": true,
+  "voice_in_package_bit_identical": true,
+  "original_uploads_unchanged": true,
+  "full_audio_correlation": 0.9998800374025864,
+  "crt_motion_mse": {
+    "gancho": [
+      529.7693481445312,
+      1479.161865234375
+    ],
+    "denuncias": [
+      853.91064453125,
+      783.6180419921875
+    ],
+    "campanha": [
+      260.700927734375,
+      687.3858032226562
+    ]
+  },
+  "clean_media_psnr": {
+    "meme.jpg": 45.39147531069987,
+    "448b20af4589fc4585a6abde5cd53387.jpg": 44.99588887790412,
+    "d59e34a97d1a51214329ff6e867627b2bef.png": 47.42252464133693,
+    "bb47c75abd456abb1bc940f035f46faa.jpg": 44.0252421675208
+  },
+  "moving_gags_and_gif_mse": {
+    "tnt": [
+      962.374755859375,
+      564.9603271484375
+    ],
+    "privado": [
+      161.9632110595703,
+      113.6133041381836
+    ]
+  },
+  "standing_dery": false,
+  "gag_count": 2,
+  "native_titles": 0,
+  "face_ids": 38,
+  "animation_fps": 30,
+  "media_psx": false,
+  "psx_animation": true,
+  "filmora_clips": 17,
+  "resources_resolve": true,
+  "speed_1x": true,
+  "zip_integrity": true,
+  "filmora_native_open": false
+}

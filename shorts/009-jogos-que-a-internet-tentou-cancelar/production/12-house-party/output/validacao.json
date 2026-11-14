@@ -1,0 +1,69 @@
+{
+  "videos": [
+    {
+      "file": "House_Party_Cancelar_9x16.mp4",
+      "frames": 1432,
+      "sha256": "4164e74b2277b246edb7396341eb96219e557d58757b259abb1dae1e51cce30c"
+    },
+    {
+      "file": "House_Party_Cancelar_16x9.mp4",
+      "frames": 1432,
+      "sha256": "905b564b868bb51854f308767a8ce16060b918f7973787b3bf5ad0c62bd883a1"
+    },
+    {
+      "file": "House_Party_base_9x16.mp4",
+      "frames": 1432,
+      "sha256": "dd18b33248f12e336c9d7362f98ddd0b315dea506af13b3136aa8f8edd15c3b3"
+    }
+  ],
+  "chapter_order": 12,
+  "voice_duration": 47.45585034013605,
+  "full_voice_pcm_preserved": true,
+  "voice_in_package_bit_identical": true,
+  "original_uploads_unchanged": true,
+  "full_audio_correlation": 0.9998397401550657,
+  "crt_motion_mse": {
+    "gancho": [
+      274.54278564453125,
+      466.411865234375
+    ],
+    "identidade": [
+      20.844186782836914,
+      20.009197235107422
+    ],
+    "cenas": [
+      325.5634460449219,
+      4.087940692901611
+    ]
+  },
+  "clean_media_psnr": {
+    "festa": 45.52651795582484,
+    "b5tl0p.jpg": 46.77920285264025
+  },
+  "moving_gags_and_gif_mse": {
+    "retirada": [
+      528.4566650390625,
+      3486.672607421875
+    ],
+    "censura": [
+      909.0659790039062,
+      295.87432861328125
+    ],
+    "restaurar": [
+      159.404541015625,
+      759.0018310546875
+    ]
+  },
+  "standing_dery": false,
+  "gag_count": 3,
+  "native_titles": 0,
+  "face_ids": 24,
+  "animation_fps": 30,
+  "media_psx": false,
+  "psx_animation": true,
+  "filmora_clips": 17,
+  "resources_resolve": true,
+  "speed_1x": true,
+  "zip_integrity": true,
+  "filmora_native_open": false
+}
