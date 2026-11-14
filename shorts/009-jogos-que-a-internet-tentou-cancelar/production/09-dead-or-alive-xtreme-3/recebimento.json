@@ -1,0 +1,175 @@
+{
+  "drive_id": "18YMFaKDSMO7LH0fuCNxzZRbCodgev8Lj",
+  "game": "Dead or Alive Xtreme 3",
+  "order": 9,
+  "files": [
+    {
+      "original": "10 - VOZ DEAD OR ALIVE XTREME 3.wav",
+      "path": "assets/voz/voz_original.wav",
+      "bytes": 7862696,
+      "sha256": "80a6e0f21733c7891cf0c9cc54f111bc90b0ccf4e0ba77cf7d8091c5ff11233b",
+      "duration": "40.950771",
+      "streams": [
+        {
+          "codec_type": "audio",
+          "codec_name": "pcm_s32le",
+          "width": null,
+          "height": null,
+          "sample_rate": "48000",
+          "channels": 1,
+          "nb_frames": null,
+          "r_frame_rate": "0/0"
+        }
+      ]
+    },
+    {
+      "original": "Dead or Alive Xtreme 3 - New Gameplay Trailer_720p.mp4",
+      "path": "assets/gameplay/trailer.mp4",
+      "bytes": 59681268,
+      "sha256": "bd55ee288e1e25eb95a12b3858feab9ad895b533e9d3d2916a36db1e6e66452e",
+      "duration": "239.537052",
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1280,
+          "height": 720,
+          "sample_rate": null,
+          "channels": null,
+          "nb_frames": "7175",
+          "r_frame_rate": "30000/1001"
+        },
+        {
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "sample_rate": "44100",
+          "channels": 2,
+          "nb_frames": "10316",
+          "r_frame_rate": "0/0"
+        }
+      ]
+    },
+    {
+      "original": "DEAD OR ALIVE Xtreme 3 Fortune  Lets play a game of Volleyball_720p.mp4",
+      "path": "assets/gameplay/volei.mp4",
+      "bytes": 51104680,
+      "sha256": "25622c0e2b3291f889a338c426843edfc712a87da151052fc3cbaaa6b5a99381",
+      "duration": "169.018050",
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1280,
+          "height": 720,
+          "sample_rate": null,
+          "channels": null,
+          "nb_frames": "5063",
+          "r_frame_rate": "30000/1001"
+        },
+        {
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "sample_rate": "44100",
+          "channels": 2,
+          "nb_frames": "7279",
+          "r_frame_rate": "0/0"
+        }
+      ]
+    },
+    {
+      "original": "Dead or Alive Xtreme 3 Fortune (Pool Hopping)_720p.mp4",
+      "path": "assets/gameplay/piscina.mp4",
+      "bytes": 7726465,
+      "sha256": "4ca935ad434782fc3033e96972550202cfcca8b6369a8b406a53714ecf471cc6",
+      "duration": "26.122449",
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1280,
+          "height": 720,
+          "sample_rate": null,
+          "channels": null,
+          "nb_frames": "780",
+          "r_frame_rate": "30000/1001"
+        },
+        {
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "width": null,
+          "height": null,
+          "sample_rate": "44100",
+          "channels": 2,
+          "nb_frames": "1125",
+          "r_frame_rate": "0/0"
+        }
+      ]
+    },
+    {
+      "original": "fisica.gif",
+      "path": "assets/imagens/fisica.gif",
+      "bytes": 5156599,
+      "sha256": "fb53543f28a56b6045ba50e2c849eab1d33b794493b1b8a1bbda889473137c88",
+      "duration": "2.000000",
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "gif",
+          "width": 512,
+          "height": 561,
+          "sample_rate": null,
+          "channels": null,
+          "nb_frames": "50",
+          "r_frame_rate": "25/1"
+        }
+      ]
+    },
+    {
+      "original": "fisicameme.gif",
+      "path": "assets/imagens/fisicameme.gif",
+      "bytes": 2084022,
+      "sha256": "d177da61fda309fae60224b1f45e928cb8dc089140108040a1425cb54b525be1",
+      "duration": "5.030000",
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "gif",
+          "width": 390,
+          "height": 215,
+          "sample_rate": null,
+          "channels": null,
+          "nb_frames": "63",
+          "r_frame_rate": "100/1"
+        }
+      ]
+    }
+  ],
+  "selection": {
+    "used": [
+      "voz_original.wav",
+      "volei.mp4",
+      "piscina.mp4",
+      "fisicameme.gif"
+    ],
+    "unused": [
+      "trailer.mp4",
+      "fisica.gif"
+    ],
+    "reasons": {
+      "trailer.mp4": "A fala é coberta pelos minigames enviados, sem repetir abertura comercial.",
+      "fisica.gif": "A gag usa bola de vôlei e o GIF do próprio jogo; não há necessidade de inserir a pessoa real."
+    },
+    "derived": [
+      {
+        "source": "assets/imagens/fisicameme.gif",
+        "output": "assets/gameplay/fisicameme.mp4",
+        "preserve_motion": true,
+        "fps": 30
+      }
+    ]
+  }
+}

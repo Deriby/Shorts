@@ -1,0 +1,148 @@
+{
+  "title": "Jogos que a internet tentou cancelar",
+  "chapter": "Dead or Alive Xtreme 3",
+  "chapter_order": 9,
+  "slug": "Dead_or_Alive_Xtreme_3",
+  "model": "Dery_Dead_or_Alive_Xtreme_3.blend",
+  "fps": 30,
+  "frames": 1237,
+  "duration": 41.233333333333334,
+  "voice_duration": 40.95077097505669,
+  "voice_edited": false,
+  "revision": 5,
+  "clean_media": true,
+  "standing_dery": false,
+  "monitor_file": "assets/monitor/monitor_completo.mp4",
+  "cache": "/workspace/attachments/09-proximo",
+  "render_size": [
+    768,
+    432
+  ],
+  "portrait_safe_crop": [
+    263,
+    0,
+    243,
+    432
+  ],
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 96,
+      "kind": "monitor",
+      "mood": "gancho",
+      "source": "volei.mp4",
+      "source_start": 10
+    },
+    {
+      "id": 1,
+      "start": 97,
+      "end": 278,
+      "kind": "host",
+      "mood": "polemica",
+      "source": "volei.mp4",
+      "source_start": 38
+    },
+    {
+      "id": 2,
+      "start": 279,
+      "end": 420,
+      "kind": "monitor",
+      "mood": "identidade",
+      "source": "volei.mp4",
+      "source_start": 50
+    },
+    {
+      "id": 3,
+      "start": 421,
+      "end": 516,
+      "kind": "host",
+      "mood": "ferias",
+      "source": "piscina.mp4",
+      "source_start": 5
+    },
+    {
+      "id": 4,
+      "start": 517,
+      "end": 561,
+      "kind": "gag",
+      "mood": "mala",
+      "source": "piscina.mp4",
+      "source_start": 5
+    },
+    {
+      "id": 5,
+      "start": 562,
+      "end": 675,
+      "kind": "game",
+      "mood": "minigames",
+      "source": "piscina.mp4",
+      "source_start": 5.2,
+      "portrait_fit": "contain"
+    },
+    {
+      "id": 6,
+      "start": 676,
+      "end": 750,
+      "kind": "close",
+      "mood": "detalhe",
+      "source": "volei.mp4",
+      "source_start": 75
+    },
+    {
+      "id": 7,
+      "start": 751,
+      "end": 837,
+      "kind": "game",
+      "mood": "fisica",
+      "source": "fisicameme.mp4",
+      "source_start": 0,
+      "portrait_fit": "contain"
+    },
+    {
+      "id": 8,
+      "start": 838,
+      "end": 906,
+      "kind": "gag",
+      "mood": "mola",
+      "source": "volei.mp4",
+      "source_start": 95
+    },
+    {
+      "id": 9,
+      "start": 907,
+      "end": 951,
+      "kind": "close",
+      "mood": "jogo_inteiro",
+      "source": "volei.mp4",
+      "source_start": 95
+    },
+    {
+      "id": 10,
+      "start": 952,
+      "end": 1029,
+      "kind": "monitor",
+      "mood": "rebolico",
+      "source": "volei.mp4",
+      "source_start": 100
+    },
+    {
+      "id": 11,
+      "start": 1030,
+      "end": 1131,
+      "kind": "host",
+      "mood": "explicacao",
+      "source": "volei.mp4",
+      "source_start": 112
+    },
+    {
+      "id": 12,
+      "start": 1132,
+      "end": 1237,
+      "kind": "close",
+      "mood": "asia",
+      "source": "volei.mp4",
+      "source_start": 118
+    }
+  ]
+}
