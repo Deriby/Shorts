@@ -1,0 +1,98 @@
+{
+  "duration": 561.3666666666667,
+  "frames": 16841,
+  "game_orders": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12
+  ],
+  "game_10_excluded": true,
+  "voices_complete": 13,
+  "source_checks": [
+    {
+      "title": "Intro",
+      "matching_frame": 423,
+      "decoded_pixels_identical": true
+    },
+    {
+      "title": "GTA San Andreas",
+      "matching_frame": 801,
+      "decoded_pixels_identical": true
+    },
+    {
+      "title": "BMX XXX",
+      "matching_frame": 659,
+      "decoded_pixels_identical": true
+    },
+    {
+      "title": "Bully",
+      "matching_frame": 705,
+      "decoded_pixels_identical": true
+    },
+    {
+      "title": "Left 4 Dead 2",
+      "matching_frame": 618,
+      "decoded_pixels_identical": true
+    },
+    {
+      "title": "Saints Row IV",
+      "matching_frame": 615,
+      "decoded_pixels_identical": true
+    },
+    {
+      "title": "GTA V",
+      "matching_frame": 559,
+      "decoded_pixels_identical": true
+    },
+    {
+      "title": "Pokémon Sword and Shield",
+      "matching_frame": 695,
+      "decoded_pixels_identical": true
+    },
+    {
+      "title": "Night Trap",
+      "matching_frame": 649,
+      "decoded_pixels_identical": true
+    },
+    {
+      "title": "Dead or Alive Xtreme 3",
+      "matching_frame": 618,
+      "decoded_pixels_identical": true
+    },
+    {
+      "title": "Minecraft",
+      "matching_frame": 659,
+      "decoded_pixels_identical": true
+    },
+    {
+      "title": "House Party",
+      "matching_frame": 716,
+      "decoded_pixels_identical": true
+    },
+    {
+      "title": "Outro",
+      "matching_frame": 370,
+      "decoded_pixels_identical": true
+    }
+  ],
+  "full_video_decoded": true,
+  "native_clips": 296,
+  "native_resources": 97,
+  "native_video_cuts": 193,
+  "chapter_cards": 11,
+  "paid_glow_title_only": true,
+  "all_media_resolve": true,
+  "no_timeline_gaps": true,
+  "speed_1x": true,
+  "voices_bit_identical": true,
+  "full_audio_correlation": 0.9998712924319404,
+  "native_filmora_open": false
+}

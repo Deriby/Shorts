@@ -1,0 +1,31 @@
+JOGOS QUE A INTERNET TENTOU CANCELAR — PROJETO COMPLETO 16:9
+
+Extraia este ZIP inteiro antes de abrir o WFP. Mantenha midias/ ao lado.
+Não abra o WFP diretamente de dentro do ZIP. Se o Filmora pedir um arquivo,
+localize-o em midias/; os arquivos têm nomes únicos por capítulo.
+
+Inclui intro, onze jogos e outro. O jogo 10 foi descartado pelo usuário;
+Minecraft mantém o número 11 e House Party, o 12.
+
+Voz, música e sons têm faixas próprias. Os cortes de cada trecho continuam
+editáveis. As onze vinhetas têm fundo, imagem, título dourado e som em camadas
+separadas. O título é um PNG com letras em volume, como nas vinhetas anteriores;
+para mudar as palavras, substitua o PNG correspondente. Há Glow nativo apenas
+nessa camada, usando o efeito da referência de edição do usuário.
+
+As cenas já aprovadas foram reaproveitadas em 16:9 sem novo render 3D.
+Atuação, conteúdo do PC, enquadramentos e zooms da versão aprovada estão
+na base de cada capítulo; os cortes dessa base continuam separados. O WFP
+usa transformação neutra nesses clipes, evitando duplicar o zoom ou aplicar
+um recorte vertical no vídeo longo. Para alterar o 3D, use o Blender original.
+Não há legendas novas nas falas nem oscilação artificial da tela.
+
+Vozes/arquivos originais estão preservados. Ajustes leves de volume no WFP
+reproduzem a mixagem já aprovada, sem cortes, aceleração ou mudança de pitch.
+O MP4 de conferência usa os mesmos quadros dos capítulos e esta mixagem.
+A aparência do Glow nativo pode diferir da aproximação no MP4.
+
+Filmora não foi executado neste Linux. Recursos, duração, velocidade 1x,
+continuidade, mídia em movimento e estrutura foram conferidos por código;
+a abertura nativa precisa ser conferida na sua instalação, com os plugins
+pagos que você já utiliza.

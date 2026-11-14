@@ -1,0 +1,250 @@
+{
+  "project": "Jogos_Que_A_Internet_Tentou_Cancelar_COMPLETO_16x9.wfp",
+  "duration": 561.3666666666667,
+  "frames": 16841,
+  "native_video_cuts": 193,
+  "audio_clips": 81,
+  "resources": 97,
+  "chapter_cards": [
+    {
+      "game": "GTA San Andreas",
+      "start": 28.233333333333334,
+      "end": 30.233333333333334,
+      "layered_pngs": true,
+      "source_time_keyframes": true,
+      "paid_glow_title_only": true
+    },
+    {
+      "game": "BMX XXX",
+      "start": 83.63333333333334,
+      "end": 85.63333333333334,
+      "layered_pngs": true,
+      "source_time_keyframes": true,
+      "paid_glow_title_only": true
+    },
+    {
+      "game": "Bully",
+      "start": 129.6,
+      "end": 131.6,
+      "layered_pngs": true,
+      "source_time_keyframes": true,
+      "paid_glow_title_only": true
+    },
+    {
+      "game": "Left 4 Dead 2",
+      "start": 178.63333333333333,
+      "end": 180.63333333333333,
+      "layered_pngs": true,
+      "source_time_keyframes": true,
+      "paid_glow_title_only": true
+    },
+    {
+      "game": "Saints Row IV",
+      "start": 221.83333333333334,
+      "end": 223.83333333333334,
+      "layered_pngs": true,
+      "source_time_keyframes": true,
+      "paid_glow_title_only": true
+    },
+    {
+      "game": "GTA V",
+      "start": 264.8333333333333,
+      "end": 266.8333333333333,
+      "layered_pngs": true,
+      "source_time_keyframes": true,
+      "paid_glow_title_only": true
+    },
+    {
+      "game": "Pokémon Sword and Shield",
+      "start": 304.1333333333333,
+      "end": 306.1333333333333,
+      "layered_pngs": true,
+      "source_time_keyframes": true,
+      "paid_glow_title_only": true
+    },
+    {
+      "game": "Night Trap",
+      "start": 352.46666666666664,
+      "end": 354.46666666666664,
+      "layered_pngs": true,
+      "source_time_keyframes": true,
+      "paid_glow_title_only": true
+    },
+    {
+      "game": "Dead or Alive Xtreme 3",
+      "start": 397.76666666666665,
+      "end": 399.76666666666665,
+      "layered_pngs": true,
+      "source_time_keyframes": true,
+      "paid_glow_title_only": true
+    },
+    {
+      "game": "Minecraft",
+      "start": 441.0,
+      "end": 443.0,
+      "layered_pngs": true,
+      "source_time_keyframes": true,
+      "paid_glow_title_only": true
+    },
+    {
+      "game": "House Party",
+      "start": 486.93333333333334,
+      "end": 488.93333333333334,
+      "layered_pngs": true,
+      "source_time_keyframes": true,
+      "paid_glow_title_only": true
+    }
+  ],
+  "voices": [
+    {
+      "file": "00_intro_voz_timeline.wav",
+      "start_frame": 0,
+      "sha256": "877c132aff762c63f11004fa7b0cec738a73f471145b28a814f740d013ff5aa2",
+      "samples": 1245090
+    },
+    {
+      "file": "01_gta_san_andreas_voz_timeline.wav",
+      "start_frame": 907,
+      "sha256": "5dde9db955a4db8bf562685d4654f39bf21725cdd0f241953863a35a0556ff18",
+      "samples": 2354940
+    },
+    {
+      "file": "02_bmx_xxx_voz_timeline.wav",
+      "start_frame": 2569,
+      "sha256": "183403307ac966d177d6f65ab369744a1588ea2c2f5f699c9d7fd44399f8eca7",
+      "samples": 1938930
+    },
+    {
+      "file": "03_bully_voz_timeline.wav",
+      "start_frame": 3948,
+      "sha256": "8500f69ebaeb47af00263b6d265401360d3793ac7423b44afef237083644c2a7",
+      "samples": 2074170
+    },
+    {
+      "file": "04_left_4_dead_2_voz_timeline.wav",
+      "start_frame": 5419,
+      "sha256": "da2093727ba1f37f6944eecf585dc9dc97b18b32ad5b888f691bac8b86d19808",
+      "samples": 1816920
+    },
+    {
+      "file": "05_saints_row_iv_voz_timeline.wav",
+      "start_frame": 6715,
+      "sha256": "7d6159f57f39d835e056be9d780dbde486ca718e2171d5753ede0e24afe4dc76",
+      "samples": 1808100
+    },
+    {
+      "file": "06_gta_v_voz_timeline.wav",
+      "start_frame": 8005,
+      "sha256": "e63e3d85145c18404700e72cbce0cc3ad95c813a05ff29a734cfd52e76c742d4",
+      "samples": 1644930
+    },
+    {
+      "file": "07_pokemon_sword_shield_voz_timeline.wav",
+      "start_frame": 9184,
+      "sha256": "cedf2ba163b459f38bc64bd52ffff0ce5900a9cd5b90daf384c3a878ee8598ef",
+      "samples": 2043300
+    },
+    {
+      "file": "08_night_trap_voz_timeline.wav",
+      "start_frame": 10634,
+      "sha256": "5427ea7f735535535613ccd529f58358aa85f7bd069afde86ead5a3c479837c0",
+      "samples": 1909530
+    },
+    {
+      "file": "09_dead_or_alive_xtreme_3_voz_timeline.wav",
+      "start_frame": 11993,
+      "sha256": "4245ffda658b436eb9e8179ce8b65783c18a1f5cc878b78e47d90e824d6a2470",
+      "samples": 1818390
+    },
+    {
+      "file": "11_minecraft_voz_timeline.wav",
+      "start_frame": 13290,
+      "sha256": "062f68fb3be9b800f2dbe476e9e879bf8ddba9ba6d6140e79c2099556740223e",
+      "samples": 1937460
+    },
+    {
+      "file": "12_house_party_voz_timeline.wav",
+      "start_frame": 14668,
+      "sha256": "788760a3c12458d9408dc89263a2d746b2c05a22fb8b5635e622b42793f89f77",
+      "samples": 2105040
+    },
+    {
+      "file": "13_outro_voz_timeline.wav",
+      "start_frame": 16100,
+      "sha256": "87afecb582b6007e8b7f84464fa3a32cabfbb5ca684ecfb3b233c734157f9385",
+      "samples": 1089270
+    }
+  ],
+  "audio_reconstruction": [
+    {
+      "title": "Intro",
+      "correlation": 0.9999999967406125,
+      "max_pcm_difference": 5.388570359454725e-05
+    },
+    {
+      "title": "GTA San Andreas",
+      "correlation": 1.0,
+      "max_pcm_difference": 0.0
+    },
+    {
+      "title": "BMX XXX",
+      "correlation": 0.9999999999999999,
+      "max_pcm_difference": 0.0
+    },
+    {
+      "title": "Bully",
+      "correlation": 0.9999999999999998,
+      "max_pcm_difference": 0.0
+    },
+    {
+      "title": "Left 4 Dead 2",
+      "correlation": 0.9999999969260598,
+      "max_pcm_difference": 5.690075695152785e-05
+    },
+    {
+      "title": "Saints Row IV",
+      "correlation": 1.0,
+      "max_pcm_difference": 0.0
+    },
+    {
+      "title": "GTA V",
+      "correlation": 0.9999999970135627,
+      "max_pcm_difference": 5.656855895597168e-05
+    },
+    {
+      "title": "Pokémon Sword and Shield",
+      "correlation": 0.9999999983771849,
+      "max_pcm_difference": 3.0517578125e-05
+    },
+    {
+      "title": "Night Trap",
+      "correlation": 0.9999999976368898,
+      "max_pcm_difference": 5.1851157619076105e-05
+    },
+    {
+      "title": "Dead or Alive Xtreme 3",
+      "correlation": 0.9999999973844028,
+      "max_pcm_difference": 5.102099466303134e-05
+    },
+    {
+      "title": "Minecraft",
+      "correlation": 0.9999999961141207,
+      "max_pcm_difference": 5.551422077809676e-05
+    },
+    {
+      "title": "House Party",
+      "correlation": 0.9999999945660382,
+      "max_pcm_difference": 4.967957332924211e-05
+    },
+    {
+      "title": "Outro",
+      "correlation": 0.9999999946076826,
+      "max_pcm_difference": 5.158573701380398e-05
+    }
+  ],
+  "peak": 0.9700069546216658,
+  "body_zooms_already_in_video": true,
+  "body_native_transform_identity": true,
+  "existing_sources_unchanged": true,
+  "filmora_native_open": false
+}

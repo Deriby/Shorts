@@ -46,3 +46,5 @@ shorts/009-jogos-que-a-internet-tentou-cancelar/production/12-house-party/output
 shorts/009-jogos-que-a-internet-tentou-cancelar/production/00-intro/output/Intro_Cancelar_Filmora.zip filter=lfs diff=lfs merge=lfs -text
 
 shorts/009-jogos-que-a-internet-tentou-cancelar/production/13-outro/output/Outro_Cancelar_Filmora.zip filter=lfs diff=lfs merge=lfs -text
+
+shorts/009-jogos-que-a-internet-tentou-cancelar/production/14-video-completo/output/Jogos_Que_A_Internet_Tentou_Cancelar_Filmora_COMPLETO_16x9.zip filter=lfs diff=lfs merge=lfs -text
