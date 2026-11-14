@@ -1,8 +1,11 @@
 # Jogos que a internet tentou cancelar — completo 16:9
 
+O WFP atual restaura o registro e os metadados da timeline principal a partir do projeto salvo pelo usuário. Para a pasta já extraída, baixe apenas `Massacote_Completo.wfp` e salve ao lado de `midias/`. A abertura no aplicativo continua sem teste neste ambiente.
+
 **9min21,367s**, 1920×1080, 30 fps. Intro + 11 jogos + 11 vinhetas de 2s + outro. O jogo 10 permanece fora.
 
-- [Projeto Filmora completo com mídias — ZIP, 324 MB](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/14-video-completo/output/Jogos_Que_A_Internet_Tentou_Cancelar_Filmora_COMPLETO_16x9.zip).
+- [Somente WFP reparado — coloque ao lado de midias/](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/14-video-completo/output/Filmora/Massacote_Completo.wfp).
+- [Projeto Filmora completo com mídias — ZIP, 324 MB](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/14-video-completo/output/Massacote_Completo_Filmora.zip).
 - [MP4 completo para conferência](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/14-video-completo/output/Jogos_Que_A_Internet_Tentou_Cancelar_COMPLETO_16x9.mp4).
 - [Prévia das onze vinhetas — 22 segundos](https://github.com/Deriby/Shorts/raw/refs/heads/main/shorts/009-jogos-que-a-internet-tentou-cancelar/production/14-video-completo/output/Previa_Vinhetas_16x9.mp4).
 - [Visão geral da montagem](output/Previa_Montagem_Completa.jpg).

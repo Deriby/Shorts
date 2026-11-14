@@ -1,5 +1,5 @@
 {
-  "project": "Jogos_Que_A_Internet_Tentou_Cancelar_COMPLETO_16x9.wfp",
+  "project": "Massacote_Completo.wfp",
   "duration": 561.3666666666667,
   "frames": 16841,
   "native_video_cuts": 193,
@@ -246,5 +246,8 @@
   "body_zooms_already_in_video": true,
   "body_native_transform_identity": true,
   "existing_sources_unchanged": true,
-  "filmora_native_open": false
+  "filmora_native_open": false,
+  "project_before_open_repair": "Jogos_Que_A_Internet_Tentou_Cancelar_COMPLETO_16x9.wfp",
+  "native_root_registration_repaired": true,
+  "native_root_extra_restored": true
 }

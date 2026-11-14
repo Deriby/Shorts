@@ -1,0 +1,21 @@
+{
+  "source": "Jogos_Que_A_Internet_Tentou_Cancelar_COMPLETO_16x9.wfp",
+  "source_sha256": "ca2590f4b91423b53a6731243a3db8f5d4aeb7b5d1160034ed9fbd5589050cfd",
+  "reference": "shorts/008-personagens-que-a-internet-estragou/production/20-edicao-final-usuario/Massacote_EDICAO_FINAL_USUARIO.wfp",
+  "reference_sha256": "5a9d4617a2bc34416087e1125230764d5dea7980b5011c186ebe576648748fbc",
+  "repaired": "Massacote_Completo.wfp",
+  "repaired_sha256": "9a4a90cdcf45354e01d041da83dcc3124f87bd38fa15f7050dda87732e2eb562",
+  "root_library_registration_restored": true,
+  "root_extra_restored": true,
+  "independent_library_media_ids": true,
+  "native_media_caches_restored": true,
+  "compression": "ZIP_STORED as in user-saved WFP",
+  "new_project_guid": true,
+  "all_296_edits_unchanged_except_library_binding": true,
+  "all_97_resources_unchanged": true,
+  "source_files_unchanged": true,
+  "working_reference_passes": true,
+  "broken_delivery_rejected": true,
+  "repaired_contract_passes": true,
+  "filmora_native_open": false
+}

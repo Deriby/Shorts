@@ -1,6 +1,6 @@
 JOGOS QUE A INTERNET TENTOU CANCELAR — PROJETO COMPLETO 16:9
 
-Extraia este ZIP inteiro antes de abrir o WFP. Mantenha midias/ ao lado.
+Abra Massacote_Completo.wfp após extrair este ZIP inteiro. Mantenha midias/ ao lado.
 Não abra o WFP diretamente de dentro do ZIP. Se o Filmora pedir um arquivo,
 localize-o em midias/; os arquivos têm nomes únicos por capítulo.
 

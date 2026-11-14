@@ -94,5 +94,12 @@
   "speed_1x": true,
   "voices_bit_identical": true,
   "full_audio_correlation": 0.9998712924319404,
-  "native_filmora_open": false
+  "native_filmora_open": false,
+  "native_root_registration": {
+    "root_registered": true,
+    "extra_present": true,
+    "timeline_uuid_matches": true,
+    "duration_matches": true,
+    "media_bindings": 296
+  }
 }

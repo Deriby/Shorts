@@ -93,3 +93,5 @@ files['ProjectFolder/Medias/medias_info.json']=('{"media_structure":{"Folder":{'
 with zipfile.ZipFile(F/(name+'.wfp'),'w',zipfile.ZIP_DEFLATED)as z:
  for n,b in files.items():z.writestr(n,b)
 report=dict(project=name+'.wfp',duration=plan['duration'],frames=plan['frames'],native_video_cuts=len(main_video),audio_clips=sum(len(main['trackInfos'][i]['clipList'])for i in[6,7,8]),resources=len(resources),chapter_cards=audit,voices=voices,audio_reconstruction=audio_checks,peak=peak,body_zooms_already_in_video=True,body_native_transform_identity=True,existing_sources_unchanged=True,filmora_native_open=False);(P/'projeto.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n');(P/'montagem.json').write_text(json.dumps(plan,ensure_ascii=False,indent=2)+'\n');print('COMPLETE_PROJECT_READY',name,plan['duration'],flush=True)
+
+subprocess.run(['python',str(P/'reparar_abertura.py')],check=True)

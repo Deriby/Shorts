@@ -30,6 +30,9 @@ else:
 assert len(report['voices'])==13
 for voice in report['voices']:assert hashlib.sha256((F/'midias'/voice['file']).read_bytes()).hexdigest()==voice['sha256']
 project=F/report['project']
+from validar_registro_nativo import validar
+root_validation=validar(project,strict=True)
+assert root_validation['media_bindings']==296
 with zipfile.ZipFile(project)as z:
  assert z.testzip()is None;data=json.loads(z.read(next(n for n in z.namelist()if n.endswith('timeline.wesproj'))));main=data['timelineInfos'][0];assert len(data['timelineInfos'])==1 and(main['resolutionWidth'],main['resolutionHeight'])==(1920,1080);resources={r['sourceUuid']:r for r in data['resources']};clips=0
  for r in resources.values():assert r['filename'].startswith('file:./midias/')and(F/r['filename'].removeprefix('file:./')).is_file()
@@ -65,5 +68,5 @@ tile=(320,180);cols=4;sheet=Image.new('RGB',(cols*320,math.ceil(len(indices)/col
 for i,rec in enumerate(plan['records']):
  x=i%cols*320;y=i//cols*204;sheet.paste(Image.open(C/'conferencia'/f'{i+1:03d}.png').resize(tile,Image.Resampling.LANCZOS),(x,y));d.text((x+4,y+183),rec['title'][:39],fill='white')
 sheet.save(O/'Previa_Montagem_Completa.jpg',quality=94)
-result=dict(duration=plan['duration'],frames=plan['frames'],game_orders=[1,2,3,4,5,6,7,8,9,11,12],game_10_excluded=True,voices_complete=13,source_checks=source_checks,full_video_decoded=True,native_clips=clips,native_resources=len(resources),native_video_cuts=report['native_video_cuts'],chapter_cards=11,paid_glow_title_only=True,all_media_resolve=True,no_timeline_gaps=True,speed_1x=True,voices_bit_identical=True,full_audio_correlation=correlation,native_filmora_open=False)
+result=dict(duration=plan['duration'],frames=plan['frames'],game_orders=[1,2,3,4,5,6,7,8,9,11,12],game_10_excluded=True,voices_complete=13,source_checks=source_checks,full_video_decoded=True,native_clips=clips,native_resources=len(resources),native_video_cuts=report['native_video_cuts'],chapter_cards=11,paid_glow_title_only=True,all_media_resolve=True,no_timeline_gaps=True,speed_1x=True,voices_bit_identical=True,full_audio_correlation=correlation,native_filmora_open=False,native_root_registration=root_validation)
 (O/'validacao.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n');print('COMPLETE_LONG_VERIFIED',json.dumps(result),flush=True)
