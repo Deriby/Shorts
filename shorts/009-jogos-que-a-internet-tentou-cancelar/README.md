@@ -1,6 +1,6 @@
 # Jogos que a internet tentou cancelar
 
-Série em produção para o Massacote Games. Os capítulos **GTA San Andreas / Hot Coffee**, **BMX XXX**, **Bully**, **Left 4 Dead 2**, **Saints Row IV**, **GTA V**, **Pokémon Sword and Shield** e **Night Trap** usam a voz e as mídias enviadas pelo usuário. Os capítulos MP4 16:9 ficam preparados para a montagem futura; o projeto Filmora do longo será feito com todos os jogos apenas no final.
+Série em produção para o Massacote Games. Os capítulos **GTA San Andreas / Hot Coffee**, **BMX XXX**, **Bully**, **Left 4 Dead 2**, **Saints Row IV**, **GTA V**, **Pokémon Sword and Shield**, **Night Trap** e **Dead or Alive Xtreme 3** usam a voz e as mídias enviadas pelo usuário. Os capítulos MP4 16:9 ficam preparados para a montagem futura; o projeto Filmora do longo será feito com todos os jogos apenas no final.
 
 ## Ordem dos capítulos
 
@@ -12,10 +12,15 @@ Série em produção para o Massacote Games. Os capítulos **GTA San Andreas / H
 6. [GTA V](production/06-gta-v/README.md)
 7. [Pokémon Sword and Shield](production/07-pokemon-sword-shield/README.md)
 8. [Night Trap](production/08-night-trap/README.md)
+9. [Dead or Alive Xtreme 3](production/09-dead-or-alive-xtreme-3/README.md)
 
 A posição editorial do Saints Row IV é a quinta. As entregas existentes mantêm seus links. A ordem está registrada em [ordem_capitulos.json](ordem_capitulos.json).
 
-## Downloads atuais — R6
+## Downloads atuais
+
+**[Dead or Alive Xtreme 3 — nono capítulo, duas ceninhas, MP4s e Filmora](production/09-dead-or-alive-xtreme-3/README.md).**
+
+## Revisão R6 dos oito primeiros capítulos
 
 **[Oito capítulos revisados: 17 ceninhas, MP4s 9:16/16:9 e Filmora 9:16](production/revisao_r6/README.md).**
 

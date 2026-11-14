@@ -1,0 +1,69 @@
+{
+  "videos": [
+    {
+      "file": "Dead_or_Alive_Xtreme_3_Cancelar_9x16.mp4",
+      "frames": 1237,
+      "sha256": "fef8e576303b24ccd5d98baccb762e81e8f42f57d8c0708ba9e0019184b4459a"
+    },
+    {
+      "file": "Dead_or_Alive_Xtreme_3_Cancelar_16x9.mp4",
+      "frames": 1237,
+      "sha256": "a48a02648fc8fd24824ea3d70b6771a7ceae48f5cace4228974ad54d3a1e1e0a"
+    },
+    {
+      "file": "Dead_or_Alive_Xtreme_3_base_9x16.mp4",
+      "frames": 1237,
+      "sha256": "d5f0878bf1fae263392c64f203001d98e0f1bffc16a24ad516a715a6300c0647"
+    }
+  ],
+  "chapter_order": 9,
+  "voice_duration": 40.95077097505669,
+  "full_voice_pcm_preserved": true,
+  "voice_in_package_bit_identical": true,
+  "original_uploads_unchanged": true,
+  "full_audio_correlation": 0.9998505168963586,
+  "crt_motion_mse": {
+    "gancho": [
+      408.0505676269531,
+      894.3530883789062
+    ],
+    "identidade": [
+      800.6823120117188,
+      54.87814712524414
+    ],
+    "rebolico": [
+      675.51806640625,
+      571.9945068359375
+    ]
+  },
+  "clean_media_psnr": {
+    "minigames": 42.12000819263516,
+    "fisica": 42.420619051018456
+  },
+  "moving_gags_and_gif_mse": {
+    "mala": [
+      997.559326171875,
+      793.7737426757812
+    ],
+    "fisica": [
+      631.9232788085938,
+      1764.33642578125
+    ],
+    "mola": [
+      918.7531127929688,
+      822.3757934570312
+    ]
+  },
+  "standing_dery": false,
+  "gag_count": 2,
+  "native_titles": 0,
+  "face_ids": 35,
+  "animation_fps": 30,
+  "media_psx": false,
+  "psx_animation": true,
+  "filmora_clips": 17,
+  "resources_resolve": true,
+  "speed_1x": true,
+  "zip_integrity": true,
+  "filmora_native_open": false
+}
