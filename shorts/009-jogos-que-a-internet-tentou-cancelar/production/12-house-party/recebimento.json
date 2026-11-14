@@ -1,0 +1,125 @@
+{
+  "drive_id": "14dwDn7lA-gjiJcizLvc1p6UgIwVFwTBa",
+  "game": "House Party",
+  "package_number": 12,
+  "files": [
+    {
+      "original": "12 - VOZ HOUSE PARTY.wav",
+      "path": "assets/voz/voz_original.wav",
+      "bytes": 9111668,
+      "sha256": "dd98ae1af944edbb8ab57cf56624a45b41a6be080d2c3e265a7dcf894579759d",
+      "duration": "47.455833",
+      "streams": [
+        {
+          "codec_type": "audio",
+          "width": null,
+          "height": null,
+          "sample_rate": "48000",
+          "channels": 1,
+          "r_frame_rate": "0/0"
+        }
+      ]
+    },
+    {
+      "original": "Beating up Frank immediately in a New Game of HOUSE PARTY_720p.mp4",
+      "path": "assets/gameplay/frank.mp4",
+      "bytes": 41755014,
+      "sha256": "fd2ca1d8c2fa4e1d83a70f1969709cfca50c791436b12a12d907374b3e4c5dd9",
+      "duration": "194.351020",
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "sample_rate": null,
+          "channels": null,
+          "r_frame_rate": "30000/1001"
+        },
+        {
+          "codec_type": "audio",
+          "width": null,
+          "height": null,
+          "sample_rate": "44100",
+          "channels": 2,
+          "r_frame_rate": "0/0"
+        }
+      ]
+    },
+    {
+      "original": "b5tl0p.jpg",
+      "path": "assets/imagens/b5tl0p.jpg",
+      "bytes": 70494,
+      "sha256": "de3c9c727c7e22b870a695d6899f737f5e53c73a361f2fc9c167c4d063cb1aa4",
+      "duration": "0.040000",
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 889,
+          "height": 500,
+          "sample_rate": null,
+          "channels": null,
+          "r_frame_rate": "25/1"
+        }
+      ]
+    },
+    {
+      "original": "polemic.png",
+      "path": "assets/imagens/polemic.png",
+      "bytes": 42778,
+      "sha256": "7c3b2ab57c78040de8334940e1cad1b163413ff507819f3c8ca707b55b7cd32c",
+      "duration": null,
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 707,
+          "height": 369,
+          "sample_rate": null,
+          "channels": null,
+          "r_frame_rate": "25/1"
+        }
+      ]
+    },
+    {
+      "original": "meme.png",
+      "path": "assets/imagens/meme.png",
+      "bytes": 121069,
+      "sha256": "4faaa5af550ae9a05ce1dabf7e6df1bacfb043bc875922decf3400b4f5da3710",
+      "duration": null,
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 485,
+          "height": 490,
+          "sample_rate": null,
+          "channels": null,
+          "r_frame_rate": "25/1"
+        }
+      ]
+    },
+    {
+      "original": "House Party Trailer (New 2024)_720p.mp4",
+      "path": "assets/gameplay/trailer.mp4",
+      "bytes": 17925240,
+      "sha256": "e1cf9f062383f673094aabbd6993b9d97dc13b8579a881253b74eae5e127b6f0",
+      "duration": "74.745034",
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "sample_rate": null,
+          "channels": null,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_type": "audio",
+          "width": null,
+          "height": null,
+          "sample_rate": "44100",
+          "channels": 2,
+          "r_frame_rate": "0/0"
+        }
+      ]
+    }
+  ]
+}

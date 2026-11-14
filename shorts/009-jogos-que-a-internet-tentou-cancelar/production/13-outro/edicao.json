@@ -1,0 +1,76 @@
+{
+  "duration": 24.7,
+  "delivery_fps": 30,
+  "animation_fps": 30,
+  "voice_full": true,
+  "voice_speed": 1,
+  "voice_pitch_unchanged": true,
+  "mix_gain": 0.9704479007397098,
+  "music_source": "Original quiet retro synth notes; narration ducking",
+  "sfx": [],
+  "titles": [],
+  "edits": [
+    {
+      "shot": 0,
+      "start": 0.0,
+      "end": 5.333333333333333,
+      "zoom_start": 1.0,
+      "zoom_end": 1.035,
+      "portrait_zoom_end": 1.035,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 1,
+      "start": 5.333333333333333,
+      "end": 10.5,
+      "zoom_start": 1.0,
+      "zoom_end": 1.025,
+      "portrait_zoom_end": 1.025,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 2,
+      "start": 10.5,
+      "end": 20.333333333333332,
+      "zoom_start": 1.0,
+      "zoom_end": 1.035,
+      "portrait_zoom_end": 1.035,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 3,
+      "start": 20.333333333333332,
+      "end": 22.8,
+      "zoom_start": 1.0,
+      "zoom_end": 1.025,
+      "portrait_zoom_end": 1.025,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "shot": 4,
+      "start": 22.8,
+      "end": 24.7,
+      "zoom_start": 1.0,
+      "zoom_end": 1.08,
+      "portrait_zoom_end": 1.045,
+      "focus": [
+        0.5,
+        0.5
+      ]
+    }
+  ],
+  "whole_frame_shake": false,
+  "subtitles": false
+}

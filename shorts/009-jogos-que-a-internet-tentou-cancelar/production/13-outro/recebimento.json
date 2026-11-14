@@ -1,0 +1,21 @@
+{
+  "source_name": "13 - VOZ OUTRO.wav",
+  "path": "assets/voz/voz_original.wav",
+  "sha256": "e887238071232dc2c08d58e77117b72c1923c241da3439be942f173e729306c1",
+  "duration": "24.438104",
+  "drive_id": "1ehL0Vi6pF1E1ag-MWv3W_QWV9ozuDJSM",
+  "files": [
+    {
+      "path": "assets/gameplay/bmx.mp4",
+      "sha256": "7fbed5a3326c4825d6941be40a0d265112222c9956b59454ffc30d0e26d6c0ae"
+    },
+    {
+      "path": "assets/imagens/logo_16x9.png",
+      "sha256": "b2a86d20bf1d80d55776b776a64690d32c83ec18089fbe2615d0a756b6c765d3"
+    },
+    {
+      "path": "assets/voz/voz_original.wav",
+      "sha256": "e887238071232dc2c08d58e77117b72c1923c241da3439be942f173e729306c1"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "title": "Jogos que a internet tentou cancelar",
+  "chapter": "Outro — Jogos que a internet tentou cancelar",
+  "chapter_order": 13,
+  "slug": "Outro_Cancelar",
+  "model": "Dery_Outro_Cancelar.blend",
+  "fps": 30,
+  "frames": 741,
+  "duration": 24.7,
+  "voice_duration": 24.4381179138322,
+  "voice_edited": false,
+  "revision": 6,
+  "clean_media": true,
+  "standing_dery": false,
+  "monitor_file": "assets/monitor/monitor_completo.mp4",
+  "cache": "/workspace/attachments/proximos_11_12/13-outro",
+  "render_size": [
+    768,
+    432
+  ],
+  "portrait_safe_crop": [
+    263,
+    0,
+    243,
+    432
+  ],
+  "delivery_formats": [
+    "16x9"
+  ],
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 160,
+      "kind": "host",
+      "mood": "conclusao",
+      "source": "bmx.mp4",
+      "source_start": 8
+    },
+    {
+      "id": 1,
+      "start": 161,
+      "end": 315,
+      "kind": "close",
+      "mood": "comenta",
+      "source": "bmx.mp4",
+      "source_start": 18
+    },
+    {
+      "id": 2,
+      "start": 316,
+      "end": 610,
+      "kind": "host",
+      "mood": "inscreva",
+      "source": "bmx.mp4",
+      "source_start": 24
+    },
+    {
+      "id": 3,
+      "start": 611,
+      "end": 684,
+      "kind": "close",
+      "mood": "beijo",
+      "source": "bmx.mp4",
+      "source_start": 37
+    },
+    {
+      "id": 4,
+      "start": 685,
+      "end": 741,
+      "kind": "photo",
+      "mood": "marca",
+      "source": "logo_16x9.png",
+      "source_start": 0
+    }
+  ]
+}

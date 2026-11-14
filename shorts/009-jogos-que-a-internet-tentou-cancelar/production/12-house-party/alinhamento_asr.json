@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0,
+    "end": 14,
+    "text": "Esse era um jogo de festa que foi retirado da Steam porque digamos que a festa estava indo longe demais. O nome é House Party, um game lançado em acesso antecipado em 2017. A ideia...",
+    "raw": "{\"lang\": \"pt\", \"emotion\": \"\", \"event\": \"\", \"text\": \"Esse era um jogo de festa que foi retirado da Steam porque digamos que a festa estava indo longe demais. O nome é House Party, um game lançado em acesso antecipado em 2017. A ideia...\", \"timestamps\": [], \"durations\": [], \"tokens\":[\" Esse\", \" era\", \" um\", \" jogo\", \" de\", \" festa\", \" que\", \" foi\", \" retir\", \"ado\", \" da\", \" Steam\", \" porque\", \" digamos\", \" que\", \" a\", \" festa\", \" estava\", \" indo\", \" longe\", \" demais\", \".\", \" O\", \" nome\", \" é\", \" House\", \" Party\", \",\", \" um\", \" game\", \" lanç\", \"ado\", \" em\", \" acesso\", \" ante\", \"cip\", \"ado\", \" em\", \" 2017\", \".\", \" A\", \" ideia\", \"...\"], \"ys_log_probs\": [], \"words\": [], \"segment_timestamps\": [0.00, 5.84, 7.88, 13.36], \"segment_durations\": [5.84, 2.04, 5.48, 0.72], \"segment_texts\": [\" Esse era um jogo de festa que foi retirado da Steam porque digamos que a festa\", \" estava indo longe demais.\", \" O nome é House Party, um game lançado em acesso antecipado em 2017.\", \" A ideia...\"]}"
+  },
+  {
+    "start": 14,
+    "end": 28,
+    "text": "Era simples. Você chegava numa festa conversava com os convidados e tomava decisões que eu mudando a história. Só que, dependendo das suas escolhas, o negócio podia ficar bastante íntimo. O jogo tinha no...",
+    "raw": "{\"lang\": \"pt\", \"emotion\": \"\", \"event\": \"\", \"text\": \"Era simples. Você chegava numa festa conversava com os convidados e tomava decisões que eu mudando a história. Só que, dependendo das suas escolhas, o negócio podia ficar bastante íntimo. O jogo tinha no...\", \"timestamps\": [], \"durations\": [], \"tokens\":[\" Era\", \" simples\", \".\", \" Você\", \" cheg\", \"ava\", \" numa\", \" festa\", \" convers\", \"ava\", \" com\", \" os\", \" conv\", \"id\", \"ados\", \" e\", \" tom\", \"ava\", \" decis\", \"ões\", \" que\", \" eu\", \" mud\", \"ando\", \" a\", \" história\", \".\", \" Só\", \" que\", \",\", \" depend\", \"endo\", \" das\", \" suas\", \" escol\", \"has\", \",\", \" o\", \" negócio\", \" podia\", \" ficar\", \" bastante\", \" í\", \"nt\", \"imo\", \".\", \" O\", \" jogo\", \" tinha\", \" no\", \"...\"], \"ys_log_probs\": [], \"words\": [], \"segment_timestamps\": [0.00, 5.48, 11.18], \"segment_durations\": [5.48, 5.70, 2.80], \"segment_texts\": [\" Era simples. Você chegava numa festa conversava com os convidados e tomava decisões\", \" que eu mudando a história. Só que, dependendo das suas escolhas, o negócio podia ficar\", \" bastante íntimo. O jogo tinha no...\"]}"
+  },
+  {
+    "start": 28,
+    "end": 42,
+    "text": "dezenas de esnusnu e acabou sendo retirado da estim após reclamações sobre seu conteúdo. Para voltar a loja, os desenvolvedores precisaram colocar tagens de censura obrigatórias naszenas mais e seus.",
+    "raw": "{\"lang\": \"pt\", \"emotion\": \"\", \"event\": \"\", \"text\": \"dezenas de esnusnu e acabou sendo retirado da estim após reclamações sobre seu conteúdo. Para voltar a loja, os desenvolvedores precisaram colocar tagens de censura obrigatórias naszenas mais e seus.\", \"timestamps\": [], \"durations\": [], \"tokens\":[\" de\", \"zen\", \"as\", \" de\", \" es\", \"n\", \"us\", \"nu\", \" e\", \" acabou\", \" sendo\", \" retir\", \"ado\", \" da\", \" est\", \"im\", \" ap\", \"ós\", \" rec\", \"lama\", \"ções\", \" sobre\", \" seu\", \" conteúdo\", \".\", \" Para\", \" voltar\", \" a\", \" lo\", \"ja\", \",\", \" os\", \" desenvol\", \"ved\", \"ores\", \" precis\", \"aram\", \" colocar\", \" t\", \"agens\", \" de\", \" cens\", \"ura\", \" obrig\", \"at\", \"ó\", \"rias\", \" nas\", \"zen\", \"as\", \" mais\", \" e\", \" se\", \"us\", \".\"], \"ys_log_probs\": [], \"words\": [], \"segment_timestamps\": [0.00, 7.00, 12.72], \"segment_durations\": [7.00, 5.72, 1.28], \"segment_texts\": [\" dezenas de esnusnu e acabou sendo retirado da estim após reclamações sobre seu conteúdo.\", \" Para voltar a loja, os desenvolvedores precisaram colocar tagens de censura obrigatórias\", \" naszenas mais e seus.\"]}"
+  },
+  {
+    "start": 42,
+    "end": 47.4558125,
+    "text": "e ainda oferecer um tétis separado para restaurar a versão original.",
+    "raw": "{\"lang\": \"pt\", \"emotion\": \"\", \"event\": \"\", \"text\": \"e ainda oferecer um tétis separado para restaurar a versão original.\", \"timestamps\": [], \"durations\": [], \"tokens\":[\" e\", \" ainda\", \" ofere\", \"cer\", \" um\", \" t\", \"ét\", \"is\", \" separ\", \"ado\", \" para\", \" restaur\", \"ar\", \" a\", \" versão\", \" original\", \".\"], \"ys_log_probs\": [], \"words\": [], \"segment_timestamps\": [0.00], \"segment_durations\": [5.40], \"segment_texts\": [\" e ainda oferecer um tétis separado para restaurar a versão original.\"]}"
+  }
+]

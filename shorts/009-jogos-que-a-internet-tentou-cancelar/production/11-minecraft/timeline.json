@@ -1,0 +1,146 @@
+{
+  "title": "Jogos que a internet tentou cancelar",
+  "chapter": "Minecraft",
+  "chapter_order": 11,
+  "slug": "Minecraft",
+  "model": "Dery_Minecraft.blend",
+  "fps": 30,
+  "frames": 1318,
+  "duration": 43.93333333333333,
+  "voice_duration": 43.681065759637185,
+  "voice_edited": false,
+  "revision": 5,
+  "clean_media": true,
+  "standing_dery": false,
+  "monitor_file": "assets/monitor/monitor_completo.mp4",
+  "cache": "/workspace/attachments/proximos_11_12/11-minecraft",
+  "render_size": [
+    768,
+    432
+  ],
+  "portrait_safe_crop": [
+    263,
+    0,
+    243,
+    432
+  ],
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 99,
+      "kind": "monitor",
+      "mood": "gancho",
+      "source": "parkour.mp4",
+      "source_start": 90
+    },
+    {
+      "id": 1,
+      "start": 100,
+      "end": 150,
+      "kind": "gag",
+      "mood": "tnt",
+      "source": "parkour.mp4",
+      "source_start": 95
+    },
+    {
+      "id": 2,
+      "start": 151,
+      "end": 207,
+      "kind": "close",
+      "mood": "revolta",
+      "source": "parkour.mp4",
+      "source_start": 100
+    },
+    {
+      "id": 3,
+      "start": 208,
+      "end": 369,
+      "kind": "monitor",
+      "mood": "denuncias",
+      "source": "parkour.mp4",
+      "source_start": 24
+    },
+    {
+      "id": 4,
+      "start": 370,
+      "end": 561,
+      "kind": "host",
+      "mood": "explicacao",
+      "source": "parkour.mp4",
+      "source_start": 115
+    },
+    {
+      "id": 5,
+      "start": 562,
+      "end": 669,
+      "kind": "photo",
+      "mood": "preocupacao",
+      "source": "meme.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 6,
+      "start": 670,
+      "end": 726,
+      "kind": "gag",
+      "mood": "privado",
+      "source": "parkour.mp4",
+      "source_start": 130
+    },
+    {
+      "id": 7,
+      "start": 727,
+      "end": 840,
+      "kind": "monitor",
+      "mood": "campanha",
+      "source": "parkour.mp4",
+      "source_start": 160
+    },
+    {
+      "id": 8,
+      "start": 841,
+      "end": 993,
+      "kind": "host",
+      "mood": "protestos",
+      "source": "parkour.mp4",
+      "source_start": 170
+    },
+    {
+      "id": 9,
+      "start": 994,
+      "end": 1059,
+      "kind": "photo",
+      "mood": "roblox",
+      "source": "448b20af4589fc4585a6abde5cd53387.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 10,
+      "start": 1060,
+      "end": 1149,
+      "kind": "photo",
+      "mood": "plaquinhas",
+      "source": "d59e34a97d1a51214329ff6e867627b2bef.png",
+      "source_start": 0
+    },
+    {
+      "id": 11,
+      "start": 1150,
+      "end": 1245,
+      "kind": "close",
+      "mood": "humildade",
+      "source": "parkour.mp4",
+      "source_start": 190
+    },
+    {
+      "id": 12,
+      "start": 1246,
+      "end": 1318,
+      "kind": "photo",
+      "mood": "manteve",
+      "source": "bb47c75abd456abb1bc940f035f46faa.jpg",
+      "source_start": 0
+    }
+  ]
+}

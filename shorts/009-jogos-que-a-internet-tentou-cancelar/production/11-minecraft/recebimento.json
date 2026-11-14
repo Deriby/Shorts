@@ -1,0 +1,168 @@
+{
+  "drive_id": "16PuxuxBZchrTNUOdxWwDQPNZtJo7cZ_7",
+  "game": "Minecraft",
+  "package_number": 11,
+  "files": [
+    {
+      "original": "35610455-pztsmew3-v4.png",
+      "path": "assets/imagens/35610455-pztsmew3-v4.png",
+      "bytes": 36324,
+      "sha256": "a3eddfe1f45b04aeb77b922af4b650dab232e13132f2d3e9785efa366de8081e",
+      "duration": null,
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 476,
+          "height": 626,
+          "sample_rate": null,
+          "channels": null,
+          "r_frame_rate": "25/1"
+        }
+      ]
+    },
+    {
+      "original": "meme.jpg",
+      "path": "assets/imagens/meme.jpg",
+      "bytes": 27571,
+      "sha256": "f6bbedef5658df5fdf49d17d2afa1fc62ead4ca49db9a89767db39c2dd295b61",
+      "duration": "0.040000",
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 565,
+          "height": 353,
+          "sample_rate": null,
+          "channels": null,
+          "r_frame_rate": "25/1"
+        }
+      ]
+    },
+    {
+      "original": "d59e34a97d1a51214329ff6e867627b2bef.png",
+      "path": "assets/imagens/d59e34a97d1a51214329ff6e867627b2bef.png",
+      "bytes": 48668,
+      "sha256": "770cd2b6787c8cdddefc7c6061fc7acfdfda2556a4da8e4c9bd994a2fee41dca",
+      "duration": null,
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "sample_rate": null,
+          "channels": null,
+          "r_frame_rate": "25/1"
+        }
+      ]
+    },
+    {
+      "original": "11 - VOZ MINECRAFT.mp3",
+      "path": "assets/voz/voz_original.mp3",
+      "bytes": 1750122,
+      "sha256": "e9afda0c9a6b37396e2b31a4c30e7b1b3a45ace9154fb18ab5fdd95ec3db30c9",
+      "duration": "43.728000",
+      "streams": [
+        {
+          "codec_type": "audio",
+          "width": null,
+          "height": null,
+          "sample_rate": "48000",
+          "channels": 1,
+          "r_frame_rate": "0/0"
+        }
+      ]
+    },
+    {
+      "original": "bb47c75abd456abb1bc940f035f46faa.jpg",
+      "path": "assets/imagens/bb47c75abd456abb1bc940f035f46faa.jpg",
+      "bytes": 36642,
+      "sha256": "0e60acffc37982361092c634357851fe937ddd19aec57de2657a396e644729aa",
+      "duration": "0.040000",
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 540,
+          "height": 531,
+          "sample_rate": null,
+          "channels": null,
+          "r_frame_rate": "25/1"
+        }
+      ]
+    },
+    {
+      "original": "Minecraft Parkour  5 Minutes No Copyright Gameplay  1440p 60FPS_720p.mp4",
+      "path": "assets/gameplay/parkour.mp4",
+      "bytes": 82957355,
+      "sha256": "d0ad3a5be529fdd39a1cab88d55b27c981fd0b355c30c31ad121369ae970f9fb",
+      "duration": "304.808345",
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720,
+          "sample_rate": null,
+          "channels": null,
+          "r_frame_rate": "30/1"
+        },
+        {
+          "codec_type": "audio",
+          "width": null,
+          "height": null,
+          "sample_rate": "44100",
+          "channels": 2,
+          "r_frame_rate": "0/0"
+        }
+      ]
+    },
+    {
+      "original": "23a888f7fbaa0ded9614b50a5eca05cc.jpg",
+      "path": "assets/imagens/23a888f7fbaa0ded9614b50a5eca05cc.jpg",
+      "bytes": 21436,
+      "sha256": "c2718f7089bf192ff2669c46888701d3b2689773eb38fab14e05a63a34ff1538",
+      "duration": "0.040000",
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 438,
+          "height": 451,
+          "sample_rate": null,
+          "channels": null,
+          "r_frame_rate": "25/1"
+        }
+      ]
+    },
+    {
+      "original": "polemic.png",
+      "path": "assets/imagens/polemic.png",
+      "bytes": 39990,
+      "sha256": "3e4b7b8c78a9c2b1463b267226a34d141db97e246de7ef797e01a2120bdd8cc8",
+      "duration": null,
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 780,
+          "height": 430,
+          "sample_rate": null,
+          "channels": null,
+          "r_frame_rate": "25/1"
+        }
+      ]
+    },
+    {
+      "original": "448b20af4589fc4585a6abde5cd53387.jpg",
+      "path": "assets/imagens/448b20af4589fc4585a6abde5cd53387.jpg",
+      "bytes": 31316,
+      "sha256": "a26de3d20e64d4ce2988594316cf4f3f6b7955a1cd8c7ae7e6cbdc33da403d78",
+      "duration": "0.040000",
+      "streams": [
+        {
+          "codec_type": "video",
+          "width": 521,
+          "height": 486,
+          "sample_rate": null,
+          "channels": null,
+          "r_frame_rate": "25/1"
+        }
+      ]
+    }
+  ]
+}

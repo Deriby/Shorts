@@ -1,0 +1,97 @@
+{
+  "title": "Jogos que a internet tentou cancelar",
+  "chapter": "Intro — Jogos que a internet tentou cancelar",
+  "chapter_order": 0,
+  "slug": "Intro_Cancelar",
+  "model": "Dery_Intro_Cancelar.blend",
+  "fps": 30,
+  "frames": 847,
+  "duration": 28.233333333333334,
+  "voice_duration": 27.9618820861678,
+  "voice_edited": false,
+  "revision": 6,
+  "clean_media": true,
+  "standing_dery": false,
+  "monitor_file": "assets/monitor/monitor_completo.mp4",
+  "cache": "/workspace/attachments/proximos_11_12/00-intro",
+  "render_size": [
+    768,
+    432
+  ],
+  "portrait_safe_crop": [
+    263,
+    0,
+    243,
+    432
+  ],
+  "delivery_formats": [
+    "16x9"
+  ],
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 104,
+      "kind": "host",
+      "mood": "cafe",
+      "source": "bmx.mp4",
+      "source_start": 12
+    },
+    {
+      "id": 1,
+      "start": 105,
+      "end": 144,
+      "kind": "game",
+      "mood": "cafezinho",
+      "source": "cafe_ceninha.mp4",
+      "source_start": 0,
+      "portrait_fit": "contain"
+    },
+    {
+      "id": 2,
+      "start": 145,
+      "end": 321,
+      "kind": "monitor",
+      "mood": "bicicleta",
+      "source": "bmx.mp4",
+      "source_start": 20
+    },
+    {
+      "id": 3,
+      "start": 322,
+      "end": 372,
+      "kind": "game",
+      "mood": "rodas",
+      "source": "rodas_ceninha.mp4",
+      "source_start": 0,
+      "portrait_fit": "contain"
+    },
+    {
+      "id": 4,
+      "start": 373,
+      "end": 568,
+      "kind": "host",
+      "mood": "promessa",
+      "source": "bmx.mp4",
+      "source_start": 34
+    },
+    {
+      "id": 5,
+      "start": 569,
+      "end": 708,
+      "kind": "monitor",
+      "mood": "arma_alienigena",
+      "source": "arma.mp4",
+      "source_start": 5
+    },
+    {
+      "id": 6,
+      "start": 709,
+      "end": 847,
+      "kind": "host",
+      "mood": "convite",
+      "source": "bmx.mp4",
+      "source_start": 42
+    }
+  ]
+}

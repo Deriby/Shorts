@@ -1,0 +1,138 @@
+{
+  "title": "Jogos que a internet tentou cancelar",
+  "chapter": "House Party",
+  "chapter_order": 12,
+  "slug": "House_Party",
+  "model": "Dery_House_Party.blend",
+  "fps": 30,
+  "frames": 1432,
+  "duration": 47.733333333333334,
+  "voice_duration": 47.45585034013605,
+  "voice_edited": false,
+  "revision": 5,
+  "clean_media": true,
+  "standing_dery": false,
+  "monitor_file": "assets/monitor/monitor_completo.mp4",
+  "cache": "/workspace/attachments/proximos_11_12/12-house-party",
+  "render_size": [
+    768,
+    432
+  ],
+  "portrait_safe_crop": [
+    263,
+    0,
+    243,
+    432
+  ],
+  "shots": [
+    {
+      "id": 0,
+      "start": 1,
+      "end": 117,
+      "kind": "monitor",
+      "mood": "gancho",
+      "source": "frank.mp4",
+      "source_start": 17
+    },
+    {
+      "id": 1,
+      "start": 118,
+      "end": 234,
+      "kind": "host",
+      "mood": "longe",
+      "source": "frank.mp4",
+      "source_start": 22
+    },
+    {
+      "id": 2,
+      "start": 235,
+      "end": 402,
+      "kind": "monitor",
+      "mood": "identidade",
+      "source": "frank.mp4",
+      "source_start": 13
+    },
+    {
+      "id": 3,
+      "start": 403,
+      "end": 585,
+      "kind": "game",
+      "mood": "festa",
+      "source": "frank.mp4",
+      "source_start": 23,
+      "portrait_fit": "contain"
+    },
+    {
+      "id": 4,
+      "start": 586,
+      "end": 747,
+      "kind": "close",
+      "mood": "intimo",
+      "source": "frank.mp4",
+      "source_start": 32
+    },
+    {
+      "id": 5,
+      "start": 748,
+      "end": 885,
+      "kind": "photo",
+      "mood": "conteudo",
+      "source": "b5tl0p.jpg",
+      "source_start": 0
+    },
+    {
+      "id": 6,
+      "start": 886,
+      "end": 960,
+      "kind": "gag",
+      "mood": "retirada",
+      "source": "frank.mp4",
+      "source_start": 38
+    },
+    {
+      "id": 7,
+      "start": 961,
+      "end": 1056,
+      "kind": "host",
+      "mood": "voltar",
+      "source": "frank.mp4",
+      "source_start": 40
+    },
+    {
+      "id": 8,
+      "start": 1057,
+      "end": 1146,
+      "kind": "gag",
+      "mood": "censura",
+      "source": "frank.mp4",
+      "source_start": 43
+    },
+    {
+      "id": 9,
+      "start": 1147,
+      "end": 1251,
+      "kind": "monitor",
+      "mood": "cenas",
+      "source": "frank.mp4",
+      "source_start": 33
+    },
+    {
+      "id": 10,
+      "start": 1252,
+      "end": 1332,
+      "kind": "close",
+      "mood": "patch",
+      "source": "frank.mp4",
+      "source_start": 46
+    },
+    {
+      "id": 11,
+      "start": 1333,
+      "end": 1432,
+      "kind": "gag",
+      "mood": "restaurar",
+      "source": "frank.mp4",
+      "source_start": 49
+    }
+  ]
+}

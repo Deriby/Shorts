@@ -1,0 +1,117 @@
+{
+  "folder": "13-outro",
+  "game": "Outro — Jogos que a internet tentou cancelar",
+  "slug": "Outro_Cancelar",
+  "order": 13,
+  "shots": [
+    [
+      0,
+      5.3333333333,
+      "host",
+      "conclusao",
+      "bmx.mp4",
+      8
+    ],
+    [
+      5.3333333333,
+      10.5,
+      "close",
+      "comenta",
+      "bmx.mp4",
+      18
+    ],
+    [
+      10.5,
+      20.3333333333,
+      "host",
+      "inscreva",
+      "bmx.mp4",
+      24
+    ],
+    [
+      20.3333333333,
+      22.8,
+      "close",
+      "beijo",
+      "bmx.mp4",
+      37
+    ],
+    [
+      22.8,
+      24.8,
+      "photo",
+      "marca",
+      "logo_16x9.png",
+      0
+    ]
+  ],
+  "gestures": {
+    "conclusao": {
+      "strength": 0.49,
+      "timing": [
+        0.08,
+        0.27,
+        0.47,
+        0.86
+      ],
+      "tilt": -0.026
+    },
+    "comenta": {
+      "strength": 0.58,
+      "timing": [
+        0.08,
+        0.33,
+        0.6,
+        0.92
+      ],
+      "nod": 0.02
+    },
+    "inscreva": {
+      "strength": 0.56,
+      "timing": [
+        0.04,
+        0.2,
+        0.34,
+        0.61
+      ],
+      "tilt": 0.031
+    },
+    "beijo": {
+      "strength": 0.32,
+      "timing": [
+        0.08,
+        0.3,
+        0.45,
+        0.85
+      ],
+      "tilt": -0.016
+    }
+  },
+  "families": {
+    "conclusao": "alegre",
+    "comenta": "neutra",
+    "inscreva": "empolgada",
+    "beijo": "alegre"
+  },
+  "faces": [
+    [
+      21.0,
+      21.24,
+      125
+    ],
+    [
+      22.2,
+      22.48,
+      2
+    ]
+  ],
+  "blinks": [
+    3.4,
+    7.1,
+    12.3,
+    16.1,
+    19.5
+  ],
+  "sfx": [],
+  "notes": "Encerramento exclusivamente 16:9. Manter continuidade no quarto, apenas uma aproximação por ideia: conclusão, comentários, like/inscrição e piada do próximo cancelamento, despedida afetuosa; fecha com o M amarelo aprovado. Não inventar CTA textual/legendas nem cenas em pé."
+}

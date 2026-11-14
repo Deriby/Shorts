@@ -1,0 +1,14 @@
+[
+  {
+    "start": 0,
+    "end": 14,
+    "text": "E esses foram alguns jogos que conseguiram deixar internet completamente maluca. Agora me conta nos comentários. Qual desses cancelamentos você achou mais absurdo? E se curtiu vídeo, já deixa o like e se inscreve aqui.",
+    "raw": "{\"lang\": \"pt\", \"emotion\": \"\", \"event\": \"\", \"text\": \"E esses foram alguns jogos que conseguiram deixar internet completamente maluca. Agora me conta nos comentários. Qual desses cancelamentos você achou mais absurdo? E se curtiu vídeo, já deixa o like e se inscreve aqui.\", \"timestamps\": [], \"durations\": [], \"tokens\":[\" E\", \" esses\", \" foram\", \" alguns\", \" jogos\", \" que\", \" conseguir\", \"am\", \" deixar\", \" internet\", \" completamente\", \" mal\", \"uca\", \".\", \" Agora\", \" me\", \" conta\", \" nos\", \" comentários\", \".\", \" Qual\", \" desses\", \" cancel\", \"amentos\", \" você\", \" ach\", \"ou\", \" mais\", \" abs\", \"ur\", \"do\", \"?\", \" E\", \" se\", \" curt\", \"iu\", \" vídeo\", \",\", \" já\", \" deixa\", \" o\", \" like\", \" e\", \" se\", \" inscre\", \"ve\", \" aqui\", \".\"], \"ys_log_probs\": [], \"words\": [], \"segment_timestamps\": [0.00, 5.32, 7.20, 10.48], \"segment_durations\": [5.32, 1.88, 3.28, 3.44], \"segment_texts\": [\" E esses foram alguns jogos que conseguiram deixar internet completamente maluca.\", \" Agora me conta nos comentários.\", \" Qual desses cancelamentos você achou mais absurdo?\", \" E se curtiu vídeo, já deixa o like e se inscreve aqui.\"]}"
+  },
+  {
+    "start": 14,
+    "end": 24.438125,
+    "text": "no canal, porque pelo jeito, o próximo jogo cancelado pode ser até o que você está jogando agora. Beijo na Nuka, amo vocês e até o próximo vídeo. Tchau!",
+    "raw": "{\"lang\": \"pt\", \"emotion\": \"\", \"event\": \"\", \"text\": \"no canal, porque pelo jeito, o próximo jogo cancelado pode ser até o que você está jogando agora. Beijo na Nuka, amo vocês e até o próximo vídeo. Tchau!\", \"timestamps\": [], \"durations\": [], \"tokens\":[\" no\", \" canal\", \",\", \" porque\", \" pelo\", \" jeito\", \",\", \" o\", \" próximo\", \" jogo\", \" cancel\", \"ado\", \" pode\", \" ser\", \" até\", \" o\", \" que\", \" você\", \" está\", \" jog\", \"ando\", \" agora\", \".\", \" Beij\", \"o\", \" na\", \" N\", \"uka\", \",\", \" amo\", \" vocês\", \" e\", \" até\", \" o\", \" próximo\", \" vídeo\", \".\", \" T\", \"chau\", \"!\"], \"ys_log_probs\": [], \"words\": [], \"segment_timestamps\": [0.00, 6.32], \"segment_durations\": [6.32, 4.00], \"segment_texts\": [\" no canal, porque pelo jeito, o próximo jogo cancelado pode ser até o que você está jogando agora.\", \" Beijo na Nuka, amo vocês e até o próximo vídeo. Tchau!\"]}"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "source_name": "0 - VOZ INTRO.wav",
+  "path": "assets/voz/voz_original.wav",
+  "sha256": "62c6ed0aeeb113682b16448a1e04598923d140ff95fd74ef339f90b406b3c5dd",
+  "duration": "27.961896",
+  "drive_id": "1T4VxrX4QKdCW7BpcVtIY7hucrlIPHjw3",
+  "files": [
+    {
+      "path": "assets/gameplay/rodas_ceninha.mp4",
+      "sha256": "7afebfa3bc3ffc8f260fdb205bbaf855118487bbf47b3fe5130b00facc2e09af"
+    },
+    {
+      "path": "assets/gameplay/arma.mp4",
+      "sha256": "90ede89fb0fe444d879cd385c5c7d265a3bbb69bb820d07c8d57c125088b8a32"
+    },
+    {
+      "path": "assets/gameplay/cafe_ceninha.mp4",
+      "sha256": "be64a02c4c4fb528c1f2108750b075e39e43c0968b64f39c70ad3d23015d5831"
+    },
+    {
+      "path": "assets/gameplay/bmx.mp4",
+      "sha256": "7fbed5a3326c4825d6941be40a0d265112222c9956b59454ffc30d0e26d6c0ae"
+    },
+    {
+      "path": "assets/voz/voz_original.wav",
+      "sha256": "62c6ed0aeeb113682b16448a1e04598923d140ff95fd74ef339f90b406b3c5dd"
+    }
+  ]
+}

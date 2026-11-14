@@ -1,0 +1,185 @@
+{
+  "folder": "12-house-party",
+  "game": "House Party",
+  "slug": "House_Party",
+  "order": 12,
+  "voice": "voz_original.wav",
+  "shots": [
+    [
+      0,
+      3.9,
+      "monitor",
+      "gancho",
+      "frank.mp4",
+      17
+    ],
+    [
+      3.9,
+      7.8,
+      "host",
+      "longe",
+      "frank.mp4",
+      22
+    ],
+    [
+      7.8,
+      13.4,
+      "monitor",
+      "identidade",
+      "frank.mp4",
+      13
+    ],
+    [
+      13.4,
+      19.5,
+      "game",
+      "festa",
+      "frank.mp4",
+      23
+    ],
+    [
+      19.5,
+      24.9,
+      "close",
+      "intimo",
+      "frank.mp4",
+      32
+    ],
+    [
+      24.9,
+      29.5,
+      "photo",
+      "conteudo",
+      "b5tl0p.jpg",
+      0
+    ],
+    [
+      29.5,
+      32,
+      "gag",
+      "retirada",
+      "frank.mp4",
+      38
+    ],
+    [
+      32,
+      35.2,
+      "host",
+      "voltar",
+      "frank.mp4",
+      40
+    ],
+    [
+      35.2,
+      38.2,
+      "gag",
+      "censura",
+      "frank.mp4",
+      43
+    ],
+    [
+      38.2,
+      41.7,
+      "monitor",
+      "cenas",
+      "frank.mp4",
+      33
+    ],
+    [
+      41.7,
+      44.4,
+      "close",
+      "patch",
+      "frank.mp4",
+      46
+    ],
+    [
+      44.4,
+      47.8,
+      "gag",
+      "restaurar",
+      "frank.mp4",
+      49
+    ]
+  ],
+  "gestures": {
+    "longe": {
+      "strength": 0.54,
+      "timing": [
+        0.07,
+        0.28,
+        0.47,
+        0.91
+      ],
+      "tilt": -0.032
+    },
+    "intimo": {
+      "strength": 0.3,
+      "timing": [
+        0.1,
+        0.34,
+        0.46,
+        0.76
+      ],
+      "tilt": 0.044
+    },
+    "voltar": {
+      "strength": 0.62,
+      "timing": [
+        0.04,
+        0.31,
+        0.57,
+        0.93
+      ],
+      "nod": 0.017
+    },
+    "patch": {
+      "strength": 0.3,
+      "tilt": -0.031
+    }
+  },
+  "families": {
+    "longe": "sarcastica",
+    "intimo": "sarcastica",
+    "voltar": "neutra",
+    "patch": "sarcastica"
+  },
+  "faces": [
+    [
+      7.1,
+      7.35,
+      84
+    ],
+    [
+      23.8,
+      24.1,
+      111
+    ],
+    [
+      43.8,
+      44.1,
+      95
+    ]
+  ],
+  "blinks": [
+    5.8,
+    21.3,
+    33.1,
+    42.8
+  ],
+  "sfx": [
+    [
+      30.42,
+      "toc.wav"
+    ],
+    [
+      36.08,
+      "impacto_curto.wav"
+    ],
+    [
+      45.72,
+      "plop_comico.wav"
+    ]
+  ],
+  "notes": "Três inserts com continuidade do mesmo jogo de brinquedo: persiana da lojinha fecha; tarja tampa a caixa; adesivo PATCH retira a tarja. Toda mídia usada é não explícita ou já censurada na imagem recebida. O trailer de 2024 e o resumo polemic.png ficam preservados, sem virar prova documental do acontecimento de 2017. Não mostrar instruções para obter patches."
+}

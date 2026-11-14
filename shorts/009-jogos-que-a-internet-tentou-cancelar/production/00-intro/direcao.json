@@ -1,0 +1,129 @@
+{
+  "folder": "00-intro",
+  "game": "Intro — Jogos que a internet tentou cancelar",
+  "slug": "Intro_Cancelar",
+  "order": 0,
+  "shots": [
+    [
+      0,
+      3.4666666667,
+      "host",
+      "cafe",
+      "bmx.mp4",
+      12
+    ],
+    [
+      3.4666666667,
+      4.8,
+      "game",
+      "cafezinho",
+      "cafe_ceninha.mp4",
+      0
+    ],
+    [
+      4.8,
+      10.7,
+      "monitor",
+      "bicicleta",
+      "bmx.mp4",
+      20
+    ],
+    [
+      10.7,
+      12.4,
+      "game",
+      "rodas",
+      "rodas_ceninha.mp4",
+      0
+    ],
+    [
+      12.4,
+      18.9333333333,
+      "host",
+      "promessa",
+      "bmx.mp4",
+      34
+    ],
+    [
+      18.9333333333,
+      23.6,
+      "monitor",
+      "arma_alienigena",
+      "arma.mp4",
+      5
+    ],
+    [
+      23.6,
+      28.3,
+      "host",
+      "convite",
+      "bmx.mp4",
+      42
+    ]
+  ],
+  "gestures": {
+    "cafe": {
+      "strength": 0.48,
+      "tilt": -0.022
+    },
+    "promessa": {
+      "strength": 0.63,
+      "timing": [
+        0.06,
+        0.28,
+        0.54,
+        0.86
+      ],
+      "tilt": 0.02
+    },
+    "convite": {
+      "strength": 0.69,
+      "timing": [
+        0.08,
+        0.35,
+        0.58,
+        0.94
+      ],
+      "nod": 0.018
+    }
+  },
+  "families": {
+    "cafe": "sarcastica",
+    "promessa": "empolgada",
+    "convite": "alegre"
+  },
+  "faces": [
+    [
+      2.8,
+      3.03,
+      84
+    ],
+    [
+      16.2,
+      16.46,
+      106
+    ],
+    [
+      26.8,
+      27.1,
+      96
+    ]
+  ],
+  "blinks": [
+    1.7,
+    14.9,
+    17.5,
+    25.1
+  ],
+  "sfx": [
+    [
+      4.05,
+      "plop_comico.wav"
+    ],
+    [
+      11.24,
+      "toc.wav"
+    ]
+  ],
+  "notes": "Abertura exclusivamente 16:9. Alternância motivada pela voz: café GTA, jogo BMX no CRT, rodas BMX, promessa do vídeo, arma Saints Row IV no CRT, convite final. As duas gags vêm dos masters R6 entregues; não refazer os oito shorts. Nenhuma cartela de texto ou nova legenda."
+}

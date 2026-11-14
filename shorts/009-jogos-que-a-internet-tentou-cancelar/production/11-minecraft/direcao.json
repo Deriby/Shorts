@@ -1,0 +1,177 @@
+{
+  "folder": "11-minecraft",
+  "game": "Minecraft",
+  "slug": "Minecraft",
+  "order": 11,
+  "voice": "voz_original.mp3",
+  "shots": [
+    [
+      0,
+      3.3,
+      "monitor",
+      "gancho",
+      "parkour.mp4",
+      90
+    ],
+    [
+      3.3,
+      5,
+      "gag",
+      "tnt",
+      "parkour.mp4",
+      95
+    ],
+    [
+      5,
+      6.9,
+      "close",
+      "revolta",
+      "parkour.mp4",
+      100
+    ],
+    [
+      6.9,
+      12.3,
+      "monitor",
+      "denuncias",
+      "parkour.mp4",
+      24
+    ],
+    [
+      12.3,
+      18.7,
+      "host",
+      "explicacao",
+      "parkour.mp4",
+      115
+    ],
+    [
+      18.7,
+      22.3,
+      "photo",
+      "preocupacao",
+      "meme.jpg",
+      0
+    ],
+    [
+      22.3,
+      24.2,
+      "gag",
+      "privado",
+      "parkour.mp4",
+      130
+    ],
+    [
+      24.2,
+      28,
+      "monitor",
+      "campanha",
+      "parkour.mp4",
+      160
+    ],
+    [
+      28,
+      33.1,
+      "host",
+      "protestos",
+      "parkour.mp4",
+      170
+    ],
+    [
+      33.1,
+      35.3,
+      "photo",
+      "roblox",
+      "448b20af4589fc4585a6abde5cd53387.jpg",
+      0
+    ],
+    [
+      35.3,
+      38.3,
+      "photo",
+      "plaquinhas",
+      "d59e34a97d1a51214329ff6e867627b2bef.png",
+      0
+    ],
+    [
+      38.3,
+      41.5,
+      "close",
+      "humildade",
+      "parkour.mp4",
+      190
+    ],
+    [
+      41.5,
+      44,
+      "photo",
+      "manteve",
+      "bb47c75abd456abb1bc940f035f46faa.jpg",
+      0
+    ]
+  ],
+  "gestures": {
+    "revolta": {
+      "strength": 0.4,
+      "tilt": -0.035
+    },
+    "explicacao": {
+      "strength": 0.58,
+      "timing": [
+        0.08,
+        0.28,
+        0.46,
+        0.7
+      ],
+      "nod": 0.02
+    },
+    "protestos": {
+      "strength": 0.67,
+      "timing": [
+        0.12,
+        0.4,
+        0.66,
+        0.95
+      ],
+      "tilt": 0.027
+    },
+    "humildade": {
+      "strength": 0.27,
+      "tilt": -0.04
+    }
+  },
+  "families": {
+    "revolta": "irritada",
+    "protestos": "empolgada",
+    "humildade": "sarcastica"
+  },
+  "faces": [
+    [
+      5.9,
+      6.2,
+      106
+    ],
+    [
+      40.2,
+      40.5,
+      95
+    ]
+  ],
+  "blinks": [
+    6.4,
+    15.8,
+    30.4,
+    39.2
+  ],
+  "sfx": [
+    [
+      4.16,
+      "impacto_curto.wav"
+    ],
+    [
+      23.2,
+      "toc.wav"
+    ]
+  ],
+  "notes": "Dois inserts: TNT de brinquedo explode em cubos na revolta; mini servidor privado recebe uma martelada de banimento na fala das punições. A casa e o martelo são metáforas, não UI real. Os memes de Roblox e NO são os enviados. A imagem polemic.png é resumo, não notícia oficial; não será apresentada como prova."
+}

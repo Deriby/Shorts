@@ -1,0 +1,16 @@
+[
+  {
+    "source": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/01-gta-san-andreas/output/R6_Cenas_Curtas/GTA_San_Andreas_R6_16x9.mp4",
+    "source_sha256": "6887f14a2b684f9c3aa5887551aece256bd60028fadecf4651cc746fce40c53f",
+    "start": 49.2,
+    "frames": 40,
+    "derived": "assets/gameplay/cafe_ceninha.mp4"
+  },
+  {
+    "source": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/02-bmx-xxx/output/R6_Cenas_Curtas/BMX_XXX_R6_16x9.mp4",
+    "source_sha256": "842d7c33abf34ab07941be64ef73a6581cf5bc118f690ab7670d6dc0dddb6f1b",
+    "start": 41.1,
+    "frames": 51,
+    "derived": "assets/gameplay/rodas_ceninha.mp4"
+  }
+]
