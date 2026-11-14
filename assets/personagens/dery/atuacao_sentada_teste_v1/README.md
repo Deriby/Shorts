@@ -4,6 +4,8 @@
 
 A pose de descanso foi refeita: cada mão repousa sobre a respectiva coxa, a direita sobe para o gesto e retorna à superfície. A cadeira e os demais objetos permanecem originais. Só os braços/antebraços/mãos recebem novas curvas. O ritmo do gesto, a voz, as expressões, o corpo/cabeça, a câmera e o PSX permanecem os mesmos. Não há apoio novo nem descanso suspenso. **Aprovado pelo usuário: “Aí po ficou perfeito”.** Esta revisão é a referência de atuação sentada para os próximos conteúdos autorizados, com gestos adaptados a cada fala.
 
+O usuário solicitou depois melhorar a iluminação do quarto e retirar o fone da mesa. A [nova variante do cenário](../../../cenarios/quarto_gamer_banco_v2/iluminacao_v3/) preserva esta pose, geometria, UVs e animação; usar essa variante nas próximas produções. Este arquivo continua sendo a referência original de contato.
+
 `corrigir_apoio_real.py` encontra as superfícies reais das calças pela malha avaliada e confere a pele das mãos em descanso, incluindo o retorno e a antecipação. `validacao_apoio_real.json` registra os intervalos de contato antes do snapping de tela e a preservação das curvas dos demais ossos. A pose não é calculada pela altura isolada do punho. O ápice do gesto é preservado; as transições são refeitas para conectar a nova posição de repouso.
 
 Reprodução: `blender -b -t 2 --python corrigir_apoio_real.py`, depois `render_apoio_real.py -- 0 2` / `-- 1 2`, e `python export_apoio_real.py`. Cache em `/workspace/attachments/atuacao_sentada_v3/`.

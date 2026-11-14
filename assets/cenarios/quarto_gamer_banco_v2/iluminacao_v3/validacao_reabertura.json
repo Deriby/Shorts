@@ -1,0 +1,25 @@
+{
+  "blender_reopened": true,
+  "removed_meshes": [
+    "Fone de ouvido"
+  ],
+  "all_other_mesh_coordinates_unchanged": true,
+  "avatar_uvs_unchanged": true,
+  "pose_matrices_identical_at_frames": [
+    1,
+    60,
+    120,
+    240
+  ],
+  "used_packed_source_images_identical": true,
+  "main_camera_preserved": true,
+  "lighting_layers_present": true,
+  "reference_lights": [
+    "Luz V3 | principal suave",
+    "Luz V3 | ciano fundo",
+    "Luz V3 | violeta fundo",
+    "Luz V3 | janela azul",
+    "Luz V3 | monitor ciano",
+    "Luz V3 | luminaria quente"
+  ]
+}

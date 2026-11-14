@@ -1,0 +1,13 @@
+{
+  "scene": "assets/cenarios/quarto_gamer_banco_v2/iluminacao_v3/Dery_Quarto_Luz_v3_Sem_Fone.blend",
+  "lighting_module": "assets/cenarios/quarto_gamer_banco_v2/iluminacao_v3/aplicar.py",
+  "lighting_entrypoint": "apply(scene)",
+  "lighting_apply_before_new_inserts": true,
+  "seated_contact_reference": "assets/personagens/dery/atuacao_sentada_teste_v1/output/Dery_Atuacao_Apoio_Real.blend",
+  "preview": "assets/cenarios/quarto_gamer_banco_v2/iluminacao_v3/Previa_Luz_16x9.png",
+  "headphones_removed": true,
+  "user_authorized_lighting_and_removal": true,
+  "aesthetic_feedback_pending": true,
+  "existing_videos_unchanged": true,
+  "media_must_remain_clean": true
+}
