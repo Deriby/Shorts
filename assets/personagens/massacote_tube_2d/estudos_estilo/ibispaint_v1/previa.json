@@ -1,0 +1,16 @@
+{
+  "status": "previa_aguarda_avaliacao",
+  "image": "Previa_Massacote_IbisPaint_Olhos_Alongados.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "transparent": true,
+  "mouth_visible": false,
+  "sha256": "c60aa49e8fbd4795ae7d68fbc5c9e429b5d2465f25f804e84646fd7b9aa6734a",
+  "requested_eyes": "olhos naturalmente estreitos/alongados, conforme descricao do usuario",
+  "requested_finish": "traco digital simples, solto e levemente irregular, parecido com desenho amador no IbisPaint; evitar aparencia artificial",
+  "style_context": "Evolucao do estudo inspirado em Star vs. as Forcas do Mal",
+  "generation_tool": "image_gen",
+  "original_approved_assets_unchanged": true
+}
