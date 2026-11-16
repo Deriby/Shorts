@@ -1,0 +1,18 @@
+{
+  "status": "estilo_aprovado_ajuste_cabelo_para_avaliacao",
+  "base_style": "Samurai Jack com acabamento digital amador",
+  "change_requested": "somente diminuir o cabelo",
+  "change_applied": "reduzidos volume e comprimento das pontas laterais; mantido cabelo castanho em mechas angulares",
+  "image": "Previa_Massacote_Samurai_Jack_Cabelo_Menor.png",
+  "reference": "../samurai_jack_v1/Previa_Massacote_Samurai_Jack.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "transparent": true,
+  "mouth_visible": false,
+  "eyes": "estreitos/alongados",
+  "generation_tool": "image_gen",
+  "sha256": "1214452aa250a5a78de67076af3521de735932d061f6aecba04e63c151e3a11e",
+  "previous_library_unchanged": true
+}

@@ -1,0 +1,19 @@
+{
+  "status": "estilo_aprovado_com_ajuste_solicitado",
+  "style_request": "Samurai Jack mantendo vibe amadora de desenho digital",
+  "previous_style_response": "Usuario nao gostou do estudo ibispaint_v1 e pediu mudanca de linguagem",
+  "image": "Previa_Massacote_Samurai_Jack.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "transparent": true,
+  "mouth_visible": false,
+  "eyes": "estreitos e alongados, conforme preferencia do usuario",
+  "finish": "formas angulares, silhueta geometrica, detalhes reduzidos e acabamento digital solto",
+  "generation_tool": "image_gen",
+  "sha256": "9e409b6cb485cfbbb7fc48f724bafaad6d992c7e474aa4a9252373741b39b76a",
+  "active_library_replaced": false,
+  "feedback": "Usuario gostou da proposta e pediu somente diminuir o cabelo.",
+  "revision": "../samurai_jack_v2/Previa_Massacote_Samurai_Jack_Cabelo_Menor.png"
+}

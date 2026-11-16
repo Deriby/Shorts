@@ -1,5 +1,5 @@
 {
-  "status": "previa_aguarda_avaliacao",
+  "status": "rejeitado_pelo_usuario",
   "image": "Previa_Massacote_IbisPaint_Olhos_Alongados.png",
   "size": [
     1024,
@@ -12,5 +12,6 @@
   "requested_finish": "traco digital simples, solto e levemente irregular, parecido com desenho amador no IbisPaint; evitar aparencia artificial",
   "style_context": "Evolucao do estudo inspirado em Star vs. as Forcas do Mal",
   "generation_tool": "image_gen",
-  "original_approved_assets_unchanged": true
+  "original_approved_assets_unchanged": true,
+  "feedback": "Nao gostou desse estilo; pediu Samurai Jack mantendo vibe amadora."
 }
