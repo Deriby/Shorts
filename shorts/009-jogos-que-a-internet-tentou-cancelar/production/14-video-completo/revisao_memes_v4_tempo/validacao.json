@@ -1,0 +1,212 @@
+{
+  "source_unchanged": true,
+  "original_user_edit_and_audio_unchanged": true,
+  "original_three_timelines_preserved": true,
+  "same_52_memes": true,
+  "all_durations_increased": true,
+  "quick_entrance_exit_preserved": true,
+  "images_range": [
+    1.6,
+    2.2
+  ],
+  "video_duration_median": 2.75,
+  "videos": [
+    {
+      "cue": "meme_02",
+      "duration": 3.1,
+      "source_start": 3.1,
+      "frames": 93,
+      "frame_change": 20.975501543209877,
+      "complete_short_source": false
+    },
+    {
+      "cue": "meme_04",
+      "duration": 2.6,
+      "source_start": 1.7,
+      "frames": 78,
+      "frame_change": 17.51414609053498,
+      "complete_short_source": false
+    },
+    {
+      "cue": "meme_07",
+      "duration": 2.7,
+      "source_start": 4.4,
+      "frames": 81,
+      "frame_change": 6.395640432098766,
+      "complete_short_source": false
+    },
+    {
+      "cue": "meme_10",
+      "duration": 2.8,
+      "source_start": 1.8,
+      "frames": 84,
+      "frame_change": 26.015303497942387,
+      "complete_short_source": false
+    },
+    {
+      "cue": "meme_11",
+      "duration": 2.8,
+      "source_start": 1.4,
+      "frames": 84,
+      "frame_change": 40.376736111111114,
+      "complete_short_source": false
+    },
+    {
+      "cue": "meme_14",
+      "duration": 2.0666667,
+      "source_start": 0.0,
+      "frames": 62,
+      "frame_change": 7.464441872427984,
+      "complete_short_source": true
+    },
+    {
+      "cue": "meme_16",
+      "duration": 2.6,
+      "source_start": 5.8,
+      "frames": 78,
+      "frame_change": 0.6975308641975309,
+      "complete_short_source": false
+    },
+    {
+      "cue": "meme_17",
+      "duration": 2.8,
+      "source_start": 3.1,
+      "frames": 84,
+      "frame_change": 0.2227366255144033,
+      "complete_short_source": false
+    },
+    {
+      "cue": "meme_18",
+      "duration": 2.7,
+      "source_start": 1.7,
+      "frames": 81,
+      "frame_change": 12.084104938271604,
+      "complete_short_source": false
+    },
+    {
+      "cue": "meme_22",
+      "duration": 2.8,
+      "source_start": 1.7,
+      "frames": 84,
+      "frame_change": 19.743312757201647,
+      "complete_short_source": false
+    },
+    {
+      "cue": "meme_23",
+      "duration": 2.8,
+      "source_start": 1.7,
+      "frames": 84,
+      "frame_change": 13.065972222222221,
+      "complete_short_source": false
+    },
+    {
+      "cue": "meme_26",
+      "duration": 1.3,
+      "source_start": 0.0,
+      "frames": 39,
+      "frame_change": 5.2244084362139915,
+      "complete_short_source": true
+    },
+    {
+      "cue": "meme_28",
+      "duration": 2.8,
+      "source_start": 15.3,
+      "frames": 84,
+      "frame_change": 18.020833333333332,
+      "complete_short_source": false
+    },
+    {
+      "cue": "meme_35",
+      "duration": 2.6,
+      "source_start": 3.8,
+      "frames": 78,
+      "frame_change": 13.793402777777779,
+      "complete_short_source": false
+    },
+    {
+      "cue": "meme_36",
+      "duration": 2.8,
+      "source_start": 9.5,
+      "frames": 84,
+      "frame_change": 19.17843364197531,
+      "complete_short_source": false
+    },
+    {
+      "cue": "meme_38",
+      "duration": 2.5,
+      "source_start": 1.2,
+      "frames": 75,
+      "frame_change": 2.5668081275720165,
+      "complete_short_source": false
+    },
+    {
+      "cue": "meme_39",
+      "duration": 3.0,
+      "source_start": 1.5,
+      "frames": 90,
+      "frame_change": 14.64011059670782,
+      "complete_short_source": false
+    },
+    {
+      "cue": "meme_40",
+      "duration": 2.6,
+      "source_start": 1.9,
+      "frames": 78,
+      "frame_change": 29.77398405349794,
+      "complete_short_source": false
+    },
+    {
+      "cue": "meme_42",
+      "duration": 2.8,
+      "source_start": 3.1,
+      "frames": 84,
+      "frame_change": 0.2227366255144033,
+      "complete_short_source": false
+    },
+    {
+      "cue": "meme_45",
+      "duration": 2.7,
+      "source_start": 3.7,
+      "frames": 81,
+      "frame_change": 7.192901234567901,
+      "complete_short_source": false
+    },
+    {
+      "cue": "meme_47",
+      "duration": 2.4,
+      "source_start": 2.8,
+      "frames": 72,
+      "frame_change": 3.8483796296296298,
+      "complete_short_source": false
+    },
+    {
+      "cue": "meme_48",
+      "duration": 1.6666667,
+      "source_start": 0.0,
+      "frames": 50,
+      "frame_change": 6.006815843621399,
+      "complete_short_source": true
+    },
+    {
+      "cue": "meme_50",
+      "duration": 2.8,
+      "source_start": 1.6,
+      "frames": 84,
+      "frame_change": 10.237654320987655,
+      "complete_short_source": false
+    },
+    {
+      "cue": "meme_51",
+      "duration": 3.3,
+      "source_start": 1.8,
+      "frames": 99,
+      "frame_change": 23.547775205761315,
+      "complete_short_source": false
+    }
+  ],
+  "no_loop_freeze_or_slow_motion": true,
+  "no_meme_overlap": true,
+  "no_gag_overlap": true,
+  "same_total_duration": true,
+  "native_filmora_open": false
+}

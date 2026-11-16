@@ -1,3 +1,5 @@
+**Correção mais recente:** [memes com maior permanência e entradas/saídas rápidas](../revisao_memes_v4_tempo/).
+
 # Edição com memes — projeto atualizado do usuário
 
 **Edição concluída após a confirmação do usuário.** 52 intervenções de memes, 8 sons pontuais e todos os ajustes do WFP reenviado preservados. Mesmo áudio/duração de 9min21,367s. Filmora nativo não executado neste Linux.

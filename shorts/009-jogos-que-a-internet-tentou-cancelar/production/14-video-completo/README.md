@@ -1,5 +1,7 @@
 # Jogos que a internet tentou cancelar — completo 16:9
 
+**Atual: [memes com permanência corrigida](revisao_memes_v4_tempo/README.md)**, mantendo entrada/saída rápidas.
+
 **Versão atual: [edição com memes sobre o WFP atualizado do usuário](revisao_memes_v3/).** Atualização de 21 MB ou pacote completo de 345 MB. O áudio, seus efeitos/cortes e composições foram preservados.
 
 **Revisão anterior:** [revisão com zooms, keyframes e transições no estilo do primeiro longo](revisao_edicao_v2/). Baixe [Massacote_Completo_Editado.wfp](output/Filmora/Massacote_Completo_Editado.wfp) e salve ao lado de `midias/`, ou use o [pacote completo atualizado](output/Massacote_Completo_Editado_Filmora.zip). Esta edição preserva todas as vozes/cortes e acrescenta 112 clipes animados e 60 transições. O MP4 anterior abaixo corresponde à montagem antes desta revisão; não representa a nova edição. Filmora nativo ainda não executado.

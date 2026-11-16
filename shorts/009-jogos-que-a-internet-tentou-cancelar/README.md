@@ -1,3 +1,5 @@
+**Correção mais recente:** [memes com maior permanência e entradas/saídas rápidas](production/14-video-completo/revisao_memes_v4_tempo/).
+
 # Jogos que a internet tentou cancelar
 
 Série em produção para o Massacote Games. Os capítulos **GTA San Andreas / Hot Coffee**, **BMX XXX**, **Bully**, **Left 4 Dead 2**, **Saints Row IV**, **GTA V**, **Pokémon Sword and Shield**, **Night Trap** e **Dead or Alive Xtreme 3** usam a voz e as mídias enviadas pelo usuário. Os capítulos MP4 16:9 ficam preparados para a montagem futura; o projeto Filmora do longo será feito com todos os jogos apenas no final.

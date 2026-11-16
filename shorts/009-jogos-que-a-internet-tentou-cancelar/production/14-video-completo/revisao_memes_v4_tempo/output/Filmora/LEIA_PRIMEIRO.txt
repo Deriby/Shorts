@@ -1,0 +1,20 @@
+MASSACOTE — MEMES COM TEMPO CORRIGIDO
+
+Abra Massacote_MEMES_Tempo_Corrigido.wfp. A entrada e a saida continuam
+rapidas. O tempo de permanencia dos 52 memes aumentou individualmente.
+Os videos foram recortados dos originais novamente para incluir a acao e
+a reacao. Os poucos arquivos curtos na origem usam o trecho inteiro:
+nao foi criado congelamento, repeticao ou camera lenta para alongar.
+
+ATUALIZACAO: requer o pacote com memes anterior. Extraia na mesma pasta e
+mescle midias/, conservando os arquivos anteriores. Os 24 videos corrigidos
+tem sufixo _R4 para evitar cache do arquivo curto. Use o novo WFP.
+
+COMPLETO: extraia tudo para uma pasta nova e abra o WFP. Nao abra de dentro
+do ZIP. Inclui as midias anteriores e os videos com duracao corrigida.
+
+Seu projeto, vozes, musicas, efeitos, composições e duracao do longo foram
+preservados. Nao houve outro render 3D. Os novos tempos/curvas, movimento,
+recursos e pacotes foram conferidos. Filmora nao executado neste Linux;
+a abertura e o resultado nativo dos plugins continuam sem teste aqui.
+O MP4 antigo nao inclui esta edicao; exporte este novo WFP no Filmora.

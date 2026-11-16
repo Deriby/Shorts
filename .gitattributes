@@ -9,6 +9,8 @@
 shorts/009-jogos-que-a-internet-tentou-cancelar/production/14-video-completo/revisao_memes_v3/output/Massacote_MEMES_Atualizacao.zip filter=lfs diff=lfs merge=lfs -text
 shorts/009-jogos-que-a-internet-tentou-cancelar/production/14-video-completo/revisao_memes_v3/output/Massacote_MEMES_Completo.zip filter=lfs diff=lfs merge=lfs -text
 assets/biblioteca_memes/arquivos/** filter=lfs diff=lfs merge=lfs -text
+shorts/009-jogos-que-a-internet-tentou-cancelar/production/14-video-completo/revisao_memes_v4_tempo/output/Massacote_MEMES_Tempo_Atualizacao.zip filter=lfs diff=lfs merge=lfs -text
+shorts/009-jogos-que-a-internet-tentou-cancelar/production/14-video-completo/revisao_memes_v4_tempo/output/Massacote_MEMES_Tempo_Completo.zip filter=lfs diff=lfs merge=lfs -text
 shorts/009-jogos-que-a-internet-tentou-cancelar/production/14-video-completo/revisao_memes_v3/output/Massacote_MEMES_Atualizacao.zip filter=lfs diff=lfs merge=lfs -text
 shorts/009-jogos-que-a-internet-tentou-cancelar/production/14-video-completo/revisao_memes_v3/output/Massacote_MEMES_Completo.zip filter=lfs diff=lfs merge=lfs -text
 shorts/009-jogos-que-a-internet-tentou-cancelar/production/14-video-completo/output/Massacote_Completo_Editado_Filmora.zip filter=lfs diff=lfs merge=lfs -text
