@@ -7,7 +7,8 @@
   "preview": "assets/cenarios/quarto_gamer_banco_v2/iluminacao_v3/Previa_Luz_16x9.png",
   "headphones_removed": true,
   "user_authorized_lighting_and_removal": true,
-  "aesthetic_feedback_pending": true,
+  "aesthetic_feedback_pending": false,
   "existing_videos_unchanged": true,
-  "media_must_remain_clean": true
+  "media_must_remain_clean": true,
+  "user_approved_current_room": true
 }

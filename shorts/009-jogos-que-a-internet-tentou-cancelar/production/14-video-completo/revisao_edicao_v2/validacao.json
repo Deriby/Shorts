@@ -1,0 +1,682 @@
+{
+  "project": "Massacote_Completo_Editado.wfp",
+  "native_root": {
+    "root_registered": true,
+    "extra_present": true,
+    "timeline_uuid_matches": true,
+    "duration_matches": true,
+    "media_bindings": 296
+  },
+  "original_296_cuts_and_timing_unchanged": true,
+  "source_and_reference_hashes_unchanged": true,
+  "all_97_resources_preserved_and_present": true,
+  "all_audio_tracks_bit_identical": true,
+  "audio_clips": [
+    {
+      "file": "00_intro_trilha_baixa.wav",
+      "sha256": "a0f91a6d6e21a66c6626fd3d6ac4ff3a4bdc79ddfcb7d251c4e76d19c52b7b58",
+      "timeline": [
+        0,
+        282333333
+      ]
+    },
+    {
+      "file": "01_gta_san_andreas_trilha_baixa.wav",
+      "sha256": "0face13579e96c044aa17116491810ea4ffc1842e6a9a2a0835be2e7debdea6c",
+      "timeline": [
+        302333333,
+        836333333
+      ]
+    },
+    {
+      "file": "02_bmx_xxx_trilha_baixa.wav",
+      "sha256": "30347e4715d64cbe678633ea3fc06974dc3de2329ea626507f5396132bb9953a",
+      "timeline": [
+        856333333,
+        1296000000
+      ]
+    },
+    {
+      "file": "03_bully_trilha_baixa.wav",
+      "sha256": "3d998f94559c1705130d6781a8767a38183a2102d45bd54ee2d4018a70f0cb54",
+      "timeline": [
+        1316000000,
+        1786333333
+      ]
+    },
+    {
+      "file": "04_left_4_dead_2_trilha_baixa.wav",
+      "sha256": "ac6cf526fe823385dca18cff18636c538759a9ed44f9ce52e389fe7cedbb02da",
+      "timeline": [
+        1806333333,
+        2218333333
+      ]
+    },
+    {
+      "file": "05_saints_row_iv_trilha_baixa.wav",
+      "sha256": "3573d9d0bc5bc8ed8c18822594f4c1a68d31c709d74b7ed5119abf97acd8482b",
+      "timeline": [
+        2238333333,
+        2648333333
+      ]
+    },
+    {
+      "file": "06_gta_v_trilha_baixa.wav",
+      "sha256": "03ee40268e7d1ff897cc6a5e7b9497ce9d0e65a0bc3b30dd5573580b71765feb",
+      "timeline": [
+        2668333333,
+        3041333333
+      ]
+    },
+    {
+      "file": "07_pokemon_sword_shield_trilha_baixa.wav",
+      "sha256": "5f0dca0ad5c1d3cd5d9934a2a63885f83dfa82bf8ff11b224a7b1de8c20fed63",
+      "timeline": [
+        3061333333,
+        3524666666
+      ]
+    },
+    {
+      "file": "08_night_trap_trilha_baixa.wav",
+      "sha256": "b664a8a2bca4b6ca95cc96ba49fb6164707e766b812e18ac7fbdab3a9c1e9c13",
+      "timeline": [
+        3544666667,
+        3977666667
+      ]
+    },
+    {
+      "file": "09_dead_or_alive_xtreme_3_trilha_baixa.wav",
+      "sha256": "5c830b0bd4a7bf1be3db50ce46c85f2835136d0a56120e5243e88345c02d1e3d",
+      "timeline": [
+        3997666667,
+        4410000000
+      ]
+    },
+    {
+      "file": "11_minecraft_trilha_baixa.wav",
+      "sha256": "ae4ce70f9070fa71e50c380d9e16dd2bf83e5ffbd2cd63f977a0c08f31e4bb15",
+      "timeline": [
+        4430000000,
+        4869333333
+      ]
+    },
+    {
+      "file": "12_house_party_trilha_baixa.wav",
+      "sha256": "9ab8a2d2371e777c431bf2d2163871c4825bb4023cf3b37a774c321f1647fb87",
+      "timeline": [
+        4889333333,
+        5366666666
+      ]
+    },
+    {
+      "file": "13_outro_trilha_baixa.wav",
+      "sha256": "7a7af9e316665b08b34a3cc434862f86baef7ba62c8dd880e3218f21075aed5a",
+      "timeline": [
+        5366666667,
+        5613666667
+      ]
+    },
+    {
+      "file": "00_intro_plop_comico.wav",
+      "sha256": "69b73bae0d6e32d703f86aac4be462262e98a939b3a1d0eed9fa3473c265944b",
+      "timeline": [
+        40500000,
+        42900000
+      ]
+    },
+    {
+      "file": "00_intro_toc.wav",
+      "sha256": "f37feda81b6a0e6d8d9cd60f6a9a0f098357058bddf05ba957227cb319c26a75",
+      "timeline": [
+        112400000,
+        114000000
+      ]
+    },
+    {
+      "file": "vinheta_2s.wav",
+      "sha256": "e1280c0215379e626e3c7ad1b747ccd0bd9a0b5abdaba4f9f44be6927c8b5467",
+      "timeline": [
+        282333333,
+        302333333
+      ]
+    },
+    {
+      "file": "01_gta_san_andreas_ceninha_01.wav",
+      "sha256": "a8c69af457a55866aea40d46c24f233dc471e97448809fe5309f78aabdac1829",
+      "timeline": [
+        479653333,
+        483253333
+      ]
+    },
+    {
+      "file": "01_gta_san_andreas_plop_comico.wav",
+      "sha256": "69b73bae0d6e32d703f86aac4be462262e98a939b3a1d0eed9fa3473c265944b",
+      "timeline": [
+        706133333,
+        708533333
+      ]
+    },
+    {
+      "file": "01_gta_san_andreas_ceninha_02.wav",
+      "sha256": "520364979c0887efe534da4affbe7761aa4bcd75951eb1fa23f9973f47fd4412",
+      "timeline": [
+        757373333,
+        760973333
+      ]
+    },
+    {
+      "file": "01_gta_san_andreas_ceninha_03.wav",
+      "sha256": "2358bed555cdacf1054e484e95999f44c5247bc75aa0460021477df36b74bae6",
+      "timeline": [
+        798600000,
+        802200000
+      ]
+    },
+    {
+      "file": "01_gta_san_andreas_plop_comico.wav",
+      "sha256": "69b73bae0d6e32d703f86aac4be462262e98a939b3a1d0eed9fa3473c265944b",
+      "timeline": [
+        826333333,
+        828733333
+      ]
+    },
+    {
+      "file": "vinheta_2s.wav",
+      "sha256": "e1280c0215379e626e3c7ad1b747ccd0bd9a0b5abdaba4f9f44be6927c8b5467",
+      "timeline": [
+        836333333,
+        856333333
+      ]
+    },
+    {
+      "file": "02_bmx_xxx_ceninha_01.wav",
+      "sha256": "2d0b584038e13d69884798a38d7eba4445d0d1cbeb766841a52cddac61927c81",
+      "timeline": [
+        985013333,
+        988613333
+      ]
+    },
+    {
+      "file": "02_bmx_xxx_plop_comico.wav",
+      "sha256": "69b73bae0d6e32d703f86aac4be462262e98a939b3a1d0eed9fa3473c265944b",
+      "timeline": [
+        996333333,
+        998733333
+      ]
+    },
+    {
+      "file": "02_bmx_xxx_ceninha_02.wav",
+      "sha256": "cb0a73edb52d75c3dd0918851b96445f5b25ee0d5fb9471f42d471400162826c",
+      "timeline": [
+        1272433333,
+        1276033333
+      ]
+    },
+    {
+      "file": "02_bmx_xxx_plop_comico.wav",
+      "sha256": "69b73bae0d6e32d703f86aac4be462262e98a939b3a1d0eed9fa3473c265944b",
+      "timeline": [
+        1278333333,
+        1280733333
+      ]
+    },
+    {
+      "file": "vinheta_2s.wav",
+      "sha256": "e1280c0215379e626e3c7ad1b747ccd0bd9a0b5abdaba4f9f44be6927c8b5467",
+      "timeline": [
+        1296000000,
+        1316000000
+      ]
+    },
+    {
+      "file": "03_bully_ceninha_01.wav",
+      "sha256": "45610de21688b30bcc64b8605cb9c78222178491ddf90b6a4fc24de80cb41a9b",
+      "timeline": [
+        1605400000,
+        1609000000
+      ]
+    },
+    {
+      "file": "03_bully_ceninha_02.wav",
+      "sha256": "2358bed555cdacf1054e484e95999f44c5247bc75aa0460021477df36b74bae6",
+      "timeline": [
+        1701833333,
+        1705433333
+      ]
+    },
+    {
+      "file": "03_bully_plop_comico.wav",
+      "sha256": "69b73bae0d6e32d703f86aac4be462262e98a939b3a1d0eed9fa3473c265944b",
+      "timeline": [
+        1708000000,
+        1710400000
+      ]
+    },
+    {
+      "file": "03_bully_plop_comico.wav",
+      "sha256": "69b73bae0d6e32d703f86aac4be462262e98a939b3a1d0eed9fa3473c265944b",
+      "timeline": [
+        1770000000,
+        1772400000
+      ]
+    },
+    {
+      "file": "vinheta_2s.wav",
+      "sha256": "e1280c0215379e626e3c7ad1b747ccd0bd9a0b5abdaba4f9f44be6927c8b5467",
+      "timeline": [
+        1786333333,
+        1806333333
+      ]
+    },
+    {
+      "file": "04_left_4_dead_2_plop_comico.wav",
+      "sha256": "69b73bae0d6e32d703f86aac4be462262e98a939b3a1d0eed9fa3473c265944b",
+      "timeline": [
+        1855833333,
+        1858233333
+      ]
+    },
+    {
+      "file": "04_left_4_dead_2_ceninha_01.wav",
+      "sha256": "ea824652e2d7efa8f858c0bd344057cafd3dbab5b178cab367798b9872c89d51",
+      "timeline": [
+        1914093333,
+        1917693333
+      ]
+    },
+    {
+      "file": "04_left_4_dead_2_plop_comico.wav",
+      "sha256": "69b73bae0d6e32d703f86aac4be462262e98a939b3a1d0eed9fa3473c265944b",
+      "timeline": [
+        1942333333,
+        1944733333
+      ]
+    },
+    {
+      "file": "04_left_4_dead_2_ceninha_02.wav",
+      "sha256": "2358bed555cdacf1054e484e95999f44c5247bc75aa0460021477df36b74bae6",
+      "timeline": [
+        2185783333,
+        2189383333
+      ]
+    },
+    {
+      "file": "04_left_4_dead_2_plop_comico.wav",
+      "sha256": "69b73bae0d6e32d703f86aac4be462262e98a939b3a1d0eed9fa3473c265944b",
+      "timeline": [
+        2211833333,
+        2214233333
+      ]
+    },
+    {
+      "file": "vinheta_2s.wav",
+      "sha256": "e1280c0215379e626e3c7ad1b747ccd0bd9a0b5abdaba4f9f44be6927c8b5467",
+      "timeline": [
+        2218333333,
+        2238333333
+      ]
+    },
+    {
+      "file": "05_saints_row_iv_plop_comico.wav",
+      "sha256": "69b73bae0d6e32d703f86aac4be462262e98a939b3a1d0eed9fa3473c265944b",
+      "timeline": [
+        2285333333,
+        2287733333
+      ]
+    },
+    {
+      "file": "05_saints_row_iv_ceninha_01.wav",
+      "sha256": "a4fbddc7eb49b5aac8550c3378ec63d9eb5bcab07984b2890b1e74661f4f66b9",
+      "timeline": [
+        2287916666,
+        2291516666
+      ]
+    },
+    {
+      "file": "05_saints_row_iv_plop_comico.wav",
+      "sha256": "69b73bae0d6e32d703f86aac4be462262e98a939b3a1d0eed9fa3473c265944b",
+      "timeline": [
+        2427333333,
+        2429733333
+      ]
+    },
+    {
+      "file": "05_saints_row_iv_ceninha_02.wav",
+      "sha256": "9b18c9877f98a0cd2db5603daad9d1280f971a50f84c3287a3588b7cf199084a",
+      "timeline": [
+        2473813333,
+        2477413333
+      ]
+    },
+    {
+      "file": "05_saints_row_iv_plop_comico.wav",
+      "sha256": "69b73bae0d6e32d703f86aac4be462262e98a939b3a1d0eed9fa3473c265944b",
+      "timeline": [
+        2622333333,
+        2624733333
+      ]
+    },
+    {
+      "file": "vinheta_2s.wav",
+      "sha256": "e1280c0215379e626e3c7ad1b747ccd0bd9a0b5abdaba4f9f44be6927c8b5467",
+      "timeline": [
+        2648333333,
+        2668333333
+      ]
+    },
+    {
+      "file": "06_gta_v_plop_comico.wav",
+      "sha256": "69b73bae0d6e32d703f86aac4be462262e98a939b3a1d0eed9fa3473c265944b",
+      "timeline": [
+        2735833333,
+        2738233333
+      ]
+    },
+    {
+      "file": "06_gta_v_ceninha_01.wav",
+      "sha256": "5ea22b27787a0f2ea6cfd6cb908c6539120ce1e249c8c0b37059a14e6bbc47f7",
+      "timeline": [
+        2818583333,
+        2822183333
+      ]
+    },
+    {
+      "file": "06_gta_v_plop_comico.wav",
+      "sha256": "69b73bae0d6e32d703f86aac4be462262e98a939b3a1d0eed9fa3473c265944b",
+      "timeline": [
+        2999133333,
+        3001533333
+      ]
+    },
+    {
+      "file": "06_gta_v_ceninha_02.wav",
+      "sha256": "1a581fc4b2b268bd0a2e462a074a91bd89e3289df962d5357ac3857878b37370",
+      "timeline": [
+        3016813333,
+        3020413333
+      ]
+    },
+    {
+      "file": "vinheta_2s.wav",
+      "sha256": "e1280c0215379e626e3c7ad1b747ccd0bd9a0b5abdaba4f9f44be6927c8b5467",
+      "timeline": [
+        3041333333,
+        3061333333
+      ]
+    },
+    {
+      "file": "07_pokemon_sword_shield_plop_comico.wav",
+      "sha256": "69b73bae0d6e32d703f86aac4be462262e98a939b3a1d0eed9fa3473c265944b",
+      "timeline": [
+        3117833333,
+        3120233333
+      ]
+    },
+    {
+      "file": "07_pokemon_sword_shield_ceninha_01.wav",
+      "sha256": "e1c22fab8e8c21469fd65a314f2298be479a6b71120bc0a7b326db496b73193a",
+      "timeline": [
+        3371773333,
+        3375373333
+      ]
+    },
+    {
+      "file": "07_pokemon_sword_shield_plop_comico.wav",
+      "sha256": "69b73bae0d6e32d703f86aac4be462262e98a939b3a1d0eed9fa3473c265944b",
+      "timeline": [
+        3500833333,
+        3503233333
+      ]
+    },
+    {
+      "file": "07_pokemon_sword_shield_ceninha_02.wav",
+      "sha256": "520364979c0887efe534da4affbe7761aa4bcd75951eb1fa23f9973f47fd4412",
+      "timeline": [
+        3507566666,
+        3511166666
+      ]
+    },
+    {
+      "file": "vinheta_2s.wav",
+      "sha256": "e1280c0215379e626e3c7ad1b747ccd0bd9a0b5abdaba4f9f44be6927c8b5467",
+      "timeline": [
+        3524666667,
+        3544666667
+      ]
+    },
+    {
+      "file": "08_night_trap_ceninha_01.wav",
+      "sha256": "2358bed555cdacf1054e484e95999f44c5247bc75aa0460021477df36b74bae6",
+      "timeline": [
+        3570506667,
+        3574106667
+      ]
+    },
+    {
+      "file": "08_night_trap_plop_comico.wav",
+      "sha256": "69b73bae0d6e32d703f86aac4be462262e98a939b3a1d0eed9fa3473c265944b",
+      "timeline": [
+        3612666667,
+        3615066667
+      ]
+    },
+    {
+      "file": "08_night_trap_ceninha_02.wav",
+      "sha256": "1475f31b9e1d07c2f74e6a37431f61b491b9156cbda7daabcfed2a51b6adf583",
+      "timeline": [
+        3789706667,
+        3793306667
+      ]
+    },
+    {
+      "file": "08_night_trap_plop_comico.wav",
+      "sha256": "69b73bae0d6e32d703f86aac4be462262e98a939b3a1d0eed9fa3473c265944b",
+      "timeline": [
+        3799666667,
+        3802066667
+      ]
+    },
+    {
+      "file": "vinheta_2s.wav",
+      "sha256": "e1280c0215379e626e3c7ad1b747ccd0bd9a0b5abdaba4f9f44be6927c8b5467",
+      "timeline": [
+        3977666667,
+        3997666667
+      ]
+    },
+    {
+      "file": "09_dead_or_alive_xtreme_3_plop_comico.wav",
+      "sha256": "69b73bae0d6e32d703f86aac4be462262e98a939b3a1d0eed9fa3473c265944b",
+      "timeline": [
+        4174166667,
+        4176566667
+      ]
+    },
+    {
+      "file": "09_dead_or_alive_xtreme_3_mola_comica.wav",
+      "sha256": "5042ae243b45df574ab5d647153a21889cc151cf9150349ac55808bc67c4d6f6",
+      "timeline": [
+        4284866667,
+        4289066667
+      ]
+    },
+    {
+      "file": "vinheta_2s.wav",
+      "sha256": "e1280c0215379e626e3c7ad1b747ccd0bd9a0b5abdaba4f9f44be6927c8b5467",
+      "timeline": [
+        4410000000,
+        4430000000
+      ]
+    },
+    {
+      "file": "11_minecraft_impacto_curto.wav",
+      "sha256": "8aed1c0de2cc5500d0b01d0ba03ebfbf4919730caee0e474fffbb6c9a332d68a",
+      "timeline": [
+        4471600000,
+        4474000000
+      ]
+    },
+    {
+      "file": "11_minecraft_toc.wav",
+      "sha256": "f37feda81b6a0e6d8d9cd60f6a9a0f098357058bddf05ba957227cb319c26a75",
+      "timeline": [
+        4662000000,
+        4663600000
+      ]
+    },
+    {
+      "file": "vinheta_2s.wav",
+      "sha256": "e1280c0215379e626e3c7ad1b747ccd0bd9a0b5abdaba4f9f44be6927c8b5467",
+      "timeline": [
+        4869333333,
+        4889333333
+      ]
+    },
+    {
+      "file": "12_house_party_toc.wav",
+      "sha256": "f37feda81b6a0e6d8d9cd60f6a9a0f098357058bddf05ba957227cb319c26a75",
+      "timeline": [
+        5193533333,
+        5195133333
+      ]
+    },
+    {
+      "file": "12_house_party_impacto_curto.wav",
+      "sha256": "8aed1c0de2cc5500d0b01d0ba03ebfbf4919730caee0e474fffbb6c9a332d68a",
+      "timeline": [
+        5250133333,
+        5252533333
+      ]
+    },
+    {
+      "file": "12_house_party_plop_comico.wav",
+      "sha256": "69b73bae0d6e32d703f86aac4be462262e98a939b3a1d0eed9fa3473c265944b",
+      "timeline": [
+        5346533333,
+        5348933333
+      ]
+    },
+    {
+      "file": "00_intro_voz_timeline.wav",
+      "sha256": "877c132aff762c63f11004fa7b0cec738a73f471145b28a814f740d013ff5aa2",
+      "timeline": [
+        0,
+        282333333
+      ]
+    },
+    {
+      "file": "01_gta_san_andreas_voz_timeline.wav",
+      "sha256": "5dde9db955a4db8bf562685d4654f39bf21725cdd0f241953863a35a0556ff18",
+      "timeline": [
+        302333333,
+        836333333
+      ]
+    },
+    {
+      "file": "02_bmx_xxx_voz_timeline.wav",
+      "sha256": "183403307ac966d177d6f65ab369744a1588ea2c2f5f699c9d7fd44399f8eca7",
+      "timeline": [
+        856333333,
+        1296000000
+      ]
+    },
+    {
+      "file": "03_bully_voz_timeline.wav",
+      "sha256": "8500f69ebaeb47af00263b6d265401360d3793ac7423b44afef237083644c2a7",
+      "timeline": [
+        1316000000,
+        1786333333
+      ]
+    },
+    {
+      "file": "04_left_4_dead_2_voz_timeline.wav",
+      "sha256": "da2093727ba1f37f6944eecf585dc9dc97b18b32ad5b888f691bac8b86d19808",
+      "timeline": [
+        1806333333,
+        2218333333
+      ]
+    },
+    {
+      "file": "05_saints_row_iv_voz_timeline.wav",
+      "sha256": "7d6159f57f39d835e056be9d780dbde486ca718e2171d5753ede0e24afe4dc76",
+      "timeline": [
+        2238333333,
+        2648333333
+      ]
+    },
+    {
+      "file": "06_gta_v_voz_timeline.wav",
+      "sha256": "e63e3d85145c18404700e72cbce0cc3ad95c813a05ff29a734cfd52e76c742d4",
+      "timeline": [
+        2668333333,
+        3041333333
+      ]
+    },
+    {
+      "file": "07_pokemon_sword_shield_voz_timeline.wav",
+      "sha256": "cedf2ba163b459f38bc64bd52ffff0ce5900a9cd5b90daf384c3a878ee8598ef",
+      "timeline": [
+        3061333333,
+        3524666666
+      ]
+    },
+    {
+      "file": "08_night_trap_voz_timeline.wav",
+      "sha256": "5427ea7f735535535613ccd529f58358aa85f7bd069afde86ead5a3c479837c0",
+      "timeline": [
+        3544666667,
+        3977666667
+      ]
+    },
+    {
+      "file": "09_dead_or_alive_xtreme_3_voz_timeline.wav",
+      "sha256": "4245ffda658b436eb9e8179ce8b65783c18a1f5cc878b78e47d90e824d6a2470",
+      "timeline": [
+        3997666667,
+        4410000000
+      ]
+    },
+    {
+      "file": "11_minecraft_voz_timeline.wav",
+      "sha256": "062f68fb3be9b800f2dbe476e9e879bf8ddba9ba6d6140e79c2099556740223e",
+      "timeline": [
+        4430000000,
+        4869333333
+      ]
+    },
+    {
+      "file": "12_house_party_voz_timeline.wav",
+      "sha256": "788760a3c12458d9408dc89263a2d746b2c05a22fb8b5635e622b42793f89f77",
+      "timeline": [
+        4889333333,
+        5366666666
+      ]
+    },
+    {
+      "file": "13_outro_voz_timeline.wav",
+      "sha256": "87afecb582b6007e8b7f84464fa3a32cabfbb5ca684ecfb3b233c734157f9385",
+      "timeline": [
+        5366666667,
+        5613666667
+      ]
+    }
+  ],
+  "motion_curves": 784,
+  "keyframe_points": 2504,
+  "source_time_keyframes_checked": true,
+  "uniform_scale_no_stretch": true,
+  "no_black_frame_edges": true,
+  "transitions": 60,
+  "transitions_by_name": {
+    "Fast Bounce": 13,
+    "Basic Zoom In": 24,
+    "Warp Zoom 6": 11,
+    "SwingLeft": 9,
+    "SwingRight": 3
+  },
+  "chapter_hero_pngs_on_video_lane": true,
+  "no_new_3d_render": true,
+  "no_new_subtitles": true,
+  "no_whole_frame_shake": true,
+  "filmora_native_open": false
+}

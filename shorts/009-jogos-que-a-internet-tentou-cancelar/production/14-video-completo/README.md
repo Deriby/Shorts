@@ -1,5 +1,9 @@
 # Jogos que a internet tentou cancelar — completo 16:9
 
+**Edição atual:** [revisão com zooms, keyframes e transições no estilo do primeiro longo](revisao_edicao_v2/). Baixe [Massacote_Completo_Editado.wfp](output/Filmora/Massacote_Completo_Editado.wfp) e salve ao lado de `midias/`, ou use o [pacote completo atualizado](output/Massacote_Completo_Editado_Filmora.zip). Esta edição preserva todas as vozes/cortes e acrescenta 112 clipes animados e 60 transições. O MP4 anterior abaixo corresponde à montagem antes desta revisão; não representa a nova edição. Filmora nativo ainda não executado.
+
+## Montagem anterior preservada
+
 O WFP atual restaura o registro e os metadados da timeline principal a partir do projeto salvo pelo usuário. Para a pasta já extraída, baixe apenas `Massacote_Completo.wfp` e salve ao lado de `midias/`. A abertura no aplicativo continua sem teste neste ambiente.
 
 **9min21,367s**, 1920×1080, 30 fps. Intro + 11 jogos + 11 vinhetas de 2s + outro. O jogo 10 permanece fora.

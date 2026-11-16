@@ -1,6 +1,6 @@
 # Quarto gamer PS1 — montagem com o banco 3D
 
-**Base atual para novas produções:** [luz ciano/roxa e fone removido](iluminacao_v3/), conforme pedido do usuário. Contém o Dery original sentado com a pose de contato aprovada. [Seleção da versão](versao_atual.json). A avaliação estética da nova luz está pendente; a montagem original abaixo e os vídeos existentes permanecem intactos.
+**Base atual para novas produções:** [luz ciano/roxa e fone removido](iluminacao_v3/), conforme pedido do usuário. Contém o Dery original sentado com a pose de contato aprovada. [Seleção da versão](versao_atual.json). O usuário aprovou a nova luz e pediu para manter esta versão; a montagem original abaixo e os vídeos existentes permanecem intactos.
 
 **Teste posterior autorizado:** [cena de 6 segundos com o Dery original, voz e gameplay de Driver](teste_short/), para avaliar o uso em shorts. O cenário-base desta pasta continua intacto; a cópia animada está separada.
 

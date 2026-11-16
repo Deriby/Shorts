@@ -1,0 +1,26 @@
+JOGOS QUE A INTERNET TENTOU CANCELAR — EDICAO REVISADA 16:9
+
+Abra Massacote_Completo_Editado.wfp depois de extrair este pacote inteiro.
+Se ja baixou as midias do projeto anterior, basta colocar este WFP ao lado
+da pasta midias. Nao precisa baixar as midias novamente.
+
+112 clipes recebem animacao nativa: aproximacoes, zooms de reacao com entrada
+rapida, retornos e movimentos separados nas camadas das onze vinhetas.
+As 60 transicoes usam Basic Zoom In, Warp Zoom 6, Fast Bounce, SwingLeft e
+SwingRight da sua edicao final do primeiro video longo. Os recursos pagos
+dependem da instalacao dos plugins, como no seu projeto de referencia.
+
+Todos os 296 clipes mantem seus tempos, fontes e velocidade. Voz, musica e
+sons permanecem separados e identicos ao projeto anterior. As midias sao as
+mesmas. Nao ha novas legendas, glitch, tremido global ou outro render 3D.
+Interfaces, textos e inserts comicos preservam seu enquadramento anterior.
+
+O quarto com a nova iluminacao/sem fone foi aprovado para futuras producoes.
+Esta revisao de edicao reutiliza os videos prontos: nao refaz o cenario antigo
+que ja esta nos pixels destes capitulos.
+
+O MP4 completo anterior nao representa os novos keyframes/transicoes.
+Exporte este WFP no Filmora para obter a nova edicao. Nao foi executado
+Filmora neste Linux. A estrutura, recursos, keyframes, enquadramentos e
+registro nativo foram conferidos; a abertura e os plugins ainda precisam
+ser verificados no aplicativo.
