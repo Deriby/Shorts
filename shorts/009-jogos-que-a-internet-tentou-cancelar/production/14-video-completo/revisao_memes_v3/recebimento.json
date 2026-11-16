@@ -1,0 +1,19 @@
+{
+  "source_upload": "file_0000000094b0820e95c2f6647a46b544",
+  "project": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/14-video-completo/revisao_memes_v3/recebido/Massacote_Completo_Atualizado_Usuario.wfp",
+  "sha256": "ae1e28d085bea73c372ebc8fdc66e65e0ff3f842f3689802e2a618d2e69a82ab",
+  "bytes": 1595045,
+  "main_timeline": 36,
+  "timelines": [
+    36,
+    54,
+    41
+  ],
+  "main_clips": 353,
+  "resources": 80,
+  "duration": 561.3666667,
+  "all_library_media_available_in_previous_bundle": true,
+  "unchanged_received_copy": true,
+  "meme_folder": "https://drive.google.com/drive/folders/1TyzZ9JY1sLPyZBetqwwRDADzsqpLHRX6",
+  "use_as_only_edit_base": true
+}

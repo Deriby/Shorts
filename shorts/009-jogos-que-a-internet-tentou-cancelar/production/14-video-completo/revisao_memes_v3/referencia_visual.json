@@ -1,0 +1,14 @@
+{
+  "drive_id": "1wVZ7iaKOuyQ5a0wD0Ij3zOy3_sG9UsO-",
+  "container": "ZIP containing referencia.mp4",
+  "duration": 976.027574,
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": 30,
+  "sha256": "70e8fc61e8fe993029dae31099d661c7cfac2a7ff9ee69c130feb061719d2fe6",
+  "inspection": "Opening and visual samples across the video; not full playback or audio analysis",
+  "cache": "/workspace/attachments/memes009/referencia.mp4",
+  "editing_started": false
+}
