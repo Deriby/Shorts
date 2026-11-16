@@ -1,0 +1,23 @@
+{
+  "mp4_decoded_frames": 279,
+  "duration_seconds": 9.3,
+  "video_resolution": [
+    1280,
+    720
+  ],
+  "fps": 30,
+  "audio_correlation_to_source_excerpt": 0.9999930562971443,
+  "voice_samples": 446400,
+  "source_excerpt": [
+    0,
+    9.3
+  ],
+  "new_voice_generated": false,
+  "approved_poses_unchanged": true,
+  "movement_detected": true,
+  "mean_interframe_difference": 1.0269136084361676,
+  "max_interframe_difference": 12.129650969328704,
+  "filmora_native_executed": false,
+  "blender_used": false,
+  "visual_review": "Quadros das duas poses conferidos; boca coberta pelo bigode, contornos de queixo/pescoco conferidos; aprovacao estetica do movimento pendente."
+}

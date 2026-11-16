@@ -194,7 +194,8 @@
     "animation": "keyframes",
     "blender": false,
     "speech": "apenas bigode, boca coberta",
-    "layered_speech_assets_prepared": false
+    "layered_speech_assets_prepared": true,
+    "layered_speech_assets": "../previa_01/rig_camadas.json"
   },
   "revisions": [
     {

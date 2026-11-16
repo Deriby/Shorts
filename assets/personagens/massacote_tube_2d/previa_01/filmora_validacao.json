@@ -1,0 +1,21 @@
+{
+  "root_registered": true,
+  "extra_present": true,
+  "timeline_uuid_matches": true,
+  "duration_matches": true,
+  "media_bindings": 11,
+  "project": "Massacote_Tube_Previa_Conversando.wfp",
+  "sha256": "33f6ee321a90f75f32f3bc5850e42a110eb50bcbda6f5676551a65f6896695ea",
+  "resources": 8,
+  "clips": 11,
+  "visual_tracks": 4,
+  "audio_tracks": 1,
+  "transform_curves": 45,
+  "keyframe_points": 4230,
+  "duration": 9.3,
+  "source_template": "shorts/009-jogos-que-a-internet-tentou-cancelar/production/14-video-completo/revisao_memes_v4_tempo/output/Filmora/Massacote_MEMES_Tempo_Corrigido.wfp",
+  "source_template_sha256": "91b9d1593ddf4a10fcbd165b45a6ec463d1519be09478db923cc39331939bf60",
+  "source_template_unchanged": true,
+  "filmora_native_executed": false,
+  "body_head_moustache_editable_layers": true
+}

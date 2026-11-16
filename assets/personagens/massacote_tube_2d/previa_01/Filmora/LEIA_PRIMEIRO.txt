@@ -1,0 +1,19 @@
+MASSACOTE TUBE — PREVIA 2D CONVERSANDO (9,3 s)
+
+Extraia o pacote inteiro e abra Massacote_Tube_Previa_Conversando.wfp no Filmora.
+Mantenha a pasta midias ao lado do WFP. Se houver solicitação para localizar uma
+mídia, selecione o arquivo correspondente em midias.
+
+São quatro faixas visuais (fundo, corpo, cabeça e bigode) e uma faixa de voz.
+Corpo/cabeça/bigode têm três clipes cada: conversando, apontando, conversando.
+Os keyframes de posição, escala e rotação ficam editáveis, inclusive o movimento
+do bigode. As bases limpas não têm boca desenhada por baixo do bigode.
+
+A voz é somente um trecho de 0–9,3 s da intro já recebida de Personagens que a
+internet estragou, para avaliar o movimento com voz. Sem nova voz, mudança de
+velocidade ou alteração de tom. Os projetos e gravações antigos estão intactos.
+
+O MP4 de prévia foi composto a partir das mesmas transformações numéricas.
+A abertura/reprodução/exportação nativa no Filmora ainda não foi testada neste
+ambiente Linux. A validação do contêiner, biblioteca, keyframes e mídias passou.
+Não foi usado Blender. Esta prévia aguarda avaliação de movimento/estética.

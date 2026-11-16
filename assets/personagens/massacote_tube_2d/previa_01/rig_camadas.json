@@ -1,0 +1,22 @@
+{
+  "status": "preparado_para_previa_aguarda_avaliacao",
+  "editor": "Filmora",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "pivot": "center canvas at neck",
+  "mouth_drawn_on_clean_underlay": false,
+  "poses": {
+    "conversando": {
+      "corpo": "Filmora/midias/conversando_corpo.png",
+      "cabeca": "Filmora/midias/conversando_cabeca.png",
+      "bigode": "Filmora/midias/conversando_bigode.png"
+    },
+    "apontando": {
+      "corpo": "Filmora/midias/apontando_corpo.png",
+      "cabeca": "Filmora/midias/apontando_cabeca.png",
+      "bigode": "Filmora/midias/apontando_bigode.png"
+    }
+  }
+}

@@ -9,3 +9,5 @@ Abra [`lote_01/galeria.html`](lote_01/galeria.html) para consultar os PNGs e a s
 Regra permanente: a boca fica sempre coberta pelo bigode, inclusive em risadas e sustos. Na fala, somente a região do bigode deve mudar; corpo, olhos e cabeça ficam fixos no ciclo básico.
 
 Fluxo ativo definido pelo usuário: personagem 2D e animação por keyframes no Filmora, incluindo fala e transições. Consulte [`FLUXO_FILMORA.md`](FLUXO_FILMORA.md). Blender não faz parte desse fluxo.
+
+Prévia de conversa solicitada: [`previa_01/`](previa_01/), com MP4 de 9,3 s, WFP e corpo/cabeça/bigode em camadas. A prévia usa trecho de voz já existente e aguarda avaliação de movimento.

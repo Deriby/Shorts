@@ -14,7 +14,7 @@ Nesta retomada foram recuperados o link e a análise salva; não houve nova repr
 
 Usar PNGs transparentes da biblioteca, com poses e expressões adequadas à intenção da fala. Manter identidade, roupa, bigode e cavanhaque aprovados. Fazer movimentos de posição, escala, rotação e opacidade por keyframes no Filmora; entradas, saídas e trocas de pose devem acompanhar as falas e reações.
 
-A boca nunca aparece. Na fala básica, mover somente o bigode. Para controle direto por keyframes, preparar uma base fixa com a região coberta e o bigode em uma camada transparente independente, sem deixar uma cópia fixa por baixo. Não animar a imagem inteira para simular movimento isolado do bigode. Os quadros A/B/C do lote 01 e o loop de 0,6 s são referência visual: ainda não constituem um personagem entregue em camadas separadas.
+A boca nunca aparece. Na fala básica, mover somente o bigode. Para controle direto por keyframes, preparar uma base fixa com a região coberta e o bigode em uma camada transparente independente, sem deixar uma cópia fixa por baixo. Não animar a imagem inteira para simular movimento isolado do bigode. Os quadros A/B/C do lote 01 e o loop de 0,6 s são referência visual. As poses conversando e apontando agora têm corpo, cabeça e bigode separados em `previa_01/Filmora/midias/`, com índice em `previa_01/rig_camadas.json`; a prévia de movimento ainda aguarda avaliação.
 
 Priorizar gestos legíveis e transições curtas com início, sustentação e retorno, variando conforme o texto. Nas pausas, retornar o bigode ao repouso. Não aplicar oscilação repetitiva ao personagem inteiro.
 
@@ -22,6 +22,6 @@ Priorizar gestos legíveis e transições curtas com início, sustentação e re
 
 - Base e dez poses aprovadas pelo usuário após a revisão 1.1.
 - PNGs, catálogo JSON e banco SQLite disponíveis em `lote_01/`.
-- Nenhum novo WFP ou vídeo é criado apenas para registrar essa decisão.
+- Prévia solicitada: `previa_01/Previa_Conversando_2D.mp4`, 9,3 s com trecho da voz existente; WFP editável com corpo/cabeça/bigode e keyframes. Abertura nativa ainda não testada.
 - A expansão para cem poses ainda não foi produzida.
 - Abertura, reprodução e exportação nativas no Filmora só podem ser declaradas após verificação no aplicativo.
