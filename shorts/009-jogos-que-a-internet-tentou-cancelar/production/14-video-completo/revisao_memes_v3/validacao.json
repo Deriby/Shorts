@@ -1,0 +1,160 @@
+{
+  "original_clips_preserved": 355,
+  "original_main_clips": 353,
+  "child_timelines_preserved": true,
+  "user_effects_keyframes_audio_unchanged": true,
+  "relative_paths_only": true,
+  "root_registration_preserved": true,
+  "new_visuals": 52,
+  "new_sounds": 8,
+  "new_resources": 57,
+  "all_new_media_available": true,
+  "video_motion_checks": [
+    {
+      "file": "meme_02_V10.mp4",
+      "frames": 27,
+      "change": 18.187178497942387
+    },
+    {
+      "file": "meme_04_V02.mp4",
+      "frames": 27,
+      "change": 16.896797839506174
+    },
+    {
+      "file": "meme_07_V08.mp4",
+      "frames": 27,
+      "change": 2.347800925925926
+    },
+    {
+      "file": "meme_10_V25.mp4",
+      "frames": 27,
+      "change": 1.9999356995884774
+    },
+    {
+      "file": "meme_11_V67.mp4",
+      "frames": 27,
+      "change": 24.73411779835391
+    },
+    {
+      "file": "meme_14_V42.mp4",
+      "frames": 27,
+      "change": 2.7016460905349793
+    },
+    {
+      "file": "meme_16_V82.mp4",
+      "frames": 27,
+      "change": 0.6521990740740741
+    },
+    {
+      "file": "meme_17_V68.mp4",
+      "frames": 27,
+      "change": 0.2882587448559671
+    },
+    {
+      "file": "meme_18_V05.mp4",
+      "frames": 34,
+      "change": 9.422775205761317
+    },
+    {
+      "file": "meme_22_V59.mp4",
+      "frames": 27,
+      "change": 2.6024305555555554
+    },
+    {
+      "file": "meme_23_V21.mp4",
+      "frames": 33,
+      "change": 10.967271090534979
+    },
+    {
+      "file": "meme_26_V49.mp4",
+      "frames": 27,
+      "change": 2.5982510288065845
+    },
+    {
+      "file": "meme_28_V56.mp4",
+      "frames": 36,
+      "change": 15.08397633744856
+    },
+    {
+      "file": "meme_35_V60.mp4",
+      "frames": 27,
+      "change": 6.97337962962963
+    },
+    {
+      "file": "meme_36_V19.mp4",
+      "frames": 27,
+      "change": 21.818737139917694
+    },
+    {
+      "file": "meme_38_V64.mp4",
+      "frames": 27,
+      "change": 2.705761316872428
+    },
+    {
+      "file": "meme_39_V11.mp4",
+      "frames": 27,
+      "change": 4.56860853909465
+    },
+    {
+      "file": "meme_40_V26.mp4",
+      "frames": 27,
+      "change": 0.7574588477366255
+    },
+    {
+      "file": "meme_42_V68.mp4",
+      "frames": 27,
+      "change": 0.2882587448559671
+    },
+    {
+      "file": "meme_45_V06.mp4",
+      "frames": 27,
+      "change": 5.080825617283951
+    },
+    {
+      "file": "meme_47_V09.mp4",
+      "frames": 27,
+      "change": 5.183256172839506
+    },
+    {
+      "file": "meme_48_V47.mp4",
+      "frames": 27,
+      "change": 5.801697530864198
+    },
+    {
+      "file": "meme_50_V51.mp4",
+      "frames": 27,
+      "change": 6.7506430041152266
+    },
+    {
+      "file": "meme_51_V87.mp4",
+      "frames": 27,
+      "change": 14.784722222222221
+    }
+  ],
+  "quiet_sound_peaks": [
+    {
+      "file": "som_A10.wav",
+      "peak_db": -21.999515337009644
+    },
+    {
+      "file": "som_A16.wav",
+      "peak_db": -21.999515337009644
+    },
+    {
+      "file": "som_A28.wav",
+      "peak_db": -21.999515337009644
+    },
+    {
+      "file": "som_A44.wav",
+      "peak_db": -21.999515337009644
+    },
+    {
+      "file": "som_A62.wav",
+      "peak_db": -21.999515337009644
+    }
+  ],
+  "no_comic_insert_overlap": true,
+  "voice_original_files_unchanged": true,
+  "source_sha256_unchanged": true,
+  "native_filmora_open": false
+}

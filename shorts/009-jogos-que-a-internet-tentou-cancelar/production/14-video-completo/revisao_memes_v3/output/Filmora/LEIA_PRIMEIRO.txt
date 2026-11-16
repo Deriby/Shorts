@@ -1,0 +1,24 @@
+MASSACOTE — EDICAO COM MEMES, 16:9
+
+Abra Massacote_Completo_MEMES.wfp. O projeto parte do WFP que voce reenviou.
+Os cortes, efeitos, keyframes, composicoes e audios que voce editou foram
+preservados. Entraram 52 intervencoes de memes e 8 sons pontuais em faixas
+novas, separadas e editaveis. As midias originais nao foram substituidas.
+
+PACOTE DE ATUALIZACAO: extraia ao lado da pasta midias do projeto anterior.
+Mescle a pasta midias deste ZIP com a anterior, mantendo os arquivos antigos.
+O nome do WFP e novo; seu projeto anterior nao precisa ser sobrescrito.
+
+PACOTE COMPLETO: extraia tudo para uma pasta nova e abra o WFP dessa pasta.
+Nao abra o projeto diretamente de dentro do ZIP.
+
+O MP4 antigo nao inclui esta edicao. Para obter o video completo atualizado,
+exporte este WFP no Filmora. A estrutura, recursos, movimento dos novos MP4s,
+originalidade das trilhas, keyframes e quadros foram conferidos. O Filmora
+proprietario nao foi executado neste Linux; os efeitos que voce adicionou
+continuam nativos e dependem da sua instalacao, como no projeto original.
+
+Os memes ficam limpos, sem filtro PSX. A voz e a duracao do longo permanecem
+inteiras. O novo quarto aprovado vale para producoes futuras; nao houve
+novo render 3D deste longo. O banco completo de 303 arquivos foi salvo
+separadamente no repositorio, em assets/biblioteca_memes/.

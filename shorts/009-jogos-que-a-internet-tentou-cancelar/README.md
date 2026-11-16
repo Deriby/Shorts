@@ -18,7 +18,7 @@ A posição editorial do Saints Row IV é a quinta. As entregas existentes mant�
 
 ## Vídeo completo 16:9
 
-**[Projeto Filmora completo atualizado: zooms, keyframes e transições](production/14-video-completo/revisao_edicao_v2/README.md).** O MP4 de conferência anterior não inclui esta revisão. Intro, onze jogos e outro, com o jogo 10 descartado.
+**[Projeto Filmora completo atualizado com memes, sobre seu WFP](production/14-video-completo/revisao_memes_v3/README.md).** O MP4 de conferência anterior não inclui esta revisão. Intro, onze jogos e outro, com o jogo 10 descartado.
 
 ## Lote atual — Minecraft, House Party, intro e outro
 

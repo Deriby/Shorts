@@ -1,0 +1,18 @@
+{
+  "reference_drive_id": "1wVZ7iaKOuyQ5a0wD0Ij3zOy3_sG9UsO-",
+  "duration": 976.027574,
+  "methods": [
+    "visual samples across full duration",
+    "opening sampled more densely",
+    "full-video scene-change detection at 10 fps/320 px",
+    "local approximate speech recognition across full reference audio",
+    "all thirteen current voice tracks locally transcribed approximately"
+  ],
+  "raw_scene_events": 388,
+  "clustered_scene_events": 224,
+  "median_interval_between_clusters": 2.6000000000000227,
+  "not_a_required_cut_rate": true,
+  "asr_warning": "Whisper tiny repeats/hallucinates on music/unclear passages. Transcript is navigation only, not factual evidence or word-accurate alignment.",
+  "native_filmora_render": false,
+  "reference_footage_not_reused": true
+}
