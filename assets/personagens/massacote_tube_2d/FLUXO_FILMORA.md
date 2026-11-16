@@ -2,6 +2,14 @@
 
 O usuário aprovou as dez poses do lote 01, incluindo o queixo corrigido da pose rindo, e definiu a produção com personagem 2D e animação por keyframes no Filmora. Não usar Blender neste fluxo. Os arquivos 3D antigos são histórico preservado.
 
+## Referência no Drive
+
+O usuário esclareceu que a movimentação deve seguir o personagem 2D do vídeo de referência já guardado no Drive. Link localizado no histórico do projeto: [vídeo sobre materiais perdidos de Carros, 16min16s](https://drive.google.com/file/d/1wVZ7iaKOuyQ5a0wD0Ij3zOy3_sG9UsO-/view). O arquivo do Drive é um ZIP contendo `referencia.mp4` (1280 × 720, 30 fps).
+
+A análise anterior está em `shorts/009-jogos-que-a-internet-tentou-cancelar/production/14-video-completo/revisao_memes_v3/ANALISE_REFERENCIA.md` e os metadados em `revisao_memes_v3/referencia_visual.json`. Ela registra avatar, gestos, reenquadramentos e alternância com cenas/ilustrações; na abertura, apresentação de 0–2,4 s, cena ilustrativa aproximadamente de 2,4–7,8 s e retorno mais próximo ao avatar. Usar o movimento do apresentador 2D como referência para os keyframes e a atuação das poses, com o bigode cobrindo a boca.
+
+Nesta retomada foram recuperados o link e a análise salva; não houve nova reprodução do vídeo. O cache antigo indicado pelos metadados (`/workspace/attachments/memes009/referencia.mp4`) está ausente nesta máquina. Antes de medir movimentos ou copiar timings específicos, reabrir o arquivo original do Drive. Conferir os registros e caches existentes antes de pedir reenvio ao usuário. Não tratar os intervalos de montagem da análise como velocidade de animação do personagem.
+
 ## Assets e montagem
 
 Usar PNGs transparentes da biblioteca, com poses e expressões adequadas à intenção da fala. Manter identidade, roupa, bigode e cavanhaque aprovados. Fazer movimentos de posição, escala, rotação e opacidade por keyframes no Filmora; entradas, saídas e trocas de pose devem acompanhar as falas e reações.
