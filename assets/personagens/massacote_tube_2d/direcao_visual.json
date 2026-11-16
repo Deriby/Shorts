@@ -5,7 +5,9 @@
   "mouth_rule": "sempre coberta pelo bigode",
   "approved_style_preview": "estudos_estilo/samurai_jack_v1/Previa_Massacote_Samurai_Jack.png",
   "latest_hair_revision": "estudos_estilo/samurai_jack_v2/Previa_Massacote_Samurai_Jack_Cabelo_Menor.png",
-  "latest_revision_status": "para_avaliacao",
+  "latest_revision_status": "brasao_solicitado_aplicado_para_avaliacao",
   "prior_ibispaint_study_rejected": true,
-  "previous_ten_pose_library_rebuilt": false
+  "previous_ten_pose_library_rebuilt": false,
+  "shirt_emblem": "M vermelho em brasao no centro da blusa escura",
+  "latest_preview": "estudos_estilo/samurai_jack_v3/Previa_Massacote_Samurai_Jack_Brasao_M.png"
 }

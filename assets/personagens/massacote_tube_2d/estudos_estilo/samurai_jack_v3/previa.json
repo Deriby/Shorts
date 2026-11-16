@@ -1,0 +1,15 @@
+{
+  "status": "previa_com_brasao_solicitado_para_avaliacao",
+  "image": "Previa_Massacote_Samurai_Jack_Brasao_M.png",
+  "reference": "../samurai_jack_v2/Previa_Massacote_Samurai_Jack_Cabelo_Menor.png",
+  "change_requested": "M vermelho na blusa como brasao",
+  "change_applied": "M vermelho dentro de contorno simples de escudo vermelho, no centro da blusa escura abaixo da corrente",
+  "size": [
+    1024,
+    1536
+  ],
+  "transparent": true,
+  "mouth_visible": false,
+  "generation_tool": "image_gen",
+  "sha256": "b606de6c0f6ef2ce3f0855e7251db6211d25144cc6fdc5b3dcb2f84a4f2a22ad"
+}
