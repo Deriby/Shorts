@@ -1,6 +1,6 @@
 # Massacote Tube — 10 poses, lote 01
 
-Primeiro teste para avaliação. Não é o lote final de cem.
+Primeiro lote aprovado pelo usuário após a correção da pose 08 (revisão 1.1). A expansão para cem ainda não foi produzida.
 
 ## Conteúdo
 
@@ -20,8 +20,12 @@ O ciclo de 0,6 s segue A (120 ms), B (80 ms), A (100 ms), C (80 ms), B (80 ms), 
 
 `python buscar.py confuso` busca títulos/tags no SQLite. `python catalogar.py` revalida os PNGs, os limites da alteração da fala e o WebP, e atualiza JSON/SQLite/galeria. Requer Pillow e NumPy (já disponíveis no ambiente).
 
-As dez poses foram inspecionadas, estão inteiras no quadro e têm boca coberta. A aprovação estética depende do usuário. Os arquivos originais retornados pelo gerador foram mantidos em `/workspace/generated_images`; as dez poses principais são cópias sem transformação. O anexo aprovado do usuário continua sendo a referência de identidade.
+As dez poses foram inspecionadas, estão inteiras no quadro e têm boca coberta. A aprovação estética deste lote foi confirmada pelo usuário. Os arquivos originais retornados pelo gerador foram mantidos em `/workspace/generated_images`; as dez poses principais são cópias sem transformação. O anexo aprovado do usuário continua sendo a referência de identidade.
 
 ## Revisão 1.1 — pose rindo
 
-Corrigidos o contorno deformado do queixo/cavanhaque e a ligação com o pescoço na pose 08 apontada pelo usuário. As outras nove poses principais são idênticas, byte a byte, ao primeiro lote. Boca continua coberta pelo bigode. A correção aguarda avaliação; o lote de cem ainda não foi iniciado. Histórico de hashes em `revisoes.json`.
+Corrigidos o contorno deformado do queixo/cavanhaque e a ligação com o pescoço na pose 08 apontada pelo usuário. As outras nove poses principais são idênticas, byte a byte, ao primeiro lote. Boca continua coberta pelo bigode. A correção foi aprovada pelo usuário com “Perfeito”; o lote de cem ainda não foi iniciado. Histórico de hashes em `revisoes.json`.
+
+## Fluxo de produção
+
+O usuário definiu personagem 2D e animação por keyframes no Filmora, incluindo fala e transições. A boca fica coberta pelo bigode. Para animação isolada do bigode por keyframes, preparar camadas separadas de base e bigode; os PNGs A/B/C atuais são quadros completos de referência. Não usar Blender neste fluxo.
