@@ -1,6 +1,6 @@
 # Massacote Tube — banco modular 01
 
-Conjunto no visual Samurai Jack com acabamento digital amador, cabelo menor, olhos alongados e brasão M vermelho. Preparado conforme o plano confirmado pelo usuário. A aparência do conjunto e da animação aguarda avaliação.
+Conjunto no visual Samurai Jack com acabamento digital amador, cabelo menor, olhos alongados e brasão M vermelho. Preparado conforme o plano confirmado pelo usuário. A aparência do conjunto e da animação foi aprovada pelo usuário.
 
 ## Peças para montar
 

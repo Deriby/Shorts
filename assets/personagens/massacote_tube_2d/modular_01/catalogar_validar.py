@@ -8,6 +8,8 @@ POSES=['01_neutro','02_conversando','03_debochado','04_apontando','05_confuso','
 LABELS=['Neutro','Conversando','Braços cruzados','Apontando','Confuso','Bravo','Pensando','Rindo','Assustado','Facepalm']
 EYELABELS=['Normal do desenho aprovado','Normal alternativo','Piscada — meio fechado','Piscada — fechado','Bravo','Confuso','Pensando','Desconfiado','Assustado','Rindo','Piscando olho esquerdo','Piscando olho direito','Preocupado']
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
+approval_data=json.loads((P/'aprovacao.json').read_text()) if (P/'aprovacao.json').exists() else {}
+approved_hashes=approval_data.get('assets',{})
 entries=[]
 for folder,kind in [('poses','pose'),('olhos','olhos'),('bigode','bigode'),('frente','frente'),('rig','rig')]:
  for f in sorted((P/folder).glob('*.png')):
@@ -15,7 +17,7 @@ for folder,kind in [('poses','pose'),('olhos','olhos'),('bigode','bigode'),('fre
    im.load();assert im.mode=='RGBA' and im.size==(1024,1536),f
    a=np.array(im.getchannel('A'));assert (a==0).sum()>10000 and (a>128).sum()>100,f
   label=LABELS[POSES.index(f.stem)] if kind=='pose' else EYELABELS[int(f.stem.split('_')[0])] if kind=='olhos' else f.stem.replace('_',' ')
-  entries.append(dict(id=kind+':'+f.stem,type=kind,title=label,file=f.relative_to(P).as_posix(),width=1024,height=1536,transparent=True,sha256=sha(f),approval='preparado_para_avaliacao'))
+  entries.append(dict(id=kind+':'+f.stem,type=kind,title=label,file=f.relative_to(P).as_posix(),width=1024,height=1536,transparent=True,sha256=sha(f),approval='aprovado_pelo_usuario' if approved_hashes.get(kind+':'+f.stem)==sha(f) else 'preparado_para_avaliacao'))
 assert sum(e['type']=='pose'for e in entries)==10
 assert sum(e['type']=='olhos'for e in entries)==13
 assert sum(e['type']=='bigode'for e in entries)==3
@@ -47,10 +49,11 @@ while True:
 cap.release();assert count==279 and max(movement)>.2
 with wave.open(str(M/'voz_teste.wav'))as f:voice=np.frombuffer(f.readframes(f.getnframes()),dtype='<i2').astype(float)/32768;sr=f.getframerate()
 dec=np.frombuffer(subprocess.check_output(['ffmpeg','-v','error','-i',str(V/'Previa_Modular_Conversando.mp4'),'-vn','-ac','1','-ar',str(sr),'-f','f32le','pipe:1']),dtype='<f4');n=min(len(voice),len(dec));corr=float(np.corrcoef(voice[:n],dec[:n])[0,1]);assert corr>.99
-report=dict(poses=10,eye_states=13,moustache_png_states=3,foreground_layers=2,rgba_canvas=[1024,1536],registered_clean_faces_verified=checked,blink_white_pixel_counts=dict(normal=int(normal),half=int(half),closed=int(closed)),left_right_winks_verified=True,old_approved_library_unchanged=True,video_frames=count,video_duration=9.3,audio_correlation=corr,source_voice_excerpt=[0,9.3],new_voice_created=False,filmora_native_executed=False,blender_used=False,visual_review='Prancha das dez poses e quadros da previa inspecionados. Boca coberta, piscada e oclusao de mao conferidas. Aprovacao estetica pendente.')
+all_approved=all(e['approval']=='aprovado_pelo_usuario' for e in entries) and approval_data.get('preview_sha256')==sha(V/'Previa_Modular_Conversando.mp4')
+report=dict(poses=10,eye_states=13,moustache_png_states=3,foreground_layers=2,rgba_canvas=[1024,1536],registered_clean_faces_verified=checked,blink_white_pixel_counts=dict(normal=int(normal),half=int(half),closed=int(closed)),left_right_winks_verified=True,old_approved_library_unchanged=True,video_frames=count,video_duration=9.3,audio_correlation=corr,source_voice_excerpt=[0,9.3],new_voice_created=False,filmora_native_executed=False,blender_used=False,visual_review='Conjunto e previa aprovados pelo usuario.' if all_approved else 'Nova versao aguarda avaliacao.',user_approved=all_approved)
 (P/'validacao.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
 rig={ident:dict(base='poses/'+ident+'.png',body='rig/'+ident+'_corpo.png',head='rig/cabeca_limpa.png',eyes='olhos/00_normal_base.png',moustache='bigode/01_bigode_repouso.png',foreground='frente/'+ident+'_frente.png'if(P/'frente'/f'{ident}_frente.png').exists()else None)for ident in POSES}
-catalog=dict(character='Massacote Tube 2D',style='Samurai Jack com acabamento digital amador',batch='modular_01',canvas=[1024,1536],rules=['olhos estreitos/alongados','boca nunca desenhada','bigode em camada independente','M vermelho em brasao','mesmo registro para encaixe','downloads pelo GitHub'],assets=entries,rig=rig,preview='previa/Previa_Modular_Conversando.mp4',filmora='previa/Filmora/Massacote_Tube_Modular_Previa.wfp',approval='preparado_para_avaliacao')
+catalog=dict(character='Massacote Tube 2D',style='Samurai Jack com acabamento digital amador',batch='modular_01',canvas=[1024,1536],rules=['olhos estreitos/alongados','boca nunca desenhada','bigode em camada independente','M vermelho em brasao','mesmo registro para encaixe','downloads pelo GitHub'],assets=entries,rig=rig,preview='previa/Previa_Modular_Conversando.mp4',filmora='previa/Filmora/Massacote_Tube_Modular_Previa.wfp',approval='aprovado_pelo_usuario' if all_approved else 'preparado_para_avaliacao')
 (P/'catalogo.json').write_text(json.dumps(catalog,ensure_ascii=False,indent=2)+'\n')
 con=sqlite3.connect(P/'catalogo.sqlite');con.execute('CREATE TABLE IF NOT EXISTS assets (id TEXT PRIMARY KEY,type TEXT,title TEXT,file TEXT,width INTEGER,height INTEGER,transparent INTEGER,sha256 TEXT,approval TEXT)');con.execute('CREATE TABLE IF NOT EXISTS rig (pose_id TEXT PRIMARY KEY,base TEXT,body TEXT,head TEXT,eyes TEXT,moustache TEXT,foreground TEXT)')
 with con:

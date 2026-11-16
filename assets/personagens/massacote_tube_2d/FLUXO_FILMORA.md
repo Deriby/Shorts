@@ -14,7 +14,7 @@ Nesta retomada foram recuperados o link e a análise salva; não houve nova repr
 
 O usuário confirmou o plano de dez poses com rosto limpo, olhos/sobrancelhas em camadas, bigode independente e pediu uma prévia montada. O conjunto atual está em `modular_01/`: dez bases, treze opções de olhos (incluindo o par do desenho aprovado), três estados do bigode e camadas de mãos em primeiro plano para pensando/facepalm. Todos os PNGs de peças usam canvas 1024×1536 com cabeça registrada; boca não desenhada na base. Há corpo/cabeça separados e JSON/SQLite com as ligações para montar.
 
-Prévia com voz em `modular_01/previa/Previa_Modular_Conversando.mp4`, 9,3 s, e WFP editável com seis faixas visuais + voz em `modular_01/previa/Filmora/`. A abertura nativa ainda não foi testada; a estrutura foi validada. A prévia de movimento e as novas peças aguardam avaliação, sem gerar cem poses automaticamente. O primeiro teste `previa_01/` fica como histórico.
+Prévia com voz em `modular_01/previa/Previa_Modular_Conversando.mp4`, 9,3 s, e WFP editável com seis faixas visuais + voz em `modular_01/previa/Filmora/`. A abertura nativa ainda não foi testada; a estrutura foi validada. A prévia de movimento e as novas peças foram aprovadas pelo usuário com “Ficou brabissimoooo”. Este é o padrão ativo, sem gerar cem poses automaticamente. O primeiro teste `previa_01/` fica como histórico.
 
 ## Assets e montagem
 
