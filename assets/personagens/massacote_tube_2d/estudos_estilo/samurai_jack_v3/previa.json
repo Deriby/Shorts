@@ -11,5 +11,7 @@
   "transparent": true,
   "mouth_visible": false,
   "generation_tool": "image_gen",
-  "sha256": "b606de6c0f6ef2ce3f0855e7251db6211d25144cc6fdc5b3dcb2f84a4f2a22ad"
+  "sha256": "e1c6202936cd353b2cb1d79f6dec06f2b0a68543773cc5e2a77f00e16e125889",
+  "alpha_matches_reference_exactly": true,
+  "alpha_preservation": "Canal alpha preservado da referencia v2 para remover residuos de fundo do gerador; composicao com ImageMagick."
 }
