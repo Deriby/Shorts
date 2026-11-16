@@ -1,0 +1,15 @@
+{
+  "status": "previa_de_estilo_aguarda_avaliacao",
+  "requested_style": "Star vs. as Forcas do Mal / Star vs. the Forces of Evil",
+  "reference": "../../lote_01/poses/01_neutro.png",
+  "image": "Previa_Massacote_Star_vs.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "transparent": true,
+  "mouth_visible": false,
+  "sha256": "3ed772305d08f46e3e29bd94a30875bbae49788e901444fa568c6c92c55f38b9",
+  "active_library_replaced": false,
+  "description": "Estudo do personagem com contornos mais leves, olhos maiores, formas simples e cores mais lisas, mantendo bone, cabelo, bigode/cavanhaque, jaqueta e corrente."
+}
