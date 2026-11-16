@@ -1,0 +1,533 @@
+{
+  "character": "Massacote Tube 2D",
+  "style": "Samurai Jack com acabamento digital amador",
+  "batch": "modular_01",
+  "canvas": [
+    1024,
+    1536
+  ],
+  "rules": [
+    "olhos estreitos/alongados",
+    "boca nunca desenhada",
+    "bigode em camada independente",
+    "M vermelho em brasao",
+    "mesmo registro para encaixe",
+    "downloads pelo GitHub"
+  ],
+  "assets": [
+    {
+      "id": "pose:01_neutro",
+      "type": "pose",
+      "title": "Neutro",
+      "file": "poses/01_neutro.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "9c7ad27302bc6c771e911ec05c50e6c0f2dc7d7d05f7cf6e7fa8c5bd11f6e5ce",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "pose:02_conversando",
+      "type": "pose",
+      "title": "Conversando",
+      "file": "poses/02_conversando.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "43740ff09d3366273e73dac479d314d32ace8b6e3f23b5d11f9207136681ab38",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "pose:03_debochado",
+      "type": "pose",
+      "title": "Braços cruzados",
+      "file": "poses/03_debochado.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "4dbf15af3af048e6d35f06d15b3804b9337ff6a0236ccfe82a6bf2d97eda0a52",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "pose:04_apontando",
+      "type": "pose",
+      "title": "Apontando",
+      "file": "poses/04_apontando.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "1afb23d08dafcac5dfffbe8b84c3cafaf05736b3a7746ef2f74c6de2d1c9f7d0",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "pose:05_confuso",
+      "type": "pose",
+      "title": "Confuso",
+      "file": "poses/05_confuso.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "50bdd6ac3683b45837be88f81ef37b68cce3ae9c84452cf0636af6a9585ed55d",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "pose:06_bravo",
+      "type": "pose",
+      "title": "Bravo",
+      "file": "poses/06_bravo.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "65e2ee9b2a8f59eedf31858386d72d95a28fa668891b220b3aa72833c84a038b",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "pose:07_pensando",
+      "type": "pose",
+      "title": "Pensando",
+      "file": "poses/07_pensando.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "09a44a75ac92f4cec289dd7303b759cb9beecc61bc8cef2ea0843f23986b0525",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "pose:08_rindo",
+      "type": "pose",
+      "title": "Rindo",
+      "file": "poses/08_rindo.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "e83c92e9f3ae76429690dbd1a543622dc27e9f24c342a52a04d2174cea845480",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "pose:09_assustado",
+      "type": "pose",
+      "title": "Assustado",
+      "file": "poses/09_assustado.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "6a750134d10937b47d395b71bd0e2c0ffa28e256f99d9edae9fd5f59a47cf4de",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "pose:10_facepalm",
+      "type": "pose",
+      "title": "Facepalm",
+      "file": "poses/10_facepalm.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "76b365b8634dd6e2cdf9e02333b0d4635e470792f4c1d87282ea5c49e7c2166a",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "olhos:00_normal_base",
+      "type": "olhos",
+      "title": "Normal do desenho aprovado",
+      "file": "olhos/00_normal_base.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "8a49e1d3e7911d90a0264fae3df1f320bc58f38fb9fe093acd504c17d70c79bd",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "olhos:01_normal",
+      "type": "olhos",
+      "title": "Normal alternativo",
+      "file": "olhos/01_normal.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "5c16fe9752673fafc71d1ffc66ee8140ca96a7f0bfbb14b0269b1570284e8f21",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "olhos:02_piscada_meio",
+      "type": "olhos",
+      "title": "Piscada — meio fechado",
+      "file": "olhos/02_piscada_meio.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "dfeed32dc621904bd721cafc3733e613e5fa7aa00061cfbb31a94ffa27624b46",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "olhos:03_piscada_fechado",
+      "type": "olhos",
+      "title": "Piscada — fechado",
+      "file": "olhos/03_piscada_fechado.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "0a38aee1aa8745206fb072d61e964ad220b503d3b7c55a9ace4398c05680c8d2",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "olhos:04_bravo",
+      "type": "olhos",
+      "title": "Bravo",
+      "file": "olhos/04_bravo.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "a6a739e3356476e58b21472ce3a850c9bae43ff74ab17feaa713840b6d9e5c8a",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "olhos:05_confuso",
+      "type": "olhos",
+      "title": "Confuso",
+      "file": "olhos/05_confuso.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "b02e8d36b7d594caf60559ca48f0344e727f5e9116ad5c7b934ef877ae5be513",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "olhos:06_pensando",
+      "type": "olhos",
+      "title": "Pensando",
+      "file": "olhos/06_pensando.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "aab6a232edc950c481595cc82cb5654c201e48cd2062064dbbe00fe26e7095a3",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "olhos:07_desconfiado",
+      "type": "olhos",
+      "title": "Desconfiado",
+      "file": "olhos/07_desconfiado.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "51911394e4360f9e32232ee618c8638212c472c05bba92b749c6136832d98015",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "olhos:08_assustado",
+      "type": "olhos",
+      "title": "Assustado",
+      "file": "olhos/08_assustado.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "619363f73767390706df85852c1902a3131872d3c3e43d4276f1861993117057",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "olhos:09_rindo",
+      "type": "olhos",
+      "title": "Rindo",
+      "file": "olhos/09_rindo.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "5322659dca0520ca853d435a58889d2191ed0d10f97b8f3c1498c2d84a35cb80",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "olhos:10_piscando_esquerdo",
+      "type": "olhos",
+      "title": "Piscando olho esquerdo",
+      "file": "olhos/10_piscando_esquerdo.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "5fae75138f5df3f9fd3327f185be8ea4f9cbe9a22abc6a6ac90dea1afe0577df",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "olhos:11_piscando_direito",
+      "type": "olhos",
+      "title": "Piscando olho direito",
+      "file": "olhos/11_piscando_direito.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "ba5df96b2101705ef928879bb824d7cf7662425e48689b591f32199906840c57",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "olhos:12_preocupado",
+      "type": "olhos",
+      "title": "Preocupado",
+      "file": "olhos/12_preocupado.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "d43b2f231e69026ead47ee4ee7cf6d8054b5ea9f9be6ccb50f3002b61d76e1e0",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "bigode:01_bigode_repouso",
+      "type": "bigode",
+      "title": "01 bigode repouso",
+      "file": "bigode/01_bigode_repouso.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "5905986aac7c6e0ea3ee7554ab774bf4f37d6e4018e7770b3959daf9e8c3626f",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "bigode:02_bigode_levantado",
+      "type": "bigode",
+      "title": "02 bigode levantado",
+      "file": "bigode/02_bigode_levantado.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "5705e21c5877aba315b8332c053634aaedba863c48818cbe5ce8b9ac3db595ed",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "bigode:03_bigode_comprimido",
+      "type": "bigode",
+      "title": "03 bigode comprimido",
+      "file": "bigode/03_bigode_comprimido.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "931feaf03ec7ee04b3298c0dcec43e874469afd30065800e9f9e8e372c4e6b45",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "frente:07_pensando_frente",
+      "type": "frente",
+      "title": "07 pensando frente",
+      "file": "frente/07_pensando_frente.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "4388fbf979e639109e97f22428dbdd01c48126776ca9d2d1e6c667112034188d",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "frente:10_facepalm_frente",
+      "type": "frente",
+      "title": "10 facepalm frente",
+      "file": "frente/10_facepalm_frente.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "207fd24ea8fb8cde6e24d7581d07bdf46672218bbbab74b12a6f09f512eb9517",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "rig:01_neutro_corpo",
+      "type": "rig",
+      "title": "01 neutro corpo",
+      "file": "rig/01_neutro_corpo.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "8bbef15cabd5bae55ffb42c531bdf28d48b6de323b9f8ebce592bd8063e56a43",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "rig:02_conversando_corpo",
+      "type": "rig",
+      "title": "02 conversando corpo",
+      "file": "rig/02_conversando_corpo.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "1ec5c681ad8bcdbc94811c6a7751a398e8d412e480b1252200f7eb4b6c83378c",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "rig:03_debochado_corpo",
+      "type": "rig",
+      "title": "03 debochado corpo",
+      "file": "rig/03_debochado_corpo.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "d98e06b84aa747b7fb1baf0a0b67c38c46457a3912a06a70cb7b1657d368f148",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "rig:04_apontando_corpo",
+      "type": "rig",
+      "title": "04 apontando corpo",
+      "file": "rig/04_apontando_corpo.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "e6583112711bab3c9886f19718b20b2a3fd007ac8c2b0cc31f638432258d759f",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "rig:05_confuso_corpo",
+      "type": "rig",
+      "title": "05 confuso corpo",
+      "file": "rig/05_confuso_corpo.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "a6555b65e7d2de6608734a89090e013ab3529065c1475985eb6c335acfd9beb3",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "rig:06_bravo_corpo",
+      "type": "rig",
+      "title": "06 bravo corpo",
+      "file": "rig/06_bravo_corpo.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "e57a8f75b0ff7efe677787b95b49e5b8fbe2f99eb28c3274dd1933ff182a6b93",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "rig:07_pensando_corpo",
+      "type": "rig",
+      "title": "07 pensando corpo",
+      "file": "rig/07_pensando_corpo.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "c9c4cd854e399cac1f3bdfa8f0208dea064112bd7a5ef73048b6d4662be2e371",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "rig:08_rindo_corpo",
+      "type": "rig",
+      "title": "08 rindo corpo",
+      "file": "rig/08_rindo_corpo.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "9e89ac8f3e63de7bf2f5ab4b2825963d31e3c8cf904240102ea67f1b022d9c41",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "rig:09_assustado_corpo",
+      "type": "rig",
+      "title": "09 assustado corpo",
+      "file": "rig/09_assustado_corpo.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "269ab219923527eed1870250ef2258814f7855c533cd0d4c56d1c66c1487c776",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "rig:10_facepalm_corpo",
+      "type": "rig",
+      "title": "10 facepalm corpo",
+      "file": "rig/10_facepalm_corpo.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "ec2acd4bc66c08fc6495806c275fa4b5c92c62656fbc4a90c1d2b8715eaabcf1",
+      "approval": "preparado_para_avaliacao"
+    },
+    {
+      "id": "rig:cabeca_limpa",
+      "type": "rig",
+      "title": "cabeca limpa",
+      "file": "rig/cabeca_limpa.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "sha256": "f1f12d24cf429534ee4d4ed31b864e7f1654b60b777ed3eada0040a942a12a68",
+      "approval": "preparado_para_avaliacao"
+    }
+  ],
+  "rig": {
+    "01_neutro": {
+      "base": "poses/01_neutro.png",
+      "body": "rig/01_neutro_corpo.png",
+      "head": "rig/cabeca_limpa.png",
+      "eyes": "olhos/00_normal_base.png",
+      "moustache": "bigode/01_bigode_repouso.png",
+      "foreground": null
+    },
+    "02_conversando": {
+      "base": "poses/02_conversando.png",
+      "body": "rig/02_conversando_corpo.png",
+      "head": "rig/cabeca_limpa.png",
+      "eyes": "olhos/00_normal_base.png",
+      "moustache": "bigode/01_bigode_repouso.png",
+      "foreground": null
+    },
+    "03_debochado": {
+      "base": "poses/03_debochado.png",
+      "body": "rig/03_debochado_corpo.png",
+      "head": "rig/cabeca_limpa.png",
+      "eyes": "olhos/00_normal_base.png",
+      "moustache": "bigode/01_bigode_repouso.png",
+      "foreground": null
+    },
+    "04_apontando": {
+      "base": "poses/04_apontando.png",
+      "body": "rig/04_apontando_corpo.png",
+      "head": "rig/cabeca_limpa.png",
+      "eyes": "olhos/00_normal_base.png",
+      "moustache": "bigode/01_bigode_repouso.png",
+      "foreground": null
+    },
+    "05_confuso": {
+      "base": "poses/05_confuso.png",
+      "body": "rig/05_confuso_corpo.png",
+      "head": "rig/cabeca_limpa.png",
+      "eyes": "olhos/00_normal_base.png",
+      "moustache": "bigode/01_bigode_repouso.png",
+      "foreground": null
+    },
+    "06_bravo": {
+      "base": "poses/06_bravo.png",
+      "body": "rig/06_bravo_corpo.png",
+      "head": "rig/cabeca_limpa.png",
+      "eyes": "olhos/00_normal_base.png",
+      "moustache": "bigode/01_bigode_repouso.png",
+      "foreground": null
+    },
+    "07_pensando": {
+      "base": "poses/07_pensando.png",
+      "body": "rig/07_pensando_corpo.png",
+      "head": "rig/cabeca_limpa.png",
+      "eyes": "olhos/00_normal_base.png",
+      "moustache": "bigode/01_bigode_repouso.png",
+      "foreground": "frente/07_pensando_frente.png"
+    },
+    "08_rindo": {
+      "base": "poses/08_rindo.png",
+      "body": "rig/08_rindo_corpo.png",
+      "head": "rig/cabeca_limpa.png",
+      "eyes": "olhos/00_normal_base.png",
+      "moustache": "bigode/01_bigode_repouso.png",
+      "foreground": null
+    },
+    "09_assustado": {
+      "base": "poses/09_assustado.png",
+      "body": "rig/09_assustado_corpo.png",
+      "head": "rig/cabeca_limpa.png",
+      "eyes": "olhos/00_normal_base.png",
+      "moustache": "bigode/01_bigode_repouso.png",
+      "foreground": null
+    },
+    "10_facepalm": {
+      "base": "poses/10_facepalm.png",
+      "body": "rig/10_facepalm_corpo.png",
+      "head": "rig/cabeca_limpa.png",
+      "eyes": "olhos/00_normal_base.png",
+      "moustache": "bigode/01_bigode_repouso.png",
+      "foreground": "frente/10_facepalm_frente.png"
+    }
+  },
+  "preview": "previa/Previa_Modular_Conversando.mp4",
+  "filmora": "previa/Filmora/Massacote_Tube_Modular_Previa.wfp",
+  "approval": "preparado_para_avaliacao"
+}

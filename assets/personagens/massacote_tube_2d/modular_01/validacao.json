@@ -1,0 +1,40 @@
+{
+  "poses": 10,
+  "eye_states": 13,
+  "moustache_png_states": 3,
+  "foreground_layers": 2,
+  "rgba_canvas": [
+    1024,
+    1536
+  ],
+  "registered_clean_faces_verified": [
+    "01_neutro",
+    "02_conversando",
+    "03_debochado",
+    "04_apontando",
+    "05_confuso",
+    "06_bravo",
+    "07_pensando",
+    "08_rindo",
+    "09_assustado",
+    "10_facepalm"
+  ],
+  "blink_white_pixel_counts": {
+    "normal": 1828,
+    "half": 1187,
+    "closed": 0
+  },
+  "left_right_winks_verified": true,
+  "old_approved_library_unchanged": true,
+  "video_frames": 279,
+  "video_duration": 9.3,
+  "audio_correlation": 0.9999930562971443,
+  "source_voice_excerpt": [
+    0,
+    9.3
+  ],
+  "new_voice_created": false,
+  "filmora_native_executed": false,
+  "blender_used": false,
+  "visual_review": "Prancha das dez poses e quadros da previa inspecionados. Boca coberta, piscada e oclusao de mao conferidas. Aprovacao estetica pendente."
+}

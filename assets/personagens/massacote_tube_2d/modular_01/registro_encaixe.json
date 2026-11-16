@@ -1,0 +1,461 @@
+{
+  "canvas": [
+    1024,
+    1536
+  ],
+  "head_pivot": [
+    466,
+    738
+  ],
+  "moustache_pivot": [
+    468,
+    515
+  ],
+  "eyes": [
+    {
+      "id": "01_normal",
+      "eyes": [
+        {
+          "side": 0,
+          "source_center": [
+            115.95654205607477,
+            238.8803738317757
+          ],
+          "scale": 0.66,
+          "placement": [
+            328,
+            267
+          ],
+          "registered_eye_center": [
+            405,
+            425
+          ]
+        },
+        {
+          "side": 1,
+          "source_center": [
+            55.89644792293799,
+            220.47080072245635
+          ],
+          "scale": 0.66,
+          "placement": [
+            489,
+            257
+          ],
+          "registered_eye_center": [
+            526,
+            403
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02_piscada_meio",
+      "eyes": [
+        {
+          "side": 0,
+          "source_center": [
+            113.34005763688761,
+            238.29755043227667
+          ],
+          "scale": 0.66,
+          "placement": [
+            330,
+            268
+          ],
+          "registered_eye_center": [
+            405,
+            425
+          ]
+        },
+        {
+          "side": 1,
+          "source_center": [
+            58.708333333333336,
+            219.015503875969
+          ],
+          "scale": 0.66,
+          "placement": [
+            487,
+            258
+          ],
+          "registered_eye_center": [
+            526,
+            403
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03_piscada_fechado",
+      "eyes": [
+        {
+          "side": 0,
+          "source_center": [
+            114.06379585326954,
+            239.90271132376395
+          ],
+          "scale": 0.66,
+          "placement": [
+            330,
+            267
+          ],
+          "registered_eye_center": [
+            405,
+            425
+          ]
+        },
+        {
+          "side": 1,
+          "source_center": [
+            90.85279605263158,
+            215.14391447368422
+          ],
+          "scale": 0.66,
+          "placement": [
+            466,
+            261
+          ],
+          "registered_eye_center": [
+            526,
+            403
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04_bravo",
+      "eyes": [
+        {
+          "side": 0,
+          "source_center": [
+            114.25198320111993,
+            238.67662155856277
+          ],
+          "scale": 0.66,
+          "placement": [
+            330,
+            267
+          ],
+          "registered_eye_center": [
+            405,
+            425
+          ]
+        },
+        {
+          "side": 1,
+          "source_center": [
+            56.01067615658363,
+            220.25919335705814
+          ],
+          "scale": 0.66,
+          "placement": [
+            489,
+            258
+          ],
+          "registered_eye_center": [
+            526,
+            403
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05_confuso",
+      "eyes": [
+        {
+          "side": 0,
+          "source_center": [
+            116.83186231244484,
+            225.4991173874669
+          ],
+          "scale": 0.66,
+          "placement": [
+            328,
+            276
+          ],
+          "registered_eye_center": [
+            405,
+            425
+          ]
+        },
+        {
+          "side": 1,
+          "source_center": [
+            78.84389438943894,
+            195.5122112211221
+          ],
+          "scale": 0.66,
+          "placement": [
+            474,
+            274
+          ],
+          "registered_eye_center": [
+            526,
+            403
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06_pensando",
+      "eyes": [
+        {
+          "side": 0,
+          "source_center": [
+            121.45290508841573,
+            217.65608083724288
+          ],
+          "scale": 0.66,
+          "placement": [
+            325,
+            281
+          ],
+          "registered_eye_center": [
+            405,
+            425
+          ]
+        },
+        {
+          "side": 1,
+          "source_center": [
+            78.33603603603603,
+            190.58258258258257
+          ],
+          "scale": 0.66,
+          "placement": [
+            474,
+            277
+          ],
+          "registered_eye_center": [
+            526,
+            403
+          ]
+        }
+      ]
+    },
+    {
+      "id": "07_desconfiado",
+      "eyes": [
+        {
+          "side": 0,
+          "source_center": [
+            118.42553191489361,
+            222.5501519756839
+          ],
+          "scale": 0.66,
+          "placement": [
+            327,
+            278
+          ],
+          "registered_eye_center": [
+            405,
+            425
+          ]
+        },
+        {
+          "side": 1,
+          "source_center": [
+            66.3953953953954,
+            197.6871871871872
+          ],
+          "scale": 0.66,
+          "placement": [
+            482,
+            273
+          ],
+          "registered_eye_center": [
+            526,
+            403
+          ]
+        }
+      ]
+    },
+    {
+      "id": "08_assustado",
+      "eyes": [
+        {
+          "side": 0,
+          "source_center": [
+            120.17678471051153,
+            208.64474423833613
+          ],
+          "scale": 0.66,
+          "placement": [
+            326,
+            287
+          ],
+          "registered_eye_center": [
+            405,
+            425
+          ]
+        },
+        {
+          "side": 1,
+          "source_center": [
+            80.81135049921177,
+            182.4808197582764
+          ],
+          "scale": 0.66,
+          "placement": [
+            473,
+            283
+          ],
+          "registered_eye_center": [
+            526,
+            403
+          ]
+        }
+      ]
+    },
+    {
+      "id": "09_rindo",
+      "eyes": [
+        {
+          "side": 0,
+          "source_center": [
+            111.91119402985075,
+            201.49029850746268
+          ],
+          "scale": 0.66,
+          "placement": [
+            331,
+            292
+          ],
+          "registered_eye_center": [
+            405,
+            425
+          ]
+        },
+        {
+          "side": 1,
+          "source_center": [
+            82.2623688155922,
+            176.3230884557721
+          ],
+          "scale": 0.66,
+          "placement": [
+            472,
+            287
+          ],
+          "registered_eye_center": [
+            526,
+            403
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10_piscando_esquerdo",
+      "eyes": [
+        {
+          "side": 0,
+          "source_center": [
+            115.85930408472012,
+            196.34417549167927
+          ],
+          "scale": 0.66,
+          "placement": [
+            329,
+            295
+          ],
+          "registered_eye_center": [
+            405,
+            425
+          ]
+        },
+        {
+          "side": 1,
+          "source_center": [
+            57.60704304080492,
+            187.3515930687535
+          ],
+          "scale": 0.66,
+          "placement": [
+            488,
+            279
+          ],
+          "registered_eye_center": [
+            526,
+            403
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11_piscando_direito",
+      "eyes": [
+        {
+          "side": 0,
+          "source_center": [
+            116.48738379814077,
+            206.81673306772907
+          ],
+          "scale": 0.66,
+          "placement": [
+            328,
+            289
+          ],
+          "registered_eye_center": [
+            405,
+            425
+          ]
+        },
+        {
+          "side": 1,
+          "source_center": [
+            85.9103299856528,
+            179.5803443328551
+          ],
+          "scale": 0.66,
+          "placement": [
+            469,
+            284
+          ],
+          "registered_eye_center": [
+            526,
+            403
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12_preocupado",
+      "eyes": [
+        {
+          "side": 0,
+          "source_center": [
+            113.89270008795074,
+            207.10202286719436
+          ],
+          "scale": 0.66,
+          "placement": [
+            330,
+            288
+          ],
+          "registered_eye_center": [
+            405,
+            425
+          ]
+        },
+        {
+          "side": 1,
+          "source_center": [
+            57.80906344410876,
+            188.67673716012084
+          ],
+          "scale": 0.66,
+          "placement": [
+            488,
+            278
+          ],
+          "registered_eye_center": [
+            526,
+            403
+          ]
+        }
+      ]
+    }
+  ],
+  "default_eyes": "00_normal_base.png"
+}

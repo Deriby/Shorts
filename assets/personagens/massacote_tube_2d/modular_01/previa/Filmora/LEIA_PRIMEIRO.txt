@@ -1,0 +1,22 @@
+MASSACOTE TUBE — PREVIA DO PERSONAGEM MODULAR
+
+Extraia o pacote inteiro e abra Massacote_Tube_Modular_Previa.wfp mantendo a
+pasta midias ao lado do projeto. Se uma mídia for solicitada, selecione o
+arquivo com mesmo nome em midias.
+
+A timeline de 9,3 s tem voz, fundo, corpo, cabeça limpa, olhos/sobrancelhas,
+bigode independente e mão à frente na pose facepalm. Os movimentos ficam
+editáveis por keyframes. A biblioteca de mídias inclui as dez poses em corpo,
+a cabeça comum, todos os olhos, o bigode e as duas mãos em primeiro plano.
+
+Os PNGs usados no WFP foram preparados em canvas 1920x1080 para o encaixe
+já pronto; a biblioteca principal usa canvas 1024x1536 com a mesma lógica.
+Não recorte as margens transparentes dos arquivos.
+
+A voz é um trecho já existente de 0–9,3 s da intro de Personagens que a internet
+estragou, apenas para avaliar o movimento. Sem voz nova, alteração de tom ou
+velocidade. O bigode segue a energia e as pausas da voz; a boca não foi desenhada.
+
+O MP4 foi composto das mesmas transformações. Abertura/reprodução/exportação
+nativas no Filmora ainda não verificadas neste Linux; a estrutura do WFP foi
+validada separadamente. Não foi usado Blender. A prévia aguarda avaliação.

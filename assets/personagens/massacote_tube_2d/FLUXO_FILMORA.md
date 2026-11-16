@@ -10,6 +10,12 @@ A análise anterior está em `shorts/009-jogos-que-a-internet-tentou-cancelar/pr
 
 Nesta retomada foram recuperados o link e a análise salva; não houve nova reprodução do vídeo. O cache antigo indicado pelos metadados (`/workspace/attachments/memes009/referencia.mp4`) está ausente nesta máquina. Antes de medir movimentos ou copiar timings específicos, reabrir o arquivo original do Drive. Conferir os registros e caches existentes antes de pedir reenvio ao usuário. Não tratar os intervalos de montagem da análise como velocidade de animação do personagem.
 
+## Banco modular atual
+
+O usuário confirmou o plano de dez poses com rosto limpo, olhos/sobrancelhas em camadas, bigode independente e pediu uma prévia montada. O conjunto atual está em `modular_01/`: dez bases, treze opções de olhos (incluindo o par do desenho aprovado), três estados do bigode e camadas de mãos em primeiro plano para pensando/facepalm. Todos os PNGs de peças usam canvas 1024×1536 com cabeça registrada; boca não desenhada na base. Há corpo/cabeça separados e JSON/SQLite com as ligações para montar.
+
+Prévia com voz em `modular_01/previa/Previa_Modular_Conversando.mp4`, 9,3 s, e WFP editável com seis faixas visuais + voz em `modular_01/previa/Filmora/`. A abertura nativa ainda não foi testada; a estrutura foi validada. A prévia de movimento e as novas peças aguardam avaliação, sem gerar cem poses automaticamente. O primeiro teste `previa_01/` fica como histórico.
+
 ## Assets e montagem
 
 Usar PNGs transparentes da biblioteca, com poses e expressões adequadas à intenção da fala. Manter identidade, roupa, bigode e cavanhaque aprovados. Fazer movimentos de posição, escala, rotação e opacidade por keyframes no Filmora; entradas, saídas e trocas de pose devem acompanhar as falas e reações.
