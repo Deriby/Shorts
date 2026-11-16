@@ -129,7 +129,7 @@
       "transparent": true,
       "mouth_visible": false,
       "approval": "aguardando_avaliacao",
-      "sha256": "56c60dba09bb71bbfbe2937e9f109c7039f3acb9e6f7e5d778b1f1ad5d503693"
+      "sha256": "d7b07727d98e27e2d21d25b882aec3762b3bbc3bc45f65a5c98a9422574e6519"
     },
     {
       "id": "MT2D-009",
@@ -188,5 +188,17 @@
       140
     ],
     "note": "Edicoes do bigode geradas com image_gen e montadas com mascara fixa. Fora da mascara, os PNGs sao identicos ao frame A. Repetir durante falas e voltar ao A nas pausas; nao sincronizado a uma gravacao."
-  }
+  },
+  "revisions": [
+    {
+      "version": "1.1",
+      "asset_id": "MT2D-008",
+      "file": "poses/08_rindo.png",
+      "reason": "Usuario apontou queixo deformado na pose rindo. Corrigidos contorno do queixo/cavanhaque e ligacao com o pescoco; mantida risada com boca coberta.",
+      "previous_sha256": "56c60dba09bb71bbfbe2937e9f109c7039f3acb9e6f7e5d778b1f1ad5d503693",
+      "sha256": "d7b07727d98e27e2d21d25b882aec3762b3bbc3bc45f65a5c98a9422574e6519",
+      "other_nine_main_pngs_byte_identical": true,
+      "approval": "correcao_aguardando_avaliacao"
+    }
+  ]
 }
