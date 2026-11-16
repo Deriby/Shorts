@@ -1,0 +1,33 @@
+{
+  "main_poses": 10,
+  "transparent_pngs_verified": true,
+  "major_silhouette_inside_canvas": true,
+  "speech_frames": 3,
+  "speech_loop_frames": 6,
+  "speech_loop_seconds": 0.6,
+  "speech_animation": [
+    {
+      "file": "fala/02_fala_b.png",
+      "changed_pixels": 46503,
+      "changed_bbox": [
+        338,
+        495,
+        718,
+        652
+      ],
+      "outside_moustache_region_changed_pixels": 0
+    },
+    {
+      "file": "fala/03_fala_c.png",
+      "changed_pixels": 46417,
+      "changed_bbox": [
+        338,
+        495,
+        718,
+        652
+      ],
+      "outside_moustache_region_changed_pixels": 0
+    }
+  ],
+  "visual_review": "10 poses inspecionadas; boca coberta pelo bigode. Aprovacao estetica das poses pendente."
+}

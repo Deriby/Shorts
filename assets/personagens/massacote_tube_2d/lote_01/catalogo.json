@@ -1,0 +1,192 @@
+{
+  "character": "Massacote Tube 2D",
+  "batch": "lote_01",
+  "date": "2026-11-16",
+  "base_design": "Referencia anexada pelo usuario no chat: design aprovado. Os PNGs sao novas poses derivadas, nao uma copia do arquivo original.",
+  "rules": [
+    "boca sempre coberta pelo bigode",
+    "na fala, manter corpo/cabeca/olhos parados",
+    "não gerar o lote de 100 antes da avaliação do primeiro lote"
+  ],
+  "approval": "aguardando_avaliacao",
+  "poses": [
+    {
+      "id": "MT2D-001",
+      "title": "Neutro",
+      "tags": [
+        "repouso",
+        "apresentador"
+      ],
+      "file": "poses/01_neutro.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "mouth_visible": false,
+      "approval": "aguardando_avaliacao",
+      "sha256": "844ce4bc66692c8a4e0776fe1619d32c2d503dcde745b273385517787aa55eb8"
+    },
+    {
+      "id": "MT2D-002",
+      "title": "Conversando",
+      "tags": [
+        "fala",
+        "explicando",
+        "palma aberta"
+      ],
+      "file": "poses/02_conversando.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "mouth_visible": false,
+      "approval": "aguardando_avaliacao",
+      "sha256": "e94b0993498c3e15ee74778bcf17a2c923ec382ec051d42c82935648716ff215"
+    },
+    {
+      "id": "MT2D-003",
+      "title": "Debochado",
+      "tags": [
+        "sarcasmo",
+        "bracos cruzados"
+      ],
+      "file": "poses/03_debochado.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "mouth_visible": false,
+      "approval": "aguardando_avaliacao",
+      "sha256": "28166cbefb9edb4aeb3f573071cf095e23dccfce04043f5d3901589bf48a17e3"
+    },
+    {
+      "id": "MT2D-004",
+      "title": "Apontando",
+      "tags": [
+        "indicando",
+        "direita"
+      ],
+      "file": "poses/04_apontando.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "mouth_visible": false,
+      "approval": "aguardando_avaliacao",
+      "sha256": "a9b185f78c0037f1dd0a9ab765f2414de55981b667330171cd13112d78e2c28d"
+    },
+    {
+      "id": "MT2D-005",
+      "title": "Confuso",
+      "tags": [
+        "duvida",
+        "encolher ombros"
+      ],
+      "file": "poses/05_confuso.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "mouth_visible": false,
+      "approval": "aguardando_avaliacao",
+      "sha256": "2a0285aece40ea4c6f1e5fc732ab13205e1bfc1419192e0151154ded8e436f41"
+    },
+    {
+      "id": "MT2D-006",
+      "title": "Bravo",
+      "tags": [
+        "raiva",
+        "punhos"
+      ],
+      "file": "poses/06_bravo.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "mouth_visible": false,
+      "approval": "aguardando_avaliacao",
+      "sha256": "90879e694e625d39e42ed140995a60c24362875c407ce304adc129d961d4e252"
+    },
+    {
+      "id": "MT2D-007",
+      "title": "Pensando",
+      "tags": [
+        "reflexao",
+        "queixo"
+      ],
+      "file": "poses/07_pensando.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "mouth_visible": false,
+      "approval": "aguardando_avaliacao",
+      "sha256": "781a0982378a2d58abb5ac3ba3e06da5be8176e31bbb2488871688e2e03f9e9d"
+    },
+    {
+      "id": "MT2D-008",
+      "title": "Rindo",
+      "tags": [
+        "risada",
+        "alegria"
+      ],
+      "file": "poses/08_rindo.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "mouth_visible": false,
+      "approval": "aguardando_avaliacao",
+      "sha256": "56c60dba09bb71bbfbe2937e9f109c7039f3acb9e6f7e5d778b1f1ad5d503693"
+    },
+    {
+      "id": "MT2D-009",
+      "title": "Assustado",
+      "tags": [
+        "susto",
+        "surpresa"
+      ],
+      "file": "poses/09_assustado.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "mouth_visible": false,
+      "approval": "aguardando_avaliacao",
+      "sha256": "6931e2c5b836e01f147d02149a36c695c248391d9578b676903a1e3acec2c3bb"
+    },
+    {
+      "id": "MT2D-010",
+      "title": "Facepalm",
+      "tags": [
+        "incredulidade",
+        "vergonha alheia"
+      ],
+      "file": "poses/10_facepalm.png",
+      "width": 1024,
+      "height": 1536,
+      "transparent": true,
+      "mouth_visible": false,
+      "approval": "aguardando_avaliacao",
+      "sha256": "13975c31b5798e4655ce7bd0566d67b88eb5244b06ad196be7395184af06497b"
+    }
+  ],
+  "speech": {
+    "frames": [
+      "fala/01_fala_a.png",
+      "fala/02_fala_b.png",
+      "fala/03_fala_c.png"
+    ],
+    "animation": "fala/Conversando_Bigode.webp",
+    "preview": "fala/Previa_Conversando.gif",
+    "loop_ms": 600,
+    "sequence": [
+      "A",
+      "B",
+      "A",
+      "C",
+      "B",
+      "A"
+    ],
+    "durations_ms": [
+      120,
+      80,
+      100,
+      80,
+      80,
+      140
+    ],
+    "note": "Edicoes do bigode geradas com image_gen e montadas com mascara fixa. Fora da mascara, os PNGs sao identicos ao frame A. Repetir durante falas e voltar ao A nas pausas; nao sincronizado a uma gravacao."
+  }
+}
