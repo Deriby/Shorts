@@ -30,3 +30,10 @@ python assets/personagens/massacote_tube_2d/previa_01/validar_previa.py
 ```
 
 As bases limpas ficam persistidas; os scripts não fazem novas chamadas de geração nem alteram as poses aprovadas. A aplicação nativa do Filmora deve ser usada para conferir a abertura e a aparência no editor.
+
+## Downloads pelo GitHub
+
+- [Baixar a prévia MP4](https://github.com/Deriby/Shorts/blob/main/assets/personagens/massacote_tube_2d/previa_01/Previa_Conversando_2D.mp4?raw=true).
+- [Baixar WFP e mídias em ZIP](https://github.com/Deriby/Shorts/blob/main/assets/personagens/massacote_tube_2d/previa_01/entrega/Massacote_Tube_Previa_2D_Filmora.zip?raw=true).
+
+O usuário definiu downloads sempre pelo GitHub. O ZIP contém o WFP e todas as mídias verificadas, com arquivos relativos à pasta `midias/`.

@@ -63,3 +63,4 @@ shorts/009-jogos-que-a-internet-tentou-cancelar/production/14-video-completo/out
 assets/personagens/massacote_tube_2d/**/*.png filter=lfs diff=lfs merge=lfs -text
 assets/personagens/massacote_tube_2d/**/*.webp filter=lfs diff=lfs merge=lfs -text
 assets/personagens/massacote_tube_2d/**/*.gif filter=lfs diff=lfs merge=lfs -text
+assets/personagens/massacote_tube_2d/**/entrega/*.zip filter=lfs diff=lfs merge=lfs -text
