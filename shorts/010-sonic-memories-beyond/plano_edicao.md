@@ -18,6 +18,8 @@ A voz determina os cortes e a duração. Mixar música/SFX abaixo da narração.
 
 ## Pendência de acesso
 
+**Atualização 17/11/2026:** pacote recuperado e extraído neste ambiente, com integridade ZIP verificada. A voz tem 35,092875 s e os vídeos têm 788,108481 s, 21,989297 s e 20,158708 s. Consultar `continuidade_ambiente.json`; o bloqueio abaixo é histórico do outro ambiente. Falta conferir a voz e as cenas em detalhe para sincronizar e montar, sem recriar o personagem ou os testes já aprovados.
+
 O pacote do Drive informado pelo usuário ainda não pôde ser baixado: conexão bloqueada por HTTP 403. Não foram conferidos os arquivos internos, a gravação ou a cena de ação. Continuar a montagem assim que o pacote estiver acessível; não é necessária uma nova autorização de produção.
 
 Entrega planejada: MP4 9:16 e projeto Filmora editável com mídias, via GitHub. Validação estrutural de WFP não equivale à abertura nativa no Filmora.

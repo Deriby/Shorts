@@ -1,5 +1,11 @@
 # Sonic e a harmonização facial
 
+## Retomada neste ambiente — 17/11/2026
+
+Os arquivos e registros do outro chat foram recuperados pelo GitHub. O pacote do Drive foi baixado integralmente neste ambiente e passou na conferência de integridade ZIP: 13 arquivos, incluindo a voz de **35,092875 s**, três MP4s, um GIF, sete imagens e a música. Cache: `/workspace/attachments/tube_sonic/extraido/`. Registro e inventário em [continuidade_ambiente.json](continuidade_ambiente.json).
+
+Biblioteca 2D e teste aprovado recuperados, sem gerar artes ou animação novos. Foram conferidos os registros de aprovação, pranchas, camadas, amostras da prévia e metadados das mídias. A voz ainda não foi transcrita/escutada integralmente nesta retomada e o short não foi montado. As pendências de acesso descritas abaixo pertencem ao ambiente anterior; não é necessário reenviar o ZIP. Caso o cache local falte em uma máquina futura, recuperar pelo Drive antes de pedir reenvio.
+
 Título provisório para um short do Massacote Tube sobre as críticas ao visual do Sonic clássico em **Memories & Beyond**.
 
 O usuário enviou o vídeo estrangeiro para tradução e elaboração de um roteiro próprio. Ele esclareceu que esse vídeo é a fonte do assunto, não uma referência de estilo de edição.

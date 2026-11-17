@@ -1,0 +1,108 @@
+{
+  "date_utc": "2026-11-17",
+  "purpose": "Recuperar registros e arquivos do trabalho 2D feito no outro chat para continuidade neste ambiente.",
+  "recovered_git_commit": "303d9e5660b04ee7a8608370d6c7ae91c9d2d536",
+  "full_other_chat_history_accessed": false,
+  "active_character_library": "assets/personagens/massacote_tube_2d/modular_01/",
+  "expansion_library": "assets/personagens/massacote_tube_2d/modular_02/",
+  "catalog_counts": {
+    "poses": 40,
+    "eye_states": 23,
+    "moustache_states": 3
+  },
+  "approval": {
+    "base_and_modular_preview": "approved_in_saved_records",
+    "expansion_02": "awaiting_feedback_in_saved_records",
+    "filmora_native_execution_verified": false
+  },
+  "workflow": [
+    "2D em camadas no Filmora",
+    "Boca sempre coberta pelo bigode",
+    "Bigode acompanha voz e pausas",
+    "Cabeça/olhos acompanham o mesmo enquadramento",
+    "Gestos conforme intenção; sem oscilação genérica",
+    "Sem legendas automáticas; entregas pelo GitHub"
+  ],
+  "reference": "assets/personagens/massacote_tube_2d/referencia_movimento.json",
+  "verified_this_resume": [
+    "Registros e roteiro revisado recuperados",
+    "Pranchas de 40 poses e dez olhares novos conferidas",
+    "Amostras visuais ao longo da prévia de 9,3 segundos e suas curvas consultadas",
+    "Download integral e assinatura ZIP",
+    "CRC ZIP de todos os membros",
+    "Extração com validação de caminhos",
+    "Metadados de WAV/MP3/MP4/GIF"
+  ],
+  "archive": {
+    "path": "/workspace/attachments/tube_sonic/Os_Fas_de_SONIC_ODIARAM_a_nova_animacao.zip",
+    "bytes": 128147891,
+    "sha256": "b01d0e5c6c1eac474f0020d5335b762fd4486ab4a8212e861de75e7ed961cc3e",
+    "drive_id": "127cr_GZhQXaeIZIJ65wQXet2zWJAVMPe",
+    "http_status": 200
+  },
+  "extraction_cache": "/workspace/attachments/tube_sonic/extraido",
+  "files": [
+    {
+      "name": "Os Fãs de SONIC ODIARAM a nova animação/1 - Voz.wav",
+      "bytes": 6737876
+    },
+    {
+      "name": "Os Fãs de SONIC ODIARAM a nova animação/meme1.jpg",
+      "bytes": 13873
+    },
+    {
+      "name": "Os Fãs de SONIC ODIARAM a nova animação/meme2.jpg",
+      "bytes": 17425
+    },
+    {
+      "name": "Os Fãs de SONIC ODIARAM a nova animação/memegif3.gif",
+      "bytes": 3731571
+    },
+    {
+      "name": "Os Fãs de SONIC ODIARAM a nova animação/Musica de Fundo - Green Hill (Classic) - Sonic Generations [OST].mp3",
+      "bytes": 7926596
+    },
+    {
+      "name": "Os Fãs de SONIC ODIARAM a nova animação/print corrigindo o visual.png",
+      "bytes": 216522
+    },
+    {
+      "name": "Os Fãs de SONIC ODIARAM a nova animação/print criticando o visual 2.png",
+      "bytes": 336806
+    },
+    {
+      "name": "Os Fãs de SONIC ODIARAM a nova animação/print criticando o visual 3.png",
+      "bytes": 477235
+    },
+    {
+      "name": "Os Fãs de SONIC ODIARAM a nova animação/print criticando o visual.png",
+      "bytes": 314845
+    },
+    {
+      "name": "Os Fãs de SONIC ODIARAM a nova animação/print elogiando a animação.png",
+      "bytes": 16240
+    },
+    {
+      "name": "Os Fãs de SONIC ODIARAM a nova animação/SaveClip.App_AQO_XhGBlUQv7iYJrHFBFfWdYB_BTbePBwq92o1eItTujqgE0ZF66CpxYhTj91h-yHzOiImY_jFo9YxjabBlgUPytZ6UnfRoBg_WLBM.mp4",
+      "bytes": 2512452
+    },
+    {
+      "name": "Os Fãs de SONIC ODIARAM a nova animação/Sonic Fans Are RAGING Over Memories & Beyond #sonic #sonicthehedgehog #classicsonic #sega_720p.mp4",
+      "bytes": 2504227
+    },
+    {
+      "name": "Os Fãs de SONIC ODIARAM a nova animação/Sonic the Hedgehog Memories and Beyond - Animação de 35º Aniversário_720p.mp4",
+      "bytes": 104693719
+    }
+  ],
+  "voice": {
+    "name": "1 - Voz.wav",
+    "duration_seconds": 35.092875,
+    "sample_rate": 48000,
+    "channels": 1,
+    "codec": "pcm_s32le",
+    "full_listen_or_transcription_this_resume": false
+  },
+  "new_short_rendered": false,
+  "next_step": "Conferir gravação/cenas em detalhe, alinhar roteiro existente e montar o short com a base 2D aprovada. A produção já estava autorizada; esta retomada não substituiu as vozes ou poses."
+}
