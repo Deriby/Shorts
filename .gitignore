@@ -30,3 +30,8 @@ shorts/*/estudos_iniciais/
 **/assets/voz_16k.wav
 **/assets/poses_cache.json.gz
 **/audio_reconhecido.json
+
+# Intermediários da composição Sonic 2D; arquivos finais e relatórios são versionados.
+shorts/010-sonic-memories-beyond/production/output/.*
+shorts/010-sonic-memories-beyond/production/analise/voz_16k.wav
+!shorts/010-sonic-memories-beyond/production/output/Massacote_Tube_Sonic_Filmora_Completo.zip

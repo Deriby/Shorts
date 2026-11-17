@@ -1,5 +1,9 @@
 # Sonic e a harmonização facial
 
+## Short produzido — Massacote Tube 2D
+
+Versão vertical **35,1 s / 1080×1920 / 30 fps** em [production/](production/README.md), com MP4 e projeto Filmora em camadas acompanhado das mídias. Voz original completa, personagem modular aprovado, memes com sustentação e luta de 6,2 s. Conferências em `production/validacao.json` e `production/validacao_filmora.json`. Abertura/exportação no Filmora proprietário não foram executadas aqui.
+
 ## Retomada neste ambiente — 17/11/2026
 
 Os arquivos e registros do outro chat foram recuperados pelo GitHub. O pacote do Drive foi baixado integralmente neste ambiente e passou na conferência de integridade ZIP: 13 arquivos, incluindo a voz de **35,092875 s**, três MP4s, um GIF, sete imagens e a música. Cache: `/workspace/attachments/tube_sonic/extraido/`. Registro e inventário em [continuidade_ambiente.json](continuidade_ambiente.json).

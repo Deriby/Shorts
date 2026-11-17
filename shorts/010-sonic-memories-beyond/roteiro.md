@@ -24,4 +24,4 @@ A cena do Sonic sendo amasseado pelo Metal Sonic deve entrar junto da aprovaçã
 
 Pacote: https://drive.google.com/file/d/127cr_GZhQXaeIZIJ65wQXet2zWJAVMPe/view?usp=sharing
 
-O download foi bloqueado pela rede do ambiente (HTTP CONNECT 403). Os arquivos de voz e cenas ainda não foram recebidos localmente. Não afirmar escuta, duração, sincronização ou montagem concluída antes de acessar as mídias.
+O download foi bloqueado no ambiente anterior (HTTP CONNECT 403). Nesta retomada o pacote foi recuperado integralmente; voz e cenas estão disponíveis. A produção 2D está em `production/`, com voz original de 35,092875 s preservada e montagem final de 35,1 s. Ver relatórios para distinguir conferência estrutural e execução nativa do Filmora, que não foi feita.

@@ -1,0 +1,24 @@
+{
+  "root_registered": true,
+  "extra_present": true,
+  "timeline_uuid_matches": true,
+  "duration_matches": true,
+  "media_bindings": 85,
+  "project": "Massacote_Tube_Sonic_9x16.wfp",
+  "sha256": "2a05b156f2d4b8c56dfd4cf40e1664f4f892d0c62eb305d4d05783b66fb15614",
+  "resources": 37,
+  "clips": 85,
+  "visual_tracks": 9,
+  "audio_tracks": 5,
+  "transform_curves": 345,
+  "keyframe_points": 18345,
+  "duration": 35.1,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "filmora_native_executed": false,
+  "avatar_layers_editable": true,
+  "voice_sha256": "170b96aa19474e3c8afb29e80cdf4862b707ab0966b2a37057517c57d1552c50",
+  "source_template_unchanged": true
+}
