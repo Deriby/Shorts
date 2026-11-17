@@ -5,12 +5,12 @@ Título provisório para um short do Massacote Tube sobre as críticas ao visual
 O usuário enviou o vídeo estrangeiro para tradução e elaboração de um roteiro próprio. Ele esclareceu que esse vídeo é a fonte do assunto, não uma referência de estilo de edição.
 
 - [Tradução para português](traducao.md)
-- [Roteiro Massacote para avaliar e gravar](roteiro.md)
+- [Roteiro revisado pelo usuário](roteiro.md)
 - [Planejamento da edição 2D](plano_edicao.md)
 - [Transcrição das legendas em inglês](transcricao_legendas.md)
 - [Registro da fonte](fonte.json)
 
-Etapa atual: tradução e rascunho de roteiro. Sem voz nova, animação ou projeto Filmora produzidos. O MP4 recebido tem aproximadamente 22 segundos; a adaptação tem texto próprio e duração estimada, que depende da gravação.
+Etapa atual: o usuário revisou o roteiro e autorizou a produção com sua voz e arquivos no [pacote do Drive](https://drive.google.com/file/d/127cr_GZhQXaeIZIJ65wQXet2zWJAVMPe/view?usp=sharing). O download retornou bloqueio de rede HTTP 403; a gravação e as cenas ainda não foram recebidas localmente. Roteiro final do usuário e plano de montagem registrados. Aguardar acesso às mídias para sincronizar e produzir o MP4/WFP. O MP4 estrangeiro já recebido (~22 s) continua sendo somente a fonte da tradução.
 
 Formato planejado: 9:16, avatar 2D em camadas e keyframes no Filmora. Boca sempre escondida pelo bigode. Não usar Blender ou adicionar legendas automaticamente.
 

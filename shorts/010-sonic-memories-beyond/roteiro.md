@@ -1,23 +1,27 @@
-# Sonic e a harmonização facial
+# Roteiro — versão enviada pelo usuário
 
-Rascunho com texto próprio para avaliação. Cerca de 100 palavras; estimativa de 35–45 segundos com pausas cômicas. A gravação real determinará o tempo e os cortes.
+Esta versão substitui o rascunho anterior. Preservar as falas e a opinião do usuário; sincronizar pela gravação enviada no pacote, quando estiver acessível. Não produzir outra voz. A indicação entre parênteses é de cena.
 
-## Narração
+## Texto recebido
 
-Os fãs olharam pro Sonic e já marcaram uma harmonização facial pro ouriço!
+Corrigiram o Sonic na animação nova que saiu
+Mal lançou e já marcaram uma harmonização facial pro ouriço!
 
 Em Memories & Beyond, uma cena do trailer com o Sonic clássico virou alvo de críticas.
 
-E claro que a internet fez o que sabe fazer: pegou o personagem e começou a postar versão “corrigida”.
+E claro que a internet fez o que sabe fazer, criticaram e logo começaram a postar sua versão “corrigida”.
 
-O bicho corre pra caramba, mas do Photoshop não escapa!
+Eu sinceramente não vi nada de mais na cena. Só que de uma coisa temos que concordar, que por mais que não gostaram desse frame, a animação ta filézinha!
+( cena do sonic sendo amasseado pelo metal sonic brabissima )
 
-Eu até acho esse visual meio estranho. Só que uma cena feia não me convence de que a animação inteira é ruim.
+E aí, gostou desse Sonic? Comenta aí também o que achou da animação.
 
-E aí: tu também mudaria esse Sonic ou deixava o azulão em paz?
+## Direção de produção
 
-## Interpretação e precisão
+O usuário autorizou montar o short e informou ter enviado fala e arquivos no pacote do Drive. Preservar a voz inteira e os tempos reais. A posição agora é que o narrador não viu nada demais no frame e gostou da animação; não recuperar a opinião do rascunho de que o visual estava estranho.
 
-Abertura incrédula e debochada; pequena pausa antes de “mas do Photoshop não escapa”. A opinião final é uma posição proposta para o narrador, que o usuário pode ajustar. O trecho sobre harmonização é uma piada com as edições de imagem, não um acontecimento literal. Photoshop é usado coloquialmente; não foi identificado o software empregado pelos fãs.
+A cena do Sonic sendo amasseado pelo Metal Sonic deve entrar junto da aprovação da animação, com espaço para a ação ser vista. Não narrar a indicação de cena. A gravação é a referência para decidir o que foi efetivamente pronunciado, inclusive a primeira linha.
 
-O corpo do roteiro fala de críticas mostradas no vídeo. O gancho usa linguagem cômica; não há números ou afirmação de unanimidade do fandom. Não inventar data de lançamento, crédito de estúdio, resposta oficial da SEGA, sucesso de audiência ou avaliação da animação completa.
+Pacote: https://drive.google.com/file/d/127cr_GZhQXaeIZIJ65wQXet2zWJAVMPe/view?usp=sharing
+
+O download foi bloqueado pela rede do ambiente (HTTP CONNECT 403). Os arquivos de voz e cenas ainda não foram recebidos localmente. Não afirmar escuta, duração, sincronização ou montagem concluída antes de acessar as mídias.

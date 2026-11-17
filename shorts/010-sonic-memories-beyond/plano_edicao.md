@@ -1,16 +1,23 @@
-# Planejamento de edição — proposta antes da voz
+# Plano de montagem — roteiro do usuário
 
-Short 9:16 para o Massacote Tube. Personagem 2D do banco modular aprovado, com olhos e bigode separados; keyframes no Filmora. Os tempos finais dependem da gravação. Não criar voz nesta etapa.
+Produção autorizada: short 9:16, avatar 2D em camadas e keyframes no Filmora. Usar a gravação do usuário integralmente. Sem Blender ou legendas automáticas. O roteiro estrangeiro é fonte de assunto, não referência de edição.
 
-| Trecho | Imagem e atuação |
+| Fala / momento | Montagem e personagem |
 | --- | --- |
-| Harmonização facial | Mostrar o Sonic que virou alvo das postagens; entrada curta do Massacote apontando, com olhos incrédulos. Evitar introdução antes do gancho. |
-| Cena do trailer | Sustentar a cena que explica a discussão e identificar visualmente o Sonic clássico. Avatar reduzido para não cobrir o rosto. |
-| Versão “corrigida” | Comparar o quadro original com uma ou duas edições mostradas nas postagens, mantendo o crédito e deixando claro qual é a versão feita por fã. |
-| Photoshop | Voltar ao avatar em pose debochada; pausa curta para a piada e efeito sonoro discreto, se combinar com a gravação. |
-| Opinião sobre a cena | Personagem pensando e gesto de explicação; voltar ao plano do Sonic em movimento para distinguir um quadro isolado do contexto. |
-| Pergunta final | Comparação lado a lado, avatar olhando para as duas opções. Sustentar a pergunta, sem excesso de cortes. |
+| Corrigiram o Sonic… | Mostrar o Sonic do quadro discutido e uma versão editada por fã; comparação clara, sem confundir original com edição. Confirmar essa primeira fala na gravação. |
+| Harmonização facial | Avatar apontando para a comparação, reação cômica curta e movimento de aproximação motivado pela piada. |
+| Memories & Beyond / críticas | Trecho que contextualiza o Sonic clássico e postagens com os créditos visíveis. |
+| Versão “corrigida” | Mostrar as alterações lado a lado com o original, sem ocultar a diferença atrás do avatar. |
+| Não vi nada de mais | Massacote confuso/debochado, com gesto de explicação; preservar a opinião positiva do usuário. |
+| A animação ta filézinha | Entrar na cena do Sonic sendo amasseado pelo Metal Sonic; dar espaço para a ação e os golpes serem vistos, sem cortes que interrompam a gag. Planejar uma sustentação após a fala conforme a pausa real e a mídia recebida. |
+| Gostou desse Sonic? | Retomar o avatar e o Sonic discutido, com pergunta final inteira e sem encerramento adicional inventado. |
 
-Usar as poses aprovadas de `modular_01/` como base. O banco agregado também contém as poses e olhares novos do lote 02, ainda sujeitos à avaliação do usuário. Bigode acompanha fala/pausas, sem revelar uma boca. Não usar Blender nem inserir legendas/callouts automaticamente.
+Cabeça, olhos e bigode acompanham o mesmo enquadramento. Animar o bigode somente pela fala e pelas pausas, sem revelar uma boca. Usar gestos pela intenção, evitando percorrer poses em loop. O banco aprovado do lote 01 continua sendo a base; os novos recursos do lote 02 estão disponíveis para combinações.
 
-Na futura produção, selecionar o trailer original e registrar os créditos das edições de fãs. O upload recebido é a fonte para traduzir o conteúdo; a montagem final deve ser própria, sem herdar a chamada de inscrição ou a edição do outro canal.
+A voz determina os cortes e a duração. Mixar música/SFX abaixo da narração. Se houver áudio original dos golpes, usá-lo com espaço próprio e redução sob a voz, conforme o conteúdo do pacote. Não cortar, acelerar ou substituir falas para caber em um tempo arbitrário.
+
+## Pendência de acesso
+
+O pacote do Drive informado pelo usuário ainda não pôde ser baixado: conexão bloqueada por HTTP 403. Não foram conferidos os arquivos internos, a gravação ou a cena de ação. Continuar a montagem assim que o pacote estiver acessível; não é necessária uma nova autorização de produção.
+
+Entrega planejada: MP4 9:16 e projeto Filmora editável com mídias, via GitHub. Validação estrutural de WFP não equivale à abertura nativa no Filmora.

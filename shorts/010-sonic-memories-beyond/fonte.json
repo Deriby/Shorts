@@ -12,6 +12,10 @@
   "translation_source": "Legendas em inglês embutidas, conferidas visualmente em amostras de 0,2 e 0,5 segundo.",
   "independent_audio_transcription": false,
   "source_credits_verified": false,
-  "script_status": "rascunho_para_avaliacao",
-  "voice_received_for_new_script": false
+  "script_status": "versao_enviada_pelo_usuario",
+  "voice_received_for_new_script": false,
+  "production_authorized": true,
+  "production_package_url": "https://drive.google.com/file/d/127cr_GZhQXaeIZIJ65wQXet2zWJAVMPe/view?usp=sharing",
+  "production_package_status": "download_bloqueado_http_connect_403",
+  "user_reports_voice_and_media_in_package": true
 }
