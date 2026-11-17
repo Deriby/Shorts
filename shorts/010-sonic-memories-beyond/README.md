@@ -15,3 +15,7 @@ Etapa atual: o usuário revisou o roteiro e autorizou a produção com sua voz e
 Formato planejado: 9:16, avatar 2D em camadas e keyframes no Filmora. Boca sempre escondida pelo bigode. Não usar Blender ou adicionar legendas automaticamente.
 
 O short mostra críticas e edições de fãs. Não permite medir a opinião de todo o fandom, confirmar a situação de lançamento ou concluir a qualidade da animação completa. O comentário de que a cena está feia é a opinião do narrador original.
+
+## Pacote anexado posteriormente
+
+O usuário enviou `Os Fãs de SONIC ODIARAM a nova animação.zip` diretamente na conversa (`file_000000004144820e96ae993a453f4130`). O anexo existe, mas a ferramenta recusou transferi-lo por ultrapassar seu limite de **32 MiB por arquivo**. O ZIP e seu conteúdo não estão disponíveis no workspace; a voz e as cenas continuam sem inspeção. Para retomar, receber a voz separada e os vídeos/arquivos em volumes de até 30 MB. Não repetir o fluxo do Drive ou afirmar que o pacote já foi extraído.

@@ -16,6 +16,13 @@
   "voice_received_for_new_script": false,
   "production_authorized": true,
   "production_package_url": "https://drive.google.com/file/d/127cr_GZhQXaeIZIJ65wQXet2zWJAVMPe/view?usp=sharing",
-  "production_package_status": "download_bloqueado_http_connect_403",
-  "user_reports_voice_and_media_in_package": true
+  "production_package_status": "anexo_recebido_na_conversa_transferencia_bloqueada_por_limite_32_MiB",
+  "user_reports_voice_and_media_in_package": true,
+  "production_uploaded_archive": {
+    "upload_id": "file_000000004144820e96ae993a453f4130",
+    "filename": "Os Fãs de SONIC ODIARAM a nova animação.zip",
+    "downloaded": false,
+    "transfer_error": "file exceeds the executor transfer limit of 32 MiB",
+    "contents_inspected": false
+  }
 }
