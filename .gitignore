@@ -37,3 +37,6 @@ shorts/010-sonic-memories-beyond/production/analise/voz_16k.wav
 !shorts/010-sonic-memories-beyond/production/output/Massacote_Tube_Sonic_Filmora_Completo.zip
 shorts/010-sonic-memories-beyond/production/revisao_v2_refTube/output/.*
 !shorts/010-sonic-memories-beyond/production/revisao_v2_refTube/output/Massacote_Tube_Sonic_V2_Filmora_Completo.zip
+shorts/010-sonic-memories-beyond/production/revisao_v3_cenas/output/.*
+shorts/010-sonic-memories-beyond/production/revisao_v3_cenas/analise/quadro_*.jpg
+!shorts/010-sonic-memories-beyond/production/revisao_v3_cenas/output/Massacote_Tube_Sonic_V3_Filmora_Completo.zip

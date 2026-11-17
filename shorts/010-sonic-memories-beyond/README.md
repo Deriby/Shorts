@@ -1,6 +1,10 @@
 # Sonic e a harmonização facial
 
-## Versão atual — Sonic V2 / novo personagem
+## Versão atual — Sonic V3 / cenas pela referência
+
+Revisão após o usuário rejeitar a semelhança da V2: [produção V3](production/revisao_v3_cenas/README.md), com MP4 e projeto Filmora em camadas. Comparação em painéis independentes, apresentador conduzindo as imagens no cenário, voz original inteira e luta de 6,2 s com quadro completo. Abertura nativa no Filmora ainda não testada; estética aguarda o usuário.
+
+## Revisão anterior — Sonic V2 / novo personagem
 
 Revisão pela referência do próprio Massacote Tube, com o personagem aprovado de óculos 3D e edição mais preenchida e dinâmica: [produção V2](production/revisao_v2_refTube/README.md). MP4 9:16 e WFP editável com todas as mídias, voz inteira, memes, câmeras e sons. A v1 descrita abaixo continua preservada.
 

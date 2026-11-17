@@ -1,11 +1,13 @@
 {
-  "current": "revisao_v2_refTube",
-  "video": "revisao_v2_refTube/output/Massacote_Tube_Sonic_V2_9x16.mp4",
-  "project": "revisao_v2_refTube/output/Filmora/Massacote_Tube_Sonic_V2_9x16.wfp",
-  "bundle": "revisao_v2_refTube/output/Massacote_Tube_Sonic_V2_Filmora_Completo.zip",
+  "current": "revisao_v3_cenas",
+  "video": "revisao_v3_cenas/output/Massacote_Tube_Sonic_V3_9x16.mp4",
+  "project": "revisao_v3_cenas/output/Filmora/Massacote_Tube_Sonic_V3_9x16.wfp",
+  "bundle": "revisao_v3_cenas/output/Massacote_Tube_Sonic_V3_Filmora_Completo.zip",
   "native_filmora_tested": false,
   "voice_unchanged": true,
   "active_character_library": "assets/personagens/massacote_tube_2d/oculos_3d_30_poses/",
-  "style_reference": "revisao_v2_refTube/referencia/Massacote_Tube_Carros_Referencia.mp4",
-  "v1_preserved": true
+  "style_reference_attachment": "file_00000000ac3c820e972f7d870b149bb0",
+  "v1_preserved": true,
+  "v2_preserved": true,
+  "reason": "Usuário rejeitou semelhança da V2; revisão por composição, gesto e contexto, não só zoom."
 }

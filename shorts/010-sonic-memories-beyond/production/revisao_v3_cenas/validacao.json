@@ -1,0 +1,71 @@
+{
+  "mp4_sha256": "160b25f7b80776be936e0ccadaaa899b91d445c4f4d75af60455a8df6fbe280e",
+  "mp4_bytes": 12990016,
+  "duration": 35.1,
+  "frames": 1053,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "full_video_audio_decode": true,
+  "voice_source_bit_identical": true,
+  "voice_complete": true,
+  "speed_1x": true,
+  "all_native_media_links_resolved": true,
+  "library_md5_verified": true,
+  "no_same_track_overlaps": true,
+  "all_curves_within_clips": true,
+  "native_filmora_execution": false,
+  "moving_video_sources": [
+    {
+      "file": "Contexto.mp4",
+      "differences": [
+        7.352696759259259,
+        23.765295138888888
+      ],
+      "pixels_changed_above_24": [
+        5132,
+        16297
+      ]
+    },
+    {
+      "file": "Internet_Digitando.mp4",
+      "differences": [
+        0.372037037037037,
+        0.4245138888888889
+      ],
+      "pixels_changed_above_24": [
+        64,
+        25
+      ]
+    },
+    {
+      "file": "Luta_Continua.mp4",
+      "differences": [
+        45.23245949074074,
+        40.93615162037037
+      ],
+      "pixels_changed_above_24": [
+        39597,
+        36418
+      ]
+    }
+  ],
+  "resources": 38,
+  "clips": 75,
+  "no_added_captions": true,
+  "no_psx_filter": true,
+  "continuous_fight_seconds": 6.2,
+  "eyes_animation": false,
+  "reference_style": "Massacote Tube / Carros 30s",
+  "presenter_directs_media": true,
+  "original_movie_frame_preserved": true,
+  "continuous_fight_start": 28.9,
+  "audio_export_correlation": 0.9996403212046575,
+  "full_width_fight_psnr_db": [
+    43.9022467369204,
+    45.6515796589844,
+    43.17249558175306
+  ]
+}

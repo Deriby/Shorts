@@ -15,7 +15,7 @@ Produção de shorts em 3D com estética PS1 / low poly, personagem Dery e narra
 | 007 | **O verdadeiro chefe de Driver** | [Short 9:16, voz, gameplay, roteiros e Blender](shorts/007-verdadeiro-chefe-driver/) |
 | 008 | **Personagens que a internet estragou** | [12 shorts, longo 16:9 no estilo aprovado e pacote Filmora](shorts/008-personagens-que-a-internet-estragou/) |
 | 009 | **Jogos que a internet tentou cancelar** | [Vídeo completo 16:9, Filmora com mídias e shorts](shorts/009-jogos-que-a-internet-tentou-cancelar/) |
-| 010 | **Sonic e a harmonização facial** (título provisório) | [Tradução do short enviado e rascunho de roteiro para o Massacote Tube 2D](shorts/010-sonic-memories-beyond/) |
+| 010 | **Sonic e a harmonização facial** (título provisório) | [Short 2D 9:16, revisão V3 e projeto Filmora com mídias](shorts/010-sonic-memories-beyond/) |
 
 ## Organização
 
