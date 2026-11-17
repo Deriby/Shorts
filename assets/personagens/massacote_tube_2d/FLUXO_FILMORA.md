@@ -1,5 +1,11 @@
 # Fluxo ativo — 2D no Filmora
 
+## Direção atual: óculos 3D e referência do próprio Tube
+
+O usuário aprovou o novo personagem compacto com óculos vermelho/azul e pediu **30 poses**. A biblioteca atual é `oculos_3d_30_poses/`, com PNGs completos e corpo/cabeça/bigode em camadas no canvas 2048×2048. Boca sempre coberta; **não animar olhos**, pois as lentes são opacas. `direcao_visual.json` aponta para este banco. As bibliotecas descritas abaixo são históricas.
+
+Referência principal atual: short do próprio Massacote Tube “O Filme que foi CANCELADO pela PIXAR!”, anexo `file_000000005a0c820e8ea9265ff0f1f1e0`, 30,534 s, guardado em `shorts/010-sonic-memories-beyond/production/revisao_v2_refTube/referencia/`. Priorizar mídias ocupando o quadro, aproximações/pans durante a fala, painéis em movimento, apresentador nos comentários e piadas e memes com tempo de sustentação. Não confundir movimento com cortes aleatórios ou tremido constante. Manter a narração completa e não adicionar legendas automáticas. A revisão Sonic V2 aplica essa direção em produção separada, preservando a v1.
+
 O usuário aprovou as dez poses do lote 01, incluindo o queixo corrigido da pose rindo, e definiu a produção com personagem 2D e animação por keyframes no Filmora. Não usar Blender neste fluxo. Os arquivos 3D antigos são histórico preservado.
 
 ## Referência no Drive

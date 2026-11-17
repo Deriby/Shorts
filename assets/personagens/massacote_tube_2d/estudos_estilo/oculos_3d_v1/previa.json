@@ -1,5 +1,5 @@
 {
-  "status": "previa_aguardando_avaliacao",
+  "status": "aprovado_pelo_usuario",
   "generated_by": "image_gen",
   "basis": "Imagem anexada pelo usuario: avatar compacto, oculos 3D vermelho/azul, jaqueta roxa/vermelha e contorno de adesivo",
   "image": "Previa_Massacote_Oculos_3D.png",
@@ -15,5 +15,6 @@
   "intended_animation": "Poses, inclinacoes da cabeca e bigode guiado pela fala; lentes opacas fixas",
   "existing_short_modified": false,
   "existing_libraries_rebuilt": false,
-  "approval_pending": true
+  "approval_pending": false,
+  "approval_feedback": "Perfeito, mete bala nas 30 poses então"
 }

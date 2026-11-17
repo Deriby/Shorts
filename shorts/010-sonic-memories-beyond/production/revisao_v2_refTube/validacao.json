@@ -1,0 +1,74 @@
+{
+  "mp4_sha256": "02eee4c8961515f43493af2c0cfc5092bc013233e04a7c5e75dafda0d74e6fbb",
+  "mp4_bytes": 14392611,
+  "duration": 35.1,
+  "frames": 1053,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "full_video_audio_decode": true,
+  "voice_source_bit_identical": true,
+  "voice_complete": true,
+  "speed_1x": true,
+  "all_native_media_links_resolved": true,
+  "library_md5_verified": true,
+  "no_same_track_overlaps": true,
+  "all_curves_within_clips": true,
+  "native_filmora_execution": false,
+  "moving_video_sources": [
+    {
+      "file": "Meme_Digitando.mp4",
+      "differences": [
+        0.3687268518518519,
+        0.4232233796296296
+      ],
+      "pixels_changed_above_24": [
+        64,
+        25
+      ]
+    },
+    {
+      "file": "Meme_Metal_Encarando.mp4",
+      "differences": [
+        29.51527777777778,
+        29.43060185185185
+      ],
+      "pixels_changed_above_24": [
+        25993,
+        24031
+      ]
+    },
+    {
+      "file": "Memories_Contexto.mp4",
+      "differences": [
+        7.779369212962962,
+        22.646481481481484
+      ],
+      "pixels_changed_above_24": [
+        5120,
+        13174
+      ]
+    },
+    {
+      "file": "Metal_Sonic_Acao.mp4",
+      "differences": [
+        38.22972222222222,
+        42.00623842592593
+      ],
+      "pixels_changed_above_24": [
+        35258,
+        36547
+      ]
+    }
+  ],
+  "resources": 32,
+  "clips": 62,
+  "no_added_captions": true,
+  "no_psx_filter": true,
+  "continuous_fight_seconds": 6.2,
+  "eyes_animation": false,
+  "reference_style": "Massacote Tube / Carros 30s",
+  "full_frame_media_and_camera_moves": true
+}

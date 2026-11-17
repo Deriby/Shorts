@@ -1,0 +1,898 @@
+{
+  "character": "Massacote Tube — óculos 3D",
+  "style": "cartoon compacto / adesivo",
+  "canvas": [
+    2048,
+    2048
+  ],
+  "count": 30,
+  "eye_states": 0,
+  "eye_animation": false,
+  "mouth_rule": "Boca sempre coberta pelo bigode",
+  "base_approved_by_user": true,
+  "head_shared": true,
+  "head_pivot": [
+    1025,
+    1080
+  ],
+  "moustache_pivot": [
+    1025,
+    867
+  ],
+  "poses": [
+    {
+      "id": "01_neutro",
+      "title": "Neutro / mãos nos bolsos",
+      "category": "fala",
+      "batch": 1,
+      "column": 0,
+      "file": "poses/01_neutro.png",
+      "sha256": "31cb01de98c3693a2f3c44539f7c50549a0a4e9fa1b1a4cabc7a8da83e867253",
+      "bytes": 1790970,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        565,
+        205,
+        894,
+        1471
+      ],
+      "body": "camadas/01_neutro_corpo.png",
+      "front": null,
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "02_conversando",
+      "title": "Conversando / uma palma",
+      "category": "fala",
+      "batch": 1,
+      "column": 1,
+      "file": "poses/02_conversando.png",
+      "sha256": "7be71e62b596e7d4b959f41a8c00d9ea0bdce72a0a8d05c0fa18057ddb5f35fb",
+      "bytes": 1872654,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        465,
+        205,
+        1018,
+        1471
+      ],
+      "body": "camadas/02_conversando_corpo.png",
+      "front": null,
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "03_explicando_duas_palmas",
+      "title": "Explicando / duas palmas",
+      "category": "fala",
+      "batch": 1,
+      "column": 2,
+      "file": "poses/03_explicando_duas_palmas.png",
+      "sha256": "f2af89dea491448b2e60434eef4b18ecd0baae9aa075551de509f357468219d9",
+      "bytes": 1886114,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        489,
+        205,
+        1081,
+        1473
+      ],
+      "body": "camadas/03_explicando_duas_palmas_corpo.png",
+      "front": null,
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "04_apontando_esquerda",
+      "title": "Apontando à esquerda",
+      "category": "apontar",
+      "batch": 2,
+      "column": 0,
+      "file": "poses/04_apontando_esquerda.png",
+      "sha256": "abead6c1580ed19b403f9912394f1ddc7e58cbab3473f11d02c6e142319b754e",
+      "bytes": 1823161,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        426,
+        197,
+        1075,
+        1505
+      ],
+      "body": "camadas/04_apontando_esquerda_corpo.png",
+      "front": null,
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "05_apontando_direita",
+      "title": "Apontando à direita",
+      "category": "apontar",
+      "batch": 2,
+      "column": 1,
+      "file": "poses/05_apontando_direita.png",
+      "sha256": "ea16906be8bbb9226665d2bbe681b6ffe5c6901230622c6580cd33f197f51eab",
+      "bytes": 1852133,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        526,
+        192,
+        1051,
+        1517
+      ],
+      "body": "camadas/05_apontando_direita_corpo.png",
+      "front": null,
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "06_apontando_cima",
+      "title": "Apontando para cima",
+      "category": "apontar",
+      "batch": 2,
+      "column": 2,
+      "file": "poses/06_apontando_cima.png",
+      "sha256": "7cbd64ebd040865a4014c19e0ea07c1749a544f593e5138c79ea573fd21cc645",
+      "bytes": 1913969,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        513,
+        191,
+        996,
+        1521
+      ],
+      "body": "camadas/06_apontando_cima_corpo.png",
+      "front": null,
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "07_apontando_baixo",
+      "title": "Apontando para baixo",
+      "category": "apontar",
+      "batch": 3,
+      "column": 0,
+      "file": "poses/07_apontando_baixo.png",
+      "sha256": "56223cad954b5e34487b6474a164f000bc89d824a9069536108b55849b03bba2",
+      "bytes": 1853948,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        527,
+        193,
+        980,
+        1539
+      ],
+      "body": "camadas/07_apontando_baixo_corpo.png",
+      "front": null,
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "08_apontando_camera",
+      "title": "Apontando para o público",
+      "category": "apontar",
+      "batch": 3,
+      "column": 1,
+      "file": "poses/08_apontando_camera.png",
+      "sha256": "573883715008529973eb12887f3247608d46f670f01ac04921cd0acb9a00ca3a",
+      "bytes": 1847213,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        565,
+        190,
+        922,
+        1547
+      ],
+      "body": "camadas/08_apontando_camera_corpo.png",
+      "front": null,
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "09_joinha",
+      "title": "Joinha",
+      "category": "reacao",
+      "batch": 3,
+      "column": 2,
+      "file": "poses/09_joinha.png",
+      "sha256": "7ad4fbf0fed5a6e294240907792ac2e15168eac3988cce893ee13c55dfb146b6",
+      "bytes": 1855282,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        549,
+        190,
+        951,
+        1547
+      ],
+      "body": "camadas/09_joinha_corpo.png",
+      "front": null,
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "10_joinha_duplo",
+      "title": "Joinha duplo",
+      "category": "reacao",
+      "batch": 4,
+      "column": 0,
+      "file": "poses/10_joinha_duplo.png",
+      "sha256": "4636e3dc4239481622329e34cf339d54dfa8c8cf77f4eedac963c0f514679f30",
+      "bytes": 1802568,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        540,
+        205,
+        976,
+        1534
+      ],
+      "body": "camadas/10_joinha_duplo_corpo.png",
+      "front": null,
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "11_bracos_cruzados",
+      "title": "Braços cruzados",
+      "category": "reacao",
+      "batch": 4,
+      "column": 1,
+      "file": "poses/11_bracos_cruzados.png",
+      "sha256": "3c83ed3750bf884516bb51dc1b8a654f990f8f6557b7a346447fbad48487eaa4",
+      "bytes": 1705899,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        565,
+        205,
+        878,
+        1527
+      ],
+      "body": "camadas/11_bracos_cruzados_corpo.png",
+      "front": null,
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "12_deu_de_ombros",
+      "title": "Dando de ombros",
+      "category": "comica",
+      "batch": 4,
+      "column": 2,
+      "file": "poses/12_deu_de_ombros.png",
+      "sha256": "80873c8c43dd0cb04c97e5ea7e21d12ef59ebff281d1f85a731a2ffaa75d1789",
+      "bytes": 1923939,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        402,
+        205,
+        1241,
+        1537
+      ],
+      "body": "camadas/12_deu_de_ombros_corpo.png",
+      "front": "camadas/12_deu_de_ombros_frente.png",
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "13_ponderando",
+      "title": "Ponderando",
+      "category": "fala",
+      "batch": 5,
+      "column": 0,
+      "file": "poses/13_ponderando.png",
+      "sha256": "a0774694bbaff84f82792fb677abf7afc9c68f0e8980a2d9616fc98ef1c6f17b",
+      "bytes": 1678434,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        565,
+        205,
+        878,
+        1507
+      ],
+      "body": "camadas/13_ponderando_corpo.png",
+      "front": "camadas/13_ponderando_frente.png",
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "14_pare",
+      "title": "Calma / pare aí",
+      "category": "reacao",
+      "batch": 5,
+      "column": 1,
+      "file": "poses/14_pare.png",
+      "sha256": "064f395da99c7e221d70633e63dd9d5332d471c232dd7b7fe2550f428e5794f5",
+      "bytes": 1947954,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        485,
+        205,
+        1041,
+        1510
+      ],
+      "body": "camadas/14_pare_corpo.png",
+      "front": "camadas/14_pare_frente.png",
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "15_fazendo_ressalva",
+      "title": "Fazendo uma ressalva",
+      "category": "fala",
+      "batch": 5,
+      "column": 2,
+      "file": "poses/15_fazendo_ressalva.png",
+      "sha256": "8e1608bff5c6ba40545fede4985530c4c9b7f4a7707b1890fd7215812f5e54a7",
+      "bytes": 1758016,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        551,
+        189,
+        892,
+        1544
+      ],
+      "body": "camadas/15_fazendo_ressalva_corpo.png",
+      "front": "camadas/15_fazendo_ressalva_frente.png",
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "16_desespero",
+      "title": "Desespero / palmas abertas",
+      "category": "comica",
+      "batch": 6,
+      "column": 0,
+      "file": "poses/16_desespero.png",
+      "sha256": "c73c99c7f3b718df3add7fa0fd49dcd05b45586b302ec48090f687578d4d4ee6",
+      "bytes": 1991809,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        454,
+        205,
+        1100,
+        1526
+      ],
+      "body": "camadas/16_desespero_corpo.png",
+      "front": "camadas/16_desespero_frente.png",
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "17_comemorando",
+      "title": "Comemorando",
+      "category": "reacao",
+      "batch": 6,
+      "column": 1,
+      "file": "poses/17_comemorando.png",
+      "sha256": "d9b561e987b9f3abb05c56bec631e9dff544aed8e5f003a798063c382bbf74d5",
+      "bytes": 2002649,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        480,
+        205,
+        1055,
+        1527
+      ],
+      "body": "camadas/17_comemorando_corpo.png",
+      "front": "camadas/17_comemorando_frente.png",
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "18_rindo",
+      "title": "Rindo / mão na barriga",
+      "category": "comica",
+      "batch": 6,
+      "column": 2,
+      "file": "poses/18_rindo.png",
+      "sha256": "59950447fb4f2a18eed4cabad113984e9bd84fca60b1d5db6ffcd59a9421b6fb",
+      "bytes": 1810816,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        559,
+        205,
+        897,
+        1525
+      ],
+      "body": "camadas/18_rindo_corpo.png",
+      "front": null,
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "19_sem_graca",
+      "title": "Sem graça",
+      "category": "comica",
+      "batch": 7,
+      "column": 0,
+      "file": "poses/19_sem_graca.png",
+      "sha256": "cda16754c3c349f3ecc6c01ad0a253094c6052789ac01c1c07b3cbe092b8273d",
+      "bytes": 1711711,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        552,
+        194,
+        891,
+        1534
+      ],
+      "body": "camadas/19_sem_graca_corpo.png",
+      "front": null,
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "20_tramando",
+      "title": "Tramando",
+      "category": "comica",
+      "batch": 7,
+      "column": 1,
+      "file": "poses/20_tramando.png",
+      "sha256": "1f0a7153eec48234df894a6e35f66a12428ce770f7a25a39f1936bbba50059f8",
+      "bytes": 1777049,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        545,
+        199,
+        941,
+        1525
+      ],
+      "body": "camadas/20_tramando_corpo.png",
+      "front": "camadas/20_tramando_frente.png",
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "21_bracinhos_trex",
+      "title": "Bracinhos de T-rex",
+      "category": "comica",
+      "batch": 7,
+      "column": 2,
+      "file": "poses/21_bracinhos_trex.png",
+      "sha256": "6fb466d8f80e08ebf8d107439ebb546427cb1db2e83c3b3c7bbf956bee86ba63",
+      "bytes": 1719235,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        564,
+        197,
+        881,
+        1527
+      ],
+      "body": "camadas/21_bracinhos_trex_corpo.png",
+      "front": null,
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "22_robo",
+      "title": "Robô",
+      "category": "comica",
+      "batch": 8,
+      "column": 0,
+      "file": "poses/22_robo.png",
+      "sha256": "f9db7da5a227dfc94bb37d7fd7eccd7b7a052d051996bc841a35f6f9259f0b31",
+      "bytes": 1865258,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        525,
+        188,
+        924,
+        1570
+      ],
+      "body": "camadas/22_robo_corpo.png",
+      "front": null,
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "23_por_favor",
+      "title": "Por favor / mãos juntas",
+      "category": "comica",
+      "batch": 8,
+      "column": 1,
+      "file": "poses/23_por_favor.png",
+      "sha256": "168b5425583fb8e0e5d219c1ee61d05a60aa45af157937a58cbd06a21e32916b",
+      "bytes": 1746190,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        565,
+        192,
+        878,
+        1559
+      ],
+      "body": "camadas/23_por_favor_corpo.png",
+      "front": "camadas/23_por_favor_frente.png",
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "24_apresentando_lado",
+      "title": "Apresentando algo ao lado",
+      "category": "fala",
+      "batch": 8,
+      "column": 2,
+      "file": "poses/24_apresentando_lado.png",
+      "sha256": "171a9b42d6997749be2fdf035c2f5be34af77102090500f4f9a4d2267579ccf8",
+      "bytes": 1859584,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        565,
+        192,
+        1106,
+        1558
+      ],
+      "body": "camadas/24_apresentando_lado_corpo.png",
+      "front": null,
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "25_olhando_pulso",
+      "title": "Cobrando a hora",
+      "category": "comica",
+      "batch": 9,
+      "column": 0,
+      "file": "poses/25_olhando_pulso.png",
+      "sha256": "8a1111c4de05408423e5b3b573cf446144dbaa830052720ab0d0233b1ef17948",
+      "bytes": 1718525,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        565,
+        205,
+        878,
+        1482
+      ],
+      "body": "camadas/25_olhando_pulso_corpo.png",
+      "front": null,
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "26_maromba",
+      "title": "Maromba",
+      "category": "comica",
+      "batch": 9,
+      "column": 1,
+      "crop_bounds": [
+        500,
+        1280
+      ],
+      "file": "poses/26_maromba.png",
+      "sha256": "56f3e0254ac5bf8a51c165791a2aeffb7238861cb2c2e82c57250507ceff3559",
+      "bytes": 1906217,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        479,
+        205,
+        1107,
+        1487
+      ],
+      "body": "camadas/26_maromba_corpo.png",
+      "front": "camadas/26_maromba_frente.png",
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "27_aplaudindo",
+      "title": "Aplaudindo",
+      "category": "reacao",
+      "batch": 9,
+      "column": 2,
+      "file": "poses/27_aplaudindo.png",
+      "sha256": "8934f0e69cb945b2f8911cbf01c1c477e3ffed29e106281490f3642b452bb32c",
+      "bytes": 1731432,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        565,
+        205,
+        889,
+        1487
+      ],
+      "body": "camadas/27_aplaudindo_corpo.png",
+      "front": null,
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "28_boas_vindas",
+      "title": "Boas-vindas / braços abertos",
+      "category": "fala",
+      "batch": 10,
+      "column": 0,
+      "file": "poses/28_boas_vindas.png",
+      "sha256": "ba9a5f38533515d64da07ec79a1baec472b705adc00dd4526eb85cfe28d6a5a0",
+      "bytes": 2061121,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        263,
+        205,
+        1475,
+        1490
+      ],
+      "body": "camadas/28_boas_vindas_corpo.png",
+      "front": null,
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "29_pistolinhas",
+      "title": "Pistolinhas com os dedos",
+      "category": "comica",
+      "batch": 10,
+      "column": 1,
+      "file": "poses/29_pistolinhas.png",
+      "sha256": "314c0d04ee86daf3946d92663f76efae5ded492ad0c784f0bda742abbcdbec8f",
+      "bytes": 1893726,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        503,
+        205,
+        1043,
+        1491
+      ],
+      "body": "camadas/29_pistolinhas_corpo.png",
+      "front": null,
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    },
+    {
+      "id": "30_esfregando_maos",
+      "title": "Esfregando as mãos",
+      "category": "comica",
+      "batch": 10,
+      "column": 2,
+      "file": "poses/30_esfregando_maos.png",
+      "sha256": "9bfeac9c36b9525fb84a24f1c54536e2c483a14d450a22e1035a041003226c8e",
+      "bytes": 1794794,
+      "canvas": [
+        2048,
+        2048
+      ],
+      "alpha_bbox": [
+        551,
+        199,
+        928,
+        1500
+      ],
+      "body": "camadas/30_esfregando_maos_corpo.png",
+      "front": null,
+      "head": "camadas/cabeca_sem_bigode.png",
+      "moustache": "camadas/bigode_repouso.png",
+      "head_fixed": "camadas/cabeca_com_bigode.png",
+      "eyes_animation": false,
+      "mouth_hidden": true,
+      "base_style_approved": true,
+      "individual_pose_feedback": "aguardando_usuario"
+    }
+  ]
+}

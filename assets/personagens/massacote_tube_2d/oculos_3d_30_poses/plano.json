@@ -1,0 +1,227 @@
+{
+  "poses": [
+    {
+      "id": "01_neutro",
+      "title": "Neutro / mãos nos bolsos",
+      "category": "fala",
+      "batch": 1,
+      "column": 0
+    },
+    {
+      "id": "02_conversando",
+      "title": "Conversando / uma palma",
+      "category": "fala",
+      "batch": 1,
+      "column": 1
+    },
+    {
+      "id": "03_explicando_duas_palmas",
+      "title": "Explicando / duas palmas",
+      "category": "fala",
+      "batch": 1,
+      "column": 2
+    },
+    {
+      "id": "04_apontando_esquerda",
+      "title": "Apontando à esquerda",
+      "category": "apontar",
+      "batch": 2,
+      "column": 0
+    },
+    {
+      "id": "05_apontando_direita",
+      "title": "Apontando à direita",
+      "category": "apontar",
+      "batch": 2,
+      "column": 1
+    },
+    {
+      "id": "06_apontando_cima",
+      "title": "Apontando para cima",
+      "category": "apontar",
+      "batch": 2,
+      "column": 2
+    },
+    {
+      "id": "07_apontando_baixo",
+      "title": "Apontando para baixo",
+      "category": "apontar",
+      "batch": 3,
+      "column": 0
+    },
+    {
+      "id": "08_apontando_camera",
+      "title": "Apontando para o público",
+      "category": "apontar",
+      "batch": 3,
+      "column": 1
+    },
+    {
+      "id": "09_joinha",
+      "title": "Joinha",
+      "category": "reacao",
+      "batch": 3,
+      "column": 2
+    },
+    {
+      "id": "10_joinha_duplo",
+      "title": "Joinha duplo",
+      "category": "reacao",
+      "batch": 4,
+      "column": 0
+    },
+    {
+      "id": "11_bracos_cruzados",
+      "title": "Braços cruzados",
+      "category": "reacao",
+      "batch": 4,
+      "column": 1
+    },
+    {
+      "id": "12_deu_de_ombros",
+      "title": "Dando de ombros",
+      "category": "comica",
+      "batch": 4,
+      "column": 2
+    },
+    {
+      "id": "13_ponderando",
+      "title": "Ponderando",
+      "category": "fala",
+      "batch": 5,
+      "column": 0
+    },
+    {
+      "id": "14_pare",
+      "title": "Calma / pare aí",
+      "category": "reacao",
+      "batch": 5,
+      "column": 1
+    },
+    {
+      "id": "15_fazendo_ressalva",
+      "title": "Fazendo uma ressalva",
+      "category": "fala",
+      "batch": 5,
+      "column": 2
+    },
+    {
+      "id": "16_desespero",
+      "title": "Desespero / palmas abertas",
+      "category": "comica",
+      "batch": 6,
+      "column": 0
+    },
+    {
+      "id": "17_comemorando",
+      "title": "Comemorando",
+      "category": "reacao",
+      "batch": 6,
+      "column": 1
+    },
+    {
+      "id": "18_rindo",
+      "title": "Rindo / mão na barriga",
+      "category": "comica",
+      "batch": 6,
+      "column": 2
+    },
+    {
+      "id": "19_sem_graca",
+      "title": "Sem graça",
+      "category": "comica",
+      "batch": 7,
+      "column": 0
+    },
+    {
+      "id": "20_tramando",
+      "title": "Tramando",
+      "category": "comica",
+      "batch": 7,
+      "column": 1
+    },
+    {
+      "id": "21_bracinhos_trex",
+      "title": "Bracinhos de T-rex",
+      "category": "comica",
+      "batch": 7,
+      "column": 2
+    },
+    {
+      "id": "22_robo",
+      "title": "Robô",
+      "category": "comica",
+      "batch": 8,
+      "column": 0
+    },
+    {
+      "id": "23_por_favor",
+      "title": "Por favor / mãos juntas",
+      "category": "comica",
+      "batch": 8,
+      "column": 1
+    },
+    {
+      "id": "24_apresentando_lado",
+      "title": "Apresentando algo ao lado",
+      "category": "fala",
+      "batch": 8,
+      "column": 2
+    },
+    {
+      "id": "25_olhando_pulso",
+      "title": "Cobrando a hora",
+      "category": "comica",
+      "batch": 9,
+      "column": 0
+    },
+    {
+      "id": "26_maromba",
+      "title": "Maromba",
+      "category": "comica",
+      "batch": 9,
+      "column": 1,
+      "crop_bounds": [
+        500,
+        1280
+      ]
+    },
+    {
+      "id": "27_aplaudindo",
+      "title": "Aplaudindo",
+      "category": "reacao",
+      "batch": 9,
+      "column": 2
+    },
+    {
+      "id": "28_boas_vindas",
+      "title": "Boas-vindas / braços abertos",
+      "category": "fala",
+      "batch": 10,
+      "column": 0
+    },
+    {
+      "id": "29_pistolinhas",
+      "title": "Pistolinhas com os dedos",
+      "category": "comica",
+      "batch": 10,
+      "column": 1
+    },
+    {
+      "id": "30_esfregando_maos",
+      "title": "Esfregando as mãos",
+      "category": "comica",
+      "batch": 10,
+      "column": 2
+    }
+  ],
+  "canvas": [
+    2048,
+    2048
+  ],
+  "reference_approved": true,
+  "user_feedback": "Perfeito, mete bala nas 30 poses então",
+  "head_shared": true,
+  "eye_animation": false,
+  "mouth_covered": true
+}

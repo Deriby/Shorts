@@ -1,0 +1,1 @@
+Canvas 2048x2048. Ordem: corpo da pose, cabeca_sem_bigode, bigode_repouso (ou fala A/B), frente quando existir. Cabeca_com_bigode e alternativa fixa; nao a some aos outros dois. As lentes ja fazem parte da cabeca: nao ha faixa de olhos. Preserve as margens e use a mesma transformacao nas camadas.

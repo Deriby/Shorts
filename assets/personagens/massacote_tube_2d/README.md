@@ -1,5 +1,7 @@
 # Massacote Tube — personagem 2D
 
+**Banco atual:** [30 poses com óculos 3D](oculos_3d_30_poses/README.md), no visual compacto/adesivo aprovado pelo usuário. Óculos fixos, corpo/cabeça/bigode separados. Consulte `direcao_visual.json` e `FLUXO_FILMORA.md`; os conjuntos abaixo permanecem como histórico.
+
 Base visual aprovada pelo usuário no anexo da conversa: boné roxo para trás, cabelo castanho avermelhado, bigode largo enrolado e cavanhaque, jaqueta roxa com vermelho e corrente clara. Este personagem pertence ao Massacote Tube, para conteúdos sobre desenhos. A biblioteca 3D do Massacote Games permanece independente.
 
 O lote inicial contém dez poses em [`lote_01/`](lote_01/). **A base e as dez poses estão aprovadas**, incluindo a correção do queixo na pose rindo (revisão 1.1). A expansão para cem ainda não foi produzida.

@@ -1,0 +1,203 @@
+{
+  "poses": 30,
+  "unique_pose_files": 30,
+  "canvas": [
+    2048,
+    2048
+  ],
+  "all_rgba": true,
+  "all_transparent": true,
+  "all_borders_clear": true,
+  "shared_head": true,
+  "eye_animation": false,
+  "originals_preserved": true,
+  "shared_layer_files": [
+    "bigode_fala_b.png",
+    "bigode_repouso.png",
+    "bigode_fala_a.png",
+    "cabeca_com_bigode.png",
+    "cabeca_sem_bigode.png"
+  ],
+  "checks": [
+    {
+      "id": "01_neutro",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "8039aafffa2b6183dfb8a670af23861f37252696c36221b2ca06fdda1df039c0"
+    },
+    {
+      "id": "02_conversando",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "2cae90cfc631f17961b74971db15c27fd3e6fb672d206dbe106298242cad5a68"
+    },
+    {
+      "id": "03_explicando_duas_palmas",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "48ef1c51ecd6b0cf4544b5a2ec8f76018858fce1e7e9045bbdf896906baee268"
+    },
+    {
+      "id": "04_apontando_esquerda",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "141ea04587370f10850af1727ff6edd04acdbeaef3920ae981188fa35cc334d0"
+    },
+    {
+      "id": "05_apontando_direita",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "2b7c974e74cbf6034eb8740ee1adc2b9924c8143a829cb20ffc4b5169d4802f5"
+    },
+    {
+      "id": "06_apontando_cima",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "d9387d47e314abda6a97888d9d4d403bbf0e4d34b6156a2c65ee32e60da6833b"
+    },
+    {
+      "id": "07_apontando_baixo",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "a36d44ecb42e73cb1e22cf7b98201414751a114ad501cd8e99b227c1123d087a"
+    },
+    {
+      "id": "08_apontando_camera",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "764a018a07648f744d4cca9c4b88f2d5f3a2bea2384b4056c6fc2bbe0ba79069"
+    },
+    {
+      "id": "09_joinha",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "6a640dcd6d150758c14c8e84c6f15855a84d3450b7518847c1ac6b8e7ec99970"
+    },
+    {
+      "id": "10_joinha_duplo",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "6df1613bd2b9ef06d34ae68260b67923da8cb951e2f236206763895ba017b3dd"
+    },
+    {
+      "id": "11_bracos_cruzados",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "d75a59af1dbbba562141ee670ed74c9c2584b61970817219963e72410671c25d"
+    },
+    {
+      "id": "12_deu_de_ombros",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "694d1991225ce9578449c418c856e63627589a73aa2efd1fdee6d63058f33d60"
+    },
+    {
+      "id": "13_ponderando",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "2e4ffa0f3efb9baa9c86c6a7f1bceee0d8d3a92fdc63bc5c989ad7a9e81dfdc2"
+    },
+    {
+      "id": "14_pare",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "cebc955e4b616840b124d41e98f0ec6e431f58817d9d4d42a814fecd1b614784"
+    },
+    {
+      "id": "15_fazendo_ressalva",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "f7fc7754b6d504d61ece2ffda09accd09cc9a66faf51fe781b20f9e1d19b4388"
+    },
+    {
+      "id": "16_desespero",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "2679e0c1ffa54860b12b754c502d6c48f41f22c716cad6cf6aa316182eb4de78"
+    },
+    {
+      "id": "17_comemorando",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "17da6d9623687974fb9b7ed4c6fdfba77d4c17e7d82735776a8860bf8b403848"
+    },
+    {
+      "id": "18_rindo",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "9362930e2e17c4e0c9e785ec4f7beaf77219fd9b2f3e74e01d1931b20177abf8"
+    },
+    {
+      "id": "19_sem_graca",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "0f4ca5a4e1afe428c61933475356690f05fe4a74b18a9ab3760cb4adb2681bbc"
+    },
+    {
+      "id": "20_tramando",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "39b67a3f4f571a6ad3b6d01de138caa3e68831b4e4a0e0bb7085f3188efd3b9d"
+    },
+    {
+      "id": "21_bracinhos_trex",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "ba3ae20f35d78ec61a406e42e8321541e52961e0fa8e63fda1afe936d7df5ebc"
+    },
+    {
+      "id": "22_robo",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "2783522c71a9e9cb0cf255f8da4945e61f46e9ee741b9fa76b0950e3a1fd53c6"
+    },
+    {
+      "id": "23_por_favor",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "aa267cf69e9b3a306c0333c960ce0e446a9922a77bf7aeeefa86bdbd81479efe"
+    },
+    {
+      "id": "24_apresentando_lado",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "4e6354992386d887257a453bbd0241ddc2b2106be1b1fa3ffa570a9e4e6f8aa2"
+    },
+    {
+      "id": "25_olhando_pulso",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "fad6ee3302109e068ce1b6a84b590497150573ad2f49cff6af4301306a7e9317"
+    },
+    {
+      "id": "26_maromba",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "401cbd0f382edf6a184abba3ae599e87ac104a2c07667ce9f1bae3332aaed5e5"
+    },
+    {
+      "id": "27_aplaudindo",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "694ebc411b30325f815fd10c9c2e115ae55150ca0c5c049f141231f55928b7a9"
+    },
+    {
+      "id": "28_boas_vindas",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "e3f086af3478b53fcb7f025a52fca7d28ba4cd3ef0fccde4e4312c7f75d173a7"
+    },
+    {
+      "id": "29_pistolinhas",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "163b0ae8283b5e1e721259550424e461bf9142098c987b7fc12dddd3aecb411c"
+    },
+    {
+      "id": "30_esfregando_maos",
+      "rgba": true,
+      "transparent_border": true,
+      "body_sha256": "b9fbc70a40bd2a89110d2487b6d73b9c013b52df22816ddd40e96de716c14493"
+    }
+  ]
+}

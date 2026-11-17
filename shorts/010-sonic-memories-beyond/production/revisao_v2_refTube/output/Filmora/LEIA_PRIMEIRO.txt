@@ -1,0 +1,16 @@
+MASSACOTE TUBE — SONIC V2 / NOVO PERSONAGEM / 9:16
+
+Extraia o ZIP inteiro. Abra Filmora/Massacote_Tube_Sonic_V2_9x16.wfp,
+mantendo a pasta midias ao lado dele. Não abra o projeto de dentro do ZIP.
+Se o Filmora pedir uma mídia, localize-a na pasta midias extraída.
+
+35,1 s, 1080 x 1920, 30 fps. Voz original inteira.
+Personagem novo com oculos 3D fixos. Camadas: corpo, cabeca, bigode e maos.
+Poses, expressões, movimento, memes e transições por keyframes editáveis.
+Voz, música, sons de movimento e luta em faixas separadas.
+Sem novas legendas automáticas ou filtro PSX.
+As legendas já gravadas na animação recebida pertencem ao próprio arquivo.
+
+O MP4 permite assistir à montagem. O projeto foi conferido por estrutura,
+vínculos, curvas, tempos e arquivos; não foi aberto/exportado no Filmora
+proprietário neste Linux. Não foi prometida cópia idêntica de plugins.
