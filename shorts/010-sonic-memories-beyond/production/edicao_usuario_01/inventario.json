@@ -1,0 +1,36 @@
+{
+  "source_upload": "file_0000000088bc820e984ee9fec2c50b81",
+  "source_sha256": "bf145baeebb2087f05023716b7d9f5b351a4fcbda949715a1f000061e427d9c3",
+  "source_byte_identical": true,
+  "duration_seconds": 48.9333333,
+  "main_timeline_id": 59,
+  "main_tracks": 35,
+  "main_clips": 72,
+  "child_timelines": [
+    84,
+    85,
+    95
+  ],
+  "child_clips": 3,
+  "resources": 32,
+  "user_voice_clip_seconds": 31.1333333,
+  "ending_source_clip_seconds": 20.0333333,
+  "native_effects": [
+    "Glow",
+    "Text Vibrate",
+    "Grunge_Jitter",
+    "PipBorder"
+  ],
+  "transitions": {
+    "Basic Zoom In": 4,
+    "Fast Bounce": 1
+  },
+  "native_execution_here": false,
+  "style_reference_is_user_edit": true,
+  "cutout_errors_pending": [
+    "sobras do contorno da cabeca nas camadas de corpo",
+    "cabeca com recorte inadequado e partes da gola/pescoco",
+    "bigode com residuos de bochecha/queixo e bordas"
+  ],
+  "correction_not_delivered_or_approved": true
+}

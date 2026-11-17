@@ -1,6 +1,10 @@
 # Sonic e a harmonização facial
 
-## Versão atual — Sonic V3 / cenas pela referência
+## Referência atual — edição feita pelo usuário
+
+O usuário reeditou o WFP para mostrar seu estilo e explicou os erros de recorte do corpo, cabeça e bigode. [Arquivo original preservado e leitura do estilo](production/edicao_usuario_01/README.md). Esta é a referência principal; recortes ainda pendentes, sem nova correção entregue.
+
+## Versão gerada anterior — Sonic V3 / cenas pela referência
 
 Revisão após o usuário rejeitar a semelhança da V2: [produção V3](production/revisao_v3_cenas/README.md), com MP4 e projeto Filmora em camadas. Comparação em painéis independentes, apresentador conduzindo as imagens no cenário, voz original inteira e luta de 6,2 s com quadro completo. Abertura nativa no Filmora ainda não testada; estética aguarda o usuário.
 

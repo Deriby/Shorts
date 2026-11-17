@@ -1,13 +1,19 @@
 {
-  "current": "revisao_v3_cenas",
-  "video": "revisao_v3_cenas/output/Massacote_Tube_Sonic_V3_9x16.mp4",
-  "project": "revisao_v3_cenas/output/Filmora/Massacote_Tube_Sonic_V3_9x16.wfp",
-  "bundle": "revisao_v3_cenas/output/Massacote_Tube_Sonic_V3_Filmora_Completo.zip",
+  "current": "edicao_usuario_01",
+  "video": null,
+  "project": "edicao_usuario_01/recebido/Massacote_Tube_Sonic_EDITADO_USUARIO.wfp",
+  "bundle": null,
   "native_filmora_tested": false,
-  "voice_unchanged": true,
   "active_character_library": "assets/personagens/massacote_tube_2d/oculos_3d_30_poses/",
   "style_reference_attachment": "file_00000000ac3c820e972f7d870b149bb0",
   "v1_preserved": true,
   "v2_preserved": true,
-  "reason": "Usuário rejeitou semelhança da V2; revisão por composição, gesto e contexto, não só zoom."
+  "reason": "Usuario reeditou para ensinar o estilo e explicou defeitos de recorte.",
+  "style_reference": "edicao_usuario_01/recebido/Massacote_Tube_Sonic_EDITADO_USUARIO.wfp",
+  "source_sha256": "bf145baeebb2087f05023716b7d9f5b351a4fcbda949715a1f000061e427d9c3",
+  "user_edit_video_received": false,
+  "previous_generated_video": "revisao_v3_cenas/output/Massacote_Tube_Sonic_V3_9x16.mp4",
+  "user_edit_duration_seconds": 48.9333333,
+  "user_voice_clip_seconds": 31.1333333,
+  "cutout_corrections_status": "pendentes; usuario explicou defeitos; nenhuma nova correcao entregue"
 }
