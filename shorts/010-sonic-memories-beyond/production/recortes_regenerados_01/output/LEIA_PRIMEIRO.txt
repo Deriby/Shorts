@@ -1,0 +1,23 @@
+MASSACOTE TUBE — PECAS REGENERADAS / SUA EDICAO PRESERVADA
+
+1. Extraia o ZIP inteiro.
+2. Abra Filmora/Massacote_Tube_Sonic_Pecas_Regeneradas.wfp.
+3. Mantenha a pasta midias_regeneradas ao lado desse WFP.
+
+O projeto ja aponta para os PNGs novos, com nomes R3 e miniaturas atualizadas.
+Voce nao precisa substituir os PNGs antigos manualmente.
+Este pacote e uma ATUALIZACAO: usa as outras midias que ja estao no seu PC,
+nos caminhos do WFP reeditado que voce enviou. Nao inclui o video final
+original, o JPEG original ou os recursos instalados do Filmora.
+
+Cabeca, bigode e nove corpos foram gerados como partes separadas.
+A cabeca nao tem gola/pescoco nem boca desenhada; o bigode e uma sobreposicao.
+Os corpos tem o proprio pescoco e as maos ficam integradas ao corpo.
+Os quatro antigos arquivos Frente sao transparentes nesta montagem.
+
+Cortes, keyframes, efeitos, audio e composicoes da sua re-edicao foram
+preservados. O WFP que voce enviou permanece intacto no repositorio.
+O projeto continua com 48,933 s; nao foi restaurado o encerramento antigo.
+
+A previa tecnica compara as pecas em movimento e nao reproduz os plugins
+proprietarios. O Filmora nao foi executado neste ambiente Linux.

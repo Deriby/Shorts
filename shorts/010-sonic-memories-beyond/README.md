@@ -1,8 +1,12 @@
 # Sonic e a harmonização facial
 
-## Referência atual — edição feita pelo usuário
+## Peças regeneradas e projeto atualizado
 
-O usuário reeditou o WFP para mostrar seu estilo e explicou os erros de recorte do corpo, cabeça e bigode. [Arquivo original preservado e leitura do estilo](production/edicao_usuario_01/README.md). Esta é a referência principal; [Recortes corrigidos em pacote de PNGs](production/correcao_recortes_01/README.md), preservando essa reedição.
+[Cópia do WFP com as peças geradas separadamente](production/recortes_regenerados_01/README.md). Sua reedição foi preservada; os pacotes de recorte anteriores continuam rejeitados. Prévia técnica e galeria disponíveis.
+
+## Referência de edição — edição feita pelo usuário
+
+O usuário reeditou o WFP para mostrar seu estilo e explicou os erros de recorte do corpo, cabeça e bigode. [Arquivo original preservado e leitura do estilo](production/edicao_usuario_01/README.md). Esta é a referência principal; A primeira tentativa de correção foi rejeitada. A versão atual usa peças regeneradas separadamente.
 
 ## Versão gerada anterior — Sonic V3 / cenas pela referência
 

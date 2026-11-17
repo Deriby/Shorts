@@ -1,0 +1,79 @@
+{
+  "parts_generated_separately": true,
+  "head_has_no_neck_or_clothing": true,
+  "moustache_has_no_face_or_skin": true,
+  "bodies_have_their_own_neck": true,
+  "hands_drawn_away_from_head_joint": true,
+  "old_foreground_residue_layers_replaced_with_transparent_pngs": true,
+  "canvas": [
+    1080,
+    1920
+  ],
+  "native_filmora_executed": false,
+  "motion_checked": true,
+  "motion_source": "Keyframes do WFP editado pelo usuario",
+  "motion_interval_seconds": [
+    20.9,
+    24.0
+  ],
+  "pose_checks_seconds": [
+    3.9,
+    6.4,
+    15.3,
+    18.7,
+    21.5,
+    23.0,
+    24.7,
+    26.4,
+    28.2
+  ],
+  "native_effects_simulated": false,
+  "joint_checks": [
+    {
+      "pose": "Corpo_04_apontando_esquerda_R3.png",
+      "head_body_overlap_pixels": 21072,
+      "assembled_main_components": 1
+    },
+    {
+      "pose": "Corpo_05_apontando_direita_R3.png",
+      "head_body_overlap_pixels": 20570,
+      "assembled_main_components": 1
+    },
+    {
+      "pose": "Corpo_06_apontando_cima_R3.png",
+      "head_body_overlap_pixels": 20592,
+      "assembled_main_components": 1
+    },
+    {
+      "pose": "Corpo_09_joinha_R3.png",
+      "head_body_overlap_pixels": 16026,
+      "assembled_main_components": 1
+    },
+    {
+      "pose": "Corpo_12_deu_de_ombros_R3.png",
+      "head_body_overlap_pixels": 16780,
+      "assembled_main_components": 1
+    },
+    {
+      "pose": "Corpo_15_fazendo_ressalva_R3.png",
+      "head_body_overlap_pixels": 16426,
+      "assembled_main_components": 1
+    },
+    {
+      "pose": "Corpo_16_desespero_R3.png",
+      "head_body_overlap_pixels": 19008,
+      "assembled_main_components": 1
+    },
+    {
+      "pose": "Corpo_20_tramando_R3.png",
+      "head_body_overlap_pixels": 19308,
+      "assembled_main_components": 1
+    },
+    {
+      "pose": "Corpo_24_apresentando_lado_R3.png",
+      "head_body_overlap_pixels": 19682,
+      "assembled_main_components": 1
+    }
+  ],
+  "all_nine_poses_form_one_connected_character": true
+}

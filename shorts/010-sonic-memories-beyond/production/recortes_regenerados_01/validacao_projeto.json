@@ -1,0 +1,80 @@
+{
+  "source_sha256": "bf145baeebb2087f05023716b7d9f5b351a4fcbda949715a1f000061e427d9c3",
+  "source_file_unchanged": true,
+  "project": "Massacote_Tube_Sonic_Pecas_Regeneradas.wfp",
+  "sha256": "d72ee9fa324679a6b658d08fd49c2cfe55458c0e0b0ad9995dbe2f96e9b07bc8",
+  "timeline_documents_verified": 5,
+  "all_timelines_semantically_unchanged_except_image_links": true,
+  "main_clips_preserved": 72,
+  "main_tracks_preserved": 35,
+  "duration_ticks_preserved": 489333333,
+  "cuts_keyframes_effects_audio_and_compositions_preserved": true,
+  "png_files": 15,
+  "new_filenames": true,
+  "new_image_hashes": true,
+  "thumbnails_updated": 15,
+  "untouched_media_paths_preserved": true,
+  "native_filmora_executed": false,
+  "files": {
+    "Frente_16_desespero.png": {
+      "file": "Frente_16_desespero_R3.png",
+      "sha256": "53dba76b88b6240ea7ca878ff04733b8c962802ff9ddf957c82d1df53e059dda"
+    },
+    "Corpo_24_apresentando_lado.png": {
+      "file": "Corpo_24_apresentando_lado_R3.png",
+      "sha256": "a42a3cb89417919beebe4564a0ea2c56f7da3189ff10683168bee9d5927eaf16"
+    },
+    "Cabeca.png": {
+      "file": "Cabeca_R3.png",
+      "sha256": "e2fe46046abbb639697c750a33cbdf6fcaa9b7328d0ed50ce4708bfc55140736"
+    },
+    "Frente_15_fazendo_ressalva.png": {
+      "file": "Frente_15_fazendo_ressalva_R3.png",
+      "sha256": "53dba76b88b6240ea7ca878ff04733b8c962802ff9ddf957c82d1df53e059dda"
+    },
+    "Frente_20_tramando.png": {
+      "file": "Frente_20_tramando_R3.png",
+      "sha256": "53dba76b88b6240ea7ca878ff04733b8c962802ff9ddf957c82d1df53e059dda"
+    },
+    "Corpo_16_desespero.png": {
+      "file": "Corpo_16_desespero_R3.png",
+      "sha256": "b1e23668cd79c340b2d1a00a677b77df5b46b639a60ee11822563fc1928e66eb"
+    },
+    "Corpo_09_joinha.png": {
+      "file": "Corpo_09_joinha_R3.png",
+      "sha256": "642af301dbc43c7dfaabf2dde8b180a5cb94890953e6e81f80de12bb77114494"
+    },
+    "Frente_12_deu_de_ombros.png": {
+      "file": "Frente_12_deu_de_ombros_R3.png",
+      "sha256": "53dba76b88b6240ea7ca878ff04733b8c962802ff9ddf957c82d1df53e059dda"
+    },
+    "Bigode.png": {
+      "file": "Bigode_R3.png",
+      "sha256": "debf9b338ca66b2146bd09577fc8a0526f5fe6d164bbfb648efe749f0f629195"
+    },
+    "Corpo_05_apontando_direita.png": {
+      "file": "Corpo_05_apontando_direita_R3.png",
+      "sha256": "f9022a61d62bb19d4a9ff4caceec42ec36f2994a252adebca6b88ae622e73510"
+    },
+    "Corpo_20_tramando.png": {
+      "file": "Corpo_20_tramando_R3.png",
+      "sha256": "a5cdde158540459bc53dc14ee2c1a98fd54e34b744941f9a8c03a1f783c21f8b"
+    },
+    "Corpo_12_deu_de_ombros.png": {
+      "file": "Corpo_12_deu_de_ombros_R3.png",
+      "sha256": "0a2221e2eacca452b4e7d975b161b230bf82be4ad5d0c333e6fcf156c5e2b2f8"
+    },
+    "Corpo_06_apontando_cima.png": {
+      "file": "Corpo_06_apontando_cima_R3.png",
+      "sha256": "22e2c22eb81387087258fa43cd6036ab5587f6651f9ac53b2594342a7a4d5ede"
+    },
+    "Corpo_15_fazendo_ressalva.png": {
+      "file": "Corpo_15_fazendo_ressalva_R3.png",
+      "sha256": "d4a6f35a481845903255f5d0f735d9151a3bd3764d698e6ea5d46cb6c8838ca2"
+    },
+    "Corpo_04_apontando_esquerda.png": {
+      "file": "Corpo_04_apontando_esquerda_R3.png",
+      "sha256": "954025685809d7634a31fb928849f9d206740c4c3abe62e6c46595a6b6be8c54"
+    }
+  }
+}
