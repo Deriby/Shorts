@@ -15,6 +15,7 @@
   "previous_generated_video": "revisao_v3_cenas/output/Massacote_Tube_Sonic_V3_9x16.mp4",
   "user_edit_duration_seconds": 48.9333333,
   "user_voice_clip_seconds": 31.1333333,
-  "cutout_corrections_status": "11 PNGs corrigidos e conferidos; WFP preservado; avaliação nativa/estética pendente",
-  "cutout_patch": "correcao_recortes_01/output/Atualizacao_Recortes_Sonic.zip"
+  "cutout_corrections_status": "rejeitadas pelo usuário; recorte modular ainda não resolvido; protótipos seguintes também rejeitados",
+  "cutout_patch": "correcao_recortes_01/output/Atualizacao_Recortes_Sonic.zip",
+  "cutout_patch_rejected": true
 }

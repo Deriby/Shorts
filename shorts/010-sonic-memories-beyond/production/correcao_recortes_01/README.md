@@ -1,4 +1,6 @@
-# Correção de recortes — corpo, cabeça e bigode
+# Recortes — pacote rejeitado
+
+**O usuário rejeitou esta correção: as sobras na junção do rosto com a gola continuam. Este pacote não resolve os recortes e não deve ser apresentado como versão corrigida.**
 
 [Baixar os 11 PNGs corrigidos](output/Atualizacao_Recortes_Sonic.zip).
 
