@@ -1,0 +1,387 @@
+{
+  "canvas": [
+    1024,
+    1536
+  ],
+  "head_pivot": [
+    466,
+    738
+  ],
+  "moustache_pivot": [
+    468,
+    515
+  ],
+  "eyes": [
+    {
+      "id": "13_esquerda",
+      "eyes": [
+        {
+          "side": 0,
+          "source_center": [
+            103.6825487944891,
+            314.6750861079219
+          ],
+          "scale": 0.78,
+          "placement": [
+            324,
+            180
+          ],
+          "registered_eye_center": [
+            405,
+            425
+          ]
+        },
+        {
+          "side": 1,
+          "source_center": [
+            79.34198895027625,
+            288.414364640884
+          ],
+          "scale": 0.78,
+          "placement": [
+            464,
+            178
+          ],
+          "registered_eye_center": [
+            526,
+            403
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14_direita",
+      "eyes": [
+        {
+          "side": 0,
+          "source_center": [
+            88.65644820295984,
+            313.14640591966173
+          ],
+          "scale": 0.78,
+          "placement": [
+            336,
+            181
+          ],
+          "registered_eye_center": [
+            405,
+            425
+          ]
+        },
+        {
+          "side": 1,
+          "source_center": [
+            61.696672122204035,
+            294.5979268957992
+          ],
+          "scale": 0.78,
+          "placement": [
+            478,
+            173
+          ],
+          "registered_eye_center": [
+            526,
+            403
+          ]
+        }
+      ]
+    },
+    {
+      "id": "15_cima",
+      "eyes": [
+        {
+          "side": 0,
+          "source_center": [
+            92.90577281191807,
+            307.9724394785847
+          ],
+          "scale": 0.78,
+          "placement": [
+            333,
+            185
+          ],
+          "registered_eye_center": [
+            405,
+            425
+          ]
+        },
+        {
+          "side": 1,
+          "source_center": [
+            66.99786050492084,
+            287.5541292255028
+          ],
+          "scale": 0.78,
+          "placement": [
+            474,
+            179
+          ],
+          "registered_eye_center": [
+            526,
+            403
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16_baixo",
+      "eyes": [
+        {
+          "side": 0,
+          "source_center": [
+            86.16203703703704,
+            311.75308641975306
+          ],
+          "scale": 0.78,
+          "placement": [
+            338,
+            182
+          ],
+          "registered_eye_center": [
+            405,
+            425
+          ]
+        },
+        {
+          "side": 1,
+          "source_center": [
+            64.37243735763099,
+            290.98576309794987
+          ],
+          "scale": 0.78,
+          "placement": [
+            476,
+            176
+          ],
+          "registered_eye_center": [
+            526,
+            403
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17_revirando",
+      "eyes": [
+        {
+          "side": 0,
+          "source_center": [
+            91.30455445544554,
+            308.5263366336634
+          ],
+          "scale": 0.78,
+          "placement": [
+            334,
+            184
+          ],
+          "registered_eye_center": [
+            405,
+            425
+          ]
+        },
+        {
+          "side": 1,
+          "source_center": [
+            67.11743486973948,
+            288.0496993987976
+          ],
+          "scale": 0.78,
+          "placement": [
+            474,
+            178
+          ],
+          "registered_eye_center": [
+            526,
+            403
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18_exausto",
+      "eyes": [
+        {
+          "side": 0,
+          "source_center": [
+            92.78571428571429,
+            294.1412087912088
+          ],
+          "scale": 0.78,
+          "placement": [
+            333,
+            196
+          ],
+          "registered_eye_center": [
+            405,
+            425
+          ]
+        },
+        {
+          "side": 1,
+          "source_center": [
+            69.03995953464846,
+            278.38745574102177
+          ],
+          "scale": 0.78,
+          "placement": [
+            472,
+            186
+          ],
+          "registered_eye_center": [
+            526,
+            403
+          ]
+        }
+      ]
+    },
+    {
+      "id": "19_tramando",
+      "eyes": [
+        {
+          "side": 0,
+          "source_center": [
+            89.22905682483889,
+            288.56473345049795
+          ],
+          "scale": 0.78,
+          "placement": [
+            335,
+            200
+          ],
+          "registered_eye_center": [
+            405,
+            425
+          ]
+        },
+        {
+          "side": 1,
+          "source_center": [
+            58.230881281864534,
+            270.7385287691187
+          ],
+          "scale": 0.78,
+          "placement": [
+            481,
+            192
+          ],
+          "registered_eye_center": [
+            526,
+            403
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20_incredulo",
+      "eyes": [
+        {
+          "side": 0,
+          "source_center": [
+            83.65774980330448,
+            288.02832415420926
+          ],
+          "scale": 0.78,
+          "placement": [
+            340,
+            200
+          ],
+          "registered_eye_center": [
+            405,
+            425
+          ]
+        },
+        {
+          "side": 1,
+          "source_center": [
+            67.09903181189489,
+            255.23319502074688
+          ],
+          "scale": 0.78,
+          "placement": [
+            474,
+            204
+          ],
+          "registered_eye_center": [
+            526,
+            403
+          ]
+        }
+      ]
+    },
+    {
+      "id": "21_panico",
+      "eyes": [
+        {
+          "side": 0,
+          "source_center": [
+            88.0458078845086,
+            277.38423098278736
+          ],
+          "scale": 0.78,
+          "placement": [
+            336,
+            209
+          ],
+          "registered_eye_center": [
+            405,
+            425
+          ]
+        },
+        {
+          "side": 1,
+          "source_center": [
+            64.21820728291317,
+            255.83249299719887
+          ],
+          "scale": 0.78,
+          "placement": [
+            476,
+            203
+          ],
+          "registered_eye_center": [
+            526,
+            403
+          ]
+        }
+      ]
+    },
+    {
+      "id": "22_determinado",
+      "eyes": [
+        {
+          "side": 0,
+          "source_center": [
+            89.670639219935,
+            287.86890574214516
+          ],
+          "scale": 0.78,
+          "placement": [
+            335,
+            200
+          ],
+          "registered_eye_center": [
+            405,
+            425
+          ]
+        },
+        {
+          "side": 1,
+          "source_center": [
+            71.23612512613522,
+            264.37083753784054
+          ],
+          "scale": 0.78,
+          "placement": [
+            470,
+            197
+          ],
+          "registered_eye_center": [
+            526,
+            403
+          ]
+        }
+      ]
+    }
+  ],
+  "shared_head": "../modular_01/rig/cabeca_limpa.png"
+}

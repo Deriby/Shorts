@@ -1,0 +1,12 @@
+{
+  "result": "ok",
+  "transport": "local_http",
+  "poses": 30,
+  "eye_states": 23,
+  "moustache_states": 3,
+  "all_thumbnails_loaded": true,
+  "silence_foreground": true,
+  "expression_switch": true,
+  "accented_search": true,
+  "javascript_errors": []
+}

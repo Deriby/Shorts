@@ -18,5 +18,12 @@
   "layered_face_assets_prepared": true,
   "style_first_approved_preview": "estudos_estilo/samurai_jack_v1/Previa_Massacote_Samurai_Jack.png",
   "animation_preview_approved_by_user": true,
-  "approval_feedback": "Ficou brabissimoooo"
+  "approval_feedback": "Ficou brabissimoooo",
+  "modular_expansion": "modular_02/catalogo.json",
+  "modular_expansion_status": "aguardando_avaliacao_do_usuario",
+  "modular_new_poses": 30,
+  "modular_new_eye_states": 10,
+  "modular_combined_poses": 40,
+  "modular_combined_eye_states": 23,
+  "modular_combined_catalog": "banco_catalogo.json"
 }

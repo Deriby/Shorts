@@ -1,0 +1,17 @@
+{
+  "result": "ok",
+  "new_poses": 30,
+  "new_eye_states": 10,
+  "combined_poses": 40,
+  "combined_eye_states": 23,
+  "new_library_pngs": 88,
+  "combined_unique_pngs": 110,
+  "same_head": true,
+  "same_moustache": true,
+  "previous_approved_assets_unchanged": 39,
+  "canvas": [
+    1024,
+    1536
+  ],
+  "native_filmora_tested": false
+}

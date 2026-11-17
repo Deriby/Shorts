@@ -1,0 +1,9 @@
+{
+  "generator": "image_gen",
+  "reference": "../modular_01/fontes/02_conversando.png",
+  "body_prompt_prefix": "Create ONE new BODY/GESTURE pose of the attached approved FACELESS mascot, for an additive modular animation library. Preserve the exact same angular Samurai Jack-inspired amateur digital drawing finish, short reddish hair, backward purple cap, ears, compact pointed chin goatee, warm skin, pale chain, dark plum jacket with red lining/stripes and the small RED M SHIELD on the dark shirt. KEEP THE ENTIRE HEAD/CAP/HAIR/NECK AT THE EXACT SAME COORDINATES, ANGLE AND SIZE as in the reference; do not turn, tilt or move the head. The full FACE MUST STAY BLANK SKIN, with NO eyes, eyebrows, eye lines, nose, moustache or mouth. Keep only face silhouette, ears and small chin goatee. Only change body/arms/hands according to the requested gesture. Entire cap, hair, jacket hem, BOTH hands and every fingertip must remain inside the 1024x1536 portrait canvas with clear margins; bend elbows as needed rather than cropping limbs. Hands should stay below the cap's top edge. Clear simple angular cartoon hands with consistent readable fingers and no extra limbs. Keep the red M crest on the shirt, allowing natural arm occlusion. True transparent background with no scenery, floor, halo, glow, shadows, objects, text, labels or signatures. Flat limited colors with at most a single simple hard-edged shadow; not 3D, glossy, airbrushed or a polished sticker. Same approved visual identity and framing. ",
+  "gestures": "plano_lote.json",
+  "new_drawings": 31,
+  "postprocessing": "ImageMagick: transparência, recorte por máscara, registro, composição; cabeça e bigode aprovados copiados sem redesenho.",
+  "approval": "Novas artes aguardam avaliação do usuário."
+}

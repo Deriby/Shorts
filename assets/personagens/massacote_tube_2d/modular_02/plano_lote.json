@@ -1,0 +1,299 @@
+{
+  "pose_count": 30,
+  "new_eye_count": 10,
+  "new_ids": [
+    11,
+    40
+  ],
+  "old_pose_count": 10,
+  "old_eye_count": 13,
+  "canonical_source": "../modular_01/fontes/02_conversando.png",
+  "canvas": [
+    1024,
+    1536
+  ],
+  "poses": [
+    {
+      "number": 11,
+      "id": "11_apontando_esquerda",
+      "title": "Apontando para a esquerda",
+      "category": "apontando",
+      "prompt": "One arm points horizontally toward IMAGE-LEFT with its index finger extended, elbow bent to keep the complete hand inside frame; other hand in pocket.",
+      "default_eyes": "13_esquerda"
+    },
+    {
+      "number": 12,
+      "id": "12_apontando_cima",
+      "title": "Apontando para cima",
+      "category": "apontando",
+      "prompt": "One bent arm raises an index finger pointing straight UP beside the shoulder, with the entire hand below the cap top; other hand on hip.",
+      "default_eyes": "15_cima"
+    },
+    {
+      "number": 13,
+      "id": "13_apontando_baixo",
+      "title": "Apontando para baixo",
+      "category": "apontando",
+      "prompt": "One bent forearm points an extended index finger clearly DOWN toward the lower right of the picture; other hand in pocket.",
+      "default_eyes": "16_baixo"
+    },
+    {
+      "number": 14,
+      "id": "14_apontando_camera",
+      "title": "Apontando para a câmera",
+      "category": "apontando",
+      "prompt": "A comic confident YOU gesture: one bent arm extends a foreshortened pointing hand toward the viewer/camera at chest height, index finger aimed toward camera; other hand on hip. Keep a clear readable hand silhouette.",
+      "default_eyes": "00_normal_base"
+    },
+    {
+      "number": 15,
+      "id": "15_apontando_dois_lados",
+      "title": "Apontando para os dois lados",
+      "category": "apontando",
+      "prompt": "Both elbows bent and both index fingers pointing OUTWARD toward opposite left/right sides, at chest height. All fingertips well inside frame.",
+      "default_eyes": "20_incredulo"
+    },
+    {
+      "number": 16,
+      "id": "16_apontando_diagonal",
+      "title": "Apontando na diagonal",
+      "category": "apontando",
+      "prompt": "One hand points diagonally toward upper IMAGE-RIGHT, the forearm lifted to shoulder level; other hand open near waist. Entire index finger below cap top.",
+      "default_eyes": "14_direita"
+    },
+    {
+      "number": 17,
+      "id": "17_apontando_para_si",
+      "title": "Apontando para si",
+      "category": "apontando",
+      "prompt": "Both elbows bent out, both THUMBS pointing inward at his own chest in a playful who-me or proud-me gesture. Do not obscure the whole red M crest.",
+      "default_eyes": "19_tramando"
+    },
+    {
+      "number": 18,
+      "id": "18_dedo_de_aviso",
+      "title": "Dedo de aviso",
+      "category": "apontando",
+      "prompt": "One index finger raised near the SIDE of the head as if delivering a caution, elbow tucked close to torso; other arm folded supporting the raised elbow. Finger does not touch or cover face.",
+      "default_eyes": "22_determinado"
+    },
+    {
+      "number": 19,
+      "id": "19_explicando_duas_palmas",
+      "title": "Explicando com as duas mãos",
+      "category": "apresentacao",
+      "prompt": "Both forearms held forward at stomach/chest height with open palms facing UP, as if carefully explaining two choices, shoulders relaxed. Not a shoulder-height shrug.",
+      "default_eyes": "00_normal_base"
+    },
+    {
+      "number": 20,
+      "id": "20_contando_dois",
+      "title": "Contando dois",
+      "category": "apresentacao",
+      "prompt": "One bent hand holds TWO fingers up (index and middle) beside the shoulder, palm toward viewer; other hand in pocket. Clearly two fingers plus folded remaining fingers.",
+      "default_eyes": "00_normal_base"
+    },
+    {
+      "number": 21,
+      "id": "21_contando_tres",
+      "title": "Contando três",
+      "category": "apresentacao",
+      "prompt": "One bent hand holds THREE fingers up for counting at chest height, other hand rests on hip. Clear readable three-finger silhouette with no extra fingers.",
+      "default_eyes": "00_normal_base"
+    },
+    {
+      "number": 22,
+      "id": "22_joinha_duplo",
+      "title": "Joinha duplo",
+      "category": "comica",
+      "prompt": "Both elbows bent and BOTH THUMBS UP at chest height in an exaggerated enthusiastic double-thumbs-up. Keep thumbs large and readable.",
+      "default_eyes": "19_tramando"
+    },
+    {
+      "number": 23,
+      "id": "23_negando_com_palmas",
+      "title": "Negando com as palmas",
+      "category": "reacao",
+      "prompt": "Both open palms face outward at CHEST height, elbows close to ribs, a comic no-no-wait gesture. Hands are away from face and below shoulders.",
+      "default_eyes": "20_incredulo"
+    },
+    {
+      "number": 24,
+      "id": "24_palmas_juntas",
+      "title": "Palmas juntas pedindo",
+      "category": "comica",
+      "prompt": "Both palms pressed together vertically at the CENTER CHEST, elbows pointing slightly out, fingers neatly upward but below chin, a comically pleading pose.",
+      "default_eyes": "15_cima"
+    },
+    {
+      "number": 25,
+      "id": "25_pedindo_silencio",
+      "title": "Pedindo silêncio",
+      "category": "comica",
+      "prompt": "One index finger held vertically in FRONT of the blank lower face, in a shhh gesture at the future moustache area (around x=470,y=500), the other hand on hip. Keep head fixed and face blank. This hand will be extracted as a foreground layer.",
+      "default_eyes": "19_tramando"
+    },
+    {
+      "number": 26,
+      "id": "26_maos_atras_nuca",
+      "title": "Mãos atrás da nuca",
+      "category": "comica",
+      "prompt": "Both hands resting BEHIND THE NECK/head in a relaxed cheeky pose, elbows spread outward but fully inside canvas. Hands largely hidden BEHIND the head, not in front of face; head stays exactly fixed.",
+      "default_eyes": "13_esquerda"
+    },
+    {
+      "number": 27,
+      "id": "27_tramando_maos",
+      "title": "Tramando com as mãos",
+      "category": "comica",
+      "prompt": "Hands close together at lower chest in a mischievous plotting gesture: one palm resting lightly against the other with neatly bent fingers, as if about to rub hands. Keep the two hands simple and distinct, no tangled extra fingers.",
+      "default_eyes": "19_tramando"
+    },
+    {
+      "number": 28,
+      "id": "28_bracinhos_trex",
+      "title": "Bracinhos de T-rex",
+      "category": "comica",
+      "prompt": "Comic tiny T-REX arms: elbows pressed close to ribs, forearms lifted short in front of chest, wrists bent downward and fingers curled loosely like little claws. Normal mascot anatomy; no dinosaur costume or props.",
+      "default_eyes": "20_incredulo"
+    },
+    {
+      "number": 29,
+      "id": "29_imitando_robo",
+      "title": "Imitando um robô",
+      "category": "comica",
+      "prompt": "Funny ROBOT gesture using normal arms: both elbows make sharp right angles, one forearm held upright at the side, the other held horizontally near stomach, flat hands with fingers together. No robot costume or props.",
+      "default_eyes": "22_determinado"
+    },
+    {
+      "number": 30,
+      "id": "30_desespero_palmas_cima",
+      "title": "Desespero com palmas para cima",
+      "category": "comica",
+      "prompt": "Dramatic comic why-me gesture: both forearms raised on OUTER sides of the head, palms open facing upward near EAR height. Do not cover the head or face, keep cap/head fixed and hands inside margins.",
+      "default_eyes": "21_panico"
+    },
+    {
+      "number": 31,
+      "id": "31_vitoria_punhos",
+      "title": "Vitória com os punhos",
+      "category": "comica",
+      "prompt": "Both fists lifted on the outer sides at SHOULDER height in an exaggerated victory celebration, elbows bent in a U shape, head stays fixed.",
+      "default_eyes": "08_assustado"
+    },
+    {
+      "number": 32,
+      "id": "32_recuando_assustado",
+      "title": "Recuando assustado",
+      "category": "reacao",
+      "prompt": "Startled defensive body pose: shoulders raised, elbows bent close, one open palm held forward at lower chest and the other near waist, torso drawn slightly back beneath the fixed head. No head movement.",
+      "default_eyes": "21_panico"
+    },
+    {
+      "number": 33,
+      "id": "33_cocando_nuca",
+      "title": "Coçando a nuca",
+      "category": "comica",
+      "prompt": "One hand reaches BEHIND the nape of the neck as if scratching awkwardly, that elbow to the side, other hand in pocket. Fingers hidden behind head, no hand over the face.",
+      "default_eyes": "18_exausto"
+    },
+    {
+      "number": 34,
+      "id": "34_abracando_a_si",
+      "title": "Abraçando a si mesmo",
+      "category": "comica",
+      "prompt": "Self-hug/shivering comic gesture: both arms wrap around the lower ribs/belly, each hand gripping the opposite side of the jacket below the chest, shoulders hunched slightly, head fixed. Different from ordinary chest-level crossed arms.",
+      "default_eyes": "17_revirando"
+    },
+    {
+      "number": 35,
+      "id": "35_maos_na_cintura",
+      "title": "Mãos na cintura",
+      "category": "apresentacao",
+      "prompt": "Both hands firmly on hips with elbows outward in a confident superhero-like stance. Same everyday clothes, no cape or props.",
+      "default_eyes": "22_determinado"
+    },
+    {
+      "number": 36,
+      "id": "36_apontando_pulso",
+      "title": "Apontando para o pulso",
+      "category": "comica",
+      "prompt": "Impatient time gesture: one forearm held horizontally across torso, opposite index finger points clearly at the bare wrist. Do NOT add a watch or any object. Head fixed; eyes will be chosen later.",
+      "default_eyes": "16_baixo"
+    },
+    {
+      "number": 37,
+      "id": "37_soco_na_palma",
+      "title": "Punho na palma",
+      "category": "reacao",
+      "prompt": "One clenched fist pressed gently into the other open palm at the center of the torso, a clear comic determined lets-do-this gesture. Distinct two hands; do not obscure the face.",
+      "default_eyes": "22_determinado"
+    },
+    {
+      "number": 38,
+      "id": "38_bracos_abertos",
+      "title": "Braços abertos convidando",
+      "category": "apresentacao",
+      "prompt": "Welcoming gesture: both arms open wide but elbows bent, palms facing forward/up, all hands inside canvas with generous margin. Head fixed.",
+      "default_eyes": "00_normal_base"
+    },
+    {
+      "number": 39,
+      "id": "39_encolhido_sem_graca",
+      "title": "Encolhido sem graça",
+      "category": "comica",
+      "prompt": "Shy embarrassed comic body language: shoulders drawn slightly inward, elbows against torso, both hands loosely clasped together LOW in front near the jacket hem. Head fixed.",
+      "default_eyes": "16_baixo"
+    },
+    {
+      "number": 40,
+      "id": "40_gesto_pinca_duplo",
+      "title": "Gesto de pinça com as mãos",
+      "category": "comica",
+      "prompt": "Both hands make an expressive pinched-fingertips storytelling gesture on either side of the torso at chest height, all fingertips gathered neatly, elbows bent. Hands away from face, no props.",
+      "default_eyes": "19_tramando"
+    }
+  ],
+  "eyes": [
+    {
+      "id": "13_esquerda",
+      "title": "Olhando para a esquerda"
+    },
+    {
+      "id": "14_direita",
+      "title": "Olhando para a direita"
+    },
+    {
+      "id": "15_cima",
+      "title": "Olhando para cima"
+    },
+    {
+      "id": "16_baixo",
+      "title": "Olhando para baixo"
+    },
+    {
+      "id": "17_revirando",
+      "title": "Revirando os olhos"
+    },
+    {
+      "id": "18_exausto",
+      "title": "Exausto"
+    },
+    {
+      "id": "19_tramando",
+      "title": "Tramando"
+    },
+    {
+      "id": "20_incredulo",
+      "title": "Incrédulo"
+    },
+    {
+      "id": "21_panico",
+      "title": "Em pânico"
+    },
+    {
+      "id": "22_determinado",
+      "title": "Determinado"
+    }
+  ]
+}
