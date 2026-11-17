@@ -1,0 +1,19 @@
+{
+  "status": "previa_aguardando_avaliacao",
+  "generated_by": "image_gen",
+  "basis": "Imagem anexada pelo usuario: avatar compacto, oculos 3D vermelho/azul, jaqueta roxa/vermelha e contorno de adesivo",
+  "image": "Previa_Massacote_Oculos_3D.png",
+  "size": [
+    1052,
+    1494
+  ],
+  "mode": "RGBA",
+  "transparent": true,
+  "sha256": "bff885ec27726fc876b434483d77692e01694fa9b37cebec2444963564476583",
+  "eyes_animation": false,
+  "mouth_rule": "Boca sempre coberta pelo bigode",
+  "intended_animation": "Poses, inclinacoes da cabeca e bigode guiado pela fala; lentes opacas fixas",
+  "existing_short_modified": false,
+  "existing_libraries_rebuilt": false,
+  "approval_pending": true
+}

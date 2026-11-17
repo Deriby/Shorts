@@ -25,5 +25,9 @@
   "modular_new_eye_states": 10,
   "modular_combined_poses": 40,
   "modular_combined_eye_states": 23,
-  "modular_combined_catalog": "banco_catalogo.json"
+  "modular_combined_catalog": "banco_catalogo.json",
+  "new_style_requested": "personagem compacto com oculos 3D e contorno de adesivo",
+  "latest_candidate": "estudos_estilo/oculos_3d_v1/Previa_Massacote_Oculos_3D.png",
+  "latest_candidate_status": "previa_aguardando_avaliacao",
+  "latest_candidate_eye_animation": false
 }
