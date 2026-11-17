@@ -1,0 +1,161 @@
+{
+  "source_project_sha256": "bf145baeebb2087f05023716b7d9f5b351a4fcbda949715a1f000061e427d9c3",
+  "source_project_byte_identical": true,
+  "original_project_unmodified": true,
+  "canvas_preserved": [
+    1080,
+    1920
+  ],
+  "eyes_hair_cap_pixels_unchanged": true,
+  "mustache_rgb_unchanged": true,
+  "no_new_art_in_final_assets": true,
+  "native_filmora_executed": false,
+  "current_user_edit_duration_seconds": 48.9333333,
+  "replaces_only_referenced_pngs": true,
+  "files": [
+    {
+      "file": "Corpo_04_apontando_esquerda.png",
+      "before_sha256": "97843af918f00b49f7afd50429f530c96640cab0a54973f81a540bfb26de2018",
+      "after_sha256": "920bce370f8826915d65c117d6eeca636c90cfbe8e2c766f98f7ee6c0080c0f5",
+      "removed_floating_pixels": 837,
+      "neck_underlap_pixels": 2001,
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "body_color_preserved": true
+    },
+    {
+      "file": "Corpo_05_apontando_direita.png",
+      "before_sha256": "f14dd0e0e0db5687d891c18e3136ead6b0d9f815bb011f3bc6c774625cfe86fe",
+      "after_sha256": "0c38644a41247ac80eb39cbc8731d2557dfc85ad9a2532d022ff2943bb1904ca",
+      "removed_floating_pixels": 1823,
+      "neck_underlap_pixels": 2005,
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "body_color_preserved": true
+    },
+    {
+      "file": "Corpo_06_apontando_cima.png",
+      "before_sha256": "0173b701d04cabdca0466c05559e0b90c1d9bd42b0578ed4e4d4ea6df7e6c6af",
+      "after_sha256": "e98972b77e462a854f3ee66ccc762c8e7208eed69639deab589b45793f6a5107",
+      "removed_floating_pixels": 2009,
+      "neck_underlap_pixels": 3602,
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "body_color_preserved": true
+    },
+    {
+      "file": "Corpo_09_joinha.png",
+      "before_sha256": "4b5f6eaabb0c2a4d3a07a9f126b4b11cc7b38c5ce967257314eb54398c8acbd8",
+      "after_sha256": "8ea4c0b4579eebd1f352d04f7b7b820a4aeafc28a31a87622cba5d5f7e2bb423",
+      "removed_floating_pixels": 2182,
+      "neck_underlap_pixels": 2368,
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "body_color_preserved": true
+    },
+    {
+      "file": "Corpo_12_deu_de_ombros.png",
+      "before_sha256": "f0ee484ebd67cad22228e0d596d80f57da99c6673e5899ee11801158ffe0cb6d",
+      "after_sha256": "07adc0669a685ca0886e06cba7cffba25ba702699ca42d677e9eb662e14404ed",
+      "removed_floating_pixels": 1830,
+      "neck_underlap_pixels": 4266,
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "body_color_preserved": true
+    },
+    {
+      "file": "Corpo_15_fazendo_ressalva.png",
+      "before_sha256": "a8106cab34218ea30373e53194e407eebf8faef71b1bcf32df0f76186077f1ba",
+      "after_sha256": "ce77453f319e48fd8bf25310405b8d2ae72623fa82bc808b60c9efea4c07ef95",
+      "removed_floating_pixels": 3390,
+      "neck_underlap_pixels": 2528,
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "body_color_preserved": true
+    },
+    {
+      "file": "Corpo_16_desespero.png",
+      "before_sha256": "0f5782a72c19e79a920952e3d3cfee605ca5f710f732c3ff4fdca30eacc7e24b",
+      "after_sha256": "f7bf5fa9e131ffc1c5e36c5fd861f2a9e51ca25082cb3944d35c83454f3629c4",
+      "removed_floating_pixels": 554,
+      "neck_underlap_pixels": 4329,
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "body_color_preserved": true
+    },
+    {
+      "file": "Corpo_20_tramando.png",
+      "before_sha256": "8440f87ddad497762b0b2f02da09470656247cc05f157f890cc60751aa514bf3",
+      "after_sha256": "344bc472fcfd4f0ac9e73f66e5c759fc62b911f127ef50807f409b328a3211a1",
+      "removed_floating_pixels": 1189,
+      "neck_underlap_pixels": 2496,
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "body_color_preserved": true
+    },
+    {
+      "file": "Corpo_24_apresentando_lado.png",
+      "before_sha256": "dae2a24f46ce773659bac6a1628c2bdee1d6edd00422c219ac4d1bc492558c12",
+      "after_sha256": "d6937c7b4ea10f9b3792a4a7fe3e06f7278b1654c2843b80a99e025bb5e0e411",
+      "removed_floating_pixels": 2186,
+      "neck_underlap_pixels": 3513,
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "body_color_preserved": true
+    },
+    {
+      "file": "Cabeca.png",
+      "before_sha256": "80fd6a894887bc09690a2c4d89876177580e464c953aa67fa962b98b8291ae42",
+      "after_sha256": "a34139ec9231aabec90858291112c0c290603f0fc9497732f3023d071f22c2aa",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "file": "Bigode.png",
+      "before_sha256": "03294c749125c43f0e89fb94e9012cceb76366e680034c6102f86199cd5caeaf",
+      "after_sha256": "9dbb88a562b67ec75562248721f640263c44a35901753a115921d7e46bd96076",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    }
+  ],
+  "motion_checked": true,
+  "motion_source": "Keyframes do WFP editado pelo usuario",
+  "motion_interval_seconds": [
+    20.9,
+    24.0
+  ],
+  "pose_checks_seconds": [
+    3.9,
+    6.4,
+    15.3,
+    18.7,
+    21.5,
+    23.0,
+    24.7,
+    26.4,
+    28.2
+  ],
+  "native_effects_simulated": false
+}

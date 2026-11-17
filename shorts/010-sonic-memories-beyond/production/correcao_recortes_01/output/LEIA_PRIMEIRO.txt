@@ -1,0 +1,18 @@
+ATUALIZACAO DOS RECORTES — SONIC / EDICAO DO USUARIO
+
+Este ZIP tem somente PNGs corrigidos. Nao e um projeto completo.
+Feche o Filmora e guarde uma copia da pasta midias atual.
+Copie os PNGs da pasta midias deste ZIP para a pasta midias que seu WFP ja usa,
+substituindo somente esses mesmos nomes. Reabra o seu WFP reeditado.
+As demais midias continuam na pasta original. Nenhum WFP e sobrescrito.
+
+Corrigidos: fragmentos acima do bone nas camadas do corpo, sobras de gola
+na cabeca, encaixe do pescoco e isolamento do bigode. As cores e desenhos
+vem das pecas originais, com canvas 1080x1920 e alinhamento preservados.
+Bochecha/queixo ficam na cabeca; somente o bigode acompanha a fala.
+Olhos, cabelo e bone permanecem identicos aos originais.
+
+Sua edicao (cortes, duracao, som, bordas, fundos e efeitos nativos) fica intacta.
+O WFP recebido foi preservado com hash em recebido/, no repositorio.
+Os recortes foram conferidos por sobreposicao e em movimento; os plugins
+proprietarios nao foram renderizados neste Linux.

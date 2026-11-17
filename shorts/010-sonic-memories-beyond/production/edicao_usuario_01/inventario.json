@@ -32,5 +32,7 @@
     "cabeca com recorte inadequado e partes da gola/pescoco",
     "bigode com residuos de bochecha/queixo e bordas"
   ],
-  "correction_not_delivered_or_approved": true
+  "correction_not_delivered_or_approved": false,
+  "correction_package": "../correcao_recortes_01/output/Atualizacao_Recortes_Sonic.zip",
+  "correction_approved_by_user": false
 }

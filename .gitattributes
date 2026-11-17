@@ -70,3 +70,6 @@ shorts/010-sonic-memories-beyond/production/revisao_v2_refTube/output/Filmora/mi
 shorts/010-sonic-memories-beyond/production/revisao_v2_refTube/output/Massacote_Tube_Sonic_V2_Filmora_Completo.zip filter=lfs diff=lfs merge=lfs -text
 shorts/010-sonic-memories-beyond/production/revisao_v3_cenas/output/Filmora/midias/*.png filter=lfs diff=lfs merge=lfs -text
 shorts/010-sonic-memories-beyond/production/revisao_v3_cenas/output/Massacote_Tube_Sonic_V3_Filmora_Completo.zip filter=lfs diff=lfs merge=lfs -text
+
+shorts/010-sonic-memories-beyond/production/correcao_recortes_01/output/midias/*.png filter=lfs diff=lfs merge=lfs -text
+shorts/010-sonic-memories-beyond/production/correcao_recortes_01/output/Atualizacao_Recortes_Sonic.zip filter=lfs diff=lfs merge=lfs -text

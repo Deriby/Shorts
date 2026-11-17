@@ -19,3 +19,7 @@ O usuário reeditou o WFP da V3 para mostrar seu estilo. O arquivo em `recebido/
 Os recortes anteriores não estão aprovados. O usuário esclareceu que estava explicando os defeitos e o estilo; nenhuma nova correção foi entregue ou aprovada nesta etapa. Ensaios locais ficam fora desta referência e não devem ser promovidos a entrega. Não iniciar nova edição nem trocar os desenhos automaticamente.
 
 O inventário é uma leitura da estrutura do WFP; os plugins não foram executados neste Linux e não houve MP4 da reedição enviado. O arquivo referencia mídias do pacote V3, um JPEG original, um novo vídeo final e um recurso instalado do Filmora no PC do usuário. Este WFP isolado não é um pacote portátil completo.
+
+## Correção entregue posteriormente
+
+Após o usuário cobrar a correção, foram preparados [11 PNGs de substituição](../correcao_recortes_01/README.md). O WFP aqui recebido continua intacto e prioritário como referência de edição.

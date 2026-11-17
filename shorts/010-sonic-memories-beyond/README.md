@@ -2,7 +2,7 @@
 
 ## Referência atual — edição feita pelo usuário
 
-O usuário reeditou o WFP para mostrar seu estilo e explicou os erros de recorte do corpo, cabeça e bigode. [Arquivo original preservado e leitura do estilo](production/edicao_usuario_01/README.md). Esta é a referência principal; recortes ainda pendentes, sem nova correção entregue.
+O usuário reeditou o WFP para mostrar seu estilo e explicou os erros de recorte do corpo, cabeça e bigode. [Arquivo original preservado e leitura do estilo](production/edicao_usuario_01/README.md). Esta é a referência principal; [Recortes corrigidos em pacote de PNGs](production/correcao_recortes_01/README.md), preservando essa reedição.
 
 ## Versão gerada anterior — Sonic V3 / cenas pela referência
 
