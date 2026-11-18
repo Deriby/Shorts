@@ -1,5 +1,7 @@
 # TED virou DESENHO
 
+**Entrega atual:** [revisão 2 com os zooms no rosto, saídas animadas e áudio reconstruído](revisao_02/README.md). A primeira montagem está abaixo.
+
 - [Assistir ou baixar o MP4 vertical](output/TED_virou_DESENHO_9x16.mp4)
 - [Baixar o projeto Filmora e todas as mídias](output/TED_virou_DESENHO_Filmora_Completo.zip)
 

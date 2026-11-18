@@ -1,0 +1,17 @@
+TED virou DESENHO · Revisão 2
+
+Extraia o ZIP inteiro antes de abrir o WFP. Mantenha midias junto ao projeto.
+
+TED_virou_DESENHO_R2_9x16.wfp usa seu fundo geométrico do Filmora, com os ajustes
+do arquivo que você enviou. Ele depende desse fundo instalado no catálogo.
+TED_virou_DESENHO_R2_Fundo_Local_9x16.wfp usa o fundo azul/rosa que acompanha
+a prévia MP4. Use essa versão caso o fundo de catálogo não seja encontrado.
+
+Whoosh, swoosh, voz, trilha curta, clique, meme e impacto têm faixas de áudio
+independentes em WAV PCM de 16 bits, estéreo, 48 kHz, com volume e ducking do Filmora.
+Ducking inicia desligado. O WAV original está na pasta Filmora. O sinal de abertura
+e a batida grave foram recriados porque os binários de catálogo não vieram no envio.
+
+O MP4 usa curvas e composição locais. As transições e os efeitos proprietários
+como Glow, Text Vibrate e Grunge_Jitter estão no WFP. A abertura e a interface
+do Filmora ainda precisam ser verificadas no aplicativo.

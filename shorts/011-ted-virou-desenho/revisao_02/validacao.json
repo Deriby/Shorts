@@ -1,0 +1,127 @@
+{
+  "mp4": {
+    "file": "TED_virou_DESENHO_R2_9x16.mp4",
+    "sha256": "dbbdcc898efb42f3f66d15ea92a95251beb15f81166e3f5cc7a1a495e802f5c7",
+    "frames": 1178,
+    "seconds": 39.266666666666666,
+    "size": [
+      1080,
+      1920
+    ],
+    "fps": 30,
+    "decoded": true,
+    "audio_correlation": 0.999993325016152
+  },
+  "projects": [
+    {
+      "file": "TED_virou_DESENHO_R2_9x16.wfp",
+      "sha256": "d343e29633e7ce91d6793761c7a9c05bc53670a4d0d0dddf5fdcb8c4099bd36f",
+      "local_bindings": 114,
+      "native_stock_background": true,
+      "effects": {
+        "Glow": 4,
+        "Text Vibrate": 3,
+        "Grunge_Jitter": 3
+      },
+      "audio": [
+        "A62_Huh_PCM16.wav",
+        "Clique_PCM16.wav",
+        "Impacto_Grave_PCM16.wav",
+        "Stinger_Animacao_PCM16.wav",
+        "Swoosh_Saida_PCM16.wav",
+        "Voz_Editavel_PCM16.wav",
+        "Whoosh_Entrada_PCM16.wav"
+      ],
+      "native_app_tested": false
+    },
+    {
+      "file": "TED_virou_DESENHO_R2_Fundo_Local_9x16.wfp",
+      "sha256": "6700724e58e888d85a9da5acaa9b0a005d4b2fbeae91af6646bf9738590faa5c",
+      "local_bindings": 117,
+      "native_stock_background": false,
+      "effects": {
+        "Glow": 4,
+        "Text Vibrate": 3,
+        "Grunge_Jitter": 3
+      },
+      "audio": [
+        "A62_Huh_PCM16.wav",
+        "Clique_PCM16.wav",
+        "Impacto_Grave_PCM16.wav",
+        "Stinger_Animacao_PCM16.wav",
+        "Swoosh_Saida_PCM16.wav",
+        "Voz_Editavel_PCM16.wav",
+        "Whoosh_Entrada_PCM16.wav"
+      ],
+      "native_app_tested": false
+    }
+  ],
+  "holds": [
+    {
+      "name": "Choque",
+      "visible": [
+        7.133333333333334,
+        8.6
+      ],
+      "correlation": [
+        0.9983,
+        0.9982,
+        0.9982
+      ]
+    },
+    {
+      "name": "Desconfianca",
+      "visible": [
+        37.266666666666666,
+        39.266666666666666
+      ],
+      "correlation": [
+        0.9983,
+        0.9981,
+        0.9981
+      ]
+    }
+  ],
+  "verified_pcm16": {
+    "Voz_Editavel_PCM16.wav": {
+      "samples": 1883435,
+      "rms_dbfs": -22.7,
+      "timeline_rms_dbfs": -17.7
+    },
+    "Stinger_Animacao_PCM16.wav": {
+      "samples": 57600,
+      "rms_dbfs": -21.05,
+      "timeline_rms_dbfs": -38.05
+    },
+    "Impacto_Grave_PCM16.wav": {
+      "samples": 148800,
+      "rms_dbfs": -25.06,
+      "timeline_rms_dbfs": -37.06
+    },
+    "Whoosh_Entrada_PCM16.wav": {
+      "samples": 17760,
+      "rms_dbfs": -25.0,
+      "timeline_rms_dbfs": -30.0
+    },
+    "Clique_PCM16.wav": {
+      "samples": 9600,
+      "rms_dbfs": -33.0,
+      "timeline_rms_dbfs": -36.0
+    },
+    "A62_Huh_PCM16.wav": {
+      "samples": 22080,
+      "rms_dbfs": -36.0,
+      "timeline_rms_dbfs": -36.0
+    },
+    "Swoosh_Saida_PCM16.wav": {
+      "samples": 19200,
+      "rms_dbfs": -17.21,
+      "timeline_rms_dbfs": -26.21
+    }
+  },
+  "voice_samples": 1883435,
+  "source_refs": {
+    "ted": "c09a4e185ddc39bae36f5fc383dfa510f993b21b807f5bd0b0229ddf0663a557",
+    "sonic": "0fd91b3e517e3bd48c7e7391bd1ba7783b28b20295cf962c9eadf1d22369143e"
+  }
+}

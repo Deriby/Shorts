@@ -80,3 +80,6 @@ shorts/010-sonic-memories-beyond/production/recortes_regenerados_01/output/*.zip
 # Entrega vertical do Massacote Tube.
 shorts/011-ted-virou-desenho/output/TED_virou_DESENHO_Filmora_Completo.zip filter=lfs diff=lfs merge=lfs -text
 shorts/011-ted-virou-desenho/output/Filmora/midias/*.png filter=lfs diff=lfs merge=lfs -text
+
+shorts/011-ted-virou-desenho/revisao_02/output/TED_virou_DESENHO_R2_Filmora_Completo.zip filter=lfs diff=lfs merge=lfs -text
+shorts/011-ted-virou-desenho/revisao_02/output/Filmora/midias/*.png filter=lfs diff=lfs merge=lfs -text

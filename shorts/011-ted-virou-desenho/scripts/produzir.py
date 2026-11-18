@@ -384,10 +384,11 @@ def render(p, temp, preview):
         else:
             sources[name] = im, 0., 0.
 
-    checkpoints = {round(at(t)*FPS) for t in (
+    default_checkpoints = (
         0,.5,.98,1.4,3.60,4.84,6.95,7.55,8.35,10.55,11.49,12.7,14.98,16.57,17.48,
         18.66,20.72,22.33,22.86,23.76,24.64,25.66,27.4,29.33,31.87,33.15,34.5,35.8,36.7,37.28,38.9
-    )}
+    )
+    checkpoints = {round(at(t)*FPS) for t in p.get('preview_seconds', default_checkpoints)}
     video = temp/'sem_audio.mp4'
     if not preview:
         proc = subprocess.Popen([
@@ -451,6 +452,10 @@ def render(p, temp, preview):
         return
     proc.stdin.close()
     assert proc.wait() == 0
+    mix_export(p,temp,video)
+
+
+def mix_export(p, temp, video):
     mix = np.zeros((round(p['duration']*SR), 2), dtype=np.float64)
     for e in p['events']:
         if e['track'] in VISUAL_TRACKS:
@@ -460,7 +465,7 @@ def render(p, temp, preview):
         start = round(e['start']*SR)
         n = round((e['end']-e['start'])*SR)
         assert n <= len(samples) and n + start <= len(mix), (e, len(samples))
-        mix[start:start+n] += samples[:n]
+        mix[start:start+n] += samples[:n] * 10**(e.get('mix_gain_db', 0)/20)
     assert abs(mix).max() < .98
     sf.write(temp/'mix.wav', mix, SR, subtype='PCM_24')
     ff('-i',video,'-i',temp/'mix.wav','-map','0:v','-map','1:a','-c:v','copy','-c:a','aac',
