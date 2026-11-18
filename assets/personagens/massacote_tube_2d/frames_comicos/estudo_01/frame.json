@@ -1,0 +1,25 @@
+{
+  "type": "previa_de_frame_comico",
+  "status": "aguardando_avaliacao_do_usuario",
+  "style": "close hiper-detalhado / gross-up / realismo ilustrado",
+  "reaction": "constrangimento nervoso / desespero",
+  "file": "Frame_01_Constrangimento_HiperDetalhado.png",
+  "width": 941,
+  "height": 1672,
+  "sha256": "d623145838736d666cf74085054dd2baa8341a760e7cd67264ae1023df4df7a4",
+  "reference": "estudos_estilo/oculos_3d_v1/Previa_Massacote_Oculos_3D.png",
+  "source": "image_gen",
+  "source_unchanged": true,
+  "opaque_full_frame": true,
+  "mouth_hidden_by_moustache": true,
+  "red_blue_glasses_preserved": true,
+  "normal_character_design_unchanged": true,
+  "tags": [
+    "gross-up",
+    "zoom",
+    "reacao",
+    "nervosismo",
+    "suor",
+    "comedia"
+  ]
+}
