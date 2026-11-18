@@ -1,0 +1,296 @@
+{
+  "canvas": [
+    1080,
+    1920
+  ],
+  "poses": [
+    {
+      "pose": "04_apontando_esquerda",
+      "source": "poses_1.png",
+      "neck_box": [
+        367,
+        21,
+        85,
+        136
+      ],
+      "placement": [
+        [
+          1.0558464527130127,
+          0.0,
+          108.06782531738281
+        ],
+        [
+          0.0,
+          1.0558464527130127,
+          929.8272094726562
+        ]
+      ],
+      "merged": "Poses/04_apontando_esquerda.png",
+      "body": "Camadas/Corpo_04_apontando_esquerda.png",
+      "body_sha256": "29bfd62041153504de9df552914e4d58db4a095b9f5e2a8a1453e4c04453c667",
+      "png_sha256": "364cadca3a8336d9e0e2083efe0315c82051d3f7540b216cdc5e7796c7d3137e",
+      "bounds": [
+        109,
+        477,
+        840,
+        1556
+      ]
+    },
+    {
+      "pose": "05_apontando_direita",
+      "source": "poses_1.png",
+      "neck_box": [
+        243,
+        21,
+        84,
+        135
+      ],
+      "placement": [
+        [
+          1.0558464527130127,
+          0.0,
+          239.2775115966797
+        ],
+        [
+          0.0,
+          1.0558464527130127,
+          929.8272094726562
+        ]
+      ],
+      "merged": "Poses/05_apontando_direita.png",
+      "body": "Camadas/Corpo_05_apontando_direita.png",
+      "body_sha256": "244c725cd3e598ac8b8d8fc8becb2b76c1d28f349151dd5077621e93fce41080",
+      "png_sha256": "001305c03ff1f73b7b47507951e3cf204ab5f063045df8f55a564a8d24e2e938",
+      "bounds": [
+        216,
+        477,
+        977,
+        1556
+      ]
+    },
+    {
+      "pose": "06_apontando_cima",
+      "source": "06_apontando_cima.png",
+      "neck_box": [
+        447,
+        33,
+        142,
+        227
+      ],
+      "placement": [
+        [
+          0.6068204641342163,
+          0.0,
+          225.14088439941406
+        ],
+        [
+          0.0,
+          0.6068204641342163,
+          931.9749145507812
+        ]
+      ],
+      "merged": "Poses/06_apontando_cima.png",
+      "body": "Camadas/Corpo_06_apontando_cima.png",
+      "body_sha256": "ec8c7872f9fb280c773f3cc926e2cb35f85f94047e9ecf5c2ebddc5f101f1f5a",
+      "png_sha256": "5a67780087cf3a75667aa0b6f74743be48c3eee3f55f4aae27f011340cecd33c",
+      "bounds": [
+        216,
+        477,
+        896,
+        1557
+      ]
+    },
+    {
+      "pose": "09_joinha",
+      "source": "09_joinha.png",
+      "neck_box": [
+        481,
+        25,
+        147,
+        300
+      ],
+      "placement": [
+        [
+          0.5224525332450867,
+          0.0,
+          249.72317504882812
+        ],
+        [
+          0.0,
+          0.5224525332450867,
+          938.9386596679688
+        ]
+      ],
+      "merged": "Poses/09_joinha.png",
+      "body": "Camadas/Corpo_09_joinha.png",
+      "body_sha256": "9c9c472ae8bc98d2232d34e60b8b4ccd9a9e213fba1b63aafec8ad4414e8eaca",
+      "png_sha256": "59e0c10f087dbc1dcb98665183697b6b232dd79f7eff6820116e5072c7cb4d34",
+      "bounds": [
+        216,
+        477,
+        838,
+        1557
+      ]
+    },
+    {
+      "pose": "12_deu_de_ombros",
+      "source": "poses_2.png",
+      "neck_box": [
+        337,
+        14,
+        77,
+        147
+      ],
+      "placement": [
+        [
+          1.0632688999176025,
+          0.0,
+          140.28260803222656
+        ],
+        [
+          0.0,
+          1.0632688999176025,
+          937.1142578125
+        ]
+      ],
+      "merged": "Poses/12_deu_de_ombros.png",
+      "body": "Camadas/Corpo_12_deu_de_ombros.png",
+      "body_sha256": "35aa79019f0f81c4cc226f60e7f83dfdf741b1c64086c105f40d29d15a405a62",
+      "png_sha256": "184f1246ce20bbbe34bcacda83b72236b37f03c73f0fa1c9284cfada83c5a85c",
+      "bounds": [
+        141,
+        477,
+        936,
+        1556
+      ]
+    },
+    {
+      "pose": "15_fazendo_ressalva",
+      "source": "15_fazendo_ressalva.png",
+      "neck_box": [
+        513,
+        24,
+        155,
+        311
+      ],
+      "placement": [
+        [
+          0.5229040384292603,
+          0.0,
+          231.05355834960938
+        ],
+        [
+          0.0,
+          0.5229040384292603,
+          939.4503173828125
+        ]
+      ],
+      "merged": "Poses/15_fazendo_ressalva.png",
+      "body": "Camadas/Corpo_15_fazendo_ressalva.png",
+      "body_sha256": "f2117a58e1b34e12e211ee6d811f8b2dadebcf22a8527f9727b913c00f0f758e",
+      "png_sha256": "f16b504764f26118097af4ffdd9d30563f63ae59da5fd0d79eb17d7fa90503c6",
+      "bounds": [
+        216,
+        477,
+        838,
+        1557
+      ]
+    },
+    {
+      "pose": "16_desespero",
+      "source": "poses_3.png",
+      "neck_box": [
+        311,
+        11,
+        80,
+        129
+      ],
+      "placement": [
+        [
+          1.0765124559402466,
+          0.0,
+          162.10240173339844
+        ],
+        [
+          0.0,
+          1.0765124559402466,
+          940.1583862304688
+        ]
+      ],
+      "merged": "Poses/16_desespero.png",
+      "body": "Camadas/Corpo_16_desespero.png",
+      "body_sha256": "40e16f5fce5dfe933e7375f9000876cacce22a7d9d36a29cb4bb0da415e072a3",
+      "png_sha256": "4225d09070795291e5930c746b1f0a605eb2238aafdb4bd169ed2fa4b68a17eb",
+      "bounds": [
+        163,
+        477,
+        915,
+        1556
+      ]
+    },
+    {
+      "pose": "20_tramando",
+      "source": "20_tramando.png",
+      "neck_box": [
+        515,
+        25,
+        160,
+        253
+      ],
+      "placement": [
+        [
+          0.5349248647689819,
+          0.0,
+          221.287353515625
+        ],
+        [
+          0.0,
+          0.5349248647689819,
+          938.6268920898438
+        ]
+      ],
+      "merged": "Poses/20_tramando.png",
+      "body": "Camadas/Corpo_20_tramando.png",
+      "body_sha256": "a20cc42217ca4050a3a5979d777f0e2873b1abe9ce353bf04a59e457cd736875",
+      "png_sha256": "ccdd16e085adbd8a6a0967019d39965e83724e67aece2cee5caaa39eadc167de",
+      "bounds": [
+        216,
+        477,
+        847,
+        1557
+      ]
+    },
+    {
+      "pose": "24_apresentando_lado",
+      "source": "24_apresentando_lado.png",
+      "neck_box": [
+        398,
+        27,
+        131,
+        218
+      ],
+      "placement": [
+        [
+          0.6217882633209229,
+          0.0,
+          251.435302734375
+        ],
+        [
+          0.0,
+          0.6217882633209229,
+          935.2117309570312
+        ]
+      ],
+      "merged": "Poses/24_apresentando_lado.png",
+      "body": "Camadas/Corpo_24_apresentando_lado.png",
+      "body_sha256": "0e744f002308d1ddfb72cd1866c9d78dc9eb3a7cacb1db9df5031ee76d6f23fe",
+      "png_sha256": "24faae236555f570adfdf4c0380d4644b3277f60c05ef922a46a142598368e51",
+      "bounds": [
+        216,
+        477,
+        991,
+        1557
+      ]
+    }
+  ]
+}

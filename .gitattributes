@@ -89,3 +89,5 @@ shorts/011-ted-virou-desenho/revisao_03/output/Filmora/midias/*.png filter=lfs d
 
 shorts/012-o-novo-garfield/output/O_Novo_Garfield_Filmora.zip filter=lfs diff=lfs merge=lfs -text
 shorts/012-o-novo-garfield/output/Filmora/midias/*.png filter=lfs diff=lfs merge=lfs -text
+
+assets/personagens/massacote_tube_2d/poses_cinco_dedos/output/Massacote_2D_5_Dedos.zip filter=lfs diff=lfs merge=lfs -text
