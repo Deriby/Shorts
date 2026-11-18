@@ -16,7 +16,11 @@
   "transfer_limit_bytes": 33554432,
   "http_transfer_result": "403 Forbidden na conexao do proxy; host fora da allowlist do ambiente",
   "browser_fallback_result": "the gaas-browser node_repl sandbox cannot be disabled",
-  "next_step": "Liberar drive.usercontent.google.com nas configuracoes de rede do ambiente e baixar pelo link original, sem exigir que o usuario divida ou reenvie o ZIP. Depois produzir o short ja autorizado.",
+  "next_step": "A autorizacao ja foi dada. Aplicar a liberacao do host pelo painel de configuracoes do ambiente, pois esta sessao nao oferece ferramenta para editar a politica; depois baixar pelo link original e produzir o short, sem pedir nova aprovacao ou divisao do ZIP.",
   "user_prefers_original_drive_link": true,
-  "direct_drive_download_test": "HTTP CONNECT 403 para drive.google.com e drive.usercontent.google.com"
+  "direct_drive_download_test": "HTTP CONNECT 403 para drive.google.com e drive.usercontent.google.com",
+  "network_host_release_user_approved": true,
+  "approved_network_host": "drive.usercontent.google.com",
+  "environment_network_edit_tool_available": false,
+  "approved_download_retry": "require_escalated executado; download continua bloqueado por HTTP CONNECT 403"
 }
