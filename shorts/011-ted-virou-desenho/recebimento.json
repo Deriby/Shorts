@@ -3,24 +3,86 @@
   "drive_id": "1KVYN09XWw_L1hs38SwaXAXrZhK8ELkec",
   "drive_url": "https://drive.google.com/file/d/1KVYN09XWw_L1hs38SwaXAXrZhK8ELkec/view",
   "file_name": "TED virou DESENHO.zip",
-  "mime_type": "application/zip",
   "expected_bytes": 41237797,
+  "downloaded_bytes": 41237797,
+  "sha256": "0e4be53c9568ab1f789b1714b602ea8094238893b1240098aaf8ab0943787a7a",
+  "zip_crc_verified": true,
+  "path_safety_checked": true,
+  "network": "Irrestrita, aplicada e testada com o endpoint oficial do Drive",
+  "direct_drive_download_status": 200,
+  "reference_main_commit": "e77cace1744585f322d7d1c434a461326245e726",
+  "archive_contents_inspected": true,
+  "voice_inspected": true,
+  "voice_samples": 1883435,
+  "voice_sample_rate": 48000,
+  "trailer_seconds": 134.134,
   "production_authorized": true,
-  "status": "aguarda_liberacao_de_rede_para_download_direto",
-  "connector_raw_file_reference_obtained": true,
-  "local_archive_downloaded": false,
-  "voice_inspected": false,
-  "archive_contents_inspected": false,
-  "short_rendered": false,
   "filmora_native_executed": false,
-  "transfer_limit_bytes": 33554432,
-  "http_transfer_result": "403 Forbidden na conexao do proxy; host fora da allowlist do ambiente",
-  "browser_fallback_result": "the gaas-browser node_repl sandbox cannot be disabled",
-  "next_step": "A autorizacao ja foi dada. Aplicar a liberacao do host pelo painel de configuracoes do ambiente, pois esta sessao nao oferece ferramenta para editar a politica; depois baixar pelo link original e produzir o short, sem pedir nova aprovacao ou divisao do ZIP.",
-  "user_prefers_original_drive_link": true,
-  "direct_drive_download_test": "HTTP CONNECT 403 para drive.google.com e drive.usercontent.google.com",
-  "network_host_release_user_approved": true,
-  "approved_network_host": "drive.usercontent.google.com",
-  "environment_network_edit_tool_available": false,
-  "approved_download_retry": "require_escalated executado; download continua bloqueado por HTTP CONNECT 403"
+  "members": [
+    {
+      "name": "TED virou DESENHO/1 voz.wav",
+      "bytes": 7533784,
+      "crc32": "c3aed1ff"
+    },
+    {
+      "name": "TED virou DESENHO/99e0d8607df8b6cc00b368cf0df2cdad.jpg",
+      "bytes": 19184,
+      "crc32": "60c27b5d"
+    },
+    {
+      "name": "TED virou DESENHO/a-ted-shitpost-v0-MGQwbWUzM2hwc3NoMYukN83eDdztHtNSePvxdjX8bWDnxi7ShRlTXfz1tYV1.png",
+      "bytes": 26384,
+      "crc32": "9dba96a5"
+    },
+    {
+      "name": "TED virou DESENHO/fcb27c7bc5db804d43ce5241b26e6919.jpg",
+      "bytes": 97802,
+      "crc32": "ea3d38ea"
+    },
+    {
+      "name": "TED virou DESENHO/images (1).jpg",
+      "bytes": 38366,
+      "crc32": "9f622851"
+    },
+    {
+      "name": "TED virou DESENHO/images.jpg",
+      "bytes": 17525,
+      "crc32": "cfddca31"
+    },
+    {
+      "name": "TED virou DESENHO/Meg-Family-Guy-meme-6.jpg",
+      "bytes": 247155,
+      "crc32": "358e79aa"
+    },
+    {
+      "name": "TED virou DESENHO/meme.jpg",
+      "bytes": 67352,
+      "crc32": "5d52f0f3"
+    },
+    {
+      "name": "TED virou DESENHO/MV5BNTZlMGQ1YjEtMzVlNC00ZmMxLTk0MzgtZjdkYTU1NmUxNTQ0XkEyXkFqcGc@._V1_.jpg",
+      "bytes": 2109671,
+      "crc32": "f33086b1"
+    },
+    {
+      "name": "TED virou DESENHO/Screenshot_1.png",
+      "bytes": 164410,
+      "crc32": "5fed7fa9"
+    },
+    {
+      "name": "TED virou DESENHO/Ted; The Animated Series ¦ Official Trailer ¦ Peacock Original (1080p_24fps_H264-128kbit_AAC).mp4",
+      "bytes": 27613276,
+      "crc32": "e22f6411"
+    },
+    {
+      "name": "TED virou DESENHO/thumb 1/thumb 1.png",
+      "bytes": 1122227,
+      "crc32": "ff926b99"
+    },
+    {
+      "name": "TED virou DESENHO/thumb 1/thumb original.png",
+      "bytes": 3070013,
+      "crc32": "f3b446dd"
+    }
+  ]
 }

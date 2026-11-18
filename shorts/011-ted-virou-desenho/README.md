@@ -1,20 +1,20 @@
 # TED virou DESENHO
 
-Short do Massacote Tube autorizado pelo usuário: “Agora mete bala nesse shorts”.
+- [Assistir ou baixar o MP4 vertical](output/TED_virou_DESENHO_9x16.mp4)
+- [Baixar o projeto Filmora e todas as mídias](output/TED_virou_DESENHO_Filmora_Completo.zip)
 
-Fonte: [pacote enviado no Drive](https://drive.google.com/file/d/1KVYN09XWw_L1hs38SwaXAXrZhK8ELkec/view). Nome confirmado pelo conector: `TED virou DESENHO.zip`, 41.237.797 bytes.
+A montagem tem 39,267 s, em 1080 × 1920 a 30 fps. A voz de 39,238 s foi mantida inteira, com +6,02 dB na faixa de mixagem. O WAV recebido, byte a byte, está no ZIP. Os textos visíveis pertencem às fontes. A faixa de narração fica livre para legendagem manual.
 
-## Estado
+| Tempo de montagem | Decisão |
+| --- | --- |
+| 0–7,50 s | Ted de pelúcia e o sofá animado abrem a troca de linguagem. O Massacote interrompe para a ressalva e o frame cômico 05, Choque, pontua a pausa. |
+| 7,50–12,63 s | O quadro do desenho entra sobre uma foto ilustrativa dos filmes. A foto serve de contexto ao personagem. |
+| 12,63–20,70 s | A vizinhança, a família e o trabalho levam à montagem de gags do trailer enquanto o avatar muda de intenção. |
+| 20,70–31,80 s | O Massacote segura a pergunta e dá passagem à imagem de Seth MacFarlane e à capa de Family Guy. O trecho live-action do trailer de 2012 acompanha a referência ao primeiro filme. |
+| 31,80–39,27 s | A cartela de data vem do trailer oficial. O personagem reaparece para o convite aos comentários e a reação 02, Desconfiança, fecha com a pergunta. |
 
-Pacote identificado e resposta completa obtida como referência autenticada de arquivo, mas **ainda não transferido para o sistema de arquivos da edição**. O importador local recusou o ZIP por exceder 32 MiB. O download HTTP da referência foi bloqueado pela política de rede; o navegador alternativo também não pôde iniciar. Voz e mídias internas ainda não foram inspecionadas. Não existe MP4 ou WFP novo concluído.
+A pesquisa do banco de 303 memes resultou no áudio **A62** (ID 1Dtda4QYy_xJcZFxSQJ6qsmkGFqbZEQRA), conferido como a reação “Huh?”. A edição usa 0,00–0,46 s da fonte, a partir de 37,00 s da montagem, com atenuação de 23 dB e saída suave. A trilha pizzicato é original desta montagem.
 
-O usuário esclareceu que nunca precisou dividir os pacotes. O Sonic de 128 MB foi recebido anteriormente; 32 MiB é o limite de um importador, não do Google Drive. Não exigir divisão ou reenvio do ZIP. O download direto foi testado e recebeu HTTP CONNECT 403 para `drive.google.com` e `drive.usercontent.google.com`. A política atual do ambiente está restrita, sem hosts personalizados. Para retomar pelo link original, liberar `drive.usercontent.google.com` nas configurações de rede e executar novamente o download normal. Não repetir a tentativa do importador limitado a 32 MiB.
+O WFP mantém as camadas regeneradas R3, as lentes opacas e o bigode sobre a boca, com cabeça e bigode animados em faixas próprias. As curvas de montagem são compartilhadas com o MP4. O WFP usa efeitos e transições nativos da edição de referência. O fundo geométrico do MP4 é próprio, complementado por imagens do trailer. A abertura do WFP e a renderização dos efeitos proprietários ainda dependem do Filmora.
 
-## Direção já autorizada
-
-- Short 9:16 com MP4 e projeto Filmora editável com as mídias usadas, entregues pelo GitHub.
-- Seguir o estilo da reedição mais recente do usuário em `010/production/edicao_usuario_01/`; adaptar a montagem à nova voz e às cenas do Ted.
-- Consultar os 303 memes de `assets/biblioteca_memes/` e os 20 pares de frames cômicos de `assets/personagens/massacote_tube_2d/frames_comicos/lote_01/` antes da escolha final. Não selecionar trechos ou marcar tempos sem conferir o conteúdo recebido.
-- Avatar Tube com óculos 3D opacos, boca coberta pelo bigode; não reutilizar os recortes rejeitados. Sem legendas automáticas ou nova voz. Preservar a gravação enviada.
-
-Esta preparação registra a tarefa; não substitui a produção solicitada. Filmora nativo não executado neste ambiente.
+Para reproduzir a montagem, extraia o ZIP original do Drive, obtenha os binários usados via Git LFS e execute **scripts/produzir.py** com a pasta interna **TED virou DESENHO**, um diretório temporário e os modos **prepare** e **render** nessa ordem. Em seguida execute **scripts/montar_filmora.py** e **scripts/validar_empacotar.py** com o diretório temporário e o ZIP original como argumentos do último script. Dependências locais incluem FFmpeg, Pillow, NumPy, OpenCV e soundfile. [ZIP original](https://drive.google.com/file/d/1KVYN09XWw_L1hs38SwaXAXrZhK8ELkec/view) · [Recebimento](recebimento.json) · [Validação](validacao.json)

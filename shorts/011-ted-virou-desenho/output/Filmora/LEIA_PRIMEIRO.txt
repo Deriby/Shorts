@@ -1,0 +1,13 @@
+TED virou DESENHO · MASSACOTE TUBE
+
+Extraia o ZIP por inteiro. Abra TED_virou_DESENHO_9x16.wfp dentro de Filmora.
+Mantenha a pasta midias ao lado do WFP. Se precisar religar um arquivo,
+indique a pasta midias extraída.
+
+A faixa de voz tem a tomada inteira, com ganho linear de +6,02 dB.
+Voz_Original.wav é a gravação intacta recebida. Trilha, sons, trailer,
+molduras, reações e camadas do avatar têm faixas independentes.
+
+O WFP inclui Basic Zoom In, Fast Bounce, Glow, Text Vibrate e Grunge_Jitter.
+O MP4 usa o grafismo e as curvas da montagem. O Filmora não foi executado
+neste Linux para abrir o WFP ou reproduzir os efeitos proprietários.

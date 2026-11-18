@@ -1,5 +1,7 @@
 # Retomada do Massacote Tube — TED virou DESENHO
 
+**Estado atual:** produção concluída em `shorts/011-ted-virou-desenho/`. O ambiente novo baixou o ZIP inteiro e o Git LFS recuperou os assets. MP4 vertical e projeto Filmora estão no diretório de saída indicado no [README do Ted](shorts/011-ted-virou-desenho/README.md). Os registros abaixo descrevem a passagem de contexto antes dessa produção.
+
 Este documento transfere o estado relevante da conversa anterior para um novo chat/ambiente. O histórico bruto da conversa não acompanha automaticamente o ambiente. Os arquivos e as decisões abaixo estão no repositório `https://github.com/Deriby/Shorts`, branch `main`.
 
 ## Pedido ativo e autorização

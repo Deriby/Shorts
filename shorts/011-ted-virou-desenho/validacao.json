@@ -1,0 +1,56 @@
+{
+  "master": "TED_virou_DESENHO_9x16.mp4",
+  "sha256": "e0f2579cc655c5f21e5fea5cf7a56e79460456785aecc5e6bf66c7642852c30d",
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 1178,
+  "seconds": 39.266666666666666,
+  "voice_seconds": 39.23822916666666,
+  "voice_sha256": "77a1bd5228407ddb734d580d567c83fc2e00db4c4e54ba6d89dcad0f1db7c443",
+  "voice_complete": true,
+  "voice_source_included_bit_exact": true,
+  "narration_gain_db": 6.0206,
+  "audio_export_correlation": 0.99999044267121,
+  "audio_true_peak_note": "Pico das amostras decodificadas, sem oversampling",
+  "decoded_peak_dbfs": -4.71,
+  "decoded_video_and_audio": true,
+  "adjacent_frame_changes": 1169,
+  "trailer_motion": {
+    "Sofa_Animado.mp4": 76.082,
+    "Depois_Da_Transformacao.mp4": 73.219,
+    "Vizinhos.mp4": 2.743,
+    "Familia.mp4": 1.7,
+    "Trabalho.mp4": 13.019,
+    "Maturidade.mp4": 79.759,
+    "Sofa_Filme.mp4": 46.265,
+    "Ted_Aniversario.mp4": 13.446
+  },
+  "no_added_captions": true,
+  "native_project": {
+    "root_registered": true,
+    "extra_present": true,
+    "timeline_uuid_matches": true,
+    "duration_matches": true,
+    "media_bindings": 93,
+    "clips": 93,
+    "resources": 39,
+    "tracks": 15,
+    "sha256": "0fb653275ae2940c5185a6427a48dc6ca5471bd27115998ff4608605f7b08815",
+    "effects": [
+      "Glow",
+      "Grunge_Jitter",
+      "Text Vibrate",
+      "transform"
+    ],
+    "transitions": [
+      "Basic Zoom In",
+      "Basic Zoom In",
+      "Fast Bounce"
+    ],
+    "filmora_native_executed": false,
+    "voice_complete": true
+  }
+}

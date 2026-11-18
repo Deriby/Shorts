@@ -1,0 +1,24 @@
+{
+  "root_registered": true,
+  "extra_present": true,
+  "timeline_uuid_matches": true,
+  "duration_matches": true,
+  "media_bindings": 93,
+  "clips": 93,
+  "resources": 39,
+  "tracks": 15,
+  "sha256": "0fb653275ae2940c5185a6427a48dc6ca5471bd27115998ff4608605f7b08815",
+  "effects": [
+    "Glow",
+    "Grunge_Jitter",
+    "Text Vibrate",
+    "transform"
+  ],
+  "transitions": [
+    "Basic Zoom In",
+    "Basic Zoom In",
+    "Fast Bounce"
+  ],
+  "filmora_native_executed": false,
+  "voice_complete": true
+}
