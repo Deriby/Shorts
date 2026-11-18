@@ -1,0 +1,34 @@
+{
+  "file": "O_Novo_Garfield_16x9.mp4",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "frames": 4448,
+  "seconds": 148.26666666666668,
+  "sha256": "149ac4de3ddc11e5dc13da97d9f4c447659dae0b4ae528d2cb5d36a792d3f14f",
+  "voice_samples": 7115358,
+  "voice_original_sha256": "afdc464dc97fb21ba4e4c97a33b62d075a99143a86cf01b89c22e91938a38dcb",
+  "audio_correlation": 0.999963815292257,
+  "audio_peak_dbfs": -2.26,
+  "decoded": true,
+  "pcm16_media": {
+    "A62_Huh_PCM16.wav": 22080,
+    "Clique_PCM16.wav": 9600,
+    "Swoosh_Saida_PCM16.wav": 19200,
+    "Trilha_Original.wav": 7116800,
+    "Voz_PCM16.wav": 7115358,
+    "Whoosh_Entrada_PCM16.wav": 17760
+  },
+  "user_reference_motion": {
+    "Garfield_e_Odie_Rua.mp4": 74.04,
+    "Beco_Animado.mp4": 2.59,
+    "Janelas_Noturnas.mp4": 66.36,
+    "Olhos_e_Luz.mp4": 60.69,
+    "Jantar_Animado.mp4": 16.81,
+    "Bolha_Orbita.mp4": 17.93,
+    "Lasanha_Movimento.mp4": 21.74,
+    "Teclado_e_Expressoes.mp4": 67.44
+  }
+}

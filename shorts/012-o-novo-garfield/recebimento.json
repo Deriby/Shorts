@@ -1,0 +1,92 @@
+{
+  "file": "O NOVO GARFIELD É.zip",
+  "drive_id": "1hH2XJkBF-5G6C8t619k3g3knvmLzyiew",
+  "bytes": 52264243,
+  "sha256": "c8e737a1eba3e3dcfd677c6c6db0b27d505984adc54af1c8c57062e2c38b04f1",
+  "crc_verified": true,
+  "voice_samples": 7115358,
+  "voice_rate": 48000,
+  "reference_seconds": 160.466667,
+  "members": [
+    {
+      "file": "O NOVO GARFIELD É/1 - VOZ.wav",
+      "bytes": 28461476,
+      "crc32": "678d7c12"
+    },
+    {
+      "file": "O NOVO GARFIELD É/2c60ff76381a9703027fd0f2fd9beb6e0559d52231b1e352a30e6d6c0d3c5a05-w640-watermarked.png",
+      "bytes": 70322,
+      "crc32": "5689538a"
+    },
+    {
+      "file": "O NOVO GARFIELD É/AAAABXVu14LrdnTDsPWxO0IqKVr0u-4IINuPuAVnn4L1WjALZp2BH40cct0Gn2shTFjAojgzFS7yHfmQe0VUVi5tDTwivp8tWUXW3VIn.jpg",
+      "bytes": 149342,
+      "crc32": "200ec290"
+    },
+    {
+      "file": "O NOVO GARFIELD É/aJ0GGLby575ZxtpeM-Lad1wBtVJqWNH6E1sHKiDzEcS9mMvUzjiFEI-_jI-gyIx8rrcPJIQHe0mMdvKmFcC8lhxymw8JvL3VS_RumNJ5SLPdRbaeDwmry3FGQGJACJ5nEyQaiUV-s94qsJIkwCW3H6QNqodTILEECMvnnHFtd.jpg",
+      "bytes": 133482,
+      "crc32": "ef290799"
+    },
+    {
+      "file": "O NOVO GARFIELD É/compose.png",
+      "bytes": 356724,
+      "crc32": "c759349b"
+    },
+    {
+      "file": "O NOVO GARFIELD É/garfield_1___emrande_forma_9788525414465_g.jpg",
+      "bytes": 51609,
+      "crc32": "89e82fb5"
+    },
+    {
+      "file": "O NOVO GARFIELD É/garfield_3.png",
+      "bytes": 33066,
+      "crc32": "e9f03f9d"
+    },
+    {
+      "file": "O NOVO GARFIELD É/images.jpg",
+      "bytes": 28851,
+      "crc32": "a63329ff"
+    },
+    {
+      "file": "O NOVO GARFIELD É/JU4uEhqVV3l7hDuZ6idOfqCOQd4ZFc5xEltVPsMEcOBn1bYGbT9HebSUz4jUb_HcPpZ96BHIih_ZTDVamota2e17hTp09ULYU85wTAO7tqrtU6ZLM76nwaIFOUv-jL9Hfb-C2xmhDUJjxUtTk9MJ4VxAF7Dx9nG9K843HlbYc.jpg",
+      "bytes": 126886,
+      "crc32": "3985d5a6"
+    },
+    {
+      "file": "O NOVO GARFIELD É/nDVmw-EaPj0ep51Vnv72kjR8y9HYilW4H0ovwkOuiszDwlXcALLXjn8FLayVmxNuauNTZ7inVgpLIuEYRHk-4omkbvBaqxTk-JCGaWurOC_2gi01rnD4e7o2jQ8ZPlB9wg9WMKVRdK6fLHcYO6pmO2VTtq9pnPb1fnS20ZkEL.jpg",
+      "bytes": 67245,
+      "crc32": "b3c8c6a0"
+    },
+    {
+      "file": "O NOVO GARFIELD É/paramount-confirma-retorno-de-garfield-com-nova-serie-exclusiva.jpg",
+      "bytes": 90695,
+      "crc32": "ea332414"
+    },
+    {
+      "file": "O NOVO GARFIELD É/pw3VzqiTnv30lqWbl0Dq1FG9En2yCeSRuBseMjoNEE_GVALsfOsQRytRWzzahI5kZTMEyvRT1E4wVcCIUE9tCvN9oBcBFxeMimeckSOsJodfl9fMROj21Yu7BxIi7yOzSitTH3Q3tg6tQXR8CNd-tNWMflE3xdahbaIqjVNWP.jpg",
+      "bytes": 94584,
+      "crc32": "02e35447"
+    },
+    {
+      "file": "O NOVO GARFIELD É/Screenshot_1.png",
+      "bytes": 201279,
+      "crc32": "63d8b742"
+    },
+    {
+      "file": "O NOVO GARFIELD É/Screenshot_2.png",
+      "bytes": 469158,
+      "crc32": "ff8ece60"
+    },
+    {
+      "file": "O NOVO GARFIELD É/Screenshot_3.png",
+      "bytes": 162554,
+      "crc32": "7c155635"
+    },
+    {
+      "file": "O NOVO GARFIELD É/The New Garfield is…_720p.mp4",
+      "bytes": 23343722,
+      "crc32": "b8657a16"
+    }
+  ]
+}

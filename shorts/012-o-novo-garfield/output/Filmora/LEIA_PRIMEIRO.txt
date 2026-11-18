@@ -1,0 +1,8 @@
+O NOVO GARFIELD · MASSACOTE TUBE
+
+Extraia o ZIP inteiro e abra O_Novo_Garfield_16x9.wfp com a pasta midias ao lado.
+O vídeo está em 1920 × 1080, 30 fps. A voz completa está na timeline em WAV PCM de
+16 bits, com ganho de mixagem no projeto. Voz_Original.wav é a gravação recebida.
+Avatar 2D, fontes, painéis, trilha, sons e efeitos estão em faixas separadas.
+A estrutura e as referências do WFP passaram na conferência. A abertura no Filmora
+e a renderização dos efeitos proprietários ainda dependem do aplicativo.

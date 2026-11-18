@@ -1,0 +1,29 @@
+{
+  "file": "O_Novo_Garfield_16x9.wfp",
+  "sha256": "1c14b63315f142bcd1f989b574cba563cfd07f7e6a7f328032f5b476893320ae",
+  "local_bindings": 165,
+  "native_stock_background": false,
+  "effects": {
+    "Glow": 4,
+    "Text Vibrate": 2,
+    "Grunge_Jitter": 2
+  },
+  "audio": [
+    "A62_Huh_PCM16.wav",
+    "Clique_PCM16.wav",
+    "Swoosh_Saida_PCM16.wav",
+    "Trilha_Original.wav",
+    "Voz_PCM16.wav",
+    "Whoosh_Entrada_PCM16.wav"
+  ],
+  "native_app_tested": false,
+  "transitions": [
+    "Basic Zoom In",
+    "Fast Bounce"
+  ],
+  "aspect_ratio": "16:9",
+  "resolution": [
+    1920,
+    1080
+  ]
+}

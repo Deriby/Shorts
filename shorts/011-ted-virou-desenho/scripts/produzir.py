@@ -468,8 +468,9 @@ def mix_export(p, temp, video):
         mix[start:start+n] += samples[:n] * 10**(e.get('mix_gain_db', 0)/20)
     assert abs(mix).max() < .98
     sf.write(temp/'mix.wav', mix, SR, subtype='PCM_24')
+    aspect = '16x9' if W > H else '9x16'
     ff('-i',video,'-i',temp/'mix.wav','-map','0:v','-map','1:a','-c:v','copy','-c:a','aac',
-       '-b:a','256k','-movflags','+faststart',OUT/f'{TITLE}_9x16.mp4')
+       '-b:a','256k','-movflags','+faststart',OUT/f'{TITLE}_{aspect}.mp4')
 
 
 def main():

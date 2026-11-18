@@ -4,6 +4,7 @@ import copy
 import hashlib
 import importlib.util
 import json
+from math import gcd
 from fractions import Fraction
 from pathlib import Path
 import struct
@@ -76,6 +77,9 @@ def probe(path):
 
 def write_project(plan):
     assert sha(REFERENCE) == REFERENCE_SHA
+    divisor = gcd(W,H)
+    aspect_x, aspect_y = W // divisor, H // divisor
+    project_title = plan.get('name','TED virou DESENHO')
     with zipfile.ZipFile(REFERENCE) as source:
         tl, extra, library, meta = (json.loads(source.read(n)) for n in (TL, EXTRA, LIB, META))
     timeline = next(t for t in tl['timelineInfos'] if t['timelineId'] == tl['currentTimelineId'])
@@ -99,7 +103,7 @@ def write_project(plan):
     }
     timeline_uuid = guid()
     values(timeline,11000,timeline_uuid)
-    values(timeline,50,'TED virou DESENHO')
+    values(timeline,50,project_title)
     extra.update(mediaClipsMapInfo={}, usedTemplateResInfo={},
                  allMarkersInfo={'beatDetectInfo':{}}, pendingMarkersInfo={},
                  highlightInfo={}, TextSentence={'TextSentence':[]}, fontNameInfo=[], usedBizFont=[])
@@ -244,16 +248,16 @@ def write_project(plan):
         c['postTransition'] = transition
 
     timeline.update(trackInfos=list(tracks.values()),frameRate={'num':FPS,'den':1},
-                    resolutionWidth=W,resolutionHeight=H,aspectRatioX=9,aspectRatioY=16,sampleRate=48000)
+                    resolutionWidth=W,resolutionHeight=H,aspectRatioX=aspect_x,aspectRatioY=aspect_y,sampleRate=48000)
     tl.update(projectName=OUT.stem,currentTimelineId=timeline['timelineId'],
               resources=[row[0] for row in assets.values()],timelineInfos=[timeline])
     root = copy.deepcopy(library['media_items'][ROOT])
-    root.update(name='TED virou DESENHO',timeline_uuid=timeline_uuid,duration=ticks(plan['duration']))
+    root.update(name=project_title,timeline_uuid=timeline_uuid,duration=ticks(plan['duration']))
     items[ROOT] = root
     meta.update(project_file_name=OUT.stem,proj_zip_save_path=OUT.name,project_guid=guid(),
                 project_timeline_duration=ticks(plan['duration']),project_current_position=0,
                 project_timeline_framerate=[FPS,1],project_timeline_resolution=[W,H],
-                project_timeline_ratio=[9,16],project_sample_rate=48000,project_custom_cover=False,
+                project_timeline_ratio=[aspect_x,aspect_y],project_sample_rate=48000,project_custom_cover=False,
                 proj_cover_proj_path='',project_cover='',project_used_pack_list=[])
     # A biblioteca nativa lista entradas consecutivas com a mesma chave media_item.
     structure = ','.join('"media_item":'+json.dumps(mid) for mid in items if mid!=ROOT)
