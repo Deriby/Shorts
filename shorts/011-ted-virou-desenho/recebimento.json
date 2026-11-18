@@ -1,0 +1,20 @@
+{
+  "title": "TED virou DESENHO",
+  "drive_id": "1KVYN09XWw_L1hs38SwaXAXrZhK8ELkec",
+  "drive_url": "https://drive.google.com/file/d/1KVYN09XWw_L1hs38SwaXAXrZhK8ELkec/view",
+  "file_name": "TED virou DESENHO.zip",
+  "mime_type": "application/zip",
+  "expected_bytes": 41237797,
+  "production_authorized": true,
+  "status": "transferencia_local_bloqueada",
+  "connector_raw_file_reference_obtained": true,
+  "local_archive_downloaded": false,
+  "voice_inspected": false,
+  "archive_contents_inspected": false,
+  "short_rendered": false,
+  "filmora_native_executed": false,
+  "transfer_limit_bytes": 33554432,
+  "http_transfer_result": "403 Forbidden na conexao do proxy; host fora da allowlist do ambiente",
+  "browser_fallback_result": "the gaas-browser node_repl sandbox cannot be disabled",
+  "next_step": "Receber fontes em partes menores que 32 MiB ou liberar o host autenticado na rede do ambiente e baixar o ZIP completo; depois inspecionar voz/midias e produzir o short ja autorizado."
+}

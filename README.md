@@ -16,6 +16,7 @@ Produção de shorts em 3D com estética PS1 / low poly, personagem Dery e narra
 | 008 | **Personagens que a internet estragou** | [12 shorts, longo 16:9 no estilo aprovado e pacote Filmora](shorts/008-personagens-que-a-internet-estragou/) |
 | 009 | **Jogos que a internet tentou cancelar** | [Vídeo completo 16:9, Filmora com mídias e shorts](shorts/009-jogos-que-a-internet-tentou-cancelar/) |
 | 010 | **Sonic e a harmonização facial** (título provisório) | [Short 2D 9:16, revisão V3 e projeto Filmora com mídias](shorts/010-sonic-memories-beyond/) |
+| 011 | **TED virou DESENHO** | [Produção autorizada; transferência local das fontes pendente](shorts/011-ted-virou-desenho/) |
 
 ## Organização
 
