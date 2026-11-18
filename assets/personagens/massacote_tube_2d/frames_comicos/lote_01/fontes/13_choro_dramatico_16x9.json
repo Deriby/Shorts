@@ -1,0 +1,20 @@
+{
+  "id": 13,
+  "slug": "choro_dramatico",
+  "name": "Choro dramático",
+  "format": "16x9",
+  "source": "/workspace/generated_images/exec-8ec925f8-2dbd-46b7-838d-8246e06da63e.png",
+  "prompt": "Use the approved reference illustration as the exact SAME avatar identity and visual language: a hyper-detailed painterly realistic GROSS-UP close-up reaction still for an animated comedy. Preserve the backward PURPLE cap, short swept brown hair, cream-framed opaque RED LEFT lens and BLUE RIGHT lens 3D glasses, huge curled dark-brown handlebar moustache, pointed goatee, purple/red jacket, silver chain and red M shield badge if chest is shown. Compact stylized cartoon face proportions, not an unrelated human actor. Every pore, forehead wrinkle, hair strand, fabric stitch and lens smudge is comically detailed, rich dramatic illustrative realism, moody teal/purple blurred background with emotion-appropriate lighting. CRITICAL: the mouth is ALWAYS COMPLETELY HIDDEN under the moustache. NO visible lips, teeth, tongue or open mouth, even when laughing or crying. Both glasses lenses remain colored and OPAQUE with no eyeballs visible. No captions, letters, punctuation marks, watermarks, extra people, panels or collages; the existing red M emblem is the only allowed lettering. No gore, injuries or diseased skin. Hands, when present, are anatomically coherent with five natural fingers. Fully opaque single finished frame. Keep both moustache curls inside the frame.\nREACTION TO PRESERVE: MELODRAMATIC SOBBING. Large realistic tears stream from UNDER the bottom rims of the fully opaque red/blue glasses, reddened nose and cheeks, eyebrows arched upward at the center, shoulders trembling in the frozen pose. Wet moustache tips and detailed tear droplets. No visible eyes, lips or teeth, no tissues covering the character.\nADAPT THIS SAME REACTION ILLUSTRATION to a TRUE HORIZONTAL WIDESCREEN 16:9 frame for long-form video. Keep the character identity, emotional expression, exact red-left/blue-right glasses, moustache and lighting consistent with the supplied portrait. Widen/recompose the scene to show more shoulders, relevant hands and background. This must be a landscape composition, not a vertical image pasted inside it and not a narrow crop. Face remains a large close-up centered or subtly off-center; keep cap, both moustache curls and important gesture visible. One full-width opaque 16:9 still. No borders, sidebars, panels or text.",
+  "source_sha256": "980796c563b5d0ebf36ebb9763712809fcd56ae39257254709013db2b77304db",
+  "source_size": [
+    1672,
+    941
+  ],
+  "exported_size": [
+    1920,
+    1080
+  ],
+  "export": "16x9/13_choro_dramatico.png",
+  "export_sha256": "a0945b0c7de9ca38092dae276d29289547dab61b3b44bd4816ec89756cfca694",
+  "export_method": "Redimensionamento Lanczos para formato padrao; sem recorte, barras ou composicao adicional."
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "slug": "nervosismo",
+  "name": "Nervosismo",
+  "format": "9x16",
+  "source": "/workspace/work/sonic-v3/assets/personagens/massacote_tube_2d/frames_comicos/estudo_01/Frame_01_Constrangimento_HiperDetalhado.png",
+  "reused_approved_preview": true,
+  "source_sha256": "d623145838736d666cf74085054dd2baa8341a760e7cd67264ae1023df4df7a4",
+  "source_size": [
+    941,
+    1672
+  ],
+  "exported_size": [
+    1080,
+    1920
+  ],
+  "export": "9x16/01_nervosismo.png",
+  "export_sha256": "3ef9e725b4eb25defc3a2577b2886907cf041079c73a3c4bb0165554118732f5",
+  "export_method": "Redimensionamento Lanczos para formato padrao; sem recorte, barras ou composicao adicional."
+}

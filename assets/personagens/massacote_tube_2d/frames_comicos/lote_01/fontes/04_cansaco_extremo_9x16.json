@@ -1,0 +1,20 @@
+{
+  "id": 4,
+  "slug": "cansaco_extremo",
+  "name": "Cansaço extremo",
+  "format": "9x16",
+  "source": "/workspace/generated_images/exec-22e1bb23-be87-4e61-af3b-a6a0fd01e325.png",
+  "prompt": "Use the approved reference illustration as the exact SAME avatar identity and visual language: a hyper-detailed painterly realistic GROSS-UP close-up reaction still for an animated comedy. Preserve the backward PURPLE cap, short swept brown hair, cream-framed opaque RED LEFT lens and BLUE RIGHT lens 3D glasses, huge curled dark-brown handlebar moustache, pointed goatee, purple/red jacket, silver chain and red M shield badge if chest is shown. Compact stylized cartoon face proportions, not an unrelated human actor. Every pore, forehead wrinkle, hair strand, fabric stitch and lens smudge is comically detailed, rich dramatic illustrative realism, moody teal/purple blurred background with emotion-appropriate lighting. CRITICAL: the mouth is ALWAYS COMPLETELY HIDDEN under the moustache. NO visible lips, teeth, tongue or open mouth, even when laughing or crying. Both glasses lenses remain colored and OPAQUE with no eyeballs visible. No captions, letters, punctuation marks, watermarks, extra people, panels or collages; the existing red M emblem is the only allowed lettering. No gore, injuries or diseased skin. Hands, when present, are anatomically coherent with five natural fingers. Fully opaque single finished frame. Keep both moustache curls inside the frame.\nREACTION: EXTREME EXHAUSTION. Head slumped, shoulders sagging, heavy flat eyebrows, visible tired bags BELOW the opaque glasses, dry dull skin, untidy hair, frizzy tired moustache, creased cap fabric. He looks utterly defeated by lack of sleep. Do not reveal eyes.\nFORMAT: true vertical 9:16 portrait composition, full frame for Shorts, tightly framed head and upper chest. One single portrait image; generous enough room for complete moustache curls and reaction hands. Recompose the pose for this reaction, not merely the same nervous expression.",
+  "source_sha256": "32e4e642b6148641fc1430d393f612efbb63958dda21dd47a6a98d435d646a3e",
+  "source_size": [
+    941,
+    1672
+  ],
+  "exported_size": [
+    1080,
+    1920
+  ],
+  "export": "9x16/04_cansaco_extremo.png",
+  "export_sha256": "c82ffe5d7fd72a7e92508994fa910052e28f4b1b47665faea94992b8a9aa6399",
+  "export_method": "Redimensionamento Lanczos para formato padrao; sem recorte, barras ou composicao adicional."
+}

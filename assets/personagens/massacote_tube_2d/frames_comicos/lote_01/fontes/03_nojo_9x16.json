@@ -1,0 +1,20 @@
+{
+  "id": 3,
+  "slug": "nojo",
+  "name": "Nojo",
+  "format": "9x16",
+  "source": "/workspace/generated_images/exec-9e2874b7-240b-4f61-ba65-b8060ea1353b.png",
+  "prompt": "Use the approved reference illustration as the exact SAME avatar identity and visual language: a hyper-detailed painterly realistic GROSS-UP close-up reaction still for an animated comedy. Preserve the backward PURPLE cap, short swept brown hair, cream-framed opaque RED LEFT lens and BLUE RIGHT lens 3D glasses, huge curled dark-brown handlebar moustache, pointed goatee, purple/red jacket, silver chain and red M shield badge if chest is shown. Compact stylized cartoon face proportions, not an unrelated human actor. Every pore, forehead wrinkle, hair strand, fabric stitch and lens smudge is comically detailed, rich dramatic illustrative realism, moody teal/purple blurred background with emotion-appropriate lighting. CRITICAL: the mouth is ALWAYS COMPLETELY HIDDEN under the moustache. NO visible lips, teeth, tongue or open mouth, even when laughing or crying. Both glasses lenses remain colored and OPAQUE with no eyeballs visible. No captions, letters, punctuation marks, watermarks, extra people, panels or collages; the existing red M emblem is the only allowed lettering. No gore, injuries or diseased skin. Hands, when present, are anatomically coherent with five natural fingers. Fully opaque single finished frame. Keep both moustache curls inside the frame.\nREACTION: COMIC DISGUST. Recoil slightly, wrinkle and scrunch the nose hard, push both eyebrows upward in repulsion, cheeks tense, one open hand held out as if rejecting a terrible smell. Make the detailed nose pores and tiny bristly hairs absurdly visible. No vomit, no mucus or bodily mess.\nFORMAT: true vertical 9:16 portrait composition, full frame for Shorts, tightly framed head and upper chest. One single portrait image; generous enough room for complete moustache curls and reaction hands. Recompose the pose for this reaction, not merely the same nervous expression.",
+  "source_sha256": "fd41eadc89418beac836589ca7575c9e29c6fdc0eef0e74b00f529f5bbda4e20",
+  "source_size": [
+    941,
+    1672
+  ],
+  "exported_size": [
+    1080,
+    1920
+  ],
+  "export": "9x16/03_nojo.png",
+  "export_sha256": "3028b8b3f685557b79b9eca664a7b8ded9bc852b642253e251f2c56728c4fad6",
+  "export_method": "Redimensionamento Lanczos para formato padrao; sem recorte, barras ou composicao adicional."
+}

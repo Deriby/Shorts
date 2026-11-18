@@ -1,0 +1,20 @@
+{
+  "id": 14,
+  "slug": "riso_contido",
+  "name": "Riso contido",
+  "format": "9x16",
+  "source": "/workspace/generated_images/exec-360a9a86-89d9-4933-976b-059cde1cd890.png",
+  "prompt": "Use the approved reference illustration as the exact SAME avatar identity and visual language: a hyper-detailed painterly realistic GROSS-UP close-up reaction still for an animated comedy. Preserve the backward PURPLE cap, short swept brown hair, cream-framed opaque RED LEFT lens and BLUE RIGHT lens 3D glasses, huge curled dark-brown handlebar moustache, pointed goatee, purple/red jacket, silver chain and red M shield badge if chest is shown. Compact stylized cartoon face proportions, not an unrelated human actor. Every pore, forehead wrinkle, hair strand, fabric stitch and lens smudge is comically detailed, rich dramatic illustrative realism, moody teal/purple blurred background with emotion-appropriate lighting. CRITICAL: the mouth is ALWAYS COMPLETELY HIDDEN under the moustache. NO visible lips, teeth, tongue or open mouth, even when laughing or crying. Both glasses lenses remain colored and OPAQUE with no eyeballs visible. No captions, letters, punctuation marks, watermarks, extra people, panels or collages; the existing red M emblem is the only allowed lettering. No gore, injuries or diseased skin. Hands, when present, are anatomically coherent with five natural fingers. Fully opaque single finished frame. Keep both moustache curls inside the frame.\nREACTION: DESPERATELY HOLDING BACK LAUGHTER. Puffy cheeks, warm flushed nose, happy arched eyebrows, tiny joyful tears below glasses, shoulders hunched upward from suppressed giggles, one hand at lower chest. The huge moustache hides the CLOSED mouth completely; curls lifted slightly, no lips, teeth, tongue or opening beneath it.\nFORMAT: true vertical 9:16 portrait composition, full frame for Shorts, tightly framed head and upper chest. One single portrait image; generous enough room for complete moustache curls and reaction hands. Recompose the pose for this reaction, not merely the same nervous expression.",
+  "source_sha256": "9a579d0271ef3fdd09d813b33cf4bdda0a6e933b0593c687d3459f6ec5231d3e",
+  "source_size": [
+    941,
+    1672
+  ],
+  "exported_size": [
+    1080,
+    1920
+  ],
+  "export": "9x16/14_riso_contido.png",
+  "export_sha256": "fc446bd9a6fd8c74b9e23283f1bf65286fd44b131ccde2fd5fa0b136a0d03eac",
+  "export_method": "Redimensionamento Lanczos para formato padrao; sem recorte, barras ou composicao adicional."
+}

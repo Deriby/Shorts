@@ -1,0 +1,20 @@
+{
+  "id": 12,
+  "slug": "orgulho",
+  "name": "Orgulho",
+  "format": "16x9",
+  "source": "/workspace/generated_images/exec-433812e8-6512-43d3-8c0b-d603506a226b.png",
+  "prompt": "Use the approved reference illustration as the exact SAME avatar identity and visual language: a hyper-detailed painterly realistic GROSS-UP close-up reaction still for an animated comedy. Preserve the backward PURPLE cap, short swept brown hair, cream-framed opaque RED LEFT lens and BLUE RIGHT lens 3D glasses, huge curled dark-brown handlebar moustache, pointed goatee, purple/red jacket, silver chain and red M shield badge if chest is shown. Compact stylized cartoon face proportions, not an unrelated human actor. Every pore, forehead wrinkle, hair strand, fabric stitch and lens smudge is comically detailed, rich dramatic illustrative realism, moody teal/purple blurred background with emotion-appropriate lighting. CRITICAL: the mouth is ALWAYS COMPLETELY HIDDEN under the moustache. NO visible lips, teeth, tongue or open mouth, even when laughing or crying. Both glasses lenses remain colored and OPAQUE with no eyeballs visible. No captions, letters, punctuation marks, watermarks, extra people, panels or collages; the existing red M emblem is the only allowed lettering. No gore, injuries or diseased skin. Hands, when present, are anatomically coherent with five natural fingers. Fully opaque single finished frame. Keep both moustache curls inside the frame.\nREACTION TO PRESERVE: RIDICULOUSLY HEROIC PRIDE. Chest puffed out, chin up, purple cap confidently tilted, thick eyebrows high and proud, glossy perfectly groomed moustache curls. One emphatic thumbs-up near the chest, red M badge visible. Overly dramatic golden heroic lighting for a tiny achievement, compact cartoon face preserved.\nADAPT THIS SAME REACTION ILLUSTRATION to a TRUE HORIZONTAL WIDESCREEN 16:9 frame for long-form video. Keep the character identity, emotional expression, exact red-left/blue-right glasses, moustache and lighting consistent with the supplied portrait. Widen/recompose the scene to show more shoulders, relevant hands and background. This must be a landscape composition, not a vertical image pasted inside it and not a narrow crop. Face remains a large close-up centered or subtly off-center; keep cap, both moustache curls and important gesture visible. One full-width opaque 16:9 still. No borders, sidebars, panels or text.",
+  "source_sha256": "fbe571be35754167294e77215250a0025ccdb3bb1e29f99bf68c28f503295ea4",
+  "source_size": [
+    1672,
+    941
+  ],
+  "exported_size": [
+    1920,
+    1080
+  ],
+  "export": "16x9/12_orgulho.png",
+  "export_sha256": "f47df471d356bfd60a05a0ad17b5d89ca5a6caae2388a3600888d7d7f24ae80a",
+  "export_method": "Redimensionamento Lanczos para formato padrao; sem recorte, barras ou composicao adicional."
+}

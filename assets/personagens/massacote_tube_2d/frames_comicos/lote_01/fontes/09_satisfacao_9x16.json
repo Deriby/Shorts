@@ -1,0 +1,20 @@
+{
+  "id": 9,
+  "slug": "satisfacao",
+  "name": "Satisfação absurda",
+  "format": "9x16",
+  "source": "/workspace/generated_images/exec-78e388aa-182e-4600-a0fd-ea50cbad07de.png",
+  "prompt": "Use the approved reference illustration as the exact SAME avatar identity and visual language: a hyper-detailed painterly realistic GROSS-UP close-up reaction still for an animated comedy. Preserve the backward PURPLE cap, short swept brown hair, cream-framed opaque RED LEFT lens and BLUE RIGHT lens 3D glasses, huge curled dark-brown handlebar moustache, pointed goatee, purple/red jacket, silver chain and red M shield badge if chest is shown. Compact stylized cartoon face proportions, not an unrelated human actor. Every pore, forehead wrinkle, hair strand, fabric stitch and lens smudge is comically detailed, rich dramatic illustrative realism, moody teal/purple blurred background with emotion-appropriate lighting. CRITICAL: the mouth is ALWAYS COMPLETELY HIDDEN under the moustache. NO visible lips, teeth, tongue or open mouth, even when laughing or crying. Both glasses lenses remain colored and OPAQUE with no eyeballs visible. No captions, letters, punctuation marks, watermarks, extra people, panels or collages; the existing red M emblem is the only allowed lettering. No gore, injuries or diseased skin. Hands, when present, are anatomically coherent with five natural fingers. Fully opaque single finished frame. Keep both moustache curls inside the frame.\nREACTION: ABSURD SMUG SATISFACTION. Chin slightly raised, one eyebrow knowingly arched, confident relaxed shoulders, immaculate exaggeratedly curled moustache, one fingertip lightly stroking the OUTER moustache curl without exposing the mouth. Gleaming absurdly detailed hair and warm pleased skin. No visible smile line.\nFORMAT: true vertical 9:16 portrait composition, full frame for Shorts, tightly framed head and upper chest. One single portrait image; generous enough room for complete moustache curls and reaction hands. Recompose the pose for this reaction, not merely the same nervous expression.",
+  "source_sha256": "4d3b8a81d6192721f80e64d1cfe387a9be140b7c24bbadb1baa2722b7d5a3779",
+  "source_size": [
+    941,
+    1672
+  ],
+  "exported_size": [
+    1080,
+    1920
+  ],
+  "export": "9x16/09_satisfacao.png",
+  "export_sha256": "ecb1afaa4ba3eceef9958c99773a23f6372fc60248c91284b63b702423b69dd7",
+  "export_method": "Redimensionamento Lanczos para formato padrao; sem recorte, barras ou composicao adicional."
+}

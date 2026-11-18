@@ -1,0 +1,20 @@
+{
+  "id": 15,
+  "slug": "tedio",
+  "name": "Tédio absoluto",
+  "format": "16x9",
+  "source": "/workspace/generated_images/exec-7c95b078-b7b4-473f-8f52-d9e43c38f325.png",
+  "prompt": "Use the approved reference illustration as the exact SAME avatar identity and visual language: a hyper-detailed painterly realistic GROSS-UP close-up reaction still for an animated comedy. Preserve the backward PURPLE cap, short swept brown hair, cream-framed opaque RED LEFT lens and BLUE RIGHT lens 3D glasses, huge curled dark-brown handlebar moustache, pointed goatee, purple/red jacket, silver chain and red M shield badge if chest is shown. Compact stylized cartoon face proportions, not an unrelated human actor. Every pore, forehead wrinkle, hair strand, fabric stitch and lens smudge is comically detailed, rich dramatic illustrative realism, moody teal/purple blurred background with emotion-appropriate lighting. CRITICAL: the mouth is ALWAYS COMPLETELY HIDDEN under the moustache. NO visible lips, teeth, tongue or open mouth, even when laughing or crying. Both glasses lenses remain colored and OPAQUE with no eyeballs visible. No captions, letters, punctuation marks, watermarks, extra people, panels or collages; the existing red M emblem is the only allowed lettering. No gore, injuries or diseased skin. Hands, when present, are anatomically coherent with five natural fingers. Fully opaque single finished frame. Keep both moustache curls inside the frame.\nREACTION TO PRESERVE: ABSOLUTE BOREDOM. One cheek resting heavily in a palm, head leaning sideways, nearly horizontal uninterested eyebrows, limp moustache, dull lifeless posture and creased cap. Comically high-detail skin texture for an utterly deadpan reaction. Keep the glasses and entire moustache visible, no mouth or eyes.\nADAPT THIS SAME REACTION ILLUSTRATION to a TRUE HORIZONTAL WIDESCREEN 16:9 frame for long-form video. Keep the character identity, emotional expression, exact red-left/blue-right glasses, moustache and lighting consistent with the supplied portrait. Widen/recompose the scene to show more shoulders, relevant hands and background. This must be a landscape composition, not a vertical image pasted inside it and not a narrow crop. Face remains a large close-up centered or subtly off-center; keep cap, both moustache curls and important gesture visible. One full-width opaque 16:9 still. No borders, sidebars, panels or text.",
+  "source_sha256": "e6f3c06eba2d8fb2047717bb1acba1cd817ff6526b4c37f2aa6e85c2ad12f9c9",
+  "source_size": [
+    1672,
+    941
+  ],
+  "exported_size": [
+    1920,
+    1080
+  ],
+  "export": "16x9/15_tedio.png",
+  "export_sha256": "d62c8ba47d400fcccec09fcf4a895ef8937b8af4d43006f89495fffd545c9047",
+  "export_method": "Redimensionamento Lanczos para formato padrao; sem recorte, barras ou composicao adicional."
+}

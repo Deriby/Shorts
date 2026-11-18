@@ -1,0 +1,20 @@
+{
+  "id": 6,
+  "slug": "raiva_contida",
+  "name": "Raiva contida",
+  "format": "9x16",
+  "source": "/workspace/generated_images/exec-d7b25c62-42e8-4393-89a6-12f51a240289.png",
+  "prompt": "Use the approved reference illustration as the exact SAME avatar identity and visual language: a hyper-detailed painterly realistic GROSS-UP close-up reaction still for an animated comedy. Preserve the backward PURPLE cap, short swept brown hair, cream-framed opaque RED LEFT lens and BLUE RIGHT lens 3D glasses, huge curled dark-brown handlebar moustache, pointed goatee, purple/red jacket, silver chain and red M shield badge if chest is shown. Compact stylized cartoon face proportions, not an unrelated human actor. Every pore, forehead wrinkle, hair strand, fabric stitch and lens smudge is comically detailed, rich dramatic illustrative realism, moody teal/purple blurred background with emotion-appropriate lighting. CRITICAL: the mouth is ALWAYS COMPLETELY HIDDEN under the moustache. NO visible lips, teeth, tongue or open mouth, even when laughing or crying. Both glasses lenses remain colored and OPAQUE with no eyeballs visible. No captions, letters, punctuation marks, watermarks, extra people, panels or collages; the existing red M emblem is the only allowed lettering. No gore, injuries or diseased skin. Hands, when present, are anatomically coherent with five natural fingers. Fully opaque single finished frame. Keep both moustache curls inside the frame.\nREACTION: SUPPRESSED RAGE. Both eyebrows sharply lowered toward the center, intense forehead tension, slightly flushed hot cheeks and ears, a subtle intact temple vein, clenched fist at the frame edge. Moustache visibly taut with every hair detailed. Furious but contained, no exposed mouth or teeth.\nFORMAT: true vertical 9:16 portrait composition, full frame for Shorts, tightly framed head and upper chest. One single portrait image; generous enough room for complete moustache curls and reaction hands. Recompose the pose for this reaction, not merely the same nervous expression.",
+  "source_sha256": "1c853c4877deb61b976d609420fe0596f433c0da66dfd553166c0a7f523fe778",
+  "source_size": [
+    941,
+    1672
+  ],
+  "exported_size": [
+    1080,
+    1920
+  ],
+  "export": "9x16/06_raiva_contida.png",
+  "export_sha256": "a90819b2ec50d683d97cf21541ecd3fadb917344f2202e7c75a6f18c85fdb8bf",
+  "export_method": "Redimensionamento Lanczos para formato padrao; sem recorte, barras ou composicao adicional."
+}

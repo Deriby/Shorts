@@ -1,0 +1,20 @@
+{
+  "id": 9,
+  "slug": "satisfacao",
+  "name": "Satisfação absurda",
+  "format": "16x9",
+  "source": "/workspace/generated_images/exec-3ca6e2c8-9740-4541-b31a-22e78916457f.png",
+  "prompt": "Use the approved reference illustration as the exact SAME avatar identity and visual language: a hyper-detailed painterly realistic GROSS-UP close-up reaction still for an animated comedy. Preserve the backward PURPLE cap, short swept brown hair, cream-framed opaque RED LEFT lens and BLUE RIGHT lens 3D glasses, huge curled dark-brown handlebar moustache, pointed goatee, purple/red jacket, silver chain and red M shield badge if chest is shown. Compact stylized cartoon face proportions, not an unrelated human actor. Every pore, forehead wrinkle, hair strand, fabric stitch and lens smudge is comically detailed, rich dramatic illustrative realism, moody teal/purple blurred background with emotion-appropriate lighting. CRITICAL: the mouth is ALWAYS COMPLETELY HIDDEN under the moustache. NO visible lips, teeth, tongue or open mouth, even when laughing or crying. Both glasses lenses remain colored and OPAQUE with no eyeballs visible. No captions, letters, punctuation marks, watermarks, extra people, panels or collages; the existing red M emblem is the only allowed lettering. No gore, injuries or diseased skin. Hands, when present, are anatomically coherent with five natural fingers. Fully opaque single finished frame. Keep both moustache curls inside the frame.\nREACTION TO PRESERVE: ABSURD SMUG SATISFACTION. Chin slightly raised, one eyebrow knowingly arched, confident relaxed shoulders, immaculate exaggeratedly curled moustache, one fingertip lightly stroking the OUTER moustache curl without exposing the mouth. Gleaming absurdly detailed hair and warm pleased skin. No visible smile line.\nADAPT THIS SAME REACTION ILLUSTRATION to a TRUE HORIZONTAL WIDESCREEN 16:9 frame for long-form video. Keep the character identity, emotional expression, exact red-left/blue-right glasses, moustache and lighting consistent with the supplied portrait. Widen/recompose the scene to show more shoulders, relevant hands and background. This must be a landscape composition, not a vertical image pasted inside it and not a narrow crop. Face remains a large close-up centered or subtly off-center; keep cap, both moustache curls and important gesture visible. One full-width opaque 16:9 still. No borders, sidebars, panels or text.",
+  "source_sha256": "70b09c3bf407aebee08b703039c2e625a75bac0b901ea0b9f8bfb431ef08956d",
+  "source_size": [
+    1672,
+    941
+  ],
+  "exported_size": [
+    1920,
+    1080
+  ],
+  "export": "16x9/09_satisfacao.png",
+  "export_sha256": "ad9bf82e6e4092ca59172d4688971928a78243aee615f39f7fa7a9b1a78882eb",
+  "export_method": "Redimensionamento Lanczos para formato padrao; sem recorte, barras ou composicao adicional."
+}

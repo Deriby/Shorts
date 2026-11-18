@@ -1,0 +1,20 @@
+{
+  "id": 2,
+  "slug": "desconfianca",
+  "name": "Desconfiança",
+  "format": "9x16",
+  "source": "/workspace/generated_images/exec-b0e86796-ae5b-4e24-8aa6-64eba64789a0.png",
+  "prompt": "Use the approved reference illustration as the exact SAME avatar identity and visual language: a hyper-detailed painterly realistic GROSS-UP close-up reaction still for an animated comedy. Preserve the backward PURPLE cap, short swept brown hair, cream-framed opaque RED LEFT lens and BLUE RIGHT lens 3D glasses, huge curled dark-brown handlebar moustache, pointed goatee, purple/red jacket, silver chain and red M shield badge if chest is shown. Compact stylized cartoon face proportions, not an unrelated human actor. Every pore, forehead wrinkle, hair strand, fabric stitch and lens smudge is comically detailed, rich dramatic illustrative realism, moody teal/purple blurred background with emotion-appropriate lighting. CRITICAL: the mouth is ALWAYS COMPLETELY HIDDEN under the moustache. NO visible lips, teeth, tongue or open mouth, even when laughing or crying. Both glasses lenses remain colored and OPAQUE with no eyeballs visible. No captions, letters, punctuation marks, watermarks, extra people, panels or collages; the existing red M emblem is the only allowed lettering. No gore, injuries or diseased skin. Hands, when present, are anatomically coherent with five natural fingers. Fully opaque single finished frame. Keep both moustache curls inside the frame.\nREACTION: EXTREME SUSPICION. Lean the head slightly toward the camera, one eyebrow very high and the other pressed down, deep asymmetrical forehead wrinkles, tense cheek on one side. A dry judgmental 'really?' reaction, tiny sweat bead, suspicious dramatic side light. No question mark.\nFORMAT: true vertical 9:16 portrait composition, full frame for Shorts, tightly framed head and upper chest. One single portrait image; generous enough room for complete moustache curls and reaction hands. Recompose the pose for this reaction, not merely the same nervous expression.",
+  "source_sha256": "3508ab70e87f1ac63d4ee28b76b7f78a4c082c1db5ac58c51bd6f94f6a8e0dee",
+  "source_size": [
+    941,
+    1672
+  ],
+  "exported_size": [
+    1080,
+    1920
+  ],
+  "export": "9x16/02_desconfianca.png",
+  "export_sha256": "e5409eb619a9141045c2f63da3d1f213d66afeae2a7a87ef2e872ddc3d71cede",
+  "export_method": "Redimensionamento Lanczos para formato padrao; sem recorte, barras ou composicao adicional."
+}

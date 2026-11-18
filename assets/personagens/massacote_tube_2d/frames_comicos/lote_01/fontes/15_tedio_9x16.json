@@ -1,0 +1,20 @@
+{
+  "id": 15,
+  "slug": "tedio",
+  "name": "Tédio absoluto",
+  "format": "9x16",
+  "source": "/workspace/generated_images/exec-bf6e6f3f-1770-46bc-af1b-f47cf1ad6227.png",
+  "prompt": "Use the approved reference illustration as the exact SAME avatar identity and visual language: a hyper-detailed painterly realistic GROSS-UP close-up reaction still for an animated comedy. Preserve the backward PURPLE cap, short swept brown hair, cream-framed opaque RED LEFT lens and BLUE RIGHT lens 3D glasses, huge curled dark-brown handlebar moustache, pointed goatee, purple/red jacket, silver chain and red M shield badge if chest is shown. Compact stylized cartoon face proportions, not an unrelated human actor. Every pore, forehead wrinkle, hair strand, fabric stitch and lens smudge is comically detailed, rich dramatic illustrative realism, moody teal/purple blurred background with emotion-appropriate lighting. CRITICAL: the mouth is ALWAYS COMPLETELY HIDDEN under the moustache. NO visible lips, teeth, tongue or open mouth, even when laughing or crying. Both glasses lenses remain colored and OPAQUE with no eyeballs visible. No captions, letters, punctuation marks, watermarks, extra people, panels or collages; the existing red M emblem is the only allowed lettering. No gore, injuries or diseased skin. Hands, when present, are anatomically coherent with five natural fingers. Fully opaque single finished frame. Keep both moustache curls inside the frame.\nREACTION: ABSOLUTE BOREDOM. One cheek resting heavily in a palm, head leaning sideways, nearly horizontal uninterested eyebrows, limp moustache, dull lifeless posture and creased cap. Comically high-detail skin texture for an utterly deadpan reaction. Keep the glasses and entire moustache visible, no mouth or eyes.\nFORMAT: true vertical 9:16 portrait composition, full frame for Shorts, tightly framed head and upper chest. One single portrait image; generous enough room for complete moustache curls and reaction hands. Recompose the pose for this reaction, not merely the same nervous expression.",
+  "source_sha256": "95c934a7e9daf96103a346d855f5c0b6afe233318a39047de3aaf2944aaf2505",
+  "source_size": [
+    941,
+    1672
+  ],
+  "exported_size": [
+    1080,
+    1920
+  ],
+  "export": "9x16/15_tedio.png",
+  "export_sha256": "133d0cfe9d1e581c7275ae57483ba31ee22346bbe2c0907e6d84131ecfcf0fca",
+  "export_method": "Redimensionamento Lanczos para formato padrao; sem recorte, barras ou composicao adicional."
+}

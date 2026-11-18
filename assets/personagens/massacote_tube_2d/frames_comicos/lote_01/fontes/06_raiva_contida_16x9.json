@@ -1,0 +1,20 @@
+{
+  "id": 6,
+  "slug": "raiva_contida",
+  "name": "Raiva contida",
+  "format": "16x9",
+  "source": "/workspace/generated_images/exec-d3ed8535-1f4e-4fec-a85e-dedc72a2435e.png",
+  "prompt": "Use the approved reference illustration as the exact SAME avatar identity and visual language: a hyper-detailed painterly realistic GROSS-UP close-up reaction still for an animated comedy. Preserve the backward PURPLE cap, short swept brown hair, cream-framed opaque RED LEFT lens and BLUE RIGHT lens 3D glasses, huge curled dark-brown handlebar moustache, pointed goatee, purple/red jacket, silver chain and red M shield badge if chest is shown. Compact stylized cartoon face proportions, not an unrelated human actor. Every pore, forehead wrinkle, hair strand, fabric stitch and lens smudge is comically detailed, rich dramatic illustrative realism, moody teal/purple blurred background with emotion-appropriate lighting. CRITICAL: the mouth is ALWAYS COMPLETELY HIDDEN under the moustache. NO visible lips, teeth, tongue or open mouth, even when laughing or crying. Both glasses lenses remain colored and OPAQUE with no eyeballs visible. No captions, letters, punctuation marks, watermarks, extra people, panels or collages; the existing red M emblem is the only allowed lettering. No gore, injuries or diseased skin. Hands, when present, are anatomically coherent with five natural fingers. Fully opaque single finished frame. Keep both moustache curls inside the frame.\nREACTION TO PRESERVE: SUPPRESSED RAGE. Both eyebrows sharply lowered toward the center, intense forehead tension, slightly flushed hot cheeks and ears, a subtle intact temple vein, clenched fist at the frame edge. Moustache visibly taut with every hair detailed. Furious but contained, no exposed mouth or teeth.\nADAPT THIS SAME REACTION ILLUSTRATION to a TRUE HORIZONTAL WIDESCREEN 16:9 frame for long-form video. Keep the character identity, emotional expression, exact red-left/blue-right glasses, moustache and lighting consistent with the supplied portrait. Widen/recompose the scene to show more shoulders, relevant hands and background. This must be a landscape composition, not a vertical image pasted inside it and not a narrow crop. Face remains a large close-up centered or subtly off-center; keep cap, both moustache curls and important gesture visible. One full-width opaque 16:9 still. No borders, sidebars, panels or text.",
+  "source_sha256": "de956cdf6732efdb6ff83c9210598ecb4d56b68d7f5d72ae3cb836ff31ff406d",
+  "source_size": [
+    1672,
+    941
+  ],
+  "exported_size": [
+    1920,
+    1080
+  ],
+  "export": "16x9/06_raiva_contida.png",
+  "export_sha256": "8b7908cc3bce0b0ef6714fc7abb536032be6321655b0dc326999ba4ac1383d75",
+  "export_method": "Redimensionamento Lanczos para formato padrao; sem recorte, barras ou composicao adicional."
+}

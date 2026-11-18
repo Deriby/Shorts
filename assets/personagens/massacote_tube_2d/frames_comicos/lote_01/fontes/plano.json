@@ -1,0 +1,238 @@
+{
+  "reactions": [
+    {
+      "id": 1,
+      "slug": "nervosismo",
+      "name": "Nervosismo",
+      "tags": [
+        "suor",
+        "tensao",
+        "constrangimento"
+      ],
+      "direction": "Intensely nervous embarrassment, strained raised eyebrows, forehead folds and many beads of sweat. The frozen realization that he just said something stupid."
+    },
+    {
+      "id": 2,
+      "slug": "desconfianca",
+      "name": "Desconfiança",
+      "tags": [
+        "duvida",
+        "suspeita",
+        "julgamento"
+      ],
+      "direction": "EXTREME SUSPICION. Lean the head slightly toward the camera, one eyebrow very high and the other pressed down, deep asymmetrical forehead wrinkles, tense cheek on one side. A dry judgmental 'really?' reaction, tiny sweat bead, suspicious dramatic side light. No question mark."
+    },
+    {
+      "id": 3,
+      "slug": "nojo",
+      "name": "Nojo",
+      "tags": [
+        "repulsa",
+        "eca",
+        "reacao"
+      ],
+      "direction": "COMIC DISGUST. Recoil slightly, wrinkle and scrunch the nose hard, push both eyebrows upward in repulsion, cheeks tense, one open hand held out as if rejecting a terrible smell. Make the detailed nose pores and tiny bristly hairs absurdly visible. No vomit, no mucus or bodily mess."
+    },
+    {
+      "id": 4,
+      "slug": "cansaco_extremo",
+      "name": "Cansaço extremo",
+      "tags": [
+        "sono",
+        "exaustao",
+        "olheiras"
+      ],
+      "direction": "EXTREME EXHAUSTION. Head slumped, shoulders sagging, heavy flat eyebrows, visible tired bags BELOW the opaque glasses, dry dull skin, untidy hair, frizzy tired moustache, creased cap fabric. He looks utterly defeated by lack of sleep. Do not reveal eyes."
+    },
+    {
+      "id": 5,
+      "slug": "choque",
+      "name": "Choque",
+      "tags": [
+        "surpresa",
+        "susto",
+        "travou"
+      ],
+      "direction": "SUDDEN SHOCK, frozen in disbelief. Both eyebrows shoot impossibly high, cap tipped backward, hair standing a little, cheeks tense, moustache bristles flaring outward, one hand frozen halfway up near a cheek. Dramatic hard flash-like light. Mouth remains completely covered, no exclamation marks."
+    },
+    {
+      "id": 6,
+      "slug": "raiva_contida",
+      "name": "Raiva contida",
+      "tags": [
+        "irritacao",
+        "furia",
+        "segurando"
+      ],
+      "direction": "SUPPRESSED RAGE. Both eyebrows sharply lowered toward the center, intense forehead tension, slightly flushed hot cheeks and ears, a subtle intact temple vein, clenched fist at the frame edge. Moustache visibly taut with every hair detailed. Furious but contained, no exposed mouth or teeth."
+    },
+    {
+      "id": 7,
+      "slug": "vergonha_alheia",
+      "name": "Vergonha alheia",
+      "tags": [
+        "cringe",
+        "facepalm",
+        "vergonha"
+      ],
+      "direction": "SECOND-HAND EMBARRASSMENT. One palm against the upper forehead above the glasses in an exaggerated facepalm, both colored lenses remain fully visible, brow scrunched, cheeks warm red, shoulders cringing inward. Painfully awkward frozen reaction, five natural fingers, no hidden eyes shown."
+    },
+    {
+      "id": 8,
+      "slug": "confusao",
+      "name": "Confusão",
+      "tags": [
+        "bugou",
+        "duvida",
+        "entendi_nada"
+      ],
+      "direction": "COMPLETE CONFUSION. Head tilted at a clear comic angle, one hand scratching the side of the cap near a temple, one eyebrow arched and the other crumpled, nose slightly scrunched, cap slightly askew. Both red/blue lenses remain visible. Do not draw question marks, symbols or text."
+    },
+    {
+      "id": 9,
+      "slug": "satisfacao",
+      "name": "Satisfação absurda",
+      "tags": [
+        "smug",
+        "deboche",
+        "convencido"
+      ],
+      "direction": "ABSURD SMUG SATISFACTION. Chin slightly raised, one eyebrow knowingly arched, confident relaxed shoulders, immaculate exaggeratedly curled moustache, one fingertip lightly stroking the OUTER moustache curl without exposing the mouth. Gleaming absurdly detailed hair and warm pleased skin. No visible smile line."
+    },
+    {
+      "id": 10,
+      "slug": "decepcao",
+      "name": "Decepção",
+      "tags": [
+        "desapontado",
+        "derrota",
+        "tristeza"
+      ],
+      "direction": "CRUSHING DISAPPOINTMENT. Shoulders dropped, head angled down, inner ends of the eyebrows lifted in sadness, heavy cheek creases, cap worn low, moustache curls seeming weighed down. Desaturated cool moody light, one quiet tear at a cheek, no eyes or mouth exposed."
+    },
+    {
+      "id": 11,
+      "slug": "medo",
+      "name": "Medo existencial",
+      "tags": [
+        "panico",
+        "terror",
+        "socorro"
+      ],
+      "direction": "EXISTENTIAL FEAR, a silent horrified freeze. Both hands held against the sides of the cheeks without covering glasses or moustache, raised strained eyebrows, pale warm skin with tiny cold sweat beads and rigid neck. Opaque 3D lenses, no eyeballs, no open mouth. Cold dramatic rim light, not a horror monster."
+    },
+    {
+      "id": 12,
+      "slug": "orgulho",
+      "name": "Orgulho",
+      "tags": [
+        "conquista",
+        "heroico",
+        "vitoria"
+      ],
+      "direction": "RIDICULOUSLY HEROIC PRIDE. Chest puffed out, chin up, purple cap confidently tilted, thick eyebrows high and proud, glossy perfectly groomed moustache curls. One emphatic thumbs-up near the chest, red M badge visible. Overly dramatic golden heroic lighting for a tiny achievement, compact cartoon face preserved."
+    },
+    {
+      "id": 13,
+      "slug": "choro_dramatico",
+      "name": "Choro dramático",
+      "tags": [
+        "lagrimas",
+        "drama",
+        "chorando"
+      ],
+      "direction": "MELODRAMATIC SOBBING. Large realistic tears stream from UNDER the bottom rims of the fully opaque red/blue glasses, reddened nose and cheeks, eyebrows arched upward at the center, shoulders trembling in the frozen pose. Wet moustache tips and detailed tear droplets. No visible eyes, lips or teeth, no tissues covering the character."
+    },
+    {
+      "id": 14,
+      "slug": "riso_contido",
+      "name": "Riso contido",
+      "tags": [
+        "segurando_riso",
+        "risada",
+        "engracado"
+      ],
+      "direction": "DESPERATELY HOLDING BACK LAUGHTER. Puffy cheeks, warm flushed nose, happy arched eyebrows, tiny joyful tears below glasses, shoulders hunched upward from suppressed giggles, one hand at lower chest. The huge moustache hides the CLOSED mouth completely; curls lifted slightly, no lips, teeth, tongue or opening beneath it."
+    },
+    {
+      "id": 15,
+      "slug": "tedio",
+      "name": "Tédio absoluto",
+      "tags": [
+        "impaciente",
+        "chato",
+        "cansou"
+      ],
+      "direction": "ABSOLUTE BOREDOM. One cheek resting heavily in a palm, head leaning sideways, nearly horizontal uninterested eyebrows, limp moustache, dull lifeless posture and creased cap. Comically high-detail skin texture for an utterly deadpan reaction. Keep the glasses and entire moustache visible, no mouth or eyes."
+    },
+    {
+      "id": 16,
+      "slug": "inveja",
+      "name": "Inveja",
+      "tags": [
+        "ciume",
+        "ressentido",
+        "queria"
+      ],
+      "direction": "OBVIOUS COMIC ENVY. Head slightly turned while both colored lenses remain visible, one eyebrow tightened down and the other raised, pinched cheeks and nose, fingers clutching the necklace near the red M badge. Tiny tense sweat bead, subtle greenish side light only, normal skin color, no textual symbols."
+    },
+    {
+      "id": 17,
+      "slug": "deslumbramento",
+      "name": "Deslumbramento",
+      "tags": [
+        "uau",
+        "encantado",
+        "admiracao"
+      ],
+      "direction": "WONDERSTRUCK AMAZEMENT. Both eyebrows lifted in delighted wonder, face tilted toward a bright warm light, hands open near lower cheeks, tiny joyful tear on one cheek, beautiful exaggerated highlights on the still-OPAQUE red/blue lenses. Bright golden reflected light, luxuriant moustache hairs. No eyeballs, stars-as-eyes, mouth or teeth."
+    },
+    {
+      "id": 18,
+      "slug": "arrependimento",
+      "name": "Arrependimento",
+      "tags": [
+        "fiz_besteira",
+        "meu_deus",
+        "culpa"
+      ],
+      "direction": "SUDDEN OVERWHELMING REGRET. Both hands grip the SIDES of the purple cap above the ears, forehead crumpled, shoulders pulled inward, head lowered slightly, sweat and warm embarrassed blush. Frozen 'why did I do that' anguish. Keep full colored glasses and moustache uncovered, no mouth or eye exposure."
+    },
+    {
+      "id": 19,
+      "slug": "tramando",
+      "name": "Tramando",
+      "tags": [
+        "malicia",
+        "plano",
+        "vilanesco"
+      ],
+      "direction": "COMICALLY SINISTER SCHEMING. Both hands steepled together BELOW the chin and goatee, eyebrows angled inward, head leaning toward the camera, perfectly curled moustache catching warm highlights. Theatrical underlighting and subtle purple shadows, smug evil-mastermind energy without a visible grin, mouth or eyes."
+    },
+    {
+      "id": 20,
+      "slug": "alivio",
+      "name": "Alívio",
+      "tags": [
+        "ufa",
+        "passou",
+        "relaxado"
+      ],
+      "direction": "HUGE COMIC RELIEF AFTER PANIC. Shoulders finally lowered, eyebrows relaxed, one hand wiping residual sweat from the upper forehead above the glasses, face calmer but still glistening, slightly relaxed cheeks. Warm soft light, a few remaining droplets, closed mouth entirely hidden by moustache, opaque glasses."
+    }
+  ],
+  "formats": [
+    {
+      "key": "9x16",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "key": "16x9",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "reference": "/workspace/work/sonic-v3/assets/personagens/massacote_tube_2d/frames_comicos/estudo_01/Frame_01_Constrangimento_HiperDetalhado.png",
+  "common_prompt": "Use the approved reference illustration as the exact SAME avatar identity and visual language: a hyper-detailed painterly realistic GROSS-UP close-up reaction still for an animated comedy. Preserve the backward PURPLE cap, short swept brown hair, cream-framed opaque RED LEFT lens and BLUE RIGHT lens 3D glasses, huge curled dark-brown handlebar moustache, pointed goatee, purple/red jacket, silver chain and red M shield badge if chest is shown. Compact stylized cartoon face proportions, not an unrelated human actor. Every pore, forehead wrinkle, hair strand, fabric stitch and lens smudge is comically detailed, rich dramatic illustrative realism, moody teal/purple blurred background with emotion-appropriate lighting. CRITICAL: the mouth is ALWAYS COMPLETELY HIDDEN under the moustache. NO visible lips, teeth, tongue or open mouth, even when laughing or crying. Both glasses lenses remain colored and OPAQUE with no eyeballs visible. No captions, letters, punctuation marks, watermarks, extra people, panels or collages; the existing red M emblem is the only allowed lettering. No gore, injuries or diseased skin. Hands, when present, are anatomically coherent with five natural fingers. Fully opaque single finished frame. Keep both moustache curls inside the frame."
+}

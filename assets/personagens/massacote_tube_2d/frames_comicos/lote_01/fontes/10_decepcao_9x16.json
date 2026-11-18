@@ -1,0 +1,20 @@
+{
+  "id": 10,
+  "slug": "decepcao",
+  "name": "Decepção",
+  "format": "9x16",
+  "source": "/workspace/generated_images/exec-ba8a43e2-2d7e-4fee-b0f9-3f3422021250.png",
+  "prompt": "Use the approved reference illustration as the exact SAME avatar identity and visual language: a hyper-detailed painterly realistic GROSS-UP close-up reaction still for an animated comedy. Preserve the backward PURPLE cap, short swept brown hair, cream-framed opaque RED LEFT lens and BLUE RIGHT lens 3D glasses, huge curled dark-brown handlebar moustache, pointed goatee, purple/red jacket, silver chain and red M shield badge if chest is shown. Compact stylized cartoon face proportions, not an unrelated human actor. Every pore, forehead wrinkle, hair strand, fabric stitch and lens smudge is comically detailed, rich dramatic illustrative realism, moody teal/purple blurred background with emotion-appropriate lighting. CRITICAL: the mouth is ALWAYS COMPLETELY HIDDEN under the moustache. NO visible lips, teeth, tongue or open mouth, even when laughing or crying. Both glasses lenses remain colored and OPAQUE with no eyeballs visible. No captions, letters, punctuation marks, watermarks, extra people, panels or collages; the existing red M emblem is the only allowed lettering. No gore, injuries or diseased skin. Hands, when present, are anatomically coherent with five natural fingers. Fully opaque single finished frame. Keep both moustache curls inside the frame.\nREACTION: CRUSHING DISAPPOINTMENT. Shoulders dropped, head angled down, inner ends of the eyebrows lifted in sadness, heavy cheek creases, cap worn low, moustache curls seeming weighed down. Desaturated cool moody light, one quiet tear at a cheek, no eyes or mouth exposed.\nFORMAT: true vertical 9:16 portrait composition, full frame for Shorts, tightly framed head and upper chest. One single portrait image; generous enough room for complete moustache curls and reaction hands. Recompose the pose for this reaction, not merely the same nervous expression.",
+  "source_sha256": "7fdba5c60f548061158eeea2b952e4cf8036d86c511a4a8a82f8ce3c5507e0af",
+  "source_size": [
+    941,
+    1672
+  ],
+  "exported_size": [
+    1080,
+    1920
+  ],
+  "export": "9x16/10_decepcao.png",
+  "export_sha256": "a1b41f8b8e0f4ee7359011c31e4ce67b3f8aa00ca6c70f2057b19ca09c17b892",
+  "export_method": "Redimensionamento Lanczos para formato padrao; sem recorte, barras ou composicao adicional."
+}

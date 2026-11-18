@@ -1,0 +1,20 @@
+{
+  "id": 11,
+  "slug": "medo",
+  "name": "Medo existencial",
+  "format": "9x16",
+  "source": "/workspace/generated_images/exec-557599c9-5b03-4b02-88fc-ba3de509f41e.png",
+  "prompt": "Use the approved reference illustration as the exact SAME avatar identity and visual language: a hyper-detailed painterly realistic GROSS-UP close-up reaction still for an animated comedy. Preserve the backward PURPLE cap, short swept brown hair, cream-framed opaque RED LEFT lens and BLUE RIGHT lens 3D glasses, huge curled dark-brown handlebar moustache, pointed goatee, purple/red jacket, silver chain and red M shield badge if chest is shown. Compact stylized cartoon face proportions, not an unrelated human actor. Every pore, forehead wrinkle, hair strand, fabric stitch and lens smudge is comically detailed, rich dramatic illustrative realism, moody teal/purple blurred background with emotion-appropriate lighting. CRITICAL: the mouth is ALWAYS COMPLETELY HIDDEN under the moustache. NO visible lips, teeth, tongue or open mouth, even when laughing or crying. Both glasses lenses remain colored and OPAQUE with no eyeballs visible. No captions, letters, punctuation marks, watermarks, extra people, panels or collages; the existing red M emblem is the only allowed lettering. No gore, injuries or diseased skin. Hands, when present, are anatomically coherent with five natural fingers. Fully opaque single finished frame. Keep both moustache curls inside the frame.\nREACTION: EXISTENTIAL FEAR, a silent horrified freeze. Both hands held against the sides of the cheeks without covering glasses or moustache, raised strained eyebrows, pale warm skin with tiny cold sweat beads and rigid neck. Opaque 3D lenses, no eyeballs, no open mouth. Cold dramatic rim light, not a horror monster.\nFORMAT: true vertical 9:16 portrait composition, full frame for Shorts, tightly framed head and upper chest. One single portrait image; generous enough room for complete moustache curls and reaction hands. Recompose the pose for this reaction, not merely the same nervous expression.",
+  "source_sha256": "ec256ea076bf7f6be47b79e950705963973529bc4e59826244806b2ae3d0a248",
+  "source_size": [
+    941,
+    1672
+  ],
+  "exported_size": [
+    1080,
+    1920
+  ],
+  "export": "9x16/11_medo.png",
+  "export_sha256": "4946616ef578aa81433ebd862c96f10d16c65214ea4d813f34b87e638424b05a",
+  "export_method": "Redimensionamento Lanczos para formato padrao; sem recorte, barras ou composicao adicional."
+}
