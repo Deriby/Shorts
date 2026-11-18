@@ -134,15 +134,53 @@ def assemble():
     gallery.save(OUT/'Prancha_9_Poses.jpg',quality=93)
 
 
+def hand_sheet():
+    files=sorted(KIT.glob('Corpo_*.png'))
+    sheet=Image.new('RGB',(1620,1080),'#526079')
+    draw=ImageDraw.Draw(sheet)
+    for i,file in enumerate(files):
+        image=Image.open(file)
+        r,g,b,a=np.asarray(image,dtype='float32').transpose(2,0,1)
+        yy,xx=np.ogrid[:H,:W]
+        detected=(r>175)&(g>108)&(g<.91*r)&(b>.42*g)&(b<.94*g)&(r-b>46)&(a>240)
+        detected &= (yy>981) & ~((xx>440)&(xx<640)&(yy<1127))
+        pose=file.stem.split('_')[1]
+        if pose=='04':
+            detected &= xx<365
+        if pose in ('05','06'):
+            detected &= xx>700
+        if pose=='20':
+            detected &= yy>1120
+        # Aproxima apenas os componentes de uma mesma mão, como os dedos fechados.
+        connected=cv2.dilate(detected.astype('uint8'),np.ones((15,15),np.uint8))
+        n,_,stats,_=cv2.connectedComponentsWithStats(connected,8)
+        amount=1 if pose in ('04','05','06') else 2
+        top=sorted(range(1,n),key=lambda k:-stats[k,4])[:amount]
+        top=sorted([k for k in top if stats[k,4]>400],key=lambda k:stats[k,0])
+        assert 1<=len(top)<=2, file
+        gutter=22
+        panel_width=(504-gutter*(len(top)-1))//len(top)
+        x,y=i%3*540,i//3*360
+        for j,k in enumerate(top):
+            l,t,w,h,_=map(int,stats[k])
+            crop=image.crop((max(0,l-12),max(0,t-12),min(W,l+w+12),min(H,t+h+12)))
+            factor=min(panel_width/crop.width,296/crop.height)
+            crop=crop.resize((round(crop.width*factor),round(crop.height*factor)),Image.Resampling.LANCZOS)
+            at=x+18+j*(panel_width+gutter)+(panel_width-crop.width)//2
+            sheet.paste(crop,(at,y+12+(296-crop.height)//2),crop)
+        draw.text((x+18,y+325),file.stem.removeprefix('Corpo_').replace('_',' '),fill='white')
+    sheet.save(OUT/'Detalhes_das_maos.jpg',quality=95)
+
+
 def package():
-    paths=[*sorted(KIT.glob('*.png')),*sorted(FLAT.glob('*.png')),OUT/'Prancha_9_Poses.jpg']
-    assert len(paths)==21
+    paths=[*sorted(KIT.glob('*.png')),*sorted(FLAT.glob('*.png')),OUT/'Prancha_9_Poses.jpg',OUT/'Detalhes_das_maos.jpg']
+    assert len(paths)==22
     for p in paths:
         im=Image.open(p)
         if p.suffix=='.png':
             assert im.mode=='RGBA' and im.size==(W,H)
         im.verify()
-    result=OUT/'Massacote_2D_5_Dedos.zip'
+    result=OUT/'Massacote_2D_5_Dedos_Rev2.zip'
     with zipfile.ZipFile(result,'w',zipfile.ZIP_DEFLATED,compresslevel=4) as z:
         for p in paths:
             z.write(p,p.relative_to(OUT).as_posix())
@@ -153,4 +191,5 @@ def package():
 
 if __name__=='__main__':
     assemble()
+    hand_sheet()
     package()
