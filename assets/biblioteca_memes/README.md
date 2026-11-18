@@ -1,5 +1,7 @@
 # Banco de memes — Massacote Games
 
+Biblioteca compartilhada para as próximas edições do **Massacote Tube e do Games**. O usuário reforçou que este banco deve ser consultado ao editar os próximos vídeos. Selecionar reações, imagens e sons conforme as falas e piadas, seguindo a referência de edição mais recente enviada por ele.
+
 Pack recebido pelo usuário: [pasta do Drive](https://drive.google.com/drive/folders/1TyzZ9JY1sLPyZBetqwwRDADzsqpLHRX6). **303 arquivos originais, 94,65 MB**, arquivados com tamanho e MD5 de origem conferidos e SHA-256 local: 100 áudios, 103 entradas da pasta de imagens e 100 vídeos. Quatro arquivos da pasta de imagens também são vídeos; a classificação técnica está no catálogo. Há 302 conteúdos únicos por SHA; os originais duplicados também foram preservados.
 
 - `arquivos/`: todos os originais, armazenados pelo ID do Drive via Git LFS.
