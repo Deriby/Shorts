@@ -8,7 +8,7 @@ Fonte: [pacote enviado no Drive](https://drive.google.com/file/d/1KVYN09XWw_L1hs
 
 Pacote identificado e resposta completa obtida como referência autenticada de arquivo, mas **ainda não transferido para o sistema de arquivos da edição**. O importador local recusou o ZIP por exceder 32 MiB. O download HTTP da referência foi bloqueado pela política de rede; o navegador alternativo também não pôde iniciar. Voz e mídias internas ainda não foram inspecionadas. Não existe MP4 ou WFP novo concluído.
 
-Para retomar, receber as fontes em partes abaixo de 32 MiB ou liberar na rede do ambiente o host do arquivo autenticado (`sdmntprbrazilsouth.oaiusercontent.com`) e solicitar uma referência nova pelo conector se a anterior expirou. Não repetir a tentativa de importação do mesmo ZIP de 39,3 MiB pelo importador de 32 MiB.
+O usuário esclareceu que nunca precisou dividir os pacotes. O Sonic de 128 MB foi recebido anteriormente; 32 MiB é o limite de um importador, não do Google Drive. Não exigir divisão ou reenvio do ZIP. O download direto foi testado e recebeu HTTP CONNECT 403 para `drive.google.com` e `drive.usercontent.google.com`. A política atual do ambiente está restrita, sem hosts personalizados. Para retomar pelo link original, liberar `drive.usercontent.google.com` nas configurações de rede e executar novamente o download normal. Não repetir a tentativa do importador limitado a 32 MiB.
 
 ## Direção já autorizada
 
