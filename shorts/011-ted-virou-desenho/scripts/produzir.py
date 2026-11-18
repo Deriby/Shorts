@@ -43,7 +43,7 @@ VIDEOS = [
     ('Vizinhos', 12.63, 14.90, 75.34, 'quadro'),
     ('Familia', 14.90, 16.43, 36.04, 'quadro'),
     ('Trabalho', 16.43, 17.40, 64.27, 'quadro'),
-    ('Maturidade', 17.40, 20.69, 59.88, 'quadro'),
+    ('Maturidade', 17.40, 20.69, 71.64, 'quadro'),
     ('Sofa_Filme', 29.13, 31.80, 6.81, 'quadro'),
     ('Ted_Aniversario', 34.17, 35.73, 98.65, 'vertical'),
 ]

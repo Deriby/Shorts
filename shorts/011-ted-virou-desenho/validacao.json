@@ -1,6 +1,6 @@
 {
   "master": "TED_virou_DESENHO_9x16.mp4",
-  "sha256": "e0f2579cc655c5f21e5fea5cf7a56e79460456785aecc5e6bf66c7642852c30d",
+  "sha256": "e1f0dc652415496818bd234e7a0c3b638f726b6b49786d539f46bbf59d6d810a",
   "resolution": [
     1080,
     1920
@@ -17,14 +17,14 @@
   "audio_true_peak_note": "Pico das amostras decodificadas, sem oversampling",
   "decoded_peak_dbfs": -4.71,
   "decoded_video_and_audio": true,
-  "adjacent_frame_changes": 1169,
+  "adjacent_frame_changes": 1174,
   "trailer_motion": {
     "Sofa_Animado.mp4": 76.082,
     "Depois_Da_Transformacao.mp4": 73.219,
     "Vizinhos.mp4": 2.743,
     "Familia.mp4": 1.7,
     "Trabalho.mp4": 13.019,
-    "Maturidade.mp4": 79.759,
+    "Maturidade.mp4": 56.522,
     "Sofa_Filme.mp4": 46.265,
     "Ted_Aniversario.mp4": 13.446
   },
@@ -38,7 +38,7 @@
     "clips": 93,
     "resources": 39,
     "tracks": 15,
-    "sha256": "0fb653275ae2940c5185a6427a48dc6ca5471bd27115998ff4608605f7b08815",
+    "sha256": "43a1ac81da8228a3a5e4ec681164da8d698771ec2d30cba8d798da438ae0870d",
     "effects": [
       "Glow",
       "Grunge_Jitter",
