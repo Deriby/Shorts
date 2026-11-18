@@ -1,0 +1,6 @@
+TED virou DESENHO · Revisão 3 · Massacote 2D
+
+Extraia o ZIP inteiro. Abra TED_virou_DESENHO_R3_2D_9x16.wfp com a pasta midias ao lado.
+O projeto principal usa o fundo instalado no Filmora. Se o fundo de catálogo não resolver,
+o WFP Fundo_Local usa o fundo incluído. Os WFPs usam o Massacote 2D nos dois trechos de reação.
+A validação conferiu os arquivos e vínculos dos dois projetos. A abertura no Filmora segue pendente.

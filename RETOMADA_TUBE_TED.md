@@ -1,6 +1,6 @@
 # Retomada do Massacote Tube — TED virou DESENHO
 
-**Estado atual:** produção concluída em `shorts/011-ted-virou-desenho/`. O ambiente novo baixou o ZIP inteiro e o Git LFS recuperou os assets. A [revisão 2](shorts/011-ted-virou-desenho/revisao_02/README.md) é a entrega atual, com zoom nas reações, saídas animadas e áudio editável. A primeira montagem permanece no [README do Ted](shorts/011-ted-virou-desenho/README.md). Os registros abaixo descrevem a passagem de contexto antes dessa produção.
+**Estado atual:** a [revisão 3](shorts/011-ted-virou-desenho/revisao_03/README.md) tem o projeto Filmora com o Massacote 2D nos dois trechos de reação. O usuário rejeitou os closes realistas e pediu a retirada das 40 imagens do catálogo ativo. A revisão 2 está registrada no [README do Ted](shorts/011-ted-virou-desenho/README.md). Os registros abaixo descrevem a preparação da primeira produção.
 
 Este documento transfere o estado relevante da conversa anterior para um novo chat/ambiente. O histórico bruto da conversa não acompanha automaticamente o ambiente. Os arquivos e as decisões abaixo estão no repositório `https://github.com/Deriby/Shorts`, branch `main`.
 
@@ -86,13 +86,9 @@ Ferramentas locais de composição e criação de WFP existem nos scripts de `01
 
 Pesquisar pelos contextos da fala, assistir/ouvir integralmente o trecho escolhido e registrar ID, corte e nível de áudio. Preservar o meme limpo e não usá-lo como prova documental de um fato. Não baixar o banco todo outra vez se os arquivos versionados/LFS já estiverem presentes.
 
-### Frames cômicos novos do avatar
+### Catálogo de closes realistas retirado
 
-`assets/personagens/massacote_tube_2d/frames_comicos/lote_01/`: **20 reações × 2 formatos = 40 PNGs**, com galeria, pranchas e catálogos JSON/SQLite. Verticais 1080×1920 em `9x16/`; horizontais 1920×1080 em `16x9/`, gerados com enquadramento próprio.
-
-Closes hiper-detalhados, como as reações realistas exageradas de animações de comédia (o usuário citou Bob Esponja). Reações: nervosismo, desconfiança, nojo, cansaço, choque, raiva, vergonha alheia, confusão, satisfação, decepção, medo, orgulho, choro dramático, riso contido, tédio, inveja, deslumbramento, arrependimento, tramando e alívio.
-
-Usar como inserts pontuais no timing da piada, sem substituir o visual normal do apresentador. Boca continua escondida e lentes opacas. A linguagem da primeira amostra foi aceita pelo pedido de expansão; as 40 imagens foram entregues, mas não atribuir aprovação individual a todas. Não gerar tudo novamente.
+Os 40 frames do acervo de reações deixaram o catálogo do Tube na revisão 3 do Ted. A direção atual usa o avatar 2D original do Tube nas reações.
 
 ## Retomada prática e entrega
 

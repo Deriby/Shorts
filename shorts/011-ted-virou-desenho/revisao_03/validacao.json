@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "file": "TED_virou_DESENHO_R3_2D_9x16.wfp",
+      "sha256": "20da44cc15fb63dcbf8091f78f01fe6c397bf757fb3a3af6381c7be83bae0d7b",
+      "local_bindings": 94,
+      "native_stock_background": true,
+      "effects": {
+        "Glow": 4,
+        "Text Vibrate": 3,
+        "Grunge_Jitter": 3
+      },
+      "audio": [
+        "A62_Huh_PCM16.wav",
+        "Clique_PCM16.wav",
+        "Impacto_Grave_PCM16.wav",
+        "Stinger_Animacao_PCM16.wav",
+        "Swoosh_Saida_PCM16.wav",
+        "Voz_Editavel_PCM16.wav",
+        "Whoosh_Entrada_PCM16.wav"
+      ],
+      "native_app_tested": false
+    },
+    {
+      "file": "TED_virou_DESENHO_R3_2D_Fundo_Local_9x16.wfp",
+      "sha256": "a835e90ab425cfa4f8bae01e2ce70ca7943d164d8ad03c8556301a35f6e39699",
+      "local_bindings": 97,
+      "native_stock_background": false,
+      "effects": {
+        "Glow": 4,
+        "Text Vibrate": 3,
+        "Grunge_Jitter": 3
+      },
+      "audio": [
+        "A62_Huh_PCM16.wav",
+        "Clique_PCM16.wav",
+        "Impacto_Grave_PCM16.wav",
+        "Stinger_Animacao_PCM16.wav",
+        "Swoosh_Saida_PCM16.wav",
+        "Voz_Editavel_PCM16.wav",
+        "Whoosh_Entrada_PCM16.wav"
+      ],
+      "native_app_tested": false
+    }
+  ],
+  "seconds": 39.266666666666666,
+  "revision": 3,
+  "avatar_media": "Massacote 2D",
+  "removed_assets_per_wfp": 14,
+  "all_audio_media_unchanged": true,
+  "filmora_native_tested": false
+}
