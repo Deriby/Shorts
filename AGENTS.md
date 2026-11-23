@@ -2,7 +2,7 @@
 
 - **Entregas pelo GitHub:** o usuário pediu que imagens, vídeos, prévias e projetos sejam sempre entregues por links do GitHub no repositório `Deriby/Shorts`. Confira os links antes de enviá-los.
 
-- **Quarto chibi do Massacote Games:** a entrega em `assets/cenarios/quarto_gamer_chibi/` usa o quarto da abertura da série 008, que o usuário confirmou como referência. O acabamento em tons suaves reaproveita madeira e reboco do banco 3D. As 55 malhas do cenário conservam as formas e posições originais. O Blender incorpora o Dery chibi sentado com 50 expressões, quatro câmeras e a tela CRT pronta para trocar a mídia. Há prévias em 16:9 e 9:16 e um comparativo com a abertura original.
+- **Quarto chibi do Massacote Tube:** a entrega em `assets/cenarios/quarto_gamer_chibi/` usa o quarto da abertura da série 008. O usuário pediu a paleta vermelha, preta e branca e o letreiro **MASSACOTE TUBE**. A revisão ajusta os materiais e a iluminação do quarto e conserva as posições, formas, câmeras e pose do Dery originais à versão chibi, com as letras do subtítulo editáveis. O Blender incorpora as 50 expressões, quatro câmeras, texturas do banco 3D e a tela CRT pronta para trocar a mídia. Há prévias em 16:9 e 9:16 e um comparativo com a versão lilás.
 
 - **Revisão 2 das mãos do Massacote 2D:** o usuário rejeitou contagens ambíguas e gestos estranhos no primeiro pacote de nove poses. Em `assets/personagens/massacote_tube_2d/poses_cinco_dedos/` foram corrigidas as poses 04, 05, 12, 15, 20 e 24. As mãos abertas e fechadas em uso foram conferidas no PNG final, com prancha ampliada. A mão de apoio das poses de apontar aparece como pulso parcialmente oculto no bolso. O ZIP atual é `Massacote_2D_5_Dedos_Rev2.zip`. O pedido abrange o banco de poses.
 

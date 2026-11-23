@@ -1,9 +1,9 @@
-# Quarto chibi do Massacote Games
+# Quarto chibi do Massacote Tube
 
-O quarto da abertura de *Personagens que a internet estragou* recebeu um acabamento em lilás, creme, rosa antigo e menta. A planta, os móveis, os objetos e seus lugares vêm da cena original. A madeira e o reboco são texturas do conjunto House, do [banco 3D](../../biblioteca_psx/README.md).
+O quarto da abertura de *Personagens que a internet estragou* usa vermelho, preto e branco, com parede vermelha, CRT branco, móveis em grafite e iluminação quente. O letreiro diz **MASSACOTE TUBE**. A planta, os móveis, os objetos e seus lugares vêm da cena original. A madeira e o reboco são texturas do conjunto House, do [banco 3D](../../biblioteca_psx/README.md).
 
 - [Abrir a prévia em tamanho completo](Quarto_Massacote_Chibi_Previas.png)
-- [Comparar com o quarto original](Quarto_Massacote_Chibi_Comparativo.png)
+- [Comparar com a versão lilás](Quarto_Massacote_Chibi_Comparativo.png)
 - [Baixar o projeto editável no Blender](Quarto_Massacote_Chibi.blend)
 
 ![O quarto com Dery chibi em 16:9, 9:16 e vista geral](Quarto_Massacote_Chibi_Previas.png)
