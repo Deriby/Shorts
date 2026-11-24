@@ -2,6 +2,8 @@
 
 ## Teste híbrido em 16:9
 
+[Baixar sua edição com o Dery em pé e as mídias](output/Bob_Esponja_no_GTA_6_Filmora_16x9_Seu_Edit_Dery_Em_Pe.zip). Este pacote usa o WFP mais recente enviado pelo usuário, com o MP3 `up-with-titles-128-ytshorts.savetube.me.mp3` na pasta `midias`. Os cortes, efeitos, keyframes e a mixagem dos 88 clipes originais foram conferidos. Os recortes do Dery em pé estão na faixa própria em **0:51** e **1:16**. O comparativo e os rascunhos foram recompostos para abrir espaço para o Dery. Extraia o ZIP e execute `Abrir_no_Filmora.cmd`. A geração do WFP local foi validada. O teste no aplicativo Filmora está pendente.
+
 - [Projeto Filmora completo com as mídias](output/Bob_Esponja_no_GTA_6_Filmora_16x9_Teste_Hibrido.zip)
 - [Prévia dos dois cortes](output/Bob_Esponja_no_GTA_6_Teste_Hibrido_16x9_Previa.mp4)
 
