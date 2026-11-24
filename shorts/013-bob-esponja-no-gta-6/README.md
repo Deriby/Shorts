@@ -1,5 +1,16 @@
 # Bob Esponja no GTA 6 · Massacote Tube
 
+## Nova montagem · Dery Vivo
+
+- [Projeto Filmora 16:9 com as mídias](output/Bob_Esponja_no_GTA_6_Filmora_16x9_Dery_Vivo.zip)
+- [Vídeo completo em MP4](output/Bob_Esponja_no_GTA_6_Dery_Vivo_16x9.mp4)
+
+A nova montagem tem **2min22s** e **24 tomadas contínuas**. No PC, o Dery acompanha as imagens no CRT, aponta e retoma a fala para a câmera. Nas nuvens, ele abre espaço para o Bob na revelação, imita a pose, reage ao rascunho dos óculos e faz a pergunta final direto para quem assiste. A janela da pose entra e sai por deslocamento. Os memes, os efeitos nativos e a mixagem do WFP do usuário permanecem editáveis.
+
+Extraia o ZIP inteiro e execute `Abrir_no_Filmora.cmd`. O projeto principal tem 44 clipes, com quatro tomadas nas nuvens em MOV ProRes 4444 transparente sobre o céu animado. O atalho `Abrir_Compatibilidade.cmd` abre o WFP de 40 clipes com o Dery e o céu juntos em MP4 H.264. Essa opção atende a instalações do Filmora que tenham dificuldade para editar o MOV com alfa.
+
+As mídias, o alfa, os vínculos dos dois WFPs e o vídeo inteiro foram conferidos. O MP4 de revisão foi composto fora do Filmora com ajuste de −3,3 dB no ganho geral para controlar o pico do AAC. Os efeitos nativos estão no projeto e a reprodução no aplicativo permanece pendente.
+
 ## Direção combinada
 
 - **Identidade.** Usar o Dery chibi 3D de camiseta vermelha com M, boné preto e visual low poly de N64/PS1. Alternar o Dery sentado ao lado do PC, no quarto vermelho, preto e branco do Massacote Tube, com cenas em pé sobre as nuvens animadas.
