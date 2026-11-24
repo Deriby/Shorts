@@ -1,5 +1,7 @@
 # Produção de shorts
 
+- **Revisão 2 do Bob Esponja no GTA 6:** o usuário relatou arquivo corrompido e enviou o WFP que editou, SHA-256 `6254828b8ddad1fe28dd4639f98805fdf4295a108a8599643be2b5bf2a3aed39`. A revisão manteve seus 76 clipes e quatro transições, religou 35 fontes, corrigiu durações de origem e reorganizou as chaves do zoom das artes que coincidiam em um quadro. Entrega em `shorts/013-bob-esponja-no-gta-6/output/` com WFP 16:9, 2min22s, 20 transições nativas, 33 novos movimentos e os memes V52, V03, V34 e A62, mais A86/A87 em PCM16. Os vínculos foram conferidos após extrair o ZIP em pasta separada. A abertura no Filmora segue pendente. A prévia externa aproxima as transições do aplicativo.
+
 - **Projetos Filmora de Bob Esponja no GTA 6:** a entrega em `shorts/013-bob-esponja-no-gta-6/output/` contém dois ZIPs com WFP e mídias. O horizontal tem 2min22s com a voz correta inteira. O short tem 55,71s em 9:16, locução em nove clipes, câmeras verticais, artes editáveis e MP4. Os WFPs usam PCM16 com controles nativos de volume e ducking e foram verificados estruturalmente. A abertura no Filmora segue pendente.
 
 - **Bob Esponja no GTA 6, versão revisada:** a produção em `shorts/013-bob-esponja-no-gta-6/` usa os 141,48225 s do WAV correto enviado separadamente e os recortes do vídeo recuperado no ZIP de 64.264.898 bytes. O Dery no quarto chibi acompanha a nova fala, com o post da Paramount, duas artes, comparativo com o GTA, bastidores e o ponto de ônibus. O MP4 de 2min22s substitui a entrega provisória de 3 minutos.

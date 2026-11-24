@@ -1,5 +1,18 @@
 # Bob Esponja no GTA 6 · Massacote Tube
 
+## Revisão 2 do Filmora 16:9
+
+- [Projeto revisado com mídias](output/Bob_Esponja_no_GTA_6_Filmora_16x9_R2.zip)
+- [Prévia da edição em 1080p](output/Bob_Esponja_no_GTA_6_16x9_R2_Previa.mp4)
+
+A revisão parte do WFP salvo pelo usuário. Preserva os 76 clipes originais, os cortes, a voz e as quatro transições que ele aplicou. Os vínculos de 35 fontes passaram a apontar para a pasta local do pacote. As durações cadastradas vêm da contagem de quadros e amostras, corrigindo 18 clipes que ultrapassavam a duração declarada das fontes. O zoom de revelação das artes foi refeito com pontos em quadros distintos para recuperar a aproximação que estava concentrada em um único quadro.
+
+A montagem tem 20 transições nativas ao todo e 33 novos movimentos de câmera. As janelas do Bob Esponja, do cachorro dirigindo e do gato desconfiado têm entrada e saída animadas. A reação e os whooshes ficam em WAV PCM16 com volume e ducking no Filmora. Os IDs e tempos de fonte do banco constam no relatório dentro do ZIP. [Banco de memes](../../assets/biblioteca_memes/README.md)
+
+Extraia o ZIP inteiro e abra `Bob_Esponja_no_GTA_6_16x9_R2.wfp`. Os vínculos foram conferidos em uma pasta extraída separadamente. O teste de abertura no Filmora está pendente. A prévia externa aproxima a aparência das transições nativas.
+
+## Entregas anteriores
+
 | Versão | Duração | Filmora com mídias | MP4 |
 | --- | --- | --- | --- |
 | 16:9 · 1920 × 1080 | 2min22s | [Projeto horizontal](output/Bob_Esponja_no_GTA_6_Filmora_16x9.zip) | [Vídeo completo](output/Bob_Esponja_no_GTA_6_16x9.mp4) |
