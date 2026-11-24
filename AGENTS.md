@@ -1,5 +1,7 @@
 # Produção de shorts
 
+- **Bob Esponja no GTA 6, versão provisória:** a produção horizontal em `shorts/013-bob-esponja-no-gta-6/` usa a narração inteira e o Dery no quarto chibi vermelho do Massacote Tube. O usuário autorizou aproveitar apenas os primeiros 22 segundos disponíveis do vídeo enviado. Os recortes entram no CRT, na abertura e no comparativo. Dery apresenta as artes e os bastidores em fala no quarto. O MP4 tem 3 minutos em 16:9.
+
 - **Entregas pelo GitHub:** o usuário pediu que imagens, vídeos, prévias e projetos sejam sempre entregues por links do GitHub no repositório `Deriby/Shorts`. Confira os links antes de enviá-los.
 
 - **Quarto chibi do Massacote Tube:** a entrega em `assets/cenarios/quarto_gamer_chibi/` usa o quarto da abertura da série 008. O usuário pediu a paleta vermelha, preta e branca e o letreiro **MASSACOTE TUBE**. A revisão ajusta os materiais e a iluminação do quarto e conserva as posições, formas, câmeras e pose do Dery originais à versão chibi, com as letras do subtítulo editáveis. O Blender incorpora as 50 expressões, quatro câmeras, texturas do banco 3D e a tela CRT pronta para trocar a mídia. Há prévias em 16:9 e 9:16 e um comparativo com a versão lilás.
