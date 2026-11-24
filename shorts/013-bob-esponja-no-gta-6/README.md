@@ -2,6 +2,8 @@
 
 ## Revisão 2 do Filmora 16:9
 
+[Baixar o pacote com abertura pelo caminho local no Windows](output/Bob_Esponja_no_GTA_6_Filmora_16x9_R2_Religar.zip). Extraia o ZIP inteiro e execute `Abrir_no_Filmora.cmd`. O atalho gera o WFP `Bob_Esponja_no_GTA_6_16x9_R2_Local.wfp` com os caminhos absolutos da pasta extraída. O usuário relatou o aviso no controle **Transformar → Escala** no pacote original. A geração do projeto com os 41 vínculos foi verificada a partir do ZIP, mantendo cortes, keyframes, transições e mixagem. O teste do painel no Filmora está pendente.
+
 - [Projeto revisado com mídias](output/Bob_Esponja_no_GTA_6_Filmora_16x9_R2.zip)
 - [Prévia da edição em 1080p](output/Bob_Esponja_no_GTA_6_16x9_R2_Previa.mp4)
 
