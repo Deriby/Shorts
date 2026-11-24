@@ -1,5 +1,14 @@
 # Bob Esponja no GTA 6 · Massacote Tube
 
+## Teste híbrido em 16:9
+
+- [Projeto Filmora completo com as mídias](output/Bob_Esponja_no_GTA_6_Filmora_16x9_Teste_Hibrido.zip)
+- [Prévia dos dois cortes](output/Bob_Esponja_no_GTA_6_Teste_Hibrido_16x9_Previa.mp4)
+
+O teste foi inserido no episódio de 2min22s. Em **0:51**, Dery entra pela direita, vira para o comparativo e aponta para a imagem. Em **1:16**, entra pela esquerda e acompanha as trocas de pose e de ângulo nos rascunhos. A entrada e a saída usam passadas curtas e o recorte usa a mesma luz do Dery sentado. A atuação fica em dois clipes compostos com transparência na faixa **Dery em pé · recortes 3D**.
+
+Extraia o ZIP e execute `Abrir_no_Filmora.cmd` para gerar o WFP com os caminhos da pasta no Windows. A estrutura dos compostos, o recorte e a geração dos vínculos foram verificados. O teste dentro do Filmora está pendente.
+
 ## Revisão 2 do Filmora 16:9
 
 [Baixar o pacote com abertura pelo caminho local no Windows](output/Bob_Esponja_no_GTA_6_Filmora_16x9_R2_Religar.zip). Extraia o ZIP inteiro e execute `Abrir_no_Filmora.cmd`. O atalho gera o WFP `Bob_Esponja_no_GTA_6_16x9_R2_Local.wfp` com os caminhos absolutos da pasta extraída. O usuário relatou o aviso no controle **Transformar → Escala** no pacote original. A geração do projeto com os 41 vínculos foi verificada a partir do ZIP, mantendo cortes, keyframes, transições e mixagem. O teste do painel no Filmora está pendente.
