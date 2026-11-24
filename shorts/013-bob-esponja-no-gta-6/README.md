@@ -1,5 +1,14 @@
 # Bob Esponja no GTA 6 · Massacote Tube
 
+## Short · Dery Vivo
+
+- [Vídeo vertical em MP4](output/Bob_Esponja_no_GTA_6_Dery_Vivo_9x16.mp4)
+- [Projeto Filmora 9:16 com as mídias](output/Bob_Esponja_no_GTA_6_Filmora_9x16_Dery_Vivo.zip)
+
+A edição de **58,42 s** em **1080 × 1920** parte do WFP que o usuário editou. O corte passa pela revelação do Bob, a postagem da Paramount, a pose do Dery nas nuvens, as duas artes e a pergunta final. O quarto tem câmera vertical, e as janelas de arte e memes entram e saem com movimento.
+
+O WFP tem 11 tomadas contínuas. A voz, a música, as nuvens, o Dery em pé e as janelas ficam em faixas separadas. Os efeitos nativos do WFP foram adaptados ao corte. O MP4 foi renderizado fora do Filmora, com uma aproximação visual desses efeitos. Extraia o ZIP inteiro e execute `Abrir_no_Filmora.cmd` no Windows. Os vínculos e as mídias foram conferidos com o ZIP extraído. A abertura no Filmora segue pendente.
+
 ## Montagem aprovada · Dery Vivo
 
 O usuário aprovou esta montagem como referência para a atuação do Dery e a edição do Massacote Tube. O episódio aprovado está no commit `a6ae61fff38612714482d5f185e5fc079384be46`.
