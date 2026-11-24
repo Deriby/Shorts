@@ -1,5 +1,7 @@
 # Produção de shorts
 
+- **Projetos Filmora de Bob Esponja no GTA 6:** a entrega em `shorts/013-bob-esponja-no-gta-6/output/` contém dois ZIPs com WFP e mídias. O horizontal tem 2min22s com a voz correta inteira. O short tem 55,71s em 9:16, locução em nove clipes, câmeras verticais, artes editáveis e MP4. Os WFPs usam PCM16 com controles nativos de volume e ducking e foram verificados estruturalmente. A abertura no Filmora segue pendente.
+
 - **Bob Esponja no GTA 6, versão revisada:** a produção em `shorts/013-bob-esponja-no-gta-6/` usa os 141,48225 s do WAV correto enviado separadamente e os recortes do vídeo recuperado no ZIP de 64.264.898 bytes. O Dery no quarto chibi acompanha a nova fala, com o post da Paramount, duas artes, comparativo com o GTA, bastidores e o ponto de ônibus. O MP4 de 2min22s substitui a entrega provisória de 3 minutos.
 
 - **Entregas pelo GitHub:** o usuário pediu que imagens, vídeos, prévias e projetos sejam sempre entregues por links do GitHub no repositório `Deriby/Shorts`. Confira os links antes de enviá-los.
