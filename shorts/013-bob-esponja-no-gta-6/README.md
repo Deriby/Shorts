@@ -1,11 +1,20 @@
 # Bob Esponja no GTA 6 · Massacote Tube
 
-## Dery no PC e nas nuvens
+## Direção combinada
+
+- **Identidade.** Usar o Dery chibi 3D de camiseta vermelha com M, boné preto e visual low poly de N64/PS1. Alternar o Dery sentado ao lado do PC, no quarto vermelho, preto e branco do Massacote Tube, com cenas em pé sobre as nuvens animadas.
+- **Atuação em pé.** Ele muda de postura enquanto conversa. As expressões, as reações e até o olhar acompanham a frase. No “olha a pose certinha”, ele olha para a arte, imita a pose por um instante e volta sorrindo para a câmera. Usar O Novo Garfield 2D como referência para amarrar pose, direção do olhar e montagem à fala.
+- **Atuação no PC.** A mesma direção vale sentado. Ele pode se inclinar para o monitor, apontar, reagir ao que viu e voltar o olhar para quem assiste. A fala orienta o gesto, a expressão, a pausa e o retorno em cada cena.
+- **Montagem.** Definir o que o Dery está fazendo e onde o público deve olhar antes de animar. Sustentar a tomada para a atuação ter tempo de aparecer. Cortar quando mudar o foco, o assunto ou o enquadramento. Planejar a entrada e a saída dos elementos com movimento ligado à ação, como um painel entrando do lado que o Dery indica e desacelerando antes de parar. Retirar os fades de entrada e saída da montagem.
+- **Filmora.** Renderizar a atuação de cada tomada como clipe contínuo, com transparência nos recortes em pé. Consolidar as centenas de quadros em clipes para aliviar a timeline. Deixar as mídias, o fundo e a voz editáveis em faixas úteis. Conferir a integridade dos vínculos, a reprodução das mídias e a edição dos controles no Filmora quando houver acesso ao aplicativo.
+- **Base e entrega.** Usar a edição mais recente do usuário para Bob Esponja no GTA 6 em 16:9, com seus cortes, efeitos, narração e MP3. Entregar o WFP com as mídias e as prévias pelo GitHub.
+
+## Teste anterior do Dery no PC e nas nuvens
 
 - [Projeto Filmora 16:9 completo com as mídias](output/Bob_Esponja_no_GTA_6_Filmora_16x9_Dery_e_Nuvens.zip)
 - [Prévia da alternância entre o PC e as nuvens](output/Bob_Esponja_no_GTA_6_Dery_e_Nuvens_Previa.mp4)
 
-Na edição de **2min22s**, sete cenas alternam o quarto com o Dery em pé falando para a câmera. O céu animado e os recortes 3D ficam em faixas editáveis próprias. As cenas começam em 0:13,17, 0:46,08, 1:06,33, 1:29,67, 1:47,75, 2:00,21 e 2:14,50. O enquadramento retoma os planos de fala do Garfield. O céu anima a textura retrô do banco da série 002. A edição usa o WFP mais recente do usuário com o MP3 enviado.
+Na edição de **2min22s**, sete cenas alternam o quarto com o Dery em pé falando para a câmera. O céu animado e os recortes 3D ficam em faixas editáveis próprias. As cenas começam em 0:13,17, 0:46,08, 1:06,33, 1:29,67, 1:47,75, 2:00,21 e 2:14,50. O usuário pediu refazer a atuação e o ritmo com base no Garfield. O céu anima a textura retrô do banco da série 002. A edição usa o WFP mais recente do usuário com o MP3 enviado.
 
 Extraia o ZIP inteiro e execute `Abrir_no_Filmora.cmd` para gerar os vínculos locais. A estrutura, a prévia e o atalho foram conferidos. A abertura no Filmora está pendente.
 
