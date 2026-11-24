@@ -2,8 +2,15 @@
 
 [Baixar o MP4 em 16:9](output/Bob_Esponja_no_GTA_6_16x9.mp4)
 
-Versão provisória de 3 minutos, em 1920 × 1080 a 24 fps, com o Dery chibi no quarto vermelho, preto e branco do Massacote Tube. A animação acompanha a gravação original em português, com gestos, expressões e cortes de câmera sincronizados à fala. O ajuste para 3 minutos cortou 0,245 s de silêncio final.
+A versão revisada tem 2min22s, em 1920 × 1080 a 24 fps. A edição usa integralmente o WAV correto enviado separadamente e as imagens recuperadas do ZIP corrigido. A fala conduz as trocas de câmera, as expressões e os gestos do Dery no quarto chibi. A voz recebeu 3 dB de ganho e o plano final tem cerca de meio segundo de respiro.
 
-A montagem usa as imagens recuperadas dos primeiros 22 segundos do vídeo enviado no ZIP. Os recortes aparecem na abertura, na tela do computador durante a menção ao GTA e no comparativo em 2:08. O Dery apresenta no quarto os trechos sobre as artes da Paramount e os bastidores.
+| Tempo | Cena |
+| --- | --- |
+| 0:00–0:25 | Dery apresenta o assunto, aproximação do CRT e entrada do Bob Esponja. |
+| 0:25–0:50 | Post da Paramount Games, primeira arte e detalhe do barcomóvel. |
+| 0:50–1:08 | Comparativo com Lucia e Jason, segunda arte e detalhes de Sandy e Lula Molusco. |
+| 1:08–1:42 | Bastidores, testes de pose, versão com óculos escuros e passagem para a cor. |
+| 1:42–2:00 | Comparação dos universos e recorte do ponto de ônibus em forma de abacaxi. |
+| 2:00–2:22 | As duas artes lado a lado para a pergunta ao público e despedida no quarto. |
 
 [Vídeo de referência da pauta](https://www.youtube.com/watch?v=GAKKQ_YD0rs)

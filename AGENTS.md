@@ -1,6 +1,6 @@
 # Produção de shorts
 
-- **Bob Esponja no GTA 6, versão provisória:** a produção horizontal em `shorts/013-bob-esponja-no-gta-6/` usa a narração inteira e o Dery no quarto chibi vermelho do Massacote Tube. O usuário autorizou aproveitar apenas os primeiros 22 segundos disponíveis do vídeo enviado. Os recortes entram no CRT, na abertura e no comparativo. Dery apresenta as artes e os bastidores em fala no quarto. O MP4 tem 3 minutos em 16:9.
+- **Bob Esponja no GTA 6, versão revisada:** a produção em `shorts/013-bob-esponja-no-gta-6/` usa os 141,48225 s do WAV correto enviado separadamente e os recortes do vídeo recuperado no ZIP de 64.264.898 bytes. O Dery no quarto chibi acompanha a nova fala, com o post da Paramount, duas artes, comparativo com o GTA, bastidores e o ponto de ônibus. O MP4 de 2min22s substitui a entrega provisória de 3 minutos.
 
 - **Entregas pelo GitHub:** o usuário pediu que imagens, vídeos, prévias e projetos sejam sempre entregues por links do GitHub no repositório `Deriby/Shorts`. Confira os links antes de enviá-los.
 
