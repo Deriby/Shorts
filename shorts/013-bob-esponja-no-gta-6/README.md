@@ -1,6 +1,8 @@
 # Bob Esponja no GTA 6 · Massacote Tube
 
-## Nova montagem · Dery Vivo
+## Montagem aprovada · Dery Vivo
+
+O usuário aprovou esta montagem como referência para a atuação do Dery e a edição do Massacote Tube. O episódio aprovado está no commit `a6ae61fff38612714482d5f185e5fc079384be46`.
 
 - [Projeto Filmora 16:9 com as mídias](output/Bob_Esponja_no_GTA_6_Filmora_16x9_Dery_Vivo.zip)
 - [Vídeo completo em MP4](output/Bob_Esponja_no_GTA_6_Dery_Vivo_16x9.mp4)
