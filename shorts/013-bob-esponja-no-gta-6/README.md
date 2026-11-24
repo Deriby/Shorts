@@ -1,5 +1,14 @@
 # Bob Esponja no GTA 6 · Massacote Tube
 
+## Dery no PC e nas nuvens
+
+- [Projeto Filmora 16:9 completo com as mídias](output/Bob_Esponja_no_GTA_6_Filmora_16x9_Dery_e_Nuvens.zip)
+- [Prévia da alternância entre o PC e as nuvens](output/Bob_Esponja_no_GTA_6_Dery_e_Nuvens_Previa.mp4)
+
+Na edição de **2min22s**, sete cenas alternam o quarto com o Dery em pé falando para a câmera. O céu animado e os recortes 3D ficam em faixas editáveis próprias. As cenas começam em 0:13,17, 0:46,08, 1:06,33, 1:29,67, 1:47,75, 2:00,21 e 2:14,50. O enquadramento retoma os planos de fala do Garfield. O céu anima a textura retrô do banco da série 002. A edição usa o WFP mais recente do usuário com o MP3 enviado.
+
+Extraia o ZIP inteiro e execute `Abrir_no_Filmora.cmd` para gerar os vínculos locais. A estrutura, a prévia e o atalho foram conferidos. A abertura no Filmora está pendente.
+
 ## Teste híbrido em 16:9
 
 [Baixar sua edição com o Dery em pé e as mídias](output/Bob_Esponja_no_GTA_6_Filmora_16x9_Seu_Edit_Dery_Em_Pe.zip). Este pacote usa o WFP mais recente enviado pelo usuário, com o MP3 `up-with-titles-128-ytshorts.savetube.me.mp3` na pasta `midias`. Os cortes, efeitos, keyframes e a mixagem dos 88 clipes originais foram conferidos. Os recortes do Dery em pé estão na faixa própria em **0:51** e **1:16**. O comparativo e os rascunhos foram recompostos para abrir espaço para o Dery. Extraia o ZIP e execute `Abrir_no_Filmora.cmd`. A geração do WFP local foi validada. O teste no aplicativo Filmora está pendente.
