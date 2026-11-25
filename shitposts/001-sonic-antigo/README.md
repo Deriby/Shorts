@@ -9,3 +9,11 @@ Dery reconhece o Sonic no CRT, ironiza o começo do sermão e fica incrédulo de
 O clipe do Sonic vem do ZIP enviado. Durante a revelação, o recorte da TV deixa a legenda original fora de quadro para preservar o timing. O close final usa a iluminação lateral da foto de referência. O áudio e a imagem cortam no começo do xingamento.
 
 A reprodução do MP4 e o corte final foram conferidos.
+
+## Projeto Filmora
+
+[Baixar o WFP com as mídias](output/Dery_Reassistindo_Sonic_SHITPOST_Filmora_9x16.zip)
+
+O projeto mantém o corte de **17,21 s** em **9:16**. As tomadas renderizadas são clipes individuais, a legenda POV fica em PNG transparente e a voz do Dery, as falas do Sonic e a batida do corte ficam em faixas WAV PCM16 separadas.
+
+Extraia o ZIP inteiro no Windows e execute `Abrir_no_Filmora.cmd`. O atalho e os vínculos das 13 mídias foram conferidos após extrair o pacote. A abertura no aplicativo Filmora segue pendente.
