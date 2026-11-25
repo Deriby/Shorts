@@ -1,3 +1,11 @@
+# Formatos do Massacote Tube
+
+- **SHORTS.** Usar o padrão de produção e edição já estabelecido para shorts.
+- **VÍDEOS LONGOS (16:9).** Usar o padrão de produção e edição já estabelecido para vídeos longos.
+- **SHITPOST.** Criar memes de 5 a 10 segundos com o Dery em situações engraçadas, absurdas e descontraídas ligadas a jogos, desenhos animados e cultura geek. Usar uma edição simples com uma ação do Dery, uma legenda de meme e música ou efeito sonoro. Dar preferência à animação em loop. Narração, roteiro elaborado e edição complexa são dispensáveis.
+
+Cada formato tem regras, configurações e padrões de edição próprios. Aplicar as instruções do formato solicitado. Modelos, animações, cenários e demais assets podem ser reutilizados entre os três formatos. Preservar integralmente os padrões já estabelecidos dos SHORTS e dos VÍDEOS LONGOS ao produzir SHITPOST.
+
 # Produção de shorts
 
 - **Dery Vivo aprovado pelo usuário como referência do Massacote Tube.** O usuário aprovou a montagem refeita de Bob Esponja no GTA 6 do commit `a6ae61fff38612714482d5f185e5fc079384be46`. Usar essa versão como referência para atuação, ritmo e montagem leve no Filmora. A entrega Dery Vivo em `shorts/013-bob-esponja-no-gta-6/output/` tem MP4 16:9 de 2min22s e WFP com 24 tomadas contínuas. Atuação por frase em sete tomadas no PC e quatro nas nuvens, com mídia entrando por movimento e a narração, o MP3, memes e efeitos nativos do WFP do usuário. O WFP principal tem 44 clipes e quatro MOVs ProRes com alfa. A variante de compatibilidade tem 40 clipes e usa MP4 H.264 nas nuvens. Os vínculos e a reprodução dos arquivos foram verificados. Teste no Filmora pendente.
