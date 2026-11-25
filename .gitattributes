@@ -93,3 +93,4 @@ shorts/012-o-novo-garfield/output/Filmora/midias/*.png filter=lfs diff=lfs merge
 assets/personagens/massacote_tube_2d/poses_cinco_dedos/output/Massacote_2D_5_Dedos_Rev2.zip filter=lfs diff=lfs merge=lfs -text
 
 shorts/013-bob-esponja-no-gta-6/output/Bob_Esponja_no_GTA_6_Filmora_*.zip filter=lfs diff=lfs merge=lfs -text
+shorts/014-gta-6-desenho-animado/output/GTA_6_tem_um_Desenho_Inteiro_Filmora_*.zip filter=lfs diff=lfs merge=lfs -text
