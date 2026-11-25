@@ -2,7 +2,7 @@
 
 - **SHORTS.** Usar o padrão de produção e edição já estabelecido para shorts.
 - **VÍDEOS LONGOS (16:9).** Usar o padrão de produção e edição já estabelecido para vídeos longos.
-- **SHITPOST.** Criar memes de 5 a 10 segundos com o Dery em situações engraçadas, absurdas e descontraídas ligadas a jogos, desenhos animados e cultura geek. Usar uma edição simples com uma ação do Dery, uma legenda de meme e música ou efeito sonoro. Dar preferência à animação em loop. Narração, roteiro elaborado e edição complexa são dispensáveis.
+- **SHITPOST.** Criar memes curtos com o Dery em situações engraçadas, absurdas e descontraídas ligadas a jogos, desenhos animados e cultura geek. Definir a duração de cada vídeo de acordo com o meme e o ritmo da animação. A faixa de 5 a 10 segundos serve como referência. Usar uma edição simples com uma ação do Dery, uma legenda de meme e música ou efeito sonoro. Dar preferência à animação em loop. Narração, roteiro elaborado e edição complexa são dispensáveis.
 
 Cada formato tem regras, configurações e padrões de edição próprios. Aplicar as instruções do formato solicitado. Modelos, animações, cenários e demais assets podem ser reutilizados entre os três formatos. Preservar integralmente os padrões já estabelecidos dos SHORTS e dos VÍDEOS LONGOS ao produzir SHITPOST.
 
