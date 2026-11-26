@@ -27,3 +27,16 @@ A revisão usa os mesmos 17 s, a 24 fps, e a mesma voz-guia do comparativo acima
 [Baixar o Filmora B2 nos dois formatos com as mídias](output/Dery_Vivo_Volume_B2_Filmora.zip)
 
 O pacote tem dois WFPs de 14 clipes cada. Os movimentos estão renderizados em duas tomadas contínuas e em camadas transparentes para os memes, as janelas e os acentos. Voz-guia, trilha e efeitos ficam em faixas WAV PCM16. Extraia o ZIP e abra o atalho `Abrir_no_Filmora.cmd` na pasta do formato escolhido. Os vínculos locais e as mídias foram conferidos depois de extrair o ZIP. A abertura no aplicativo Filmora segue pendente.
+
+## B3 · Câmeras do PC e reação do Dery
+
+Teste de 17 s com a mesma voz-guia sintética. A sequência corta entre o quarto, a tela do CRT e o rosto do Dery. O volume muda no monitor, o resultado dispara a reação e o Dery tenta conferir o botão de novo. Nas nuvens, ele muda de postura no “nem comecei”, empurra a janela de **FIM** e acompanha o **Novo Jogo** escapando.
+
+| Formato | Prévia B3 |
+| --- | --- |
+| 16:9 · 1920 × 1080 | [MP4 B3](output/Dery_Vivo_Volume_B3_16x9.mp4) |
+| 9:16 · 1080 × 1920 | [MP4 B3](output/Dery_Vivo_Volume_B3_9x16.mp4) |
+
+[Baixar os dois WFPs e as mídias do teste B3](output/Dery_Vivo_Volume_B3_Filmora.zip)
+
+Os projetos têm 16 clipes cada, com tomadas contínuas, camadas transparentes e três faixas WAV PCM16. Os movimentos estão renderizados nas respectivas camadas. Extraia o ZIP inteiro e execute `Abrir_no_Filmora.cmd` na pasta do formato desejado. As mídias e os vínculos locais foram conferidos. A abertura no Filmora está pendente.
