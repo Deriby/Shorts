@@ -22,3 +22,12 @@ O acabamento PSX usa cores reduzidas e dithering discreto no quarto e no persona
 ## Filmora
 
 O ZIP reúne 68 tomadas contínuas, 21 camadas de janela e três faixas WAV. A atuação e a projeção no monitor estão renderizadas nas tomadas, e as janelas ficam em clipes ProRes com transparência. Extraia o ZIP inteiro e execute `Abrir_no_Filmora.cmd` no Windows. Os vínculos locais foram verificados depois de extrair o pacote. A abertura no Filmora está pendente.
+
+## Short em 9:16
+
+O corte de 56,75 s usa a locução tratada do longo em oito trechos. Abre com a pergunta sobre as irmãs, acompanha o preconceito vivido por Lilith e termina após a reação da Cinderela à cena do bueiro, com uma pergunta ao público.
+
+- [MP4 vertical em 1080 × 1920](output/Tipo_Irmas_Dery_Vivo_Short_9x16.mp4)
+- [WFP vertical com todas as mídias](output/Tipo_Irmas_Short_Filmora_9x16.zip)
+
+O short foi composto com câmeras verticais. As janelas ocupam a parte superior das cenas nas nuvens e deixam espaço abaixo do rosto para legendagem manual. O projeto tem 14 tomadas, seis janelas com alfa e três faixas WAV PCM16. Os vínculos locais e a reprodução das mídias foram verificados após extrair o ZIP. A abertura no Filmora está pendente.
