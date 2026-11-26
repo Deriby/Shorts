@@ -40,3 +40,16 @@ Teste de 17 s com a mesma voz-guia sintética. A sequência corta entre o quarto
 [Baixar os dois WFPs e as mídias do teste B3](output/Dery_Vivo_Volume_B3_Filmora.zip)
 
 Os projetos têm 16 clipes cada, com tomadas contínuas, camadas transparentes e três faixas WAV PCM16. Os movimentos estão renderizados nas respectivas camadas. Extraia o ZIP inteiro e execute `Abrir_no_Filmora.cmd` na pasta do formato desejado. As mídias e os vínculos locais foram conferidos. A abertura no Filmora está pendente.
+
+## B3 nítida
+
+A direção da B3 foi aprovada com um ajuste de nitidez. A revisão usa a mesma animação de 12 poses por segundo, a timeline de 24 fps e o áudio original da B3. O Dery e o quarto foram renderizados em alta resolução, com os menus redesenhados em tamanho maior e a composição feita diretamente em Full HD.
+
+| Formato | Prévia |
+| --- | --- |
+| 16:9 · 1920 × 1080 | [MP4 B3 nítida](output/Dery_Vivo_Volume_B3_Nitido_16x9.mp4) |
+| 9:16 · 1080 × 1920 | [MP4 B3 nítida](output/Dery_Vivo_Volume_B3_Nitido_9x16.mp4) |
+
+[Baixar os dois WFPs e as mídias em Full HD](output/Dery_Vivo_Volume_B3_Nitido_Filmora.zip)
+
+Cada projeto tem 16 clipes. Os vínculos locais foram conferidos após extrair o ZIP. A abertura no Filmora está pendente.
