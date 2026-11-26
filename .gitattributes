@@ -98,3 +98,4 @@ shorts/015-ialvin-e-os-esquilos/output/IAL_vin_e_os_Esquilos_Filmora_16x9.zip fi
 shorts/015-ialvin-e-os-esquilos/output/IAL_vin_e_os_Esquilos_Filmora_9x16.zip filter=lfs diff=lfs merge=lfs -text
 shitposts/001-sonic-antigo/output/Dery_Reassistindo_Sonic_SHITPOST_Filmora_9x16.zip filter=lfs diff=lfs merge=lfs -text
 testes/dery-vivo-volume/output/Dery_Vivo_Volume_Proposta_B_Filmora.zip filter=lfs diff=lfs merge=lfs -text
+testes/dery-vivo-volume/output/Dery_Vivo_Volume_B2_Filmora.zip filter=lfs diff=lfs merge=lfs -text
