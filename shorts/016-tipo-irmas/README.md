@@ -50,3 +50,16 @@ O longo de 10min05s usa o arquivo FUNDO CÉU.mp4 enviado pelo usuário como fund
 Os clipes foram reconstruídos a partir da estrutura de efeitos do projeto editado pelo usuário, com corte e zoom, transformação e controles de áudio. A voz tratada e a trilha estão em faixas WAV. Os sons das transições são clipes individuais. Extraia o ZIP e execute `Abrir_no_Filmora.cmd` no Windows. O primeiro deslocamento para conferir escala, posição e keyframes começa perto de 00:13.
 
 A reprodução das mídias, os keyframes gravados e os vínculos depois da extração foram conferidos. A abertura e o comportamento dos controles no aplicativo Filmora estão pendentes.
+
+## Short · Versão do longo aprovado
+
+O resumão da análise tem 58,96 s, em 1080 × 1920 a 24 fps. Usa nove trechos da voz tratada, do gancho sobre racismo à pergunta final. A versão traz o céu rosa do longo aprovado, as passagens de nuvens na entrada do bloco sobre magia e na entrada do veredito positivo, e o zoom de ênfase adaptado para a vertical. Os recortes do filme voltam para a atuação do Dery antes de esgotar os quadros de origem. A escala da mídia dentro do CRT fica fixa.
+
+- [Baixar o MP4 vertical](output/Tipo_Irmas_Short_9x16_Ceu_Rosa.mp4)
+- [Baixar o projeto Filmora e as mídias](output/Tipo_Irmas_Short_Filmora_9x16_Ceu_Rosa.zip)
+
+O WFP tem faixas para o céu, o Dery nas nuvens, os vídeos, as molduras e as passagens. Os deslocamentos e zooms usam keyframes do Filmora. A voz, as trilhas e os sons das passagens são clipes WAV PCM16 a 48 kHz com controles de áudio próprios. Extraia o ZIP e execute `Abrir_no_Filmora.cmd` no Windows para gerar o WFP com os vínculos locais.
+
+As trilhas seguem as trocas do corte aprovado com versões de catálogo de Halloween, Lazy Afternoons, Fun, Title de Ragnarok Online e Welcome to Bullworth. A abertura usa a cama de jogo da primeira edição do longo porque o MP3 de Shenmue ficou como referência externa no WFP. A batida do close foi marcada no corte e na música. [Bully](https://downloads.khinsider.com/game-soundtracks/album/bully-original-soundtrack) · [Kingdom Hearts II](https://downloads.khinsider.com/game-soundtracks/album/kingdom-hearts-ii-original-soundtrack-2006) · [Ragnarok Online](https://downloads.khinsider.com/game-soundtracks/album/ragnarok-online-windows-gamerip-2002)
+
+Foram verificados o MP4, os arquivos extraídos, os vínculos e a estrutura dos controles nativos. A abertura no Filmora está pendente.
