@@ -31,3 +31,12 @@ O corte de 56,75 s usa a locução tratada do longo em oito trechos. Abre com a 
 - [WFP vertical com todas as mídias](output/Tipo_Irmas_Short_Filmora_9x16.zip)
 
 O short foi composto com câmeras verticais. As janelas ocupam a parte superior das cenas nas nuvens e deixam espaço abaixo do rosto para legendagem manual. O projeto tem 14 tomadas, seis janelas com alfa e três faixas WAV PCM16. Os vínculos locais e a reprodução das mídias foram verificados após extrair o ZIP. A abertura no Filmora está pendente.
+
+## Short · Resumo da análise
+
+O corte de 58,96 s em 9:16 usa nove trechos da voz tratada do longo. Abre com a surpresa sobre o racismo na história da Cinderela, passa pela magia como representação do privilégio e pela entrevista de Alice Wu, inclui a piada do príncipe com os emojis e fecha com a proposta sobre Margô, o veredito e a pergunta ao público.
+
+- [MP4 vertical em 1080 × 1920](output/Tipo_Irmas_Resumo_Da_Analise_9x16.mp4)
+- [Projeto Filmora 9:16 com mídias](output/Tipo_Irmas_Resumo_Filmora_9x16.zip)
+
+As tomadas verticais alternam o quarto, o monitor e o Dery nas nuvens. A escala da mídia no CRT é fixa. As janelas entram com transparência na parte superior e o Dery mantém área livre abaixo do rosto para a legenda manual. Voz, trilha e efeitos estão em faixas WAV PCM16. A reprodução das mídias e os vínculos do ZIP foram verificados. A abertura no aplicativo Filmora está pendente.

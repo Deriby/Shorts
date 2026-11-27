@@ -103,3 +103,4 @@ testes/dery-vivo-volume/output/Dery_Vivo_Volume_B3_Filmora.zip filter=lfs diff=l
 testes/dery-vivo-volume/output/Dery_Vivo_Volume_B3_Nitido_Filmora.zip filter=lfs diff=lfs merge=lfs -text
 shorts/016-tipo-irmas/output/Tipo_Irmas_Filmora_16x9.zip filter=lfs diff=lfs merge=lfs -text
 shorts/016-tipo-irmas/output/Tipo_Irmas_Short_Filmora_9x16.zip filter=lfs diff=lfs merge=lfs -text
+shorts/016-tipo-irmas/output/Tipo_Irmas_Resumo_Filmora_9x16.zip filter=lfs diff=lfs merge=lfs -text
