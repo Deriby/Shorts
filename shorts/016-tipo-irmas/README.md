@@ -40,3 +40,13 @@ O corte de 58,96 s em 9:16 usa nove trechos da voz tratada do longo. Abre com a 
 - [Projeto Filmora 9:16 com mídias](output/Tipo_Irmas_Resumo_Filmora_9x16.zip)
 
 As tomadas verticais alternam o quarto, o monitor e o Dery nas nuvens. A escala da mídia no CRT é fixa. As janelas entram com transparência na parte superior e o Dery mantém área livre abaixo do rosto para a legenda manual. Voz, trilha e efeitos estão em faixas WAV PCM16. A reprodução das mídias e os vínculos do ZIP foram verificados. A abertura no aplicativo Filmora está pendente.
+
+## Longo 16:9 · Revisão editável
+
+[Baixar o projeto revisado e as mídias do Filmora](output/Tipo_Irmas_Filmora_16x9_Revisao_Editavel.zip)
+
+O longo de 10min05s usa o arquivo FUNDO CÉU.mp4 enviado pelo usuário como fundo das cenas nas nuvens. O céu, a atuação do Dery, as mídias das janelas, as molduras e as passagens low poly ficam em faixas próprias. O deslocamento do Dery entre o centro e a lateral e os movimentos das janelas usam keyframes de posição e escala no Filmora. As voltas para o Dery foram reposicionadas antes dos quadros repetidos dos recortes.
+
+Os clipes foram reconstruídos a partir da estrutura de efeitos do projeto editado pelo usuário, com corte e zoom, transformação e controles de áudio. A voz tratada e a trilha estão em faixas WAV. Os sons das transições são clipes individuais. Extraia o ZIP e execute `Abrir_no_Filmora.cmd` no Windows. O primeiro deslocamento para conferir escala, posição e keyframes começa perto de 00:13.
+
+A reprodução das mídias, os keyframes gravados e os vínculos depois da extração foram conferidos. A abertura e o comportamento dos controles no aplicativo Filmora estão pendentes.
