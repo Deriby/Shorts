@@ -63,3 +63,12 @@ O WFP tem faixas para o céu, o Dery nas nuvens, os vídeos, as molduras e as pa
 As trilhas seguem as trocas do corte aprovado com versões de catálogo de Halloween, Lazy Afternoons, Fun, Title de Ragnarok Online e Welcome to Bullworth. A abertura usa a cama de jogo da primeira edição do longo porque o MP3 de Shenmue ficou como referência externa no WFP. A batida do close foi marcada no corte e na música. [Bully](https://downloads.khinsider.com/game-soundtracks/album/bully-original-soundtrack) · [Kingdom Hearts II](https://downloads.khinsider.com/game-soundtracks/album/kingdom-hearts-ii-original-soundtrack-2006) · [Ragnarok Online](https://downloads.khinsider.com/game-soundtracks/album/ragnarok-online-windows-gamerip-2002)
 
 Foram verificados o MP4, os arquivos extraídos, os vínculos e a estrutura dos controles nativos. A abertura no Filmora está pendente.
+
+## Short · Resumo da história do filme
+
+O corte vertical tem 1min48,71s em 1080 × 1920 a 24 fps. Usa a narração original para apresentar Lilith e Margô, mostrar o bueiro, a descoberta da fada, o roubo da varinha e a transformação. O final acompanha o resgate de Margô e a escolha de Cinderela quando volta à infância. A cena do bueiro reaparece para marcar a volta ao mesmo ponto da história.
+
+- [Baixar o MP4 vertical](output/Tipo_Irmas_Historia_do_Filme_9x16.mp4)
+- [Baixar o projeto Filmora e as mídias](output/Tipo_Irmas_Historia_do_Filme_Filmora_9x16.zip)
+
+Os recortes são enquadrados em janelas nas nuvens ou no CRT. A locução, a trilha, os sons das passagens, o céu e as janelas têm faixas próprias. Extraia o ZIP e execute `Abrir_no_Filmora.cmd` no Windows. A narração, as mídias e os vínculos foram conferidos. A abertura no Filmora está pendente.
