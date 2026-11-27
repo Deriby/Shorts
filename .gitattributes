@@ -108,3 +108,4 @@ shorts/016-tipo-irmas/output/Tipo_Irmas_Filmora_16x9_Revisao_Editavel.zip filter
 
 shorts/016-tipo-irmas/output/Tipo_Irmas_Short_Filmora_9x16_Ceu_Rosa.zip filter=lfs diff=lfs merge=lfs -text
 shorts/016-tipo-irmas/output/Tipo_Irmas_Historia_do_Filme_Filmora_9x16.zip filter=lfs diff=lfs merge=lfs -text
+shorts/016-tipo-irmas/output/Tipo_Irmas_O_Comeco_e_o_Racismo_Filmora_9x16.zip filter=lfs diff=lfs merge=lfs -text

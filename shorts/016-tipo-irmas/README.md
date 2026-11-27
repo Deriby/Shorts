@@ -72,3 +72,12 @@ O corte vertical tem 1min48,71s em 1080 × 1920 a 24 fps. Usa a narração origi
 - [Baixar o projeto Filmora e as mídias](output/Tipo_Irmas_Historia_do_Filme_Filmora_9x16.zip)
 
 Os recortes são enquadrados em janelas nas nuvens ou no CRT. A locução, a trilha, os sons das passagens, o céu e as janelas têm faixas próprias. Extraia o ZIP e execute `Abrir_no_Filmora.cmd` no Windows. A narração, as mídias e os vínculos foram conferidos. A abertura no Filmora está pendente.
+
+## Short · O começo e o racismo
+
+O corte de 1min47,96s em 9:16 usa a narração original para apresentar Lilith e Margô, contar a história da mulher-serpente e mostrar como as outras crianças tratam as duas. O relato da diretora Alice Wu liga a experiência da sua família ao preconceito mostrado no filme. A última fala volta ao apelido “irmãs feias”.
+
+- [Baixar o MP4 vertical](output/Tipo_Irmas_O_Comeco_e_o_Racismo_9x16.mp4)
+- [Baixar o projeto Filmora e as mídias](output/Tipo_Irmas_O_Comeco_e_o_Racismo_Filmora_9x16.zip)
+
+O projeto tem faixas próprias para a voz, as trilhas, o céu rosa, o Dery, as janelas e as passagens de nuvens. Extraia o ZIP e execute `Abrir_no_Filmora.cmd` no Windows. O MP4, os arquivos de mídia e seus vínculos foram conferidos. A abertura no aplicativo Filmora está pendente.
